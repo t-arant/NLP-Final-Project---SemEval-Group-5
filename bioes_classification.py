@@ -168,8 +168,8 @@ class TransformerBIOESTagger(nn.Module):
         return total_loss / len(dataloader)
 
 
-# since I am using scikit-learn balanced accuracy, I need to do all model inferences sequentially, no batches );
-def model_inference_bal_acc(model, dataloader):
+# since I am using scikit-learn balanced accuracy, I need to do all model inferences sequentially, no batches 
+def model_inference_bal_acc(model, dataloader, device):
     model.eval()
     accuracies = []
 
@@ -182,8 +182,6 @@ def model_inference_bal_acc(model, dataloader):
             logits = model(input_ids, attention_mask)
 
         preds = logits.argmax(dim=-1)  
-        # print(preds.shape)
-        # print(labels.shape)
 
         for index in range(preds.shape[0]):
             acc = balanced_accuracy_ignore_pads(labels[index], preds[index], -100)
@@ -202,73 +200,74 @@ def balanced_accuracy_ignore_pads(y_true, y_pred, ignore_label=None):
         y_true_np = y_true_np[mask]
         y_pred_np = y_pred_np[mask]
 
-    # print("\n")
-    # print("Unique true labels in batch (ignoring pads):", np.unique(y_true_np))
-    # print("Unique predictions in batch (after masking):", np.unique(y_pred_np))
 
     if len(y_true_np) == 0:
         return 0  # edge case: all padding
     return balanced_accuracy_score(y_true_np, y_pred_np)
 
 # Main driver program -----------------------------------------------------------
-# Load JSON to Pandas DF
-data_set = load_local_json_to_df(DATASET)
+def main():
+    # Load JSON to Pandas DF
+    data_set = load_local_json_to_df(DATASET)
 
 
-all_labels = [label for seq in data_set["BIOES"] for label in seq]  # flatten list of lists
+    all_labels = [label for seq in data_set["BIOES"] for label in seq]  # flatten list of lists
 
-classes = np.unique(all_labels)
-weights = compute_class_weight('balanced', classes=classes, y=all_labels)
-class_weights = torch.tensor(weights, dtype=torch.float)
+    classes = np.unique(all_labels)
 
-# print(class_weights)
-train_df, dev_df = train_test_split(data_set, test_size=0.15, random_state=17)
+    # Weighted classes for loss function. Unused 
 
-display(Markdown(f"### train_df"))
-display(train_df.head())
+    # weights = compute_class_weight('balanced', classes=classes, y=all_labels)
+    # class_weights = torch.tensor(weights, dtype=torch.float)
 
-display(Markdown(f"### dev_df"))
-display(dev_df.head())
+    # print(class_weights)
+    train_df, dev_df = train_test_split(data_set, test_size=0.15, random_state=17)
 
-# print(type(train_df["BIOES"].iloc[0][0]))
-# Tokenize Dataset 
+    display(Markdown(f"### train_df"))
+    display(train_df.head())
 
-tokenizer = AutoTokenizer.from_pretrained("distilbert-base-multilingual-cased")
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    display(Markdown(f"### dev_df"))
+    display(dev_df.head())
 
-train_dataset = BIOESDataset(train_df, tokenizer)
-train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)
+    # Tokenize Dataset 
 
-dev_dataset = BIOESDataset(dev_df, tokenizer)
-dev_loader = DataLoader(dev_dataset, batch_size=64, shuffle=True)
+    tokenizer = AutoTokenizer.from_pretrained("distilbert-base-multilingual-cased")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# for i in range(15):
-#     print(train_dataset[i])
+    train_dataset = BIOESDataset(train_df, tokenizer)
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)
 
-lr = 1e-5 #learning rate
-epochs = 8
-
-model = TransformerBIOESTagger().to(device)
-lr = locals().get("lr", 1e-5)
-epochs = locals().get("epochs", 5)
-
-optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
-loss_fn = nn.CrossEntropyLoss(ignore_index=-100)
-
-for epoch in range(epochs):
-    train_loss = model.train_epoch(train_loader, optimizer, loss_fn, device)
-    val_loss = model.eval_epoch(dev_loader, loss_fn, device)
-    print(f"model:{model_name} Epoch:{epoch+1}: train={train_loss:.4f}, val={val_loss:.4f}")
+    dev_dataset = BIOESDataset(dev_df, tokenizer)
+    dev_loader = DataLoader(dev_dataset, batch_size=64, shuffle=True)
 
 
-model.eval()
+    lr = 1e-5 #learning rate
+    epochs = 8
 
-# using balanced accuracy to evaluate sequence tagging 
+    model = TransformerBIOESTagger().to(device)
+    lr = locals().get("lr", 1e-5)
+    epochs = locals().get("epochs", 5)
 
-train_loader_whole = DataLoader(train_dataset, batch_size= 500)
-dev_loader_whole = DataLoader(dev_dataset, batch_size =500)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
+    loss_fn = nn.CrossEntropyLoss(ignore_index=-100)
 
-print("Train Bal acc:\n")
-print(model_inference_bal_acc(model, train_loader_whole))
-print("Val bal acc:")
-print(model_inference_bal_acc(model, dev_loader_whole))
+    for epoch in range(epochs):
+        train_loss = model.train_epoch(train_loader, optimizer, loss_fn, device)
+        val_loss = model.eval_epoch(dev_loader, loss_fn, device)
+        print(f"model:{model_name} Epoch:{epoch+1}: train={train_loss:.4f}, val={val_loss:.4f}")
+
+
+    model.eval()
+
+    # using balanced accuracy to evaluate sequence tagging 
+
+    train_loader_whole = DataLoader(train_dataset, batch_size= 500)
+    dev_loader_whole = DataLoader(dev_dataset, batch_size =500)
+
+    print("Train Bal acc:\n")
+    print(model_inference_bal_acc(model, train_loader_whole, device))
+    print("Val bal acc:")
+    print(model_inference_bal_acc(model, dev_loader_whole, device))
+
+if __name__ == "__main__":
+    main()

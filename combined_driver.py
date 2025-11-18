@@ -82,9 +82,9 @@ def main():
     dev_loader_whole = DataLoader(dev_dataset, batch_size=500)
 
     print("Train Bal acc:\n")
-    print(model_inference_combined(model, train_loader_whole))
+    print(model_inference_combined(model, train_loader_whole, device))
     print("Val bal acc:")
-    print(model_inference_combined(model, dev_loader_whole))
+    print(model_inference_combined(model, dev_loader_whole, device))
     
 if __name__ == "__main__":
     main()

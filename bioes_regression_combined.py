@@ -3,6 +3,8 @@ from torch.utils.data import Dataset
 from transformers import AutoModel
 from tqdm import tqdm
 
+import torch
+
 from bioes_classification import balanced_accuracy_ignore_pads, LABEL_TO_NUM, NUM_LABELS
 
 class CombinedDataset(Dataset):
@@ -125,7 +127,7 @@ def eval_combined_epoch(model, dataloader, bioes_loss_fn, va_loss_fn, device):
     return total_loss / len(dataloader)
 
 # instead of model_inference_bal_acc
-def model_inference_combined(model, dataloader):
+def model_inference_combined(model, dataloader, device):
     model.eval()
     bioes_accuracies = []
     va_errors = []
