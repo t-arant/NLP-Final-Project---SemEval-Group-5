@@ -14,6 +14,8 @@ from transformers import AutoTokenizer
 from IPython.display import display, Markdown
 
 import sys 
+import datetime
+import hashlib
 
 from subtask1_model import (
     RegressorModel, 
@@ -88,11 +90,28 @@ def main():
         epochs_reg = 5
         
         # sets index of output loss graph data
-        # TODO: fix and automate 
-        trial = -100
+        #trial = -100 (OLD)
+
+        #trial = -100 (OLD)
+        # Generates unique trial ID
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        hyperparams_str = f"lr_{lr}_epochs_{r_epochs}_hd_{hidden_dims}_act_{activation}"
+        trial_id = hashlib.md5(hyperparams_str.encode()).hexdigest()[:8]
+        trial = f"{timestamp}_{trial_id}"
+
+        # NEW
+        hidden_dims = [384]  # Equivalent to original [CLS_SIZE, CLS_SIZE//2, 2]
+        # hidden_dims = [384, 192]  # 3-layer network
+        # hidden_dims = [512, 256, 128]  # 4-layer network
+        activation = 'none'  # Options are in subtask1_model.py
         
         # Send model to device and define learning rate, epochs, optimizer function, and loss funct. 
-        model = RegressorModel().to(device)
+        # Implementing with new architecture
+        model = RegressorModel(
+            hidden_dims=hidden_dims,
+            activation=activation
+        ).to(device)
+
         lr = locals().get("lr", 1e-5)
         r_epochs = locals().get("epochs_reg", 5)
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
@@ -103,7 +122,9 @@ def main():
         
         # model.freeze_backbone()
 
-        print("\n\nTraining Regressor\n\n")
+        
+
+        print(f"\n\nTraining Regressor with architecture: hidden_dims={hidden_dims}, activation={activation}\n\n")
         train_losses = []
 
         for epoch in range(r_epochs):
@@ -133,17 +154,51 @@ def main():
         loss_df = pd.DataFrame(train_losses, columns=['Epoch', 'Train Loss', 'Validation Loss'])
         loss_df.to_csv(f"loss_graphs/subtask1_{trial}.csv", index=False)
 
+        # Only save if this is the best model
+        if final_val_loss < best_overall_val_loss:
+            best_overall_val_loss = final_val_loss
+            torch.save({
+                'model_state_dict': model.state_dict(),
+                'hidden_dims': hidden_dims,
+                'activation': activation,
+                'val_loss': final_val_loss,
+                'train_loss': final_train_loss,
+                'epoch': epoch
+            }, f"best_model_val_{final_val_loss:.4f}.pth")
+            print(f"Saved new best model with val_loss: {final_val_loss:.4f}")
+
+        # torch.save({
+        #    'model_state_dict': model.state_dict(),
+        #    'hidden_dims': hidden_dims,
+        #    'activation': activation,
+        #    'final_train_loss': final_train_loss,
+        #    'final_val_loss': final_val_loss
+        #}, "english_laptop_final.pth")
+
         # added this in to save state dictionary of final model, so we can load this and not train a new model for final eval
-        # TODO: only save model if training final model arch. 
-        torch.save(model.state_dict(), "english_laptop_final.pth")
+        # torch.save(model.state_dict(), "english_laptop_final.pth")
 
     # Runs if model is in test mode
     # Returns a JSONL of VA predictions from text
     elif train == 0: 
         # load state dictionary and sent to GPU
-        model = RegressorModel()
-        model.load_state_dict(torch.load("english_laptop_final.pth"))
+        #model = RegressorModel()
+        #model.load_state_dict(torch.load("english_laptop_final.pth"))
+        #model = model.to(device)
+
+        # Load saved model with architecture parameters
+        checkpoint = torch.load("english_laptop_final.pth")
+        
+        # Recreate model with the same architecture used during training
+        model = RegressorModel(
+            hidden_dims=checkpoint['hidden_dims'],
+            activation=checkpoint['activation']
+        )
+        model.load_state_dict(checkpoint['model_state_dict'])
         model = model.to(device)
+
+        print(f"Loaded model with architecture: hidden_dims={checkpoint['hidden_dims']}, activation={checkpoint['activation']}")
+        print(f"Training loss: {checkpoint['final_train_loss']:.4f}, Validation loss: {checkpoint['final_val_loss']:.4f}")
 
         # Tokenize test datasets, and load into DataLoader
         test_dataset = VADataset(test_df, tokenizer)
