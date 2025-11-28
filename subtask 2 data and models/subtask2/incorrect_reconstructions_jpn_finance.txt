@@ -1,0 +1,2442 @@
+DF Index	 Dataset Index	Recon Asp	Recon Opn	|	 ASP	OPN
+0 - hotel_quad_train_1:	スタッフ	親 切	|	スタッフ	親切
+1 - hotel_quad_train_2:	品 数	少 なく	|	品数	少なく
+2 - hotel_quad_train_2:	朝 食	ちょっぴり 残 念	|	朝食	ちょっぴり残念
+3 - hotel_quad_train_3:	おかず	増 えた	|	おかず	増えた
+4 - hotel_quad_train_4:	風 呂	落 ち 着 いて	|	風呂	落ち着いて
+5 - hotel_quad_train_5:	姿 勢	感 心	|	姿勢	感心
+6 - hotel_quad_train_6:	朝 食	NULL	|	朝食	おいしかった
+7 - hotel_quad_train_7:	部 屋	狭 かった	|	部屋	狭かった
+8 - hotel_quad_train_8:	接 客	丁 寧	|	接客	丁寧
+9 - hotel_quad_train_9:	NULL	丁 寧	|	ドリップ	丁寧
+10 - hotel_quad_train_9:	NULL	最 高	|	コーヒー	最高
+11 - hotel_quad_train_9:	デザート	最 高	|	デザート	最高
+12 - hotel_quad_train_10:	宿	本 当 に 本 当 に 素 敵 すぎる	|	宿	本当に本当に素敵すぎる
+13 - hotel_quad_train_10:	部 屋	子 供 に 優 しい	|	部屋	子供に優しい
+14 - hotel_quad_train_11:	ウェルカムバー	嬉 しかった	|	ウェルカムバー	嬉しかった
+15 - hotel_quad_train_12:	飲 み 物	NULL	|	飲み物	ありがたい
+16 - hotel_quad_train_13:	電 話	少 し 嫌 な 感 じ	|	電話	少し嫌な感じ
+17 - hotel_quad_train_14:	NULL	快 適	|	NULL	快適
+18 - hotel_quad_train_15:	景 色	きれい	|	景色	きれい
+19 - hotel_quad_train_16:	部 屋	とても 使 いやすかった	|	部屋	とても使いやすかった
+20 - hotel_quad_train_17:	立 地	便 利	|	立地	便利
+21 - hotel_quad_train_18:	サービス	満 足	|	サービス	満足
+22 - hotel_quad_train_18:	館	古 い	|	館	古い
+23 - hotel_quad_train_19:	飲 食 店	多 く	|	飲食店	多く
+24 - hotel_quad_train_20:	NULL	大 変 満 足	|	NULL	大変満足
+25 - hotel_quad_train_21:	立 地	素 晴 らしく	|	立地	素晴らしく
+26 - hotel_quad_train_22:	ロケーション	最 高	|	ロケーション	最高
+27 - hotel_quad_train_23:	鮎	NULL	|	鮎	あまり美味しいと感じませんでした
+28 - hotel_quad_train_24:	風 呂	NULL	|	風呂	よかった
+29 - hotel_quad_train_25:	NULL	NULL	|	ヨーグルト	とってもおいしかった
+30 - hotel_quad_train_25:	ジャージー 牛 乳	NULL	|	ジャージー牛乳	とってもおいしかった
+31 - hotel_quad_train_26:	NULL	NULL	|	ホテル	とても綺麗
+32 - hotel_quad_train_27:	朝 食	美 味 しい	|	朝食	美味しい
+33 - hotel_quad_train_27:	部 屋	綺 麗	|	部屋	綺麗
+34 - hotel_quad_train_27:	施 設	少 し 古	|	施設	少し古い
+35 - hotel_quad_train_28:	部 屋	丁 度 よい 広 さ	|	部屋	丁度よい広さ
+36 - hotel_quad_train_29:	駅	少 し 離 れて	|	駅	少し離れて
+37 - hotel_quad_train_29:	風 呂	良 かった	|	風呂	良かった
+38 - hotel_quad_train_30:	露 天 風 呂	最 高	|	露天風呂	最高
+39 - hotel_quad_train_30:	景 色	最 高	|	景色	最高
+40 - hotel_quad_train_31:	NULL	NULL	|	チェックイン	スムーズ
+41 - hotel_quad_train_31:	郷 土 料 理	堪 能	|	郷土料理	堪能
+42 - hotel_quad_train_31:	旅 行	NULL	|	旅行	すごく楽しい
+43 - hotel_quad_train_32:	料 金	大 変 満 足	|	料金	大変満足
+44 - hotel_quad_train_33:	NULL	寝 られません	|	NULL	寝られません
+45 - hotel_quad_train_34:	NULL	新 しく	|	ホテル	新しく
+46 - hotel_quad_train_35:	対 応	良 かった	|	対応	良かった
+47 - hotel_quad_train_35:	食 事	満 足	|	食事	満足
+48 - hotel_quad_train_36:	受 付	凄 く 感 じ 良 かった	|	受付	凄く感じ良かった
+49 - hotel_quad_train_37:	宿 泊	NULL	|	宿泊	ゆっくり
+50 - hotel_quad_train_38:	対 応	素 晴 らしい	|	対応	素晴らしい
+51 - hotel_quad_train_39:	対 応	最 高	|	対応	最高
+52 - hotel_quad_train_39:	設 備	大 変 よく	|	設備	大変よく
+53 - hotel_quad_train_40:	大 浴 場	群 を 抜 いている	|	大浴場	群を抜いている
+54 - hotel_quad_train_41:	朝 食	NULL	|	朝食	まあまあ
+55 - hotel_quad_train_41:	ウェルカムドリンク	美 味 しく	|	ウェルカムドリンク	美味しく
+56 - hotel_quad_train_42:	加 湿 器	有 りがたかった	|	加湿器	有りがたかった
+57 - hotel_quad_train_43:	風 呂	NULL	|	風呂	とても便利
+58 - hotel_quad_train_44:	対 応	良 かった	|	対応	良かった
+59 - hotel_quad_train_45:	風 呂	NULL	|	風呂	よかった
+60 - hotel_quad_train_46:	NULL	優 しく	|	みなさん	優しく
+61 - hotel_quad_train_46:	過 度 な 接 客	NULL	|	過度な接客	なく
+62 - hotel_quad_train_47:	朝 ごはん	NULL	|	朝ごはん	ゆっくり
+63 - hotel_quad_train_48:	部 屋	大 正 ロマンあふれる	|	部屋	大正ロマンあふれる
+64 - hotel_quad_train_48:	NULL	NULL	|	ラウンジ	よく
+65 - hotel_quad_train_49:	食 事	NULL	|	食事	おいしい
+66 - hotel_quad_train_50:	アルコール	美 味 しく	|	アルコール	美味しく
+67 - hotel_quad_train_50:	料 理	美 味 しく	|	料理	美味しく
+68 - hotel_quad_train_50:	立 ち 振 る 舞 い	派	|	立ち振る舞い	立派
+69 - hotel_quad_train_50:	朝 食	NULL	|	朝食	とても素晴らしく
+70 - hotel_quad_train_50:	言 葉 使 い	立 派	|	言葉使い	立派
+71 - hotel_quad_train_50:	スタッフ	NULL	|	スタッフ	とても素敵
+72 - hotel_quad_train_51:	スタッフ	大 変 ありがたかった	|	スタッフ	大変ありがたかった
+73 - hotel_quad_train_52:	温 泉	最 高	|	温泉	最高
+74 - hotel_quad_train_52:	料 理	美 味 しく	|	料理	美味しく
+75 - hotel_quad_train_53:	気 遣 い	大 変 有 り 難 かった	|	気遣い	大変有り難かった
+76 - hotel_quad_train_54:	設 備	NULL	|	設備	とても良かった
+77 - hotel_quad_train_54:	NULL	NULL	|	サービス	とても良かった
+78 - hotel_quad_train_55:	温 泉	癒 してくれました	|	温泉	癒してくれました
+79 - hotel_quad_train_55:	岩 盤 浴	癒 してくれました	|	岩盤浴	癒してくれました
+80 - hotel_quad_train_56:	イカ 黒 作	美 味 しかった	|	イカ黒作り	美味しかった
+81 - hotel_quad_train_56:	イカ 刺 し	美 味 しかった	|	イカ刺し	美味しかった
+82 - hotel_quad_train_56:	米	美 味 しかった	|	米	美味しかった
+83 - hotel_quad_train_57:	入 浴 剤	尚 良 い	|	入浴剤	尚良い
+84 - hotel_quad_train_58:	ドーミーイン	快 適	|	ドーミーイン	快適
+85 - hotel_quad_train_59:	朝 食 バイキング	満 足	|	朝食バイキング	満足
+86 - hotel_quad_train_59:	大 浴 場	満 足	|	大浴場	満足
+87 - hotel_quad_train_60:	NULL	便 利	|	NULL	便利
+88 - hotel_quad_train_61:	立 地	大 変 良 かった	|	立地	大変良かった
+89 - hotel_quad_train_62:	コスパ	い	|	コスパ	いいな
+90 - hotel_quad_train_62:	サウナ	NULL	|	サウナ	とてもよく
+91 - hotel_quad_train_63:	朝 のビュッフェのパン	美 味 しかった	|	朝のビュッフェのパン	美味しかった
+92 - hotel_quad_train_64:	大 浴 場	ボイント 高 い	|	大浴場	ボイント高い
+93 - hotel_quad_train_64:	フリードリンク	ボイント 高 い	|	フリードリンク	ボイント高い
+94 - hotel_quad_train_64:	サウナ	ボイント 高 い	|	サウナ	ボイント高い
+95 - hotel_quad_train_65:	NULL	大 変 助 かりました	|	アメニティ	大変助かりました
+96 - hotel_quad_train_66:	設 備	NULL	|	設備	やや古い
+97 - hotel_quad_train_66:	NULL	快 適	|	ベッド	快適
+98 - hotel_quad_train_66:	NULL	満 足	|	ホテル	満足
+99 - hotel_quad_train_66:	部 屋 の 広 さ	快 適	|	部屋の広さ	快適
+100 - hotel_quad_train_67:	NULL	便 利	|	NULL	便利
+101 - hotel_quad_train_67:	NULL	良 く	|	アクセス	良く
+102 - hotel_quad_train_68:	NULL	便 利	|	ホテル	便利
+103 - hotel_quad_train_69:	部 屋	臭 いも 無 く	|	部屋	臭いも無く
+104 - hotel_quad_train_69:	浴 室	清 潔 感 があり	|	浴室	清潔感があり
+105 - hotel_quad_train_70:	部 屋	綺 麗	|	部屋	綺麗
+106 - hotel_quad_train_71:	ホテル	便 利	|	ホテル	便利
+107 - hotel_quad_train_72:	NULL	落 ち 着 かなかった	|	2段ベッド	落ち着かなかった
+108 - hotel_quad_train_73:	食 事	豪 華	|	食事	豪華
+109 - hotel_quad_train_74:	部 屋	清 潔 さ	|	部屋	清潔さ
+110 - hotel_quad_train_75:	部 屋	狭 かった	|	部屋	狭かった
+111 - hotel_quad_train_76:	食 べるところ	NULL	|	食べるところ	たくさん
+112 - hotel_quad_train_77:	部 屋	NULL	|	部屋	とても広くて
+113 - hotel_quad_train_77:	お 風 呂	NULL	|	お風呂	とても良かった
+114 - hotel_quad_train_78:	朝 食	満 足	|	朝食	満足
+115 - hotel_quad_train_78:	ウエルカムドリンク	満 足	|	ウエルカムドリンク	満足
+116 - hotel_quad_train_79:	部 屋	静 か	|	部屋	静か
+117 - hotel_quad_train_79:	朝 食	美 味 しく	|	朝食	美味しく
+118 - hotel_quad_train_80:	部 屋	素 敵	|	部屋	素敵
+119 - hotel_quad_train_81:	立 地 条 件	最 高	|	立地条件	最高
+120 - hotel_quad_train_82:	朝 食	大 変 満 足	|	朝食	大変満足
+121 - hotel_quad_train_82:	温 泉	魅 力	|	温泉	魅力
+122 - hotel_quad_train_83:	駅	近 く	|	駅	近く
+123 - hotel_quad_train_84:	部 屋	安 心	|	部屋	安心
+124 - hotel_quad_train_85:	皆 さん	とても	|	皆さん	とても親切
+125 - hotel_quad_train_85:	NULL	とても 快 適	|	NULL	とても快適
+126 - hotel_quad_train_86:	朝 ごはん	美 味 しい	|	朝ごはん	美味しい
+127 - hotel_quad_train_87:	大 浴 場	リラックス	|	大浴場	リラックス
+128 - hotel_quad_train_88:	エアコン	とにかく 寒 かった	|	エアコン	とにかく寒かった
+129 - hotel_quad_train_89:	地 図	NULL	|	地図	わかりにくく
+130 - hotel_quad_train_90:	気 分	悪 かった	|	気分	悪かった
+131 - hotel_quad_train_90:	フロントスタッフ	愛 想 が 無 くて	|	フロントスタッフ	愛想が無くて
+132 - hotel_quad_train_91:	立 地	最 高	|	立地	最高
+133 - hotel_quad_train_92:	アメニティ	とても 良 かった	|	アメニティ	とても良かった
+134 - hotel_quad_train_93:	ご 飯	満 足	|	ご飯	満足
+135 - hotel_quad_train_93:	部 屋	満 足	|	部屋	満足
+136 - hotel_quad_train_94:	NULL	綺 麗	|	ホテル	綺麗
+137 - hotel_quad_train_94:	部 屋	綺 麗	|	部屋	綺麗
+138 - hotel_quad_train_95:	ベッド	大 きくて	|	ベッド	大きくて
+139 - hotel_quad_train_95:	お 部 屋	満 足	|	お部屋	満足
+140 - hotel_quad_train_96:	サービス	NULL	|	サービス	とてもよく
+141 - hotel_quad_train_96:	NULL	NULL	|	NULL	すごくすごしやすかった
+142 - hotel_quad_train_97:	大 浴 場	きな	|	大浴場	大きな
+143 - hotel_quad_train_98:	感 じ	良 かった	|	感じ	良かった
+144 - hotel_quad_train_99:	食 事	NULL	|	食事	おいしかった
+145 - hotel_quad_train_100:	駐 車 場	狭 い	|	駐車場	狭い
+146 - hotel_quad_train_100:	フロント	気 持 ちいい	|	フロント	気持ちいい
+147 - hotel_quad_train_100:	駐 車 場 の 数	少 ない	|	駐車場の数	少ない
+148 - hotel_quad_train_101:	卵 かけご 飯	絶 品	|	卵かけご飯	絶品
+149 - hotel_quad_train_101:	薬 味	沢 山	|	薬味	沢山
+150 - hotel_quad_train_101:	朝 食	大 変 美 味 しく	|	朝食	大変美味しく
+151 - hotel_quad_train_102:	NULL	美 味 しかった	|	ミックスオムライス	美味しかった
+152 - hotel_quad_train_103:	立 地	便 利	|	立地	便利
+153 - hotel_quad_train_104:	トイレ	冷 たく	|	トイレ	冷たく
+154 - hotel_quad_train_105:	ラウンジ	寛 ぐことができた	|	ラウンジ	寛ぐことができた
+155 - hotel_quad_train_105:	ベッド	大 きい	|	ベッド	大きい
+156 - hotel_quad_train_105:	部 屋	NULL	|	部屋	そんなに広くはない
+157 - hotel_quad_train_106:	朝 食	非 常 に 美 味 しく	|	朝食	非常に美味しく
+158 - hotel_quad_train_107:	NULL	NULL	|	トイレ	とてもきれい
+159 - hotel_quad_train_107:	NULL	快 適	|	NULL	快適
+160 - hotel_quad_train_107:	風 呂	NULL	|	風呂	とてもきれい
+161 - hotel_quad_train_107:	ベッド	広 さ	|	ベッド	広さ
+162 - hotel_quad_train_108:	NULL	多	|	バス	多い
+163 - hotel_quad_train_108:	TDL	遠 い	|	TDL	遠い
+164 - hotel_quad_train_109:	疲 れ	取 れて 良 かった	|	疲れ	取れて良かった
+165 - hotel_quad_train_110:	お 風 呂 場	広 かった	|	お風呂場	広かった
+166 - hotel_quad_train_111:	料 理	満 足	|	料理	満足
+167 - hotel_quad_train_112:	利 便 性	高	|	利便性	高い
+168 - hotel_quad_train_113:	部 屋	NULL	|	部屋	キレイ
+169 - hotel_quad_train_114:	駅	近 い	|	駅	近い
+170 - hotel_quad_train_115:	朝 食	美 味 しかった	|	朝食	美味しかった
+171 - hotel_quad_train_116:	NULL	良 く	|	ランチは内容	良く
+172 - hotel_quad_train_116:	NULL	NULL	|	ランチ	リーズナブル
+173 - hotel_quad_train_117:	NULL	満 点	|	スタッフ	満点
+174 - hotel_quad_train_118:	NULL	清 掃 されてない	|	NULL	清掃されてない
+175 - hotel_quad_train_119:	NULL	丁 寧	|	スタッフの皆様	丁寧
+176 - hotel_quad_train_119:	NULL	問 題 なし	|	お部屋	問題なし
+177 - hotel_quad_train_120:	朝 食 メニュー	飽 きる	|	朝食メニュー	飽きる
+178 - hotel_quad_train_121:	共 用 部	最 高	|	共用部	最高
+179 - hotel_quad_train_122:	NULL	嬉 しかった	|	ビール100円キャンペーン	嬉しかった
+180 - hotel_quad_train_123:	エアコンの 効 き	良 くなかった	|	エアコンの効き	良くなかった
+181 - hotel_quad_train_124:	立 地	NULL	|	立地	サイコー
+182 - hotel_quad_train_125:	NULL	良 かった	|	アメニティ	良かった
+183 - hotel_quad_train_126:	お 部 屋	快 適	|	お部屋	快適
+184 - hotel_quad_train_126:	アメニティ	充 実	|	アメニティ	充実
+185 - hotel_quad_train_127:	対 応	丁 寧	|	対応	丁寧
+186 - hotel_quad_train_128:	NULL	非 日 常 的	|	ステイ	非日常的
+187 - hotel_quad_train_128:	NULL	ハイグレード	|	エントランス	ハイグレード
+188 - hotel_quad_train_129:	NULL	大 満 足	|	NULL	大満足
+189 - hotel_quad_train_130:	風 呂	最 高	|	風呂	最高
+190 - hotel_quad_train_130:	NULL	今 までの 中 で1 番	|	NULL	今までの中で1番
+191 - hotel_quad_train_131:	説 明	最 高	|	説明	最高
+192 - hotel_quad_train_131:	ホスピタリティ	最 高	|	ホスピタリティ	最高
+193 - hotel_quad_train_132:	風 呂	広 く	|	風呂	広く
+194 - hotel_quad_train_133:	立 地	良 かった	|	立地	良かった
+195 - hotel_quad_train_134:	朝 食 会 場	広	|	朝食会場	広い
+196 - hotel_quad_train_135:	金 額	残 念	|	金額	残念
+197 - hotel_quad_train_135:	予 約	難 しく	|	予約	難しく
+198 - hotel_quad_train_136:	風 呂 の 時 間	良	|	風呂の時間	良い
+199 - hotel_quad_train_137:	清 掃 状 態	ちょっぴり 残 念	|	清掃状態	ちょっぴり残念
+200 - hotel_quad_train_138:	景 色	NULL	|	景色	とてもきれいな
+201 - hotel_quad_train_139:	NULL	少 し 物 調 面	|	フロント	少し物調面
+202 - hotel_quad_train_139:	飲 み 物	高 い	|	飲み物	高い
+203 - hotel_quad_train_140:	部 屋	満 足	|	部屋	満足
+204 - hotel_quad_train_140:	食 事	満 足	|	食事	満足
+205 - hotel_quad_train_140:	対 応	NULL	|	対応	すばらしかった
+206 - hotel_quad_train_140:	風 呂	満 足	|	風呂	満足
+207 - hotel_quad_train_141:	温 泉	ゆっくり	|	温泉	ゆっくり
+208 - hotel_quad_train_141:	NULL	美 味 しい	|	ご飯	美味しい
+209 - hotel_quad_train_141:	NULL	思 い 出 深 い	|	NULL	思い出深い
+210 - hotel_quad_train_142:	朝 食	品 薄	|	朝食	品薄
+211 - hotel_quad_train_143:	夕 食	NULL	|	夕食	がっかり
+212 - hotel_quad_train_144:	麺	今 一 つ	|	麺	今一つ
+213 - hotel_quad_train_145:	食 事	とてもおいしく	|	食事	とてもおいしく
+214 - hotel_quad_train_146:	朝 食	美 味 しかった	|	朝食	美味しかった
+215 - hotel_quad_train_147:	部 屋	NULL	|	部屋	ゆっくり
+216 - hotel_quad_train_148:	朝 食	残 念	|	朝食	残念
+217 - hotel_quad_train_149:	刺 身	美 味	|	刺身	美味
+218 - hotel_quad_train_150:	部 屋	NULL	|	部屋	とても過ごしやすかった
+219 - hotel_quad_train_151:	気 遣	NULL	|	気遣い	とても嬉しかった
+220 - hotel_quad_train_151:	料 理	豪 華	|	料理	豪華
+221 - hotel_quad_train_152:	応 対	丁 寧	|	応対	丁寧
+222 - hotel_quad_train_152:	NULL	気 持 ちの 良 い 時 間	|	NULL	気持ちの良い時間
+223 - hotel_quad_train_153:	アイス	残 念	|	アイス	残念
+224 - hotel_quad_train_154:	居 心 地	良 かった	|	居心地	良かった
+225 - hotel_quad_train_154:	接 客	素 晴 らしく	|	接客	素晴らしく
+226 - hotel_quad_train_155:	延 長 コード	良 かった	|	延長コード	良かった
+227 - hotel_quad_train_156:	部 屋	とても	|	部屋	とても綺麗
+228 - hotel_quad_train_156:	NULL	とても 良 い	|	ホテル	とても良い
+229 - hotel_quad_train_157:	風 呂	温 ったまりません	|	風呂	温ったまりません
+230 - hotel_quad_train_158:	ホテル	過 ごしやすかった	|	ホテル	過ごしやすかった
+231 - hotel_quad_train_159:	朝 食	残 念	|	朝食	残念
+232 - hotel_quad_train_159:	NULL	ちょっぴり 残 念	|	サービス	ちょっぴり残念
+233 - hotel_quad_train_160:	温 泉 の 質	高	|	温泉の質	高い
+234 - hotel_quad_train_160:	部 屋	古	|	部屋	古い
+235 - hotel_quad_train_161:	部 屋	良 い	|	部屋	良い
+236 - hotel_quad_train_162:	WiFi	NULL	|	WiFi	ビミョー
+237 - hotel_quad_train_163:	NULL	残 念	|	NULL	残念
+238 - hotel_quad_train_164:	風 呂	疲 れが 取 れました	|	風呂	疲れが取れました
+239 - hotel_quad_train_164:	泉 質	良 く	|	泉質	良く
+240 - hotel_quad_train_165:	無 料 の 肉 まん	美 味 しかった	|	無料の肉まん	美味しかった
+241 - hotel_quad_train_166:	朝 食	美 味 しく	|	朝食	美味しく
+242 - hotel_quad_train_167:	全 般 的	良 く	|	全般的	良く
+243 - hotel_quad_train_168:	温 泉	良 かった	|	温泉	良かった
+244 - hotel_quad_train_168:	食 事	NULL	|	食事	おいしく
+245 - hotel_quad_train_169:	品 揃 え	大 満 足	|	品揃え	大満足
+246 - hotel_quad_train_170:	朝 食	美 味 しかった	|	朝食	美味しかった
+247 - hotel_quad_train_171:	部 屋	綺 麗	|	部屋	綺麗
+248 - hotel_quad_train_171:	駅	NULL	|	駅	すぐ
+249 - hotel_quad_train_172:	接 客	素 晴 らしい	|	接客	素晴らしい
+250 - hotel_quad_train_173:	スタッフ	気 持 ちがよかった	|	スタッフ	気持ちがよかった
+251 - hotel_quad_train_174:	NULL	NULL	|	NULL	ゆっくり
+252 - hotel_quad_train_175:	二 食 付	良 かった	|	二食付き	良かった
+253 - hotel_quad_train_176:	ユニットバス	清 掃 されていない	|	ユニットバス	清掃されていない
+254 - hotel_quad_train_177:	朝 食	NULL	|	朝食	あまり美味しく無かった
+255 - hotel_quad_train_178:	部 屋	狭 くて	|	部屋	狭くて
+256 - hotel_quad_train_179:	湯 温	低 かった	|	湯温	低かった
+257 - hotel_quad_train_180:	部 屋	古	|	部屋	古い
+258 - hotel_quad_train_180:	清 掃	行 き 届 いている	|	清掃	行き届いている
+259 - hotel_quad_train_181:	部 屋	大 満 足	|	部屋	大満足
+260 - hotel_quad_train_182:	駐 車 場	広	|	駐車場	広い
+261 - hotel_quad_train_183:	露 天 風 呂	楽 しめました	|	露天風呂	楽しめました
+262 - hotel_quad_train_184:	朝 食	とてもおいしかった	|	朝食	とてもおいしかった
+263 - hotel_quad_train_185:	立 地	NULL	|	立地	とてもよかった
+264 - hotel_quad_train_185:	食 事	NULL	|	食事	とてもよかった
+265 - hotel_quad_train_185:	接 客	NULL	|	接客	とてもよかった
+266 - hotel_quad_train_186:	温 泉	NULL	|	温泉	ゆっくり
+267 - hotel_quad_train_187:	朝 食	美 味 しい	|	朝食	美味しい
+268 - hotel_quad_train_188:	対 応	素 晴 らしく	|	対応	素晴らしく
+269 - hotel_quad_train_189:	温 泉	NULL	|	温泉	あつすぎた
+270 - hotel_quad_train_189:	大 体	満 足	|	大体	満足
+271 - hotel_quad_train_190:	駅	近 い	|	駅	近い
+272 - hotel_quad_train_190:	NULL	良 い	|	ホテル	良い
+273 - hotel_quad_train_191:	NULL	混 雑	|	ビュッフェ	混雑
+274 - hotel_quad_train_192:	朝 食	NULL	|	朝食	とても美味しかった
+275 - hotel_quad_train_193:	対 応	普 通 によく	|	対応	普通によく
+276 - hotel_quad_train_193:	声 かけ	素 晴 らしかった	|	声かけ	素晴らしかった
+277 - hotel_quad_train_194:	NULL	近 く	|	コンビニ	近く
+278 - hotel_quad_train_194:	駅	近 く	|	駅	近く
+279 - hotel_quad_train_195:	接 客	感 動	|	接客	感動
+280 - hotel_quad_train_195:	NULL	気 持 ちよく	|	NULL	気持ちよく
+281 - hotel_quad_train_195:	スタッフ	素 晴 らしい	|	スタッフ	素晴らしい
+282 - hotel_quad_train_196:	部 屋	快 適	|	部屋	快適
+283 - hotel_quad_train_197:	風 呂	綺 麗	|	風呂	綺麗
+284 - hotel_quad_train_197:	見 回 り	残 念	|	見回り	残念
+285 - hotel_quad_train_198:	食 事	美 味 しかった	|	食事	美味しかった
+286 - hotel_quad_train_199:	部 屋	古 い	|	部屋	古い
+287 - hotel_quad_train_199:	駐 車 場	広 い	|	駐車場	広い
+288 - hotel_quad_train_200:	ジェットバス	残 念	|	ジェットバス	残念
+289 - hotel_quad_train_201:	食 事	十 分	|	食事	十分
+290 - hotel_quad_train_201:	内 容	良 かった	|	内容	良かった
+291 - hotel_quad_train_202:	NULL	残 念	|	テーブル	残念
+292 - hotel_quad_train_203:	部 屋	広 く	|	部屋	広く
+293 - hotel_quad_train_204:	部 屋	広 い	|	部屋	広い
+294 - hotel_quad_train_204:	風 呂	NULL	|	風呂	ちょっと大きめ
+295 - hotel_quad_train_205:	エステ	丁 寧	|	エステ	丁寧
+296 - hotel_quad_train_206:	NULL	大 満 足	|	NULL	大満足
+297 - hotel_quad_train_206:	NULL	大 きくて	|	ベット	大きくて
+298 - hotel_quad_train_206:	風 呂	広 くて	|	風呂	広くて
+299 - hotel_quad_train_206:	部 屋	広 くて	|	部屋	広くて
+300 - hotel_quad_train_207:	NULL	便 利	|	コンビニ	便利
+301 - hotel_quad_train_207:	駅	近 くて	|	駅	近くて
+302 - hotel_quad_train_208:	倉 敷 美 観 地 区	程 近 く	|	倉敷美観地区	程近く
+303 - hotel_quad_train_208:	利 便 性	抜 群	|	利便性	抜群
+304 - hotel_quad_train_209:	火 加 減	少 し 難 しい	|	火加減	少し難しい
+305 - hotel_quad_train_210:	アメニティ	豊 富	|	アメニティ	豊富
+306 - hotel_quad_train_210:	フロン	心 地 よく	|	フロント	心地よく
+307 - hotel_quad_train_211:	スタッフ	とても 親 切	|	スタッフ	とても親切
+308 - hotel_quad_train_212:	ホテル	満 足	|	ホテル	満足
+309 - hotel_quad_train_213:	景 色	NULL	|	景色	よく
+310 - hotel_quad_train_213:	風 呂	満 足	|	風呂	満足
+311 - hotel_quad_train_214:	露 天 風 呂	NULL	|	露天風呂	ざんねん
+312 - hotel_quad_train_215:	サービス	大 変 良 かった	|	サービス	大変良かった
+313 - hotel_quad_train_215:	NULL	大 変 良 かった	|	システム	大変良かった
+314 - hotel_quad_train_215:	部 屋	大 変 良 かった	|	部屋	大変良かった
+315 - hotel_quad_train_215:	NULL	大 変 良 かった	|	お風呂	大変良かった
+316 - hotel_quad_train_216:	入 浴	NULL	|	入浴	ゆっくり
+317 - hotel_quad_train_216:	風 呂 場	癒 されながら	|	風呂場	癒されながら
+318 - hotel_quad_train_217:	NULL	駅 近	|	NULL	駅近
+319 - hotel_quad_train_218:	温 泉	良 かった	|	温泉	良かった
+320 - hotel_quad_train_219:	朝 食	少 なめ	|	朝食	少なめ
+321 - hotel_quad_train_220:	食 事	楽 しく	|	食事	楽しく
+322 - hotel_quad_train_221:	風 呂 時 間	残 念	|	風呂時間	残念
+323 - hotel_quad_train_222:	食 事	美 味 しく	|	食事	美味しく
+324 - hotel_quad_train_223:	部 屋	良 かった	|	部屋	良かった
+325 - hotel_quad_train_223:	NULL	多 少 古 さ	|	ホテル	多少古さ
+326 - hotel_quad_train_224:	大 浴 場	良	|	大浴場	良い
+327 - hotel_quad_train_225:	料 理	残 念	|	料理	残念
+328 - hotel_quad_train_226:	NULL	NULL	|	サービス	とてもいい
+329 - hotel_quad_train_226:	入 浴 剤	い	|	入浴剤	いい香り
+330 - hotel_quad_train_226:	NULL	NULL	|	お風呂	リッチな気分
+331 - hotel_quad_train_227:	対 応	NULL	|	対応	よく
+332 - hotel_quad_train_228:	場 所	少 々 遠	|	場所	少々遠い
+333 - hotel_quad_train_228:	NULL	NULL	|	NULL	リーズナブル
+334 - hotel_quad_train_229:	ベッドサイド	とても 便 利	|	ベッドサイド	とても便利
+335 - hotel_quad_train_229:	NULL	とても 便 利	|	USBポート	とても便利
+336 - hotel_quad_train_230:	サンドイッチ	NULL	|	サンドイッチ	ほんと美味しかった
+337 - hotel_quad_train_230:	野 菜	新 鮮	|	野菜	新鮮
+338 - hotel_quad_train_230:	NULL	NULL	|	スムージー	ほんと美味しかった
+339 - hotel_quad_train_231:	ロッカー	便 利	|	ロッカー	便利
+340 - hotel_quad_train_231:	湯 加 減	NULL	|	湯加減	よく
+341 - hotel_quad_train_232:	駅	近 い	|	駅	近い
+342 - hotel_quad_train_232:	弁 天 町 駅	便 利	|	弁天町駅	便利
+343 - hotel_quad_train_233:	部 屋	申 し 分 ありません	|	部屋	申し分ありません
+344 - hotel_quad_train_234:	部 屋	残 念	|	部屋	残念
+345 - hotel_quad_train_235:	部 屋	安 かった	|	部屋	安かった
+346 - hotel_quad_train_236:	大 浴 場	最 高	|	大浴場	最高
+347 - hotel_quad_train_236:	立 地	NULL	|	立地	よく
+348 - hotel_quad_train_237:	対 応	good	|	対応	good
+349 - hotel_quad_train_238:	JR	大 変 便 利	|	JR	大変便利
+350 - hotel_quad_train_238:	近 鉄	大 変 便 利	|	近鉄	大変便利
+351 - hotel_quad_train_238:	新 幹 線	大 変 便 利	|	新幹線	大変便利
+352 - hotel_quad_train_238:	地 下 鉄	距 離 があります	|	地下鉄	距離があります
+353 - hotel_quad_train_239:	NULL	良 かった	|	NULL	良かった
+354 - hotel_quad_train_240:	部 屋	広 く	|	部屋	広く
+355 - hotel_quad_train_240:	NULL	NULL	|	NULL	とても快適
+356 - hotel_quad_train_241:	部 屋	素 敵	|	部屋	素敵
+357 - hotel_quad_train_242:	品 数	NULL	|	品数	いまいち
+358 - hotel_quad_train_242:	ポイント	魅 力	|	ポイント	魅力
+359 - hotel_quad_train_242:	朝 食	冷 たく	|	朝食	冷たく
+360 - hotel_quad_train_243:	立 地	良	|	立地	良い
+361 - hotel_quad_train_243:	食 事 するところ	良 かった	|	食事するところ	良かった
+362 - hotel_quad_train_244:	朝 食	NULL	|	朝食	おいしく
+363 - hotel_quad_train_244:	種 類	多 く	|	種類	多く
+364 - hotel_quad_train_245:	NULL	満 足	|	サービス	満足
+365 - hotel_quad_train_245:	共 立 リゾート	綺 麗	|	共立リゾート	綺麗
+366 - hotel_quad_train_246:	部 屋	綺 麗	|	部屋	綺麗
+367 - hotel_quad_train_246:	満 足 度	高 かった	|	満足度	高かった
+368 - hotel_quad_train_247:	家 具	オシャレ	|	家具	オシャレ
+369 - hotel_quad_train_248:	空 気 清 浄	良 かった	|	空気清浄	良かった
+370 - hotel_quad_train_248:	加 湿 器	良 かった	|	加湿器	良かった
+371 - hotel_quad_train_249:	古 さ	目 立 ちました	|	古さ	目立ちました
+372 - hotel_quad_train_250:	送 迎	本 当 に 助 かりました	|	送迎	本当に助かりました
+373 - hotel_quad_train_251:	NULL	NULL	|	イオン	すぐ近く
+374 - hotel_quad_train_251:	NULL	便 利	|	NULL	便利
+375 - hotel_quad_train_252:	対 応	好 感	|	対応	好感
+376 - hotel_quad_train_253:	朝 食	美 味 しかった	|	朝食	美味しかった
+377 - hotel_quad_train_254:	NULL	良 かった	|	アクセス	良かった
+378 - hotel_quad_train_255:	風 呂	良 かった	|	風呂	良かった
+379 - hotel_quad_train_256:	部 屋	完 璧	|	部屋	完璧
+380 - hotel_quad_train_257:	NULL	充 実	|	アメニティ	充実
+381 - hotel_quad_train_258:	アクセス	NULL	|	アクセス	いい
+382 - hotel_quad_train_259:	スタッフ	親 切	|	スタッフ	親切
+383 - hotel_quad_train_260:	大 浴 場	狭 くなく	|	大浴場	狭くなく
+384 - hotel_quad_train_261:	フロン	NULL	|	フロント	よかった
+385 - hotel_quad_train_261:	説 明	NULL	|	説明	わかりやすく
+386 - hotel_quad_train_261:	願 いごと	的 確	|	願いごと	的確
+388 - hotel_quad_train_263:	クリーム ・ 乳 液 系	全 くありません	|	クリーム・乳液系	全くありません
+389 - hotel_quad_train_264:	NULL	気 になった	|	ゴミ	気になった
+390 - hotel_quad_train_264:	全 体	清 潔 感	|	全体	清潔感
+391 - hotel_quad_train_264:	NULL	気 になった	|	ホコリ	気になった
+392 - hotel_quad_train_265:	清 潔 感	良 かった	|	清潔感	良かった
+393 - hotel_quad_train_266:	部 屋	大 変 満 足	|	部屋	大変満足
+394 - hotel_quad_train_266:	設 備	良 かった	|	設備	良かった
+395 - hotel_quad_train_266:	NULL	良 い	|	ドライヤー	良い
+396 - hotel_quad_train_267:	湯 量	豊 富	|	湯量	豊富
+397 - hotel_quad_train_267:	風 呂	快 適	|	風呂	快適
+398 - hotel_quad_train_268:	心 配	細	|	心配り	細か
+399 - hotel_quad_train_269:	駅	少 し 歩 く	|	駅	少し歩く
+400 - hotel_quad_train_269:	飲 食 店	近 く	|	飲食店	近く
+401 - hotel_quad_train_270:	設 備	充 分	|	設備	充分
+402 - hotel_quad_train_270:	大 浴 場	NULL	|	大浴場	すごく良かった
+403 - hotel_quad_train_270:	予 約	簡 単	|	予約	簡単
+404 - hotel_quad_train_270:	NULL	完 璧	|	アメニティ	完璧
+405 - hotel_quad_train_271:	品 数	少 なく	|	品数	少なく
+406 - hotel_quad_train_271:	朝 食 会 場	綺 麗	|	朝食会場	綺麗
+407 - hotel_quad_train_272:	味	NULL	|	味	とても美味しかった
+408 - hotel_quad_train_272:	対 応	冷 たかった	|	対応	冷たかった
+409 - hotel_quad_train_273:	NULL	快 適	|	NULL	快適
+410 - hotel_quad_train_273:	利 便 性	良 く	|	利便性	良く
+411 - hotel_quad_train_274:	食 事 が 出 来 る 場 所	多 く	|	食事が出来る場所	多く
+412 - hotel_quad_train_275:	値 段	手 ごろ	|	値段	手ごろ
+413 - hotel_quad_train_276:	立 地	NULL	|	立地	とても助かりました
+414 - hotel_quad_train_276:	駅 直 結	NULL	|	駅直結	とても助かりました
+415 - hotel_quad_train_277:	サービス	最 高 レベル	|	サービス	最高レベル
+416 - hotel_quad_train_278:	寝 心 地	十 分	|	寝心地	十分
+417 - hotel_quad_train_278:	姫 路 駅	近 く	|	姫路駅	近く
+418 - hotel_quad_train_278:	買 い 物	便 利	|	買い物	便利
+419 - hotel_quad_train_279:	施 設	古 い	|	施設	古い
+420 - hotel_quad_train_279:	部 屋	快 適	|	部屋	快適
+421 - hotel_quad_train_279:	設 備	新 しく	|	設備	新しく
+422 - hotel_quad_train_280:	温 泉	気 持 ちよく	|	温泉	気持ちよく
+423 - hotel_quad_train_280:	気 分	上 がりました	|	気分	上がりました
+424 - hotel_quad_train_280:	朝 風 呂	綺 麗	|	朝風呂	綺麗
+425 - hotel_quad_train_281:	NULL	満 足	|	サービス	満足
+426 - hotel_quad_train_281:	共 立 リゾート	NULL	|	共立リゾート	とても綺麗
+427 - hotel_quad_train_282:	貸 し 切 り 風 呂	NULL	|	貸し切り風呂	ゆっくり
+429 - hotel_quad_train_284:	風 呂	気 持 ちよく	|	風呂	気持ちよく
+430 - hotel_quad_train_284:	設 備	新 しく	|	設備	新しく
+431 - hotel_quad_train_284:	食 事	お	|	食事	おいしく
+432 - hotel_quad_train_284:	接 客	感 じよく	|	接客	感じよく
+433 - hotel_quad_train_284:	NULL	快 適	|	NULL	快適
+434 - hotel_quad_train_284:	備 品	新 しく	|	備品	新しく
+435 - hotel_quad_train_285:	ゴミ 箱	結 構 困 りました	|	ゴミ箱	結構困りました
+436 - hotel_quad_train_286:	NULL	接 触 が 悪 かった	|	リモコン	接触が悪かった
+437 - hotel_quad_train_287:	ウェルカムドリンクサービス	楽 しめました	|	ウェルカムドリンクサービス	楽しめました
+438 - hotel_quad_train_288:	駅	少 し 距 離 がある	|	駅	少し距離がある
+439 - hotel_quad_train_289:	風 呂	NULL	|	風呂	とても快適
+440 - hotel_quad_train_289:	建 物	清 潔 感	|	建物	清潔感
+441 - hotel_quad_train_289:	清 掃	しっかり	|	清掃	しっかり
+442 - hotel_quad_train_290:	駅 近	便 利	|	駅近	便利
+443 - hotel_quad_train_290:	サービス	素 晴 らしい	|	サービス	素晴らしい
+444 - hotel_quad_train_291:	立 地	NULL	|	立地	とても良い
+445 - hotel_quad_train_292:	部 屋	NULL	|	部屋	ホコリまみれ
+446 - hotel_quad_train_293:	接 客	NULL	|	接客	とても丁寧
+447 - hotel_quad_train_293:	対 応	NULL	|	対応	スムーズ
+448 - hotel_quad_train_294:	加 湿 器	良 かった	|	加湿器	良かった
+449 - hotel_quad_train_295:	駐 車 場	近 くて	|	駐車場	近くて
+450 - hotel_quad_train_295:	NULL	良 かった	|	NULL	良かった
+451 - hotel_quad_train_296:	NULL	良 い	|	アクセス	良い
+452 - hotel_quad_train_297:	設 備	整 って	|	設備	整って
+453 - hotel_quad_train_297:	宿 泊	充 実	|	宿泊	充実
+454 - hotel_quad_train_298:	NULL	良	|	レイアウト	良い
+455 - hotel_quad_train_299:	接 客	上 手	|	接客	上手
+456 - hotel_quad_train_299:	注 意 点	分 かりやすかった	|	注意点	分かりやすかった
+457 - hotel_quad_train_299:	スタッフ	不 満 点 もない	|	スタッフ	不満点もない
+458 - hotel_quad_train_300:	朝 食 バイキング	大 変 美 味 しく	|	朝食バイキング	大変美味しく
+459 - hotel_quad_train_301:	ベッド	気 持 ちよすぎ	|	ベッド	気持ちよすぎ
+460 - hotel_quad_train_302:	風 呂	広 く	|	風呂	広く
+461 - hotel_quad_train_302:	部 屋	綺 麗	|	部屋	綺麗
+462 - hotel_quad_train_303:	新 幹 線 乗 り 場	近 く	|	新幹線乗り場	近く
+463 - hotel_quad_train_304:	風 呂	良 かった	|	風呂	良かった
+464 - hotel_quad_train_305:	立 地	良	|	立地	良い
+465 - hotel_quad_train_305:	対 応	円 滑 でない	|	対応	円滑でない
+466 - hotel_quad_train_306:	NULL	満 足	|	NULL	満足
+467 - hotel_quad_train_307:	朝 食 ブッフェ	残 念	|	朝食ブッフェ	残念
+468 - hotel_quad_train_308:	部 屋	清 潔	|	部屋	清潔
+469 - hotel_quad_train_309:	会 席 料 理	とても 美 味 しかった	|	会席料理	とても美味しかった
+470 - hotel_quad_train_309:	部 屋	落 ち 着	|	部屋	落ち着き
+471 - hotel_quad_train_309:	NULL	とても 美 味 しかった	|	バイキング	とても美味しかった
+472 - hotel_quad_train_310:	安 心 感	定	|	安心感	安定
+473 - hotel_quad_train_310:	チェックインシステム	新 しく	|	チェックインシステム	新しく
+475 - hotel_quad_train_312:	駅	少 し 歩 きました	|	駅	少し歩きました
+476 - hotel_quad_train_313:	部 屋	眺 望 無	|	部屋	眺望無し
+477 - hotel_quad_train_314:	部 屋	NULL	|	部屋	きれい
+478 - hotel_quad_train_314:	建 物	比 較 的 新 しい	|	建物	比較的新しい
+479 - hotel_quad_train_315:	夕 食	大 満 足	|	夕食	大満足
+480 - hotel_quad_train_316:	雰 囲 気	NULL	|	雰囲気	いい
+481 - hotel_quad_train_317:	清 掃	行 き 届 いている	|	清掃	行き届いている
+482 - hotel_quad_train_317:	NULL	清 潔 感	|	NULL	清潔感
+483 - hotel_quad_train_318:	NULL	少 しマイナス	|	スタッフ	少しマイナス
+484 - hotel_quad_train_319:	対 応	NULL	|	対応	とても安心感
+485 - hotel_quad_train_320:	NULL	パーフェクト	|	ホテル	パーフェクト
+486 - hotel_quad_train_320:	大 阪 城	近 い	|	大阪城	近い
+487 - hotel_quad_train_321:	不 都 合	特 になし	|	不都合	特になし
+488 - hotel_quad_train_322:	朝 食 バイキング	NULL	|	朝食バイキング	アットホーム
+489 - hotel_quad_train_322:	駐 車 場	無 料	|	駐車場	無料
+490 - hotel_quad_train_323:	廊 下	NULL	|	廊下	タバコ臭い
+491 - hotel_quad_train_324:	部 屋	広 く	|	部屋	広く
+492 - hotel_quad_train_324:	浴 槽	大 きく	|	浴槽	大きく
+493 - hotel_quad_train_325:	立 地	ちょうど 良 い	|	立地	ちょうど良い
+494 - hotel_quad_train_326:	NULL	NULL	|	サービス	とても良かった
+495 - hotel_quad_train_327:	新 幹 線 口	近	|	新幹線口	近い
+496 - hotel_quad_train_328:	NULL	大 変 綺 麗	|	NULL	大変綺麗
+497 - hotel_quad_train_328:	広 さ	充 分	|	広さ	充分
+498 - hotel_quad_train_328:	大 浴 場	NULL	|	大浴場	あり
+499 - hotel_quad_train_329:	歯 ブラシ	良 かった	|	歯ブラシ	良かった
+500 - hotel_quad_train_330:	NULL	とてもスムーズ	|	チェックイン	とてもスムーズ
+501 - hotel_quad_train_330:	案 内	とてもスムーズ	|	案内	とてもスムーズ
+502 - hotel_quad_train_331:	温 泉	少 し 黄 色 がかった	|	温泉	少し黄色がかった
+503 - hotel_quad_train_332:	設 備	驚 くほど 綺 麗	|	設備	驚くほど綺麗
+504 - hotel_quad_train_332:	滞 在	とても 気 持 ちよく	|	滞在	とても気持ちよく
+505 - hotel_quad_train_332:	対 応	丁 寧	|	対応	丁寧
+506 - hotel_quad_train_333:	価 格	高 騰 中	|	価格	高騰中
+507 - hotel_quad_train_334:	立 地	最 高	|	立地	最高
+508 - hotel_quad_train_334:	駅 チカ	最 高	|	駅チカ	最高
+509 - hotel_quad_train_334:	対 応	最 高	|	対応	最高
+510 - hotel_quad_train_335:	スタッフ	NULL	|	スタッフ	とても親切
+511 - hotel_quad_train_335:	温 泉	最 高	|	温泉	最高
+512 - hotel_quad_train_336:	味	良 かった	|	味	良かった
+513 - hotel_quad_train_336:	品 揃 え	豊 富	|	品揃え	豊富
+514 - hotel_quad_train_337:	部 屋	ゆったり	|	部屋	ゆったり
+515 - hotel_quad_train_337:	建 物	古	|	建物	古い
+516 - hotel_quad_train_338:	NULL	大 きく	|	ベッド	大きく
+517 - hotel_quad_train_338:	部 屋	NULL	|	部屋	キレイ
+518 - hotel_quad_train_338:	立 地	駅 近	|	立地	駅近
+519 - hotel_quad_train_339:	周 囲	静	|	周囲	静か
+520 - hotel_quad_train_339:	NULL	NULL	|	NULL	ゆったり
+521 - hotel_quad_train_340:	NULL	きれい	|	ホテル	きれい
+522 - hotel_quad_train_340:	駅	近 い	|	駅	近い
+523 - hotel_quad_train_341:	NULL	万 全	|	セキュリティ	万全
+524 - hotel_quad_train_342:	NULL	NULL	|	チェックアウト	とても助かりました
+525 - hotel_quad_train_342:	NULL	NULL	|	シャトル便	800円で利用できる
+526 - hotel_quad_train_342:	駅	NULL	|	駅	とても近く
+527 - hotel_quad_train_343:	移 動	NULL	|	移動	スムーズ
+528 - hotel_quad_train_343:	平 屋 建 て	快 適	|	平屋建て	快適
+529 - hotel_quad_train_344:	景 色	残 念	|	景色	残念
+530 - hotel_quad_train_344:	露 天	楽 しみ	|	露天	楽しみ
+531 - hotel_quad_train_345:	部 屋	NULL	|	部屋	ゆっくり
+532 - hotel_quad_train_346:	大 浴 場	残 念	|	大浴場	残念
+533 - hotel_quad_train_347:	NULL	透 明	|	お湯	透明
+534 - hotel_quad_train_347:	NULL	NULL	|	お湯ので	あまり良くない
+535 - hotel_quad_train_348:	値 段	NULL	|	値段	リーズナブル
+536 - hotel_quad_train_349:	NULL	優 雅	|	ホテルステイ	優雅
+537 - hotel_quad_train_350:	ホスピタリティ	高 く	|	ホスピタリティ	高く
+538 - hotel_quad_train_350:	NULL	とても 気 持 ちよく	|	NULL	とても気持ちよく
+539 - hotel_quad_train_350:	コスパ	高 く	|	コスパ	高く
+540 - hotel_quad_train_351:	対 応	NULL	|	対応	よく
+541 - hotel_quad_train_351:	NULL	気 持 ちよく	|	NULL	気持ちよく
+542 - hotel_quad_train_352:	朝 食	美 味 しかった	|	朝食	美味しかった
+543 - hotel_quad_train_353:	接 客	大 満 足	|	接客	大満足
+544 - hotel_quad_train_354:	中 華 レストラン	美 味 しくて	|	中華レストラン	美味しくて
+545 - hotel_quad_train_355:	部 屋	広 く	|	部屋	広く
+546 - hotel_quad_train_355:	値 段	大 変 リーズナブル	|	値段	大変リーズナブル
+547 - hotel_quad_train_356:	NULL	近 く	|	コンビニ	近く
+548 - hotel_quad_train_357:	立 地	良 かった	|	立地	良かった
+549 - hotel_quad_train_358:	金 額	満 足	|	金額	満足
+550 - hotel_quad_train_359:	部 屋 数	少 ない	|	部屋数	少ない
+551 - hotel_quad_train_359:	風 呂 場	綺 麗	|	風呂場	綺麗
+552 - hotel_quad_train_360:	アメニティ	NULL	|	アメニティ	とても良かった
+553 - hotel_quad_train_360:	部 屋	NULL	|	部屋	とても良かった
+554 - hotel_quad_train_360:	コスパ	NULL	|	コスパ	よく
+555 - hotel_quad_train_360:	お 風 呂	NULL	|	お風呂	とても良かった
+556 - hotel_quad_train_361:	NULL	NULL	|	カレー	おいしかった
+557 - hotel_quad_train_362:	部 屋	綺 麗	|	部屋	綺麗
+558 - hotel_quad_train_362:	NULL	残 念	|	NULL	残念
+559 - hotel_quad_train_362:	立 地	NULL	|	立地	よく
+560 - hotel_quad_train_363:	部 屋	新 しく	|	部屋	新しく
+561 - hotel_quad_train_363:	外 観	年 代 を 感 じます	|	外観	年代を感じます
+562 - hotel_quad_train_364:	NULL	豊 富	|	バリエーション	豊富
+563 - hotel_quad_train_365:	NULL	便 利	|	ロケーション	便利
+564 - hotel_quad_train_366:	部 屋	開 放 感	|	部屋	開放感
+565 - hotel_quad_train_367:	風 呂	NULL	|	風呂	ありがたかった
+566 - hotel_quad_train_368:	NULL	大 変 便 利	|	スーパー	大変便利
+567 - hotel_quad_train_368:	NULL	大 変 便 利	|	コンビニ	大変便利
+568 - hotel_quad_train_369:	夕 食	良 かった	|	夕食	良かった
+569 - hotel_quad_train_370:	NULL	NULL	|	ホテル	いい
+570 - hotel_quad_train_370:	NULL	優 しく	|	ホテルの方々	優しく
+571 - hotel_quad_train_371:	椅 子	本 当 に 丁 度 良	|	椅子	本当に丁度良い
+572 - hotel_quad_train_371:	滞 在	気 持 ち 良 く	|	滞在	気持ち良く
+573 - hotel_quad_train_372:	ホスピタリティ	高 い	|	ホスピタリティ	高い
+574 - hotel_quad_train_373:	NULL	不 満	|	NULL	不満
+575 - hotel_quad_train_374:	NULL	使 い 辛 かった	|	トイレ	使い辛かった
+576 - hotel_quad_train_375:	駅	近	|	駅	近い
+577 - hotel_quad_train_376:	夕 食	NULL	|	夕食	とてもおいしかった
+578 - hotel_quad_train_376:	朝 食	NULL	|	朝食	とてもおいしかった
+579 - hotel_quad_train_377:	部 屋	NULL	|	部屋	ゆっくり
+580 - hotel_quad_train_378:	NULL	便 利	|	エレベータ	便利
+581 - hotel_quad_train_379:	アメニティ	良	|	アメニティ	良い
+582 - hotel_quad_train_379:	設 備	良	|	設備	良い
+583 - hotel_quad_train_379:	NULL	最 適	|	ビジネス利用	最適
+584 - hotel_quad_train_380:	NULL	NULL	|	ソフトクリーム	とても喜んで
+585 - hotel_quad_train_381:	宿	快 適	|	宿	快適
+586 - hotel_quad_train_381:	露 天 風 呂	残 念	|	露天風呂	残念
+587 - hotel_quad_train_382:	滞 在	心 地 よい	|	滞在	心地よい
+588 - hotel_quad_train_382:	町 並 み	風 情 があり	|	町並み	風情があり
+589 - hotel_quad_train_383:	駅	近 く	|	駅	近く
+590 - hotel_quad_train_384:	NULL	とても 楽 しんで	|	NULL	とても楽しんで
+591 - hotel_quad_train_384:	部 屋	広 く	|	部屋	広く
+592 - hotel_quad_train_385:	部 屋	大 変 癒 やされる	|	部屋	大変癒やされる
+593 - hotel_quad_train_385:	料 金 設 定	かなり 安 価	|	料金設定	かなり安価
+594 - hotel_quad_train_386:	部 屋	キレイ	|	部屋	キレイ
+595 - hotel_quad_train_387:	スタッフ	NULL	|	スタッフ	とても良かった
+596 - hotel_quad_train_388:	部 屋	気 持 ちよく	|	部屋	気持ちよく
+597 - hotel_quad_train_389:	食 事	NULL	|	食事	おいしい
+598 - hotel_quad_train_390:	NULL	良 い	|	スタッフ	良い
+599 - hotel_quad_train_391:	接 客	丁 寧	|	接客	丁寧
+600 - hotel_quad_train_392:	交 通 の 便	良	|	交通の便	良い
+601 - hotel_quad_train_393:	挨 拶	明 るい	|	挨拶	明るい
+602 - hotel_quad_train_394:	肌	NULL	|	肌	スベスベ
+603 - hotel_quad_train_395:	値 段	NULL	|	値段	そこまで高くなく
+604 - hotel_quad_train_395:	NULL	目 の 前	|	パーク	目の前
+605 - hotel_quad_train_395:	NULL	十 分 満 足	|	NULL	十分満足
+606 - hotel_quad_train_396:	部 屋	快 適	|	部屋	快適
+607 - hotel_quad_train_396:	駅	少 し 遠	|	駅	少し遠い
+608 - hotel_quad_train_397:	声 がけ	多 く	|	声がけ	多く
+609 - hotel_quad_train_398:	風 呂	面 倒	|	風呂	面倒
+610 - hotel_quad_train_399:	空 調	綺 麗	|	空調	綺麗
+611 - hotel_quad_train_399:	水 廻 り	綺 麗	|	水廻り	綺麗
+612 - hotel_quad_train_399:	NULL	落 ち 着 く	|	ホテル	落ち着く
+613 - hotel_quad_train_400:	扱 い	悪	|	扱い	悪い
+614 - hotel_quad_train_401:	立 地	NULL	|	立地	いい
+615 - hotel_quad_train_402:	朝 食	最 高 に 美 味 しかった	|	朝食	最高に美味しかった
+616 - hotel_quad_train_402:	夕 飯	NULL	|	夕飯	イマイチ
+617 - hotel_quad_train_403:	駅	少 し 離 れている	|	駅	少し離れている
+618 - hotel_quad_train_404:	漬 物	NULL	|	漬物	おいしく
+619 - hotel_quad_train_405:	それ 以 外	最 高	|	それ以外	最高
+620 - hotel_quad_train_406:	立 地	良 く	|	立地	良く
+621 - hotel_quad_train_406:	NULL	最 高	|	NULL	最高
+622 - hotel_quad_train_407:	NULL	嬉 しかった	|	セパレート	嬉しかった
+623 - hotel_quad_train_408:	対 応	素 晴 らしい	|	対応	素晴らしい
+624 - hotel_quad_train_408:	挨 拶	素 晴 らしい	|	挨拶	素晴らしい
+625 - hotel_quad_train_409:	量	絶 妙	|	量	絶妙
+626 - hotel_quad_train_410:	風 呂	面 倒	|	風呂	面倒
+627 - hotel_quad_train_411:	NULL	少 ない	|	メニュー	少ない
+628 - hotel_quad_train_412:	値 段	い	|	値段	いい
+629 - hotel_quad_train_412:	内 容	い	|	内容	いい
+630 - hotel_quad_train_413:	NULL	普 通	|	アクセス	普通
+631 - hotel_quad_train_413:	食 事	不 便	|	食事	不便
+632 - hotel_quad_train_414:	価 格	安 い	|	価格	安い
+633 - hotel_quad_train_415:	教 育	徹 底	|	教育	徹底
+634 - hotel_quad_train_416:	NULL	とても 良 く	|	ホテル	とても良く
+635 - hotel_quad_train_417:	飲 食 店	近 く	|	飲食店	近く
+636 - hotel_quad_train_417:	NULL	良 かった	|	NULL	良かった
+637 - hotel_quad_train_418:	行 き 帰	便 利	|	行き帰り	便利
+638 - hotel_quad_train_419:	部 屋	良 し	|	部屋	良し
+639 - hotel_quad_train_419:	朝 食	良 し	|	朝食	良し
+640 - hotel_quad_train_419:	コスパ	良 し	|	コスパ	良し
+641 - hotel_quad_train_420:	部 屋	綺 麗	|	部屋	綺麗
+642 - hotel_quad_train_420:	温 泉 施 設	NULL	|	温泉施設	とてもゆっくり
+643 - hotel_quad_train_421:	多 機 能 シャワー	良 かった	|	多機能シャワー	良かった
+644 - hotel_quad_train_422:	建 物	古 かった	|	建物	古かった
+645 - hotel_quad_train_422:	フロン	感 じ 良 かった	|	フロント	感じ良かった
+646 - hotel_quad_train_422:	料 理	NULL	|	料理	すごくよい
+647 - hotel_quad_train_423:	NULL	必 要 十 分	|	ホテル	必要十分
+648 - hotel_quad_train_424:	荷 物	助 かりました	|	荷物	助かりました
+649 - hotel_quad_train_425:	源 泉 かけ 流 し	素 晴 らしい	|	源泉かけ流し	素晴らしい
+650 - hotel_quad_train_426:	蔵 王 温 泉	満 喫	|	蔵王温泉	満喫
+651 - hotel_quad_train_427:	立 地	良	|	立地	良い
+652 - hotel_quad_train_427:	設 備	古	|	設備	古い
+653 - hotel_quad_train_428:	朝 食 バイキング	満 足	|	朝食バイキング	満足
+654 - hotel_quad_train_428:	NULL	NULL	|	NULL	よかった
+655 - hotel_quad_train_428:	駅	遠 くない	|	駅	遠くない
+656 - hotel_quad_train_429:	駅 直 結	NULL	|	駅直結	とても便利
+657 - hotel_quad_train_430:	お 夜 食	NULL	|	お夜食	とても美味しく
+658 - hotel_quad_train_431:	種 類	少 ない	|	種類	少ない
+659 - hotel_quad_train_431:	米	美 味 しく	|	米	美味しく
+660 - hotel_quad_train_431:	立 地	申 し 分 ない	|	立地	申し分ない
+661 - hotel_quad_train_431:	景 色	申 し 分 ない	|	景色	申し分ない
+662 - hotel_quad_train_431:	部 屋	申 し 分 ない	|	部屋	申し分ない
+663 - hotel_quad_train_431:	飲 み 物	残 念	|	飲み物	残念
+664 - hotel_quad_train_431:	味	良 かった	|	味	良かった
+665 - hotel_quad_train_432:	NULL	本 当 に 素 晴 らしかった	|	スタッフ	本当に素晴らしかった
+666 - hotel_quad_train_433:	風 呂	残 念	|	風呂	残念
+667 - hotel_quad_train_433:	部 屋	綺 麗	|	部屋	綺麗
+668 - hotel_quad_train_434:	部 屋	広 く	|	部屋	広く
+669 - hotel_quad_train_435:	種 類	豊 富	|	種類	豊富
+670 - hotel_quad_train_435:	特 産 芋 煮	最 高	|	特産芋煮	最高
+671 - hotel_quad_train_436:	仙 台 駅	近 い	|	仙台駅	近い
+672 - hotel_quad_train_437:	夜 景	綺 麗	|	夜景	綺麗
+673 - hotel_quad_train_438:	温 水 洗 浄 トイレ	不 満	|	温水洗浄トイレ	不満
+674 - hotel_quad_train_439:	NULL	大 変 満 足	|	NULL	大変満足
+675 - hotel_quad_train_439:	立 地	NULL	|	立地	よく
+676 - hotel_quad_train_439:	朝 食	無 料	|	朝食	無料
+677 - hotel_quad_train_440:	対 応	丁 寧	|	対応	丁寧
+678 - hotel_quad_train_441:	NULL	豊 富	|	アメニティ	豊富
+679 - hotel_quad_train_441:	内 装	NULL	|	内装	きれい
+680 - hotel_quad_train_442:	部 屋	広 い	|	部屋	広い
+681 - hotel_quad_train_442:	時 間	楽 しい	|	時間	楽しい
+682 - hotel_quad_train_443:	夕 食	ゆっくり	|	夕食	ゆっくり
+683 - hotel_quad_train_444:	NULL	使 い 易	|	シャワー＆トイレ	使い易い
+684 - hotel_quad_train_445:	NULL	堪 能	|	メニュー	堪能
+685 - hotel_quad_train_446:	朝 食	満 足	|	朝食	満足
+686 - hotel_quad_train_447:	NULL	とても 便 利	|	コンビニ	とても便利
+687 - hotel_quad_train_448:	バス	狭	|	バス	狭い
+688 - hotel_quad_train_448:	NULL	狭	|	トイレ	狭い
+689 - hotel_quad_train_449:	対 応	良 かった	|	対応	良かった
+690 - hotel_quad_train_450:	ドリンクバー	非 常 に 便 利	|	ドリンクバー	非常に便利
+691 - hotel_quad_train_450:	NULL	非 常 に 便 利	|	NULL	非常に便利
+692 - hotel_quad_train_451:	朝 食	残 念	|	朝食	残念
+693 - hotel_quad_train_452:	朝 食	物 足 りなく	|	朝食	物足りなく
+694 - hotel_quad_train_453:	楽 天 スーパーセール	NULL	|	楽天スーパーセール	お得
+695 - hotel_quad_train_454:	プラン	NULL	|	プラン	お手頃
+696 - hotel_quad_train_455:	エアコン	暑 かった	|	エアコン	暑かった
+697 - hotel_quad_train_456:	部 屋	大 満 足	|	部屋	大満足
+698 - hotel_quad_train_456:	サービス	大 満 足	|	サービス	大満足
+699 - hotel_quad_train_456:	料 理	大 満 足	|	料理	大満足
+700 - hotel_quad_train_457:	フロントマン	少 し 無 愛 想	|	フロントマン	少し無愛想
+701 - hotel_quad_train_458:	移 動	ストレスフリー	|	移動	ストレスフリー
+702 - hotel_quad_train_459:	部 屋	とても 綺 麗	|	部屋	とても綺麗
+703 - hotel_quad_train_460:	NULL	とても 良 い	|	ホテル	とても良い
+704 - hotel_quad_train_460:	温 泉	とても まる	|	温泉	とても温まる
+705 - hotel_quad_train_461:	部 屋	NULL	|	部屋	キレイ
+706 - hotel_quad_train_461:	NULL	好 印 象	|	ホテル	好印象
+707 - hotel_quad_train_461:	NULL	良 かった	|	テレビ	良かった
+708 - hotel_quad_train_461:	福 島 駅 西 口	すぐ	|	福島駅西口	すぐ
+709 - hotel_quad_train_461:	スタッフ	感 じが 良 く	|	スタッフ	感じが良く
+710 - hotel_quad_train_461:	NULL	便 利	|	NULL	便利
+711 - hotel_quad_train_462:	建 物	古	|	建物	古い
+712 - hotel_quad_train_462:	部 屋	清 潔	|	部屋	清潔
+713 - hotel_quad_train_462:	NULL	気 持 ち 良 く	|	NULL	気持ち良く
+714 - hotel_quad_train_463:	田 沢 湖	絶 景	|	田沢湖	絶景
+715 - hotel_quad_train_463:	温 泉	素 晴 らしい	|	温泉	素晴らしい
+716 - hotel_quad_train_464:	朝 食	とても 美 味 しかった	|	朝食	とても美味しかった
+717 - hotel_quad_train_464:	NULL	とても 美 味 しかった	|	カレー	とても美味しかった
+718 - hotel_quad_train_465:	スリッパ	気 付 きずらい	|	スリッパ	気付きずらい
+719 - hotel_quad_train_466:	スタッフ	感 じがよく	|	スタッフ	感じがよく
+720 - hotel_quad_train_467:	風 呂	NULL	|	風呂	きれい
+721 - hotel_quad_train_468:	景 色	素 晴 らしかった	|	景色	素晴らしかった
+722 - hotel_quad_train_469:	露 天 風 呂	最 高	|	露天風呂	最高
+723 - hotel_quad_train_470:	ドライヤーの 風 量	強 く	|	ドライヤーの風量	強く
+724 - hotel_quad_train_470:	ヘアアイロン	温 まりが 早 くて	|	ヘアアイロン	温まりが早くて
+725 - hotel_quad_train_470:	ドライヤ	良 い	|	ドライヤー	良い
+726 - hotel_quad_train_471:	温 泉	NULL	|	温泉	まったり
+727 - hotel_quad_train_472:	お 風 呂	とても 満 喫	|	お風呂	とても満喫
+728 - hotel_quad_train_473:	立 地	良 く	|	立地	良く
+729 - hotel_quad_train_473:	NULL	楽 しく	|	NULL	楽しく
+730 - hotel_quad_train_474:	部 屋	広 くて	|	部屋	広くて
+731 - hotel_quad_train_474:	部 屋 風 呂	広 くて	|	部屋風呂	広くて
+732 - hotel_quad_train_475:	空 調	悪	|	空調	悪い
+733 - hotel_quad_train_475:	部 屋	温 まり 辛 くて	|	部屋	温まり辛くて
+734 - hotel_quad_train_476:	水 量	満 足	|	水量	満足
+735 - hotel_quad_train_476:	NULL	大 きめ	|	バスタブ	大きめ
+736 - hotel_quad_train_477:	対 応	気 持 ちよく	|	対応	気持ちよく
+737 - hotel_quad_train_478:	温 泉	最 高	|	温泉	最高
+738 - hotel_quad_train_479:	宿 泊	大 満 足	|	宿泊	大満足
+739 - hotel_quad_train_480:	バイキング	種 類 があり	|	バイキング	種類があり
+740 - hotel_quad_train_481:	水 風 呂	設 置 して 欲 しい	|	水風呂	設置して欲しい
+741 - hotel_quad_train_482:	部 屋	NULL	|	部屋	とても綺麗
+742 - hotel_quad_train_482:	NULL	NULL	|	お風呂	とても綺麗
+743 - hotel_quad_train_482:	夜 鳴 きそば	最 高	|	夜鳴きそば	最高
+744 - hotel_quad_train_483:	朝 食	NULL	|	朝食	とても美味しかった
+745 - hotel_quad_train_484:	清 掃	NULL	|	清掃	しっかり
+747 - hotel_quad_train_485:	旅	心 から 楽 しめる	|	旅	心から楽しめる
+748 - hotel_quad_train_486:	NULL	NULL	|	ソファ	イマイチ
+749 - hotel_quad_train_487:	お 部 屋	広 くて	|	お部屋	広くて
+750 - hotel_quad_train_488:	NULL	繋 がらない	|	WIFI	繋がらない
+751 - hotel_quad_train_489:	空 調	寝 苦 しかった	|	空調	寝苦しかった
+752 - hotel_quad_train_490:	食 べ 放 題	とても 美 味 しかった	|	食べ放題	とても美味しかった
+753 - hotel_quad_train_491:	外 壁	NULL	|	外壁	キレイ
+754 - hotel_quad_train_491:	お 風 呂	NULL	|	お風呂	キレイ
+755 - hotel_quad_train_491:	お 部 屋	NULL	|	お部屋	キレイ
+756 - hotel_quad_train_492:	バイキング	質 が 落 ちた	|	バイキング	質が落ちた
+757 - hotel_quad_train_493:	料 理 バイキング	少 々 飽 きてしまいました	|	料理バイキング	少々飽きてしまいました
+758 - hotel_quad_train_494:	駅	近 い	|	駅	近い
+759 - hotel_quad_train_494:	立 地	非 常 に 便 利	|	立地	非常に便利
+761 - hotel_quad_train_495:	立 地	良 く	|	立地	良く
+762 - hotel_quad_train_496:	朝 食	美 味 しかった	|	朝食	美味しかった
+763 - hotel_quad_train_496:	NULL	美 味 しかった	|	コーヒー	美味しかった
+764 - hotel_quad_train_497:	ホテル 館 内	NULL	|	ホテル館内	きちんと手入れがされている
+765 - hotel_quad_train_497:	NULL	NULL	|	お部屋	きちんと手入れがされている
+766 - hotel_quad_train_498:	駅	近 くて	|	駅	近くて
+767 - hotel_quad_train_499:	駅 直 結	非 常 に 便 利	|	駅直結	非常に便利
+768 - hotel_quad_train_499:	朝 食	美 味 しかった	|	朝食	美味しかった
+769 - hotel_quad_train_500:	駅	大 変 便 利	|	駅	大変便利
+770 - hotel_quad_train_501:	朝 食	美 味 しい	|	朝食	美味しい
+771 - hotel_quad_train_502:	アメニティ	NULL	|	アメニティ	お気に入りがあって
+772 - hotel_quad_train_503:	NULL	高 く	|	クオリティ	高く
+773 - hotel_quad_train_504:	朝 食	良 い	|	朝食	良い
+774 - hotel_quad_train_505:	宿 泊 料 金	高 すぎる	|	宿泊料金	高すぎる
+775 - hotel_quad_train_506:	NULL	満 足	|	NULL	満足
+776 - hotel_quad_train_506:	部 屋	良 く	|	部屋	良く
+777 - hotel_quad_train_506:	食 事	良 く	|	食事	良く
+778 - hotel_quad_train_507:	部 屋	寝 れません	|	部屋	寝れません
+779 - hotel_quad_train_508:	駅	近 く	|	駅	近く
+780 - hotel_quad_train_508:	NULL	とても 馴 染 める	|	ホテル	とても馴染める
+781 - hotel_quad_train_509:	NULL	良 かった	|	ドリンクサービス	良かった
+782 - hotel_quad_train_510:	お 料 理	良 くて	|	お料理	良くて
+783 - hotel_quad_train_511:	食 事	少 し 少 なめ	|	食事	少し少なめ
+784 - hotel_quad_train_512:	お 風 呂	良 かった	|	お風呂	良かった
+785 - hotel_quad_train_513:	シャワー	使 いにくい	|	シャワー	使いにくい
+786 - hotel_quad_train_514:	建 物	古 過 ぎず	|	建物	古過ぎず
+787 - hotel_quad_train_514:	室 内	新 し 過 ぎず	|	室内	新し過ぎず
+788 - hotel_quad_train_515:	露 天 風 呂	癒 されました	|	露天風呂	癒されました
+789 - hotel_quad_train_516:	NULL	最 高	|	NULL	最高
+790 - hotel_quad_train_516:	水 周 り	NULL	|	水周り	ピカピカ
+791 - hotel_quad_train_517:	夕 食	満 足	|	夕食	満足
+792 - hotel_quad_train_518:	対 応	良 かった	|	対応	良かった
+793 - hotel_quad_train_518:	その 他 の 方 の 対 応	冷 たい	|	その他の方の対応	冷たい
+794 - hotel_quad_train_519:	浴 槽	残 念	|	浴槽	残念
+795 - hotel_quad_train_520:	無 料 のほうじ 茶 、 お 湯 、 水 のサーバー	NULL	|	無料のほうじ茶、お湯、水のサーバー	よかった
+796 - hotel_quad_train_520:	お 湯	NULL	|	お湯	よかった
+797 - hotel_quad_train_520:	水	NULL	|	水	よかった
+798 - hotel_quad_train_521:	部 屋	広 くて	|	部屋	広くて
+799 - hotel_quad_train_521:	NULL	広 い	|	ソファ	広い
+800 - hotel_quad_train_522:	朝 食 のレストラン	広 々	|	朝食のレストラン	広々
+801 - hotel_quad_train_522:	料 理	美 味 しかった	|	料理	美味しかった
+802 - hotel_quad_train_523:	NULL	綺 麗	|	ホテル	綺麗
+803 - hotel_quad_train_524:	NULL	辛 かった	|	シャワー	辛かった
+804 - hotel_quad_train_525:	部 屋	広 い	|	部屋	広い
+805 - hotel_quad_train_525:	バス	広 め	|	バス	広め
+806 - hotel_quad_train_525:	バス ・ トイレ ・ 洗 面	NULL	|	バス・トイレ・洗面	とても良い
+807 - hotel_quad_train_526:	立 地	便 利	|	立地	便利
+808 - hotel_quad_train_527:	立 地	良 く	|	立地	良く
+809 - hotel_quad_train_527:	価 格	安 く	|	価格	安く
+810 - hotel_quad_train_527:	NULL	大 満 足	|	NULL	大満足
+811 - hotel_quad_train_528:	サウナ	最 高	|	サウナ	最高
+812 - hotel_quad_train_528:	朝 食	最 高	|	朝食	最高
+813 - hotel_quad_train_529:	お 湯	NULL	|	お湯	よく
+814 - hotel_quad_train_529:	浴 場	清 潔	|	浴場	清潔
+815 - hotel_quad_train_529:	その 他	清 潔	|	その他	清潔
+816 - hotel_quad_train_530:	スタッフ	少 し 残 念	|	スタッフ	少し残念
+817 - hotel_quad_train_531:	隣 のコインランドリーの 出 入 り 音 、 上 の 階 の 足 音	気 になる	|	隣のコインランドリーの出入り音、上の階の足音	気になる
+818 - hotel_quad_train_531:	上 の 階 の 足 音	気 になる	|	上の階の足音	気になる
+819 - hotel_quad_train_532:	朝 食	悪 い	|	朝食	悪い
+820 - hotel_quad_train_533:	飲 食 店	多 く	|	飲食店	多く
+821 - hotel_quad_train_533:	NULL	たくさん	|	お寿司屋さん	たくさん
+822 - hotel_quad_train_534:	立 地	NULL	|	立地	とても便利
+823 - hotel_quad_train_535:	対 応	NULL	|	対応	ありがとう
+824 - hotel_quad_train_536:	立 地	駅 前	|	立地	駅前
+825 - hotel_quad_train_537:	朝 食 のバイキング	良 かった	|	朝食のバイキング	良かった
+826 - hotel_quad_train_538:	食 事	NULL	|	食事	たくさん
+827 - hotel_quad_train_538:	NULL	満 足	|	NULL	満足
+828 - hotel_quad_train_538:	部 屋	大 変 広 く	|	部屋	大変広く
+829 - hotel_quad_train_539:	食 事	NULL	|	食事	おいしかった
+830 - hotel_quad_train_540:	NULL	NULL	|	サービス	さすが
+831 - hotel_quad_train_541:	立 地	抜 群	|	立地	抜群
+832 - hotel_quad_train_542:	部 屋	NULL	|	部屋	グレードアップ
+833 - hotel_quad_train_543:	NULL	とてもキレイ	|	ホテル	とてもキレイ
+834 - hotel_quad_train_544:	お 膳	低 くて	|	お膳	低くて
+835 - hotel_quad_train_545:	温 泉	最 高	|	温泉	最高
+836 - hotel_quad_train_546:	テレビ	NULL	|	テレビ	うれしい
+837 - hotel_quad_train_547:	立 地	最 高	|	立地	最高
+838 - hotel_quad_train_548:	風 呂 場	暗 くて	|	風呂場	暗くて
+839 - hotel_quad_train_548:	お 風 呂 場	危 なかった	|	お風呂場	危なかった
+840 - hotel_quad_train_549:	部 屋	NULL	|	部屋	キレイ
+842 - hotel_quad_train_550:	NULL	とてもペットファースト	|	ホテル	とてもペットファースト
+843 - hotel_quad_train_551:	種 類	NULL	|	種類	たくさん
+844 - hotel_quad_train_552:	NULL	NULL	|	ラウンジ	とても良い
+845 - hotel_quad_train_553:	朝 食	美 味 しい	|	朝食	美味しい
+846 - hotel_quad_train_554:	NULL	良 かった	|	シャンプーバー	良かった
+847 - hotel_quad_train_555:	部 屋	NULL	|	部屋	きれい
+848 - hotel_quad_train_556:	立 地	行 きやすい	|	立地	行きやすい
+849 - hotel_quad_train_556:	フロントの 対 応	手 際 が 良 く	|	フロントの対応	手際が良く
+850 - hotel_quad_train_557:	朝 食	NULL	|	朝食	よかった
+851 - hotel_quad_train_558:	朝 食 バイキング	少 ない	|	朝食バイキング	少ない
+852 - hotel_quad_train_559:	立 地	非 常 に 良 い	|	立地	非常に良い
+853 - hotel_quad_train_560:	NULL	NULL	|	NULL	とても快適
+854 - hotel_quad_train_560:	建 物	古 い	|	建物	古い
+855 - hotel_quad_train_561:	レトルトカレー	NULL	|	レトルトカレー	プチ嬉しかった
+856 - hotel_quad_train_562:	部 屋	NULL	|	部屋	とても綺麗
+857 - hotel_quad_train_563:	掛 布 団 カバー	がっかり	|	掛布団カバー	がっかり
+858 - hotel_quad_train_564:	露 天 風 呂	最 高	|	露天風呂	最高
+859 - hotel_quad_train_565:	大 浴 場	最 高	|	大浴場	最高
+860 - hotel_quad_train_565:	露 天 風 呂	最 高	|	露天風呂	最高
+861 - hotel_quad_train_566:	NULL	便 利	|	コンビニ	便利
+862 - hotel_quad_train_567:	アメニティ	良 かった	|	アメニティ	良かった
+863 - hotel_quad_train_568:	対 応	良 く	|	対応	良く
+864 - hotel_quad_train_568:	NULL	快 適	|	NULL	快適
+865 - hotel_quad_train_568:	設 備	古 く	|	設備	古く
+866 - hotel_quad_train_569:	部 屋	洗 練	|	部屋	洗練
+868 - hotel_quad_train_570:	NULL	近 く	|	スーパー	近く
+869 - hotel_quad_train_570:	NULL	良 かった	|	NULL	良かった
+870 - hotel_quad_train_570:	NULL	不 便	|	アクセス	不便
+871 - hotel_quad_train_571:	駅	近 く	|	駅	近く
+872 - hotel_quad_train_571:	NULL	便 利	|	NULL	便利
+873 - hotel_quad_train_572:	部 屋	綺 麗	|	部屋	綺麗
+874 - hotel_quad_train_572:	掃 除	丁 寧	|	掃除	丁寧
+875 - hotel_quad_train_572:	NULL	とても 快 適	|	NULL	とても快適
+876 - hotel_quad_train_573:	NULL	満 足	|	NULL	満足
+877 - hotel_quad_train_573:	価 格	NULL	|	価格	かなり安かった
+878 - hotel_quad_train_574:	対 応	NULL	|	対応	とても良く
+879 - hotel_quad_train_574:	NULL	気 持 ちよく	|	NULL	気持ちよく
+880 - hotel_quad_train_574:	挨 拶	NULL	|	挨拶	しっかり
+881 - hotel_quad_train_574:	声 がけ	NULL	|	声がけ	しっかり
+882 - hotel_quad_train_575:	部 屋	良 かった	|	部屋	良かった
+883 - hotel_quad_train_575:	NULL	良 かった	|	フロント	良かった
+884 - hotel_quad_train_575:	NULL	良 かった	|	NULL	良かった
+885 - hotel_quad_train_576:	源 泉	NULL	|	源泉	ゆったり
+886 - hotel_quad_train_576:	食 事	NULL	|	食事	ゆったり
+887 - hotel_quad_train_576:	NULL	満 足	|	NULL	満足
+888 - hotel_quad_train_577:	NULL	非 常 に 便 利	|	NULL	非常に便利
+889 - hotel_quad_train_577:	駅	近 く	|	駅	近く
+890 - hotel_quad_train_578:	部 屋	NULL	|	部屋	いい
+891 - hotel_quad_train_578:	NULL	清 潔 感	|	NULL	清潔感
+892 - hotel_quad_train_579:	NULL	NULL	|	NULL	やさしく
+893 - hotel_quad_train_580:	NULL	良 かった	|	NULL	良かった
+894 - hotel_quad_train_580:	電 気	になりました	|	電気	気になりました
+895 - hotel_quad_train_581:	飲 食 店	近 く	|	飲食店	近く
+896 - hotel_quad_train_581:	NULL	良 かった	|	NULL	良かった
+897 - hotel_quad_train_582:	NULL	NULL	|	NULL	とても良かった
+898 - hotel_quad_train_582:	海 岸	近 く	|	海岸	近く
+899 - hotel_quad_train_583:	NULL	気 持 ちよく	|	NULL	気持ちよく
+900 - hotel_quad_train_583:	接 客	良 く	|	接客	良く
+901 - hotel_quad_train_583:	風 呂	NULL	|	風呂	とても気持ちよかった
+902 - hotel_quad_train_584:	大 浴 場	広	|	大浴場	広々
+903 - hotel_quad_train_584:	部 屋	広	|	部屋	広々
+904 - hotel_quad_train_584:	NULL	嬉 しかった	|	NULL	嬉しかった
+905 - hotel_quad_train_585:	送 迎 バス	NULL	|	送迎バス	とても便利
+906 - hotel_quad_train_585:	NULL	少 し 古	|	NULL	少し古い
+907 - hotel_quad_train_585:	部 屋	広 く	|	部屋	広く
+908 - hotel_quad_train_586:	NULL	清 潔	|	ロビー	清潔
+909 - hotel_quad_train_586:	部 屋	清 潔	|	部屋	清潔
+910 - hotel_quad_train_586:	NULL	とても 気 持 ちよく	|	NULL	とても気持ちよく
+911 - hotel_quad_train_586:	設 備	清 潔	|	設備	清潔
+912 - hotel_quad_train_587:	NULL	満 足	|	NULL	満足
+913 - hotel_quad_train_587:	駅	近 く	|	駅	近く
+914 - hotel_quad_train_587:	NULL	近 く	|	コンビニ	近く
+915 - hotel_quad_train_587:	対 応	良 い	|	対応	良い
+916 - hotel_quad_train_588:	立 地	NULL	|	立地	いい
+917 - hotel_quad_train_588:	NULL	大 変 良 かった	|	NULL	大変良かった
+918 - hotel_quad_train_589:	朝 食	美 味 しく	|	朝食	美味しく
+919 - hotel_quad_train_589:	スタッフ 対 応	NULL	|	スタッフ対応	よく
+920 - hotel_quad_train_589:	NULL	大 変 満 足	|	NULL	大変満足
+921 - hotel_quad_train_589:	夕 食	美 味 しく	|	夕食	美味しく
+922 - hotel_quad_train_590:	NULL	気 持 ちよく	|	NULL	気持ちよく
+923 - hotel_quad_train_590:	大 浴 場	清 潔	|	大浴場	清潔
+924 - hotel_quad_train_591:	NULL	近 くて	|	NULL	近くて
+925 - hotel_quad_train_592:	鶴 屋	近 く	|	鶴屋	近く
+926 - hotel_quad_train_592:	NULL	便 利	|	NULL	便利
+927 - hotel_quad_train_593:	部 屋	綺 麗	|	部屋	綺麗
+928 - hotel_quad_train_593:	NULL	NULL	|	NULL	よかった
+929 - hotel_quad_train_593:	駅	近 く	|	駅	近く
+930 - hotel_quad_train_594:	NULL	多 数	|	コンビニ	多数
+931 - hotel_quad_train_594:	駅	近 く	|	駅	近く
+932 - hotel_quad_train_594:	NULL	便 利	|	NULL	便利
+934 - hotel_quad_train_596:	NULL	大 変 気 持 ちよく	|	NULL	大変気持ちよく
+935 - hotel_quad_train_596:	掃 除	行 き 届 いており	|	掃除	行き届いており
+936 - hotel_quad_train_596:	部 屋	広 く	|	部屋	広く
+937 - hotel_quad_train_597:	客 室 係	NULL	|	客室係	きっちりしており
+938 - hotel_quad_train_597:	NULL	大 変 満 足	|	NULL	大変満足
+939 - hotel_quad_train_597:	フロント	NULL	|	フロント	きっちりしており
+940 - hotel_quad_train_598:	NULL	至 って 普 通	|	NULL	至って普通
+941 - hotel_quad_train_599:	NULL	落 ち 着 いて	|	NULL	落ち着いて
+942 - hotel_quad_train_599:	食 事	良 く	|	食事	良く
+943 - hotel_quad_train_600:	対 応	良 かった	|	対応	良かった
+944 - hotel_quad_train_600:	NULL	大 変 満 足	|	NULL	大変満足
+945 - hotel_quad_train_600:	部 屋	良 かった	|	部屋	良かった
+946 - hotel_quad_train_600:	料 理	良 かった	|	料理	良かった
+947 - hotel_quad_train_601:	NULL	便 利	|	NULL	便利
+948 - hotel_quad_train_601:	駐 車 場	便 利	|	駐車場	便利
+949 - hotel_quad_train_602:	NULL	いつも 心 地 よく	|	NULL	いつも心地よく
+950 - hotel_quad_train_603:	NULL	綺 麗 すぎ	|	NULL	綺麗すぎ
+951 - hotel_quad_train_604:	食 事	大 変 美 味 しく	|	食事	大変美味しく
+952 - hotel_quad_train_604:	NULL	満 足	|	NULL	満足
+953 - hotel_quad_train_605:	NULL	美 味 しく	|	NULL	美味しく
+954 - hotel_quad_train_605:	食 事 スペース	清 潔 感	|	食事スペース	清潔感
+955 - hotel_quad_train_605:	品 数	結 構 あり	|	品数	結構あり
+956 - hotel_quad_train_606:	NULL	良 かった	|	NULL	良かった
+957 - hotel_quad_train_607:	対 応	良 く	|	対応	良く
+958 - hotel_quad_train_607:	NULL	良 かった	|	NULL	良かった
+959 - hotel_quad_train_607:	部 屋	清 潔	|	部屋	清潔
+960 - hotel_quad_train_608:	NULL	良 い 感 じ	|	スタッフ	良い感じ
+961 - hotel_quad_train_608:	NULL	綺 麗	|	NULL	綺麗
+962 - hotel_quad_train_609:	NULL	清 潔	|	NULL	清潔
+963 - hotel_quad_train_609:	設 備	満 足	|	設備	満足
+964 - hotel_quad_train_609:	広 さ	満 足	|	広さ	満足
+965 - hotel_quad_train_609:	対 応	丁 寧	|	対応	丁寧
+966 - hotel_quad_train_610:	NULL	近	|	リムジンバスターミナル	近い
+967 - hotel_quad_train_610:	NULL	NULL	|	NULL	とても便利
+968 - hotel_quad_train_610:	NULL	NULL	|	アクセス	とても良く
+969 - hotel_quad_train_611:	NULL	綺 麗	|	NULL	綺麗
+970 - hotel_quad_train_612:	NULL	便 利	|	NULL	便利
+971 - hotel_quad_train_612:	大 分 駅	近 く	|	大分駅	近く
+972 - hotel_quad_train_613:	NULL	安 く	|	NULL	安く
+973 - hotel_quad_train_613:	部 屋	綺 麗	|	部屋	綺麗
+974 - hotel_quad_train_614:	対 応	良 く	|	対応	良く
+975 - hotel_quad_train_614:	NULL	気 持 ち 良 く	|	NULL	気持ち良く
+976 - hotel_quad_train_615:	NULL	NULL	|	NULL	ゆったりくつろげた
+977 - hotel_quad_train_615:	バス	広 く	|	バス	広く
+978 - hotel_quad_train_616:	NULL	NULL	|	NULL	とってもよかった
+979 - hotel_quad_train_616:	アーケード 街	NULL	|	アーケード街	すぐ
+980 - hotel_quad_train_617:	NULL	大 満 足	|	NULL	大満足
+981 - hotel_quad_train_617:	フロントの 対 応	NULL	|	フロントの対応	とても丁寧
+982 - hotel_quad_train_618:	NULL	不 自 由 はなかった	|	NULL	不自由はなかった
+983 - hotel_quad_train_619:	NULL	快 適	|	NULL	快適
+984 - hotel_quad_train_620:	NULL	良 かった	|	NULL	良かった
+985 - hotel_quad_train_621:	NULL	静 かで	|	NULL	静かで
+986 - hotel_quad_train_622:	外 風 呂	NULL	|	外風呂	とてもよく
+987 - hotel_quad_train_622:	NULL	清 潔	|	NULL	清潔
+988 - hotel_quad_train_623:	NULL	満 足	|	NULL	満足
+989 - hotel_quad_train_623:	サービス	充 実	|	サービス	充実
+990 - hotel_quad_train_624:	NULL	良 くて	|	お風呂	良くて
+991 - hotel_quad_train_624:	NULL	綺 麗	|	NULL	綺麗
+992 - hotel_quad_train_625:	NULL	快 適	|	NULL	快適
+993 - hotel_quad_train_626:	NULL	非 常 に 快 適	|	NULL	非常に快適
+994 - hotel_quad_train_627:	コスパ	良 く	|	コスパ	良く
+995 - hotel_quad_train_627:	NULL	満 足	|	NULL	満足
+996 - hotel_quad_train_627:	壁	少 し 薄	|	壁	少し薄い
+997 - hotel_quad_train_628:	NULL	清 潔	|	お部屋	清潔
+998 - hotel_quad_train_628:	NULL	快 適	|	NULL	快適
+999 - hotel_quad_train_629:	NULL	快 適	|	NULL	快適
+1000 - hotel_quad_train_630:	フロントの 方 の 対 応	朗 らか	|	フロントの方の対応	朗らか
+1001 - hotel_quad_train_630:	NULL	過 ごしやすかった	|	NULL	過ごしやすかった
+1002 - hotel_quad_train_630:	お 部 屋	清 潔	|	お部屋	清潔
+1003 - hotel_quad_train_631:	NULL	最 悪 気 分	|	NULL	最悪気分
+1004 - hotel_quad_train_632:	NULL	心 地 よく	|	NULL	心地よく
+1005 - hotel_quad_train_633:	NULL	大 変 寛 げました	|	NULL	大変寛げました
+1006 - hotel_quad_train_634:	NULL	快 適	|	NULL	快適
+1007 - hotel_quad_train_635:	大 浴 場	NULL	|	大浴場	きれい
+1008 - hotel_quad_train_635:	NULL	NULL	|	NULL	ゆっくり
+1009 - hotel_quad_train_636:	NULL	満 喫	|	NULL	満喫
+1010 - hotel_quad_train_637:	眺 め	良 く	|	眺め	良く
+1012 - hotel_quad_train_638:	駅	近 く	|	駅	近く
+1013 - hotel_quad_train_638:	NULL	使 いよかった	|	NULL	使いよかった
+1014 - hotel_quad_train_639:	駅	近 く	|	駅	近く
+1015 - hotel_quad_train_639:	NULL	NULL	|	NULL	とても便利
+1016 - hotel_quad_train_640:	お 部 屋	気 持 ちよく	|	お部屋	気持ちよく
+1017 - hotel_quad_train_640:	温 泉	清 潔	|	温泉	清潔
+1018 - hotel_quad_train_640:	大 浴 場	清 潔	|	大浴場	清潔
+1019 - hotel_quad_train_640:	部 屋	清 潔	|	部屋	清潔
+1020 - hotel_quad_train_640:	NULL	気 持 ちよく	|	NULL	気持ちよく
+1021 - hotel_quad_train_641:	NULL	NULL	|	NULL	とてもによかった
+1022 - hotel_quad_train_642:	建 物	古 さは 否 めない	|	建物	古さは否めない
+1023 - hotel_quad_train_642:	NULL	清 潔	|	NULL	清潔
+1024 - hotel_quad_train_642:	コスパ	素 晴 らしい	|	コスパ	素晴らしい
+1025 - hotel_quad_train_642:	NULL	NULL	|	ドリンクバー	ありがたい
+1026 - hotel_quad_train_643:	NULL	かなり 満 足	|	NULL	かなり満足
+1028 - hotel_quad_train_644:	NULL	美 味 しい	|	ごはん	美味しい
+1029 - hotel_quad_train_645:	NULL	一 番 良 かった	|	NULL	一番良かった
+1030 - hotel_quad_train_646:	音 楽	NULL	|	音楽	とても素敵
+1031 - hotel_quad_train_646:	NULL	幸 せ	|	NULL	幸せ
+1032 - hotel_quad_train_647:	部 屋	広 くて	|	部屋	広くて
+1033 - hotel_quad_train_647:	NULL	NULL	|	NULL	とても満足
+1034 - hotel_quad_train_648:	スタッフ	感 じのいい	|	スタッフ	感じのいい
+1035 - hotel_quad_train_648:	NULL	心 地 よい	|	NULL	心地よい
+1036 - hotel_quad_train_649:	飲 食 店	多 く	|	飲食店	多く
+1037 - hotel_quad_train_649:	NULL	利 用 しやすい	|	NULL	利用しやすい
+1038 - hotel_quad_train_649:	駅	近 く	|	駅	近く
+1039 - hotel_quad_train_650:	NULL	満 足	|	NULL	満足
+1040 - hotel_quad_train_651:	NULL	とても 満 足	|	NULL	とても満足
+1041 - hotel_quad_train_652:	NULL	良 かった	|	NULL	良かった
+1042 - hotel_quad_train_652:	利 便 性	高 くて	|	利便性	高くて
+1043 - hotel_quad_train_652:	駅	徒 歩 圏 内	|	駅	徒歩圏内
+1044 - hotel_quad_train_652:	繁 華 街	近 く	|	繁華街	近く
+1045 - hotel_quad_train_653:	朝 食	美 味 しく	|	朝食	美味しく
+1046 - hotel_quad_train_653:	NULL	良 かった	|	NULL	良かった
+1047 - hotel_quad_train_654:	NULL	NULL	|	NULL	リーズナブル
+1048 - hotel_quad_train_654:	朝 食	大 変 気 に 入 りました	|	朝食	大変気に入りました
+1049 - hotel_quad_train_654:	部 屋	大 変 気 に 入 りました	|	部屋	大変気に入りました
+1051 - hotel_quad_train_656:	NULL	大 変 満 足	|	NULL	大変満足
+1052 - hotel_quad_train_656:	印 象	良 く	|	印象	良く
+1054 - hotel_quad_train_658:	NULL	お 安 く	|	NULL	お安く
+1055 - hotel_quad_train_658:	繁 華 街	近	|	繁華街	近い
+1056 - hotel_quad_train_658:	総 合 評 価	高 め	|	総合評価	高め
+1057 - hotel_quad_train_659:	NULL	大 満 足	|	NULL	大満足
+1058 - hotel_quad_train_660:	接 客	NULL	|	接客	よく
+1059 - hotel_quad_train_660:	ゲレンデ	近 く	|	ゲレンデ	近く
+1060 - hotel_quad_train_660:	NULL	満 足	|	NULL	満足
+1061 - hotel_quad_train_660:	駐 車 場	大 変 便 利	|	駐車場	大変便利
+1062 - hotel_quad_train_661:	ホテル	NULL	|	ホテル	とても綺麗
+1063 - hotel_quad_train_661:	NULL	便 利	|	NULL	便利
+1064 - hotel_quad_train_661:	駅	近 く	|	駅	近く
+1065 - hotel_quad_train_662:	NULL	快 適	|	NULL	快適
+1066 - hotel_quad_train_662:	NULL	安 定	|	サービス等	安定
+1067 - hotel_quad_train_663:	高 松 駅	近 く	|	高松駅	近く
+1068 - hotel_quad_train_663:	NULL	近 く	|	フェリーターミナル	近く
+1069 - hotel_quad_train_663:	NULL	便 利	|	NULL	便利
+1070 - hotel_quad_train_664:	NULL	快 適	|	NULL	快適
+1071 - hotel_quad_train_664:	立 地	良 くて	|	立地	良くて
+1072 - hotel_quad_train_665:	NULL	綺 麗	|	NULL	綺麗
+1073 - hotel_quad_train_666:	NULL	いつも 気 持 ちよく	|	NULL	いつも気持ちよく
+1074 - hotel_quad_train_667:	NULL	安 心	|	NULL	安心
+1075 - hotel_quad_train_667:	NULL	泊 まりやすい	|	ホテル	泊まりやすい
+1076 - hotel_quad_train_668:	NULL	とっても 快 適	|	NULL	とっても快適
+1077 - hotel_quad_train_669:	駅	NULL	|	駅	すぐ
+1078 - hotel_quad_train_669:	NULL	とても 便 利	|	NULL	とても便利
+1079 - hotel_quad_train_670:	NULL	大 満 足	|	NULL	大満足
+1080 - hotel_quad_train_671:	駅	近 く	|	駅	近く
+1081 - hotel_quad_train_671:	NULL	新 しくて	|	NULL	新しくて
+1082 - hotel_quad_train_672:	ベッド	NULL	|	ベッド	ちょうど良くて
+1083 - hotel_quad_train_672:	NULL	快 適	|	NULL	快適
+1084 - hotel_quad_train_672:	枕 の 硬 さ	NULL	|	枕の硬さ	ちょうど良くて
+1085 - hotel_quad_train_673:	NULL	近 く	|	フェリーターミナル	近く
+1086 - hotel_quad_train_673:	駅	近 く	|	駅	近く
+1087 - hotel_quad_train_673:	NULL	とても 便 利	|	NULL	とても便利
+1088 - hotel_quad_train_674:	NULL	NULL	|	NULL	ほぼ満点
+1089 - hotel_quad_train_675:	食 事	大 変 美 味 しかった	|	食事	大変美味しかった
+1090 - hotel_quad_train_675:	NULL	寒 かった	|	NULL	寒かった
+1091 - hotel_quad_train_676:	NULL	快 適	|	NULL	快適
+1092 - hotel_quad_train_676:	建 物	歴 史 を 感 じる	|	建物	歴史を感じる
+1093 - hotel_quad_train_677:	NULL	憂 鬱	|	NULL	憂鬱
+1094 - hotel_quad_train_678:	対 応	良 かった	|	対応	良かった
+1095 - hotel_quad_train_678:	NULL	満 足	|	NULL	満足
+1096 - hotel_quad_train_679:	全 体	少 し 古 臭 く	|	全体	少し古臭く
+1097 - hotel_quad_train_679:	NULL	NULL	|	NULL	キレイ
+1098 - hotel_quad_train_680:	NULL	気 持 ちがよかった	|	NULL	気持ちがよかった
+1099 - hotel_quad_train_681:	食 事	予 想 以 上 に 素 晴 らしく	|	食事	予想以上に素晴らしく
+1100 - hotel_quad_train_681:	NULL	予 想 以 上 に 素 晴 らしく	|	スタッフ	予想以上に素晴らしく
+1101 - hotel_quad_train_681:	NULL	満 足	|	NULL	満足
+1102 - hotel_quad_train_682:	NULL	落 ち 着 いた	|	NULL	落ち着いた
+1103 - hotel_quad_train_683:	温 泉	良 く	|	温泉	良く
+1104 - hotel_quad_train_683:	食 事	良 く	|	食事	良く
+1105 - hotel_quad_train_683:	NULL	快 適	|	NULL	快適
+1106 - hotel_quad_train_684:	NULL	近 く	|	NULL	近く
+1107 - hotel_quad_train_685:	NULL	便 利	|	NULL	便利
+1108 - hotel_quad_train_686:	蕎 麦 屋	美 味 しかった	|	蕎麦屋	美味しかった
+1109 - hotel_quad_train_686:	NULL	NULL	|	NULL	わかりやすいし
+1110 - hotel_quad_train_686:	コンビニ	近 いし	|	コンビニ	近いし
+1111 - hotel_quad_train_687:	スタッフ	親 切	|	スタッフ	親切
+1112 - hotel_quad_train_687:	NULL	NULL	|	NULL	いつも気持ちよく
+1113 - hotel_quad_train_688:	NULL	清 潔	|	NULL	清潔
+1114 - hotel_quad_train_688:	建 物	古	|	建物	古い
+1116 - hotel_quad_train_690:	NULL	快 適	|	NULL	快適
+1117 - hotel_quad_train_691:	NULL	便 利	|	NULL	便利
+1119 - hotel_quad_train_692:	眺 め	素 敵	|	眺め	素敵
+1120 - hotel_quad_train_692:	NULL	楽 しめた	|	NULL	楽しめた
+1121 - hotel_quad_train_693:	NULL	NULL	|	NULL	とても温まる
+1122 - hotel_quad_train_694:	立 地	NULL	|	立地	とてもよく
+1123 - hotel_quad_train_694:	NULL	NULL	|	NULL	とても楽
+1124 - hotel_quad_train_695:	朝 食	残 念	|	朝食	残念
+1125 - hotel_quad_train_695:	NULL	とても 快 適	|	NULL	とても快適
+1126 - hotel_quad_train_696:	NULL	満 足	|	NULL	満足
+1127 - hotel_quad_train_696:	建 物	歴 史 を 感 じました	|	建物	歴史を感じました
+1128 - hotel_quad_train_697:	NULL	NULL	|	NULL	ゆっくり眠れました
+1129 - hotel_quad_train_698:	NULL	高 い	|	NULL	高い
+1130 - hotel_quad_train_698:	温 泉	良 い	|	温泉	良い
+1131 - hotel_quad_train_699:	ホテル 内	NULL	|	ホテル内	とても綺麗
+1132 - hotel_quad_train_699:	外 装	年 季 が 入 っている	|	外装	年季が入っている
+1133 - hotel_quad_train_699:	NULL	良 かった	|	NULL	良かった
+1134 - hotel_quad_train_699:	部 屋	NULL	|	部屋	とても清潔
+1135 - hotel_quad_train_700:	部 屋	広 さ 十 分	|	部屋	広さ十分
+1136 - hotel_quad_train_700:	NULL	大 変 過 ごしやすかった	|	NULL	大変過ごしやすかった
+1137 - hotel_quad_train_700:	浴 室	NULL	|	浴室	キレイ
+1138 - hotel_quad_train_701:	配 慮	細 や	|	配慮	細やか
+1139 - hotel_quad_train_701:	NULL	気 持 ちよく	|	NULL	気持ちよく
+1140 - hotel_quad_train_702:	NULL	気 持 ち 良 く	|	NULL	気持ち良く
+1141 - hotel_quad_train_702:	部 屋	大 変 きれい	|	部屋	大変きれい
+1142 - hotel_quad_train_702:	NULL	大 変 きれい	|	ホテル	大変きれい
+1143 - hotel_quad_train_703:	NULL	便 利	|	セブンイレブン	便利
+1144 - hotel_quad_train_703:	駅	近 く	|	駅	近く
+1145 - hotel_quad_train_704:	NULL	NULL	|	お風呂	とても豪華
+1146 - hotel_quad_train_705:	ベッド	NULL	|	ベッド	とても気持ちよく
+1147 - hotel_quad_train_706:	シャワールーム	最 高	|	シャワールーム	最高
+1148 - hotel_quad_train_707:	眺	NULL	|	眺め	とても良かった
+1149 - hotel_quad_train_708:	全 体 的	満 足	|	全体的	満足
+1150 - hotel_quad_train_709:	朝 食	楽 しみ	|	朝食	楽しみ
+1151 - hotel_quad_train_710:	素 泊 まり	NULL	|	素泊まり	とても良かった
+1152 - hotel_quad_train_711:	NULL	良 かった	|	バランス	良かった
+1153 - hotel_quad_train_712:	NULL	大 変 快 適	|	NULL	大変快適
+1154 - hotel_quad_train_713:	上 州 牛	美 味 しい	|	上州牛	美味しい
+1155 - hotel_quad_train_713:	料 金	満 足	|	料金	満足
+1156 - hotel_quad_train_714:	シチュー	冷 たく	|	シチュー	冷たく
+1157 - hotel_quad_train_714:	温 かい 食 べ 物	残 念	|	温かい食べ物	残念
+1158 - hotel_quad_train_714:	案 内	NULL	|	案内	スムーズ
+1159 - hotel_quad_train_714:	煮 物	冷 たく	|	煮物	冷たく
+1160 - hotel_quad_train_715:	品 数	NULL	|	品数	まずまず
+1161 - hotel_quad_train_715:	朝 食	大 満 足	|	朝食	大満足
+1162 - hotel_quad_train_716:	バイキング	残 念	|	バイキング	残念
+1163 - hotel_quad_train_717:	ホテル	とても 便 利	|	ホテル	とても便利
+1164 - hotel_quad_train_718:	部 屋	とても 良 かった	|	部屋	とても良かった
+1165 - hotel_quad_train_719:	夕 食	NULL	|	夕食	イライラ
+1166 - hotel_quad_train_720:	笑 顔	癒 されました	|	笑顔	癒されました
+1167 - hotel_quad_train_720:	食 事	美 味 しかった	|	食事	美味しかった
+1168 - hotel_quad_train_720:	感 じ 良 さ	癒 されました	|	感じ良さ	癒されました
+1169 - hotel_quad_train_721:	対 応	良 く	|	対応	良く
+1170 - hotel_quad_train_721:	NULL	非 常 に 充 実	|	アメニティー	非常に充実
+1171 - hotel_quad_train_722:	NULL	快 適	|	NULL	快適
+1172 - hotel_quad_train_723:	盛 岡 駅	便 利	|	盛岡駅	便利
+1173 - hotel_quad_train_723:	NULL	目 の 前	|	NULL	目の前
+1174 - hotel_quad_train_724:	お 風 呂	NULL	|	お風呂	まったり
+1175 - hotel_quad_train_725:	ウェルカムドリンク	充 実	|	ウェルカムドリンク	充実
+1176 - hotel_quad_train_726:	部 屋	NULL	|	部屋	きれい
+1177 - hotel_quad_train_726:	温 泉	快 適	|	温泉	快適
+1178 - hotel_quad_train_726:	立 地	最 高	|	立地	最高
+1179 - hotel_quad_train_726:	ごはん	美 味 しく	|	ごはん	美味しく
+1180 - hotel_quad_train_727:	部 屋	快 適	|	部屋	快適
+1181 - hotel_quad_train_728:	部 屋	とても 広 く	|	部屋	とても広く
+1182 - hotel_quad_train_729:	夕 ご 飯	のんびり	|	夕ご飯	のんびり
+1183 - hotel_quad_train_730:	温 泉	快 適	|	温泉	快適
+1184 - hotel_quad_train_731:	食 事	NULL	|	食事	ゆっくり
+1185 - hotel_quad_train_732:	NULL	とても 快 適	|	カウラ	とても快適
+1186 - hotel_quad_train_733:	椅 子	少 なく	|	椅子	少なく
+1187 - hotel_quad_train_734:	NULL	清 潔	|	NULL	清潔
+1188 - hotel_quad_train_735:	部 屋	NULL	|	部屋	とても綺麗
+1189 - hotel_quad_train_735:	風 呂	NULL	|	風呂	とても綺麗
+1190 - hotel_quad_train_736:	体	癒 されました	|	体	癒されました
+1191 - hotel_quad_train_736:	心	癒 されました	|	心	癒されました
+1192 - hotel_quad_train_736:	スタッフ	NULL	|	スタッフ	とても丁寧
+1193 - hotel_quad_train_737:	NULL	きれい	|	ホテル	きれい
+1194 - hotel_quad_train_738:	NULL	最 高	|	おもてなし	最高
+1195 - hotel_quad_train_738:	心 遣	最 高	|	心遣い	最高
+1196 - hotel_quad_train_739:	部 屋	広 い	|	部屋	広い
+1197 - hotel_quad_train_739:	昔 話	楽 しめました	|	昔話	楽しめました
+1198 - hotel_quad_train_740:	乾 燥	NULL	|	乾燥	ひどく
+1199 - hotel_quad_train_741:	NULL	絶 妙	|	タイミング	絶妙
+1200 - hotel_quad_train_742:	朝 食	そこそこ 種 類 があった	|	朝食	そこそこ種類があった
+1201 - hotel_quad_train_743:	立 地	最 高	|	立地	最高
+1203 - hotel_quad_train_744:	立 地	摩 訶 不 思 議	|	立地	摩訶不思議
+1204 - hotel_quad_train_745:	対 応	優 しく	|	対応	優しく
+1205 - hotel_quad_train_745:	NULL	心 癒 される	|	NULL	心癒される
+1206 - hotel_quad_train_746:	接 客	NULL	|	接客	よく
+1207 - hotel_quad_train_746:	NULL	快 適	|	ホテル	快適
+1208 - hotel_quad_train_746:	立 地	NULL	|	立地	よく
+1209 - hotel_quad_train_747:	ホテル	新 しく	|	ホテル	新しく
+1210 - hotel_quad_train_747:	TV	NULL	|	TV	とても残念
+1211 - hotel_quad_train_748:	雰 囲 気	抜 群	|	雰囲気	抜群
+1212 - hotel_quad_train_749:	料 理	NULL	|	料理	とても食べやすかった
+1213 - hotel_quad_train_750:	夕 食	少 し 遠 かった	|	夕食	少し遠かった
+1214 - hotel_quad_train_750:	朝 食	少 し 遠 かった	|	朝食	少し遠かった
+1215 - hotel_quad_train_750:	しゃぶしゃぶ	大 満 足	|	しゃぶしゃぶ	大満足
+1216 - hotel_quad_train_751:	内 湯	良 かった	|	内湯	良かった
+1217 - hotel_quad_train_752:	宿	NULL	|	宿	バランスの良い
+1218 - hotel_quad_train_752:	NULL	良 く	|	お風呂	良く
+1219 - hotel_quad_train_752:	食 事	良 く	|	食事	良く
+1220 - hotel_quad_train_753:	ビジネスホテル	最 高	|	ビジネスホテル	最高
+1221 - hotel_quad_train_753:	立 地	最 高	|	立地	最高
+1222 - hotel_quad_train_754:	部 屋	NULL	|	部屋	とても寒かった
+1223 - hotel_quad_train_755:	露 天 風 呂	凄 く 温 まりました	|	露天風呂	凄く温まりました
+1224 - hotel_quad_train_756:	朝 食	おいしい	|	朝食	おいしい
+1226 - hotel_quad_train_756:	駅	少 し 歩 いた	|	駅	少し歩いた
+1227 - hotel_quad_train_757:	お 風 呂	広 く	|	お風呂	広く
+1228 - hotel_quad_train_758:	ベッド	広 く	|	ベッド	広く
+1229 - hotel_quad_train_759:	朝 食	物 足 りなく	|	朝食	物足りなく
+1230 - hotel_quad_train_759:	NULL	美 味 しく	|	うなぎ	美味しく
+1231 - hotel_quad_train_759:	品 数	少 なく	|	品数	少なく
+1232 - hotel_quad_train_760:	バイキング	美 味 しい	|	バイキング	美味しい
+1233 - hotel_quad_train_760:	部 屋	広 い	|	部屋	広い
+1234 - hotel_quad_train_761:	秩 父	十 分 楽 しい	|	秩父	十分楽しい
+1235 - hotel_quad_train_762:	NULL	素 晴 らしい	|	お湯	素晴らしい
+1236 - hotel_quad_train_762:	食 事	素 晴 らしい	|	食事	素晴らしい
+1237 - hotel_quad_train_763:	お 部 屋	非 常 に 清 潔	|	お部屋	非常に清潔
+1238 - hotel_quad_train_763:	水 回 り	非 常 にきれい	|	水回り	非常にきれい
+1239 - hotel_quad_train_764:	部 屋	広 く	|	部屋	広く
+1240 - hotel_quad_train_764:	値 段	安 く	|	値段	安く
+1241 - hotel_quad_train_765:	部 屋	清 潔	|	部屋	清潔
+1242 - hotel_quad_train_765:	施 設	清 潔	|	施設	清潔
+1243 - hotel_quad_train_766:	NULL	大 きな	|	ベット	大きな
+1244 - hotel_quad_train_766:	ソファー	大 きな	|	ソファー	大きな
+1245 - hotel_quad_train_766:	設 備	NULL	|	設備	とても良い
+1246 - hotel_quad_train_766:	テレビ	大 きな	|	テレビ	大きな
+1247 - hotel_quad_train_767:	床 暖 房	すごく 良 かった	|	床暖房	すごく良かった
+1248 - hotel_quad_train_768:	食 事	飽 きない	|	食事	飽きない
+1249 - hotel_quad_train_768:	NULL	多 種 多 様	|	メニュー	多種多様
+1250 - hotel_quad_train_769:	風 呂	本 当 に 気 持 ちよかった	|	風呂	本当に気持ちよかった
+1251 - hotel_quad_train_770:	NULL	綺 麗	|	お部屋	綺麗
+1252 - hotel_quad_train_771:	温 泉	良 い	|	温泉	良い
+1253 - hotel_quad_train_771:	大 浴 場	NULL	|	大浴場	ゆっくり
+1254 - hotel_quad_train_771:	露 天 風 呂	最 高	|	露天風呂	最高
+1255 - hotel_quad_train_772:	部 屋	とても 快 適	|	部屋	とても快適
+1256 - hotel_quad_train_773:	NULL	良 い	|	ホテル	良い
+1257 - hotel_quad_train_774:	大 浴 場	癒 せました	|	大浴場	癒せました
+1258 - hotel_quad_train_775:	料 理	最 高	|	料理	最高
+1259 - hotel_quad_train_775:	NULL	最 高	|	お部屋	最高
+1260 - hotel_quad_train_776:	お 部 屋	大 変 綺 麗	|	お部屋	大変綺麗
+1261 - hotel_quad_train_776:	入 浴	ゆったり	|	入浴	ゆったり
+1262 - hotel_quad_train_777:	NULL	満 足	|	NULL	満足
+1263 - hotel_quad_train_777:	値 段	安 くて	|	値段	安くて
+1264 - hotel_quad_train_778:	駅	近 く	|	駅	近く
+1265 - hotel_quad_train_778:	部 屋	比 較 的 広 い	|	部屋	比較的広い
+1266 - hotel_quad_train_779:	部 屋	乾 燥	|	部屋	乾燥
+1267 - hotel_quad_train_779:	乾 燥	辛 かった	|	乾燥	辛かった
+1268 - hotel_quad_train_780:	NULL	NULL	|	サービス	うれしい
+1269 - hotel_quad_train_781:	NULL	気 に 入 りました	|	ホテル	気に入りました
+1270 - hotel_quad_train_782:	温 泉	最 高	|	温泉	最高
+1271 - hotel_quad_train_783:	露 天 風 呂	特 に 良 かった	|	露天風呂	特に良かった
+1272 - hotel_quad_train_783:	温 泉	極 楽 気 分	|	温泉	極楽気分
+1273 - hotel_quad_train_784:	NULL	便 利	|	コンビニ	便利
+1274 - hotel_quad_train_785:	お 風 呂	NULL	|	お風呂	とても良かった
+1275 - hotel_quad_train_786:	照 明	良	|	照明	良い
+1276 - hotel_quad_train_787:	NULL	キレイ	|	ホテル	キレイ
+1277 - hotel_quad_train_787:	部 屋	キレイ	|	部屋	キレイ
+1279 - hotel_quad_train_789:	NULL	良 く	|	お部屋	良く
+1280 - hotel_quad_train_789:	NULL	良 く	|	ソファー	良く
+1281 - hotel_quad_train_789:	椅 子	良 く	|	椅子	良く
+1282 - hotel_quad_train_790:	風 呂 周	残 念	|	風呂周り	残念
+1283 - hotel_quad_train_791:	フロント	親 切	|	フロント	親切
+1284 - hotel_quad_train_792:	経 路	NULL	|	経路	わかりにくい
+1285 - hotel_quad_train_793:	NULL	NULL	|	ロケーション	いい
+1286 - hotel_quad_train_794:	アメニティー	NULL	|	アメニティー	たくさん
+1287 - hotel_quad_train_795:	NULL	親 切	|	サービス	親切
+1288 - hotel_quad_train_796:	NULL	良 い	|	ホテル	良い
+1289 - hotel_quad_train_797:	大 風 呂	NULL	|	大風呂	うれしい
+1290 - hotel_quad_train_798:	別 の 和 室	NULL	|	別の和室	とても寒かった
+1291 - hotel_quad_train_798:	NULL	暖 かく	|	ベッドルーム	暖かく
+1292 - hotel_quad_train_799:	NULL	良 く	|	スタッフ	良く
+1293 - hotel_quad_train_799:	部 屋	良 く	|	部屋	良く
+1294 - hotel_quad_train_799:	NULL	NULL	|	NULL	お得
+1295 - hotel_quad_train_799:	NULL	居 心 地 の 良 い	|	ホテル	居心地の良い
+1296 - hotel_quad_train_800:	NULL	良 かった	|	お値打ち	良かった
+1297 - hotel_quad_train_801:	金 谷 ホテル	NULL	|	金谷ホテル	とても心地よかった
+1298 - hotel_quad_train_802:	温 泉	良	|	温泉	良い
+1299 - hotel_quad_train_802:	立 地	良 く	|	立地	良く
+1300 - hotel_quad_train_803:	NULL	残 念	|	フリードリンク	残念
+1301 - hotel_quad_train_804:	夕 食	NULL	|	夕食	とても残念
+1302 - hotel_quad_train_805:	露 天 風 呂	NULL	|	露天風呂	とても気持ち良かった
+1303 - hotel_quad_train_806:	部 屋	広 く	|	部屋	広く
+1304 - hotel_quad_train_807:	NULL	良 い	|	アメニティ	良い
+1305 - hotel_quad_train_808:	朝 食	大 変 満 足	|	朝食	大変満足
+1307 - hotel_quad_train_810:	NULL	NULL	|	NULL	ゆったり
+1308 - hotel_quad_train_811:	NULL	NULL	|	NULL	ぼったくり
+1309 - hotel_quad_train_812:	NULL	高	|	NULL	高い
+1310 - hotel_quad_train_813:	NULL	大 変 落 ち 着 いて	|	NULL	大変落ち着いて
+1311 - hotel_quad_train_814:	NULL	少 し 落 ち 着 かない	|	バイキング	少し落ち着かない
+1312 - hotel_quad_train_814:	人	多 く	|	人	多く
+1313 - hotel_quad_train_814:	景 色	壮 大	|	景色	壮大
+1314 - hotel_quad_train_815:	NULL	不 足	|	NULL	不足
+1315 - hotel_quad_train_816:	風 呂	楽 しめました	|	風呂	楽しめました
+1316 - hotel_quad_train_817:	ワンコ	安 心	|	ワンコ	安心
+1317 - hotel_quad_train_818:	全 部	良 すぎる	|	全部	良すぎる
+1318 - hotel_quad_train_819:	清 潔 感	良 かった	|	清潔感	良かった
+1319 - hotel_quad_train_819:	価 格	良 かった	|	価格	良かった
+1320 - hotel_quad_train_820:	対 応	NULL	|	対応	とても丁寧
+1321 - hotel_quad_train_820:	朝 食	美 味 しく	|	朝食	美味しく
+1322 - hotel_quad_train_820:	NULL	満 足	|	Hotel	満足
+1323 - hotel_quad_train_821:	NULL	NULL	|	NULL	よかった
+1324 - hotel_quad_train_822:	客 室	素 敵	|	客室	素敵
+1325 - hotel_quad_train_822:	景 色	素 敵	|	景色	素敵
+1326 - hotel_quad_train_822:	おぷーろ	素 敵	|	おぷーろ	素敵
+1327 - hotel_quad_train_822:	お 風 呂	素 敵	|	お風呂	素敵
+1328 - hotel_quad_train_822:	足 湯	素 敵	|	足湯	素敵
+1329 - hotel_quad_train_822:	バイキング	素 敵	|	バイキング	素敵
+1330 - hotel_quad_train_823:	眺 望	良 かった	|	眺望	良かった
+1331 - hotel_quad_train_824:	食 事	美 味 しかった	|	食事	美味しかった
+1332 - hotel_quad_train_824:	温 泉	良 かった	|	温泉	良かった
+1333 - hotel_quad_train_825:	NULL	良 かった	|	ホスピタリティ	良かった
+1334 - hotel_quad_train_825:	NULL	良 かった	|	サービス	良かった
+1335 - hotel_quad_train_826:	NULL	よかった	|	ラウンジ	よかった
+1336 - hotel_quad_train_827:	食 事	美 味 しかった	|	食事	美味しかった
+1337 - hotel_quad_train_827:	質	落 ちた	|	質	落ちた
+1338 - hotel_quad_train_828:	風 呂	良 かった	|	風呂	良かった
+1339 - hotel_quad_train_829:	NULL	大 変 不 快	|	NULL	大変不快
+1340 - hotel_quad_train_830:	駅 近	NULL	|	駅近	とても良かった
+1341 - hotel_quad_train_831:	窓	大 きな	|	窓	大きな
+1342 - hotel_quad_train_832:	NULL	仕 事 がやりづらい	|	NULL	仕事がやりづらい
+1343 - hotel_quad_train_833:	NULL	新 しい	|	NULL	新しい
+1344 - hotel_quad_train_834:	従 業 員	親 切	|	従業員	親切
+1345 - hotel_quad_train_835:	対 応	申 し 分 ありません	|	対応	申し分ありません
+1346 - hotel_quad_train_836:	駅	とても 便 利	|	駅	とても便利
+1347 - hotel_quad_train_837:	値 段	NULL	|	値段	リーズナブル
+1348 - hotel_quad_train_837:	宿 泊	ゆっくり	|	宿泊	ゆっくり
+1349 - hotel_quad_train_837:	広 さ	十 分	|	広さ	十分
+1350 - hotel_quad_train_837:	NULL	清 潔 感	|	ツイン	清潔感
+1351 - hotel_quad_train_838:	便 座	冷 たい	|	便座	冷たい
+1352 - hotel_quad_train_838:	冷 蔵 庫	NULL	|	冷蔵庫	うるさい
+1353 - hotel_quad_train_839:	旅	楽 しい	|	旅	楽しい
+1354 - hotel_quad_train_839:	接 客	NULL	|	接客	とても良く
+1355 - hotel_quad_train_840:	通 路	狭 く	|	通路	狭く
+1356 - hotel_quad_train_841:	部 屋	満 足	|	部屋	満足
+1357 - hotel_quad_train_842:	対 応	良 く	|	対応	良く
+1358 - hotel_quad_train_842:	旅 行	楽 しく	|	旅行	楽しく
+1359 - hotel_quad_train_843:	宿	NULL	|	宿	とても優しい
+1360 - hotel_quad_train_844:	NULL	満 喫	|	NULL	満喫
+1361 - hotel_quad_train_844:	部 屋	広 くて	|	部屋	広くて
+1362 - hotel_quad_train_845:	部 屋	良 かった	|	部屋	良かった
+1363 - hotel_quad_train_846:	風 呂	良 かった	|	風呂	良かった
+1364 - hotel_quad_train_846:	トイレ	良 かった	|	トイレ	良かった
+1366 - hotel_quad_train_848:	NULL	美 味 しい	|	アイスクリーム	美味しい
+1367 - hotel_quad_train_849:	音	大 変 気 になった	|	音	大変気になった
+1368 - hotel_quad_train_850:	NULL	残 念	|	ライトアップ	残念
+1369 - hotel_quad_train_850:	料 理	素 晴 らしく	|	料理	素晴らしく
+1370 - hotel_quad_train_851:	味 噌 汁	冷 え 冷 え	|	味噌汁	冷え冷え
+1371 - hotel_quad_train_852:	部 屋	特 に 不 便 はない	|	部屋	特に不便はない
+1372 - hotel_quad_train_853:	NULL	とてもゆったり	|	ベッド	とてもゆったり
+1373 - hotel_quad_train_854:	アメニティ	気 に 入 っています	|	アメニティ	気に入っています
+1374 - hotel_quad_train_855:	NULL	大 変 快 適	|	NULL	大変快適
+1375 - hotel_quad_train_855:	清 掃	NULL	|	清掃	しっかり
+1377 - hotel_quad_train_857:	ラウンジ	大 満 足	|	ラウンジ	大満足
+1378 - hotel_quad_train_858:	NULL	充 実	|	サービス	充実
+1379 - hotel_quad_train_858:	書 籍	充 実	|	書籍	充実
+1380 - hotel_quad_train_859:	綺 麗 さ	満 足	|	綺麗さ	満足
+1381 - hotel_quad_train_859:	アメニティ	満 足	|	アメニティ	満足
+1382 - hotel_quad_train_859:	対 応	満 足	|	対応	満足
+1383 - hotel_quad_train_860:	夜 景	NULL	|	夜景	きれい
+1384 - hotel_quad_train_860:	部 屋	快 適	|	部屋	快適
+1385 - hotel_quad_train_861:	NULL	NULL	|	ホテル	よい
+1386 - hotel_quad_train_861:	値 段	NULL	|	値段	リーズナブル
+1387 - hotel_quad_train_861:	部 屋	NULL	|	部屋	きれい
+1388 - hotel_quad_train_862:	露 天 風 呂 付 きの 部 屋	大 変 満 足	|	露天風呂付きの部屋	大変満足
+1389 - hotel_quad_train_863:	従 業 員	NULL	|	従業員	もったいなく
+1390 - hotel_quad_train_864:	施 設	古 い	|	施設	古い
+1391 - hotel_quad_train_864:	客 室	NULL	|	客室	ゆっくり
+1392 - hotel_quad_train_864:	清 掃	行 き 届 いて	|	清掃	行き届いて
+1393 - hotel_quad_train_865:	白 良 浜	目 と 鼻 の 先	|	白良浜	目と鼻の先
+1395 - hotel_quad_train_867:	天 理 駅	NULL	|	天理駅	とても便利
+1396 - hotel_quad_train_868:	立 地	良 く	|	立地	良く
+1397 - hotel_quad_train_869:	部 屋	満 足	|	部屋	満足
+1398 - hotel_quad_train_870:	部 屋	とてもきれい	|	部屋	とてもきれい
+1399 - hotel_quad_train_871:	朝 食	美 味 しそう	|	朝食	美味しそう
+1400 - hotel_quad_train_872:	山 並 み	貴 重	|	山並み	貴重
+1401 - hotel_quad_train_872:	自 室	NULL	|	自室	きれい
+1402 - hotel_quad_train_873:	露 天 風 呂	最 高	|	露天風呂	最高
+1403 - hotel_quad_train_874:	備 品	便 利	|	備品	便利
+1404 - hotel_quad_train_875:	滞 在	とても 満 喫	|	滞在	とても満喫
+1405 - hotel_quad_train_876:	大 浴 場	清 潔	|	大浴場	清潔
+1406 - hotel_quad_train_876:	繁 華 街	近 く	|	繁華街	近く
+1407 - hotel_quad_train_877:	NULL	とても 綺 麗	|	NULL	とても綺麗
+1408 - hotel_quad_train_877:	居 心 地	いい	|	居心地	いい
+1409 - hotel_quad_train_878:	立 地	便 利	|	立地	便利
+1410 - hotel_quad_train_879:	宿 泊	大 変 満 足	|	宿泊	大変満足
+1411 - hotel_quad_train_880:	部 屋	NULL	|	部屋	コンパクト
+1412 - hotel_quad_train_880:	匂	気 になった	|	匂い	気になった
+1414 - hotel_quad_train_881:	設 備	良 かった	|	設備	良かった
+1415 - hotel_quad_train_882:	アレルギー 対 応	大 変 満 足	|	アレルギー対応	大変満足
+1416 - hotel_quad_train_882:	電 話 連 絡	大 変 満 足	|	電話連絡	大変満足
+1417 - hotel_quad_train_882:	接 客	大 変 満 足	|	接客	大変満足
+1418 - hotel_quad_train_883:	風 呂	NULL	|	風呂	それなりに広く
+1419 - hotel_quad_train_884:	断 熱 性	NULL	|	断熱性	よい
+1420 - hotel_quad_train_885:	朝 食	美 味 しく	|	朝食	美味しく
+1421 - hotel_quad_train_885:	お 味 噌 汁 の 具	NULL	|	お味噌汁の具	たっぷり
+1422 - hotel_quad_train_885:	サービス	無 料	|	サービス	無料
+1423 - hotel_quad_train_885:	品 数	少 な 目	|	品数	少な目
+1424 - hotel_quad_train_886:	くろしお 温 泉	残 念	|	くろしお温泉	残念
+1425 - hotel_quad_train_887:	建 物	古 く	|	建物	古く
+1426 - hotel_quad_train_887:	NULL	NULL	|	ロビー	とても綺麗
+1427 - hotel_quad_train_887:	大 浴 場	NULL	|	大浴場	とても綺麗
+1428 - hotel_quad_train_887:	部 屋	NULL	|	部屋	とても綺麗
+1429 - hotel_quad_train_888:	繁 華 街	NULL	|	繁華街	とても近く
+1430 - hotel_quad_train_888:	NULL	便 利	|	NULL	便利
+1431 - hotel_quad_train_889:	食 事	NULL	|	食事	おいしく
+1432 - hotel_quad_train_890:	立 地	若 干 遠	|	立地	若干遠い
+1433 - hotel_quad_train_891:	部 屋	綺 麗	|	部屋	綺麗
+1434 - hotel_quad_train_891:	NULL	満 足	|	プライス	満足
+1435 - hotel_quad_train_892:	照 明	暗 め	|	照明	暗め
+1436 - hotel_quad_train_893:	居 心 地	大 変 良 かった	|	居心地	大変良かった
+1437 - hotel_quad_train_893:	部 屋	静 か	|	部屋	静か
+1438 - hotel_quad_train_893:	雰 囲 気	落 ち 着 いた	|	雰囲気	落ち着いた
+1439 - hotel_quad_train_894:	配 慮	足 りてない	|	配慮	足りてない
+1440 - hotel_quad_train_895:	NULL	便 利	|	コンビニ	便利
+1441 - hotel_quad_train_895:	NULL	近 く	|	IKEA	近く
+1442 - hotel_quad_train_896:	オールインクルーシブ	大 変 満 足	|	オールインクルーシブ	大変満足
+1443 - hotel_quad_train_896:	ホテル	素 敵	|	ホテル	素敵
+1444 - hotel_quad_train_897:	NULL	とても 良 かった	|	サービス	とても良かった
+1445 - hotel_quad_train_897:	料 理	とても 美 味 しく	|	料理	とても美味しく
+1446 - hotel_quad_train_898:	宿	NULL	|	宿	とてもおすすめ
+1447 - hotel_quad_train_899:	NULL	大 満 足	|	NULL	大満足
+1448 - hotel_quad_train_900:	味	美 味 しく	|	味	美味しく
+1449 - hotel_quad_train_900:	品 数	多 く	|	品数	多く
+1450 - hotel_quad_train_900:	NULL	満 足	|	ビュッフェ	満足
+1451 - hotel_quad_train_901:	場 所	便 利	|	場所	便利
+1452 - hotel_quad_train_902:	懐 石	NULL	|	懐石	とても美味しく
+1453 - hotel_quad_train_902:	地 酒	NULL	|	地酒	よく合いました
+1454 - hotel_quad_train_902:	夕 食	NULL	|	夕食	とても美味しく
+1455 - hotel_quad_train_903:	ビジネスホテル	NULL	|	ビジネスホテル	お気に入り
+1456 - hotel_quad_train_904:	台 湾 まぜそば	NULL	|	台湾まぜそば	うれしかった
+1457 - hotel_quad_train_905:	食 事	NULL	|	食事	きめ細かく
+1458 - hotel_quad_train_905:	味	良 かった	|	味	良かった
+1459 - hotel_quad_train_906:	NULL	NULL	|	サービス	とてもよく
+1460 - hotel_quad_train_907:	大 浴 場	くつろげました	|	大浴場	くつろげました
+1461 - hotel_quad_train_908:	風 呂	残 念	|	風呂	残念
+1462 - hotel_quad_train_909:	子 連 れ	利 用 しやすく	|	子連れ	利用しやすく
+1463 - hotel_quad_train_909:	スタッフ	NULL	|	スタッフ	とっても優しかった
+1464 - hotel_quad_train_910:	応 対	NULL	|	応対	よく
+1465 - hotel_quad_train_910:	NULL	快 適	|	NULL	快適
+1466 - hotel_quad_train_911:	部 屋	綺 麗	|	部屋	綺麗
+1467 - hotel_quad_train_911:	朝 食	美 味 しく	|	朝食	美味しく
+1468 - hotel_quad_train_912:	景 色	NULL	|	景色	すてき
+1469 - hotel_quad_train_913:	部 屋	若 干 古	|	部屋	若干古い
+1470 - hotel_quad_train_914:	水 風 呂	最 高	|	水風呂	最高
+1471 - hotel_quad_train_914:	サウナ	最 高	|	サウナ	最高
+1472 - hotel_quad_train_915:	朝 食	NULL	|	朝食	おししかった
+1473 - hotel_quad_train_916:	掃 除	行 き 届 いている	|	掃除	行き届いている
+1474 - hotel_quad_train_916:	水 回 り	い	|	水回り	いい
+1475 - hotel_quad_train_917:	NULL	残 念	|	BS	残念
+1476 - hotel_quad_train_917:	部 屋	快 適	|	部屋	快適
+1477 - hotel_quad_train_918:	送 迎 バス	少 ない	|	送迎バス	少ない
+1478 - hotel_quad_train_919:	NULL	非 常 に 良 い	|	サービス	非常に良い
+1479 - hotel_quad_train_920:	部 屋	快 適	|	部屋	快適
+1480 - hotel_quad_train_920:	NULL	気 になる	|	エアコンの音	気になる
+1481 - hotel_quad_train_921:	NULL	NULL	|	NULL	もっと便利
+1482 - hotel_quad_train_922:	部 屋	満 足	|	部屋	満足
+1483 - hotel_quad_train_923:	サービス	満 足	|	サービス	満足
+1484 - hotel_quad_train_923:	接 客	満 足	|	接客	満足
+1485 - hotel_quad_train_924:	チェックイン	大 変 よかった	|	チェックイン	大変よかった
+1486 - hotel_quad_train_925:	海 鮮 丼	感 動	|	海鮮丼	感動
+1487 - hotel_quad_train_926:	興 福 寺	近 く	|	興福寺	近く
+1488 - hotel_quad_train_927:	NULL	NULL	|	チェックイン	ありがたい
+1489 - hotel_quad_train_928:	和 膳	喜 んで	|	和膳	喜んで
+1490 - hotel_quad_train_929:	NULL	少 しだけ 残 念	|	スタッフ	少しだけ残念
+1491 - hotel_quad_train_930:	朝 食	短 い	|	朝食	短い
+1492 - hotel_quad_train_930:	風 呂	短 い	|	風呂	短い
+1493 - hotel_quad_train_931:	接 客	気 持 ちが 良 く	|	接客	気持ちが良く
+1494 - hotel_quad_train_931:	対 応	気 持 ちが 良 く	|	対応	気持ちが良く
+1495 - hotel_quad_train_931:	宿 泊	とても 快 適	|	宿泊	とても快適
+1496 - hotel_quad_train_932:	駅	近 く	|	駅	近く
+1497 - hotel_quad_train_932:	NULL	便 利	|	NULL	便利
+1498 - hotel_quad_train_933:	食 事	美 味 しかった	|	食事	美味しかった
+1499 - hotel_quad_train_934:	部 屋	NULL	|	部屋	きれい
+1500 - hotel_quad_train_935:	スタッフ	NULL	|	スタッフ	すごく丁寧
+1501 - hotel_quad_train_936:	案 内	不 誠 実	|	案内	不誠実
+1502 - hotel_quad_train_937:	NULL	優 れ	|	フットマッサージャー	優れもの
+1503 - hotel_quad_train_937:	眺 望	楽 しめる	|	眺望	楽しめる
+1504 - hotel_quad_train_938:	入 口	近	|	入口	近い
+1505 - hotel_quad_train_938:	配 慮	素 晴 らしく	|	配慮	素晴らしく
+1506 - hotel_quad_train_939:	立 地	良 い 雰 囲 気	|	立地	良い雰囲気
+1507 - hotel_quad_train_940:	眺 め	素 晴 らしく	|	眺め	素晴らしく
+1508 - hotel_quad_train_940:	夜 景	NULL	|	夜景	すばらしかった
+1509 - hotel_quad_train_941:	旅	楽 しい	|	旅	楽しい
+1510 - hotel_quad_train_942:	値 段	打 ち	|	値段	値打ち
+1511 - hotel_quad_train_943:	NULL	満 足	|	NULL	満足
+1512 - hotel_quad_train_943:	部 屋	暖 かく	|	部屋	暖かく
+1513 - hotel_quad_train_943:	ホテル 内 全 体	暖 かく	|	ホテル内全体	暖かく
+1514 - hotel_quad_train_944:	立 地	使 いやすい	|	立地	使いやすい
+1515 - hotel_quad_train_944:	駐 車 場	無 料	|	駐車場	無料
+1516 - hotel_quad_train_944:	NULL	便 利	|	NULL	便利
+1517 - hotel_quad_train_945:	風 呂	良 かった	|	風呂	良かった
+1518 - hotel_quad_train_946:	部 屋	NULL	|	部屋	ゆったり
+1519 - hotel_quad_train_947:	アメニティー	充 実	|	アメニティー	充実
+1520 - hotel_quad_train_948:	スパ	NULL	|	スパ	コンパクト
+1521 - hotel_quad_train_949:	食 事	美 味 しい	|	食事	美味しい
+1522 - hotel_quad_train_949:	湯	良 い	|	湯	良い
+1523 - hotel_quad_train_950:	部 屋	綺 麗	|	部屋	綺麗
+1524 - hotel_quad_train_951:	朝 食	非 常 においしかった	|	朝食	非常においしかった
+1525 - hotel_quad_train_951:	NULL	多 く	|	バイキング	多く
+1526 - hotel_quad_train_952:	立 地	最 高	|	立地	最高
+1527 - hotel_quad_train_952:	スタッフ	親 切	|	スタッフ	親切
+1528 - hotel_quad_train_953:	説 明	丁 寧	|	説明	丁寧
+1529 - hotel_quad_train_954:	金 額	安 く	|	金額	安く
+1530 - hotel_quad_train_955:	NULL	手 間	|	NULL	手間
+1531 - hotel_quad_train_956:	部 屋	とても 素 敵	|	部屋	とても素敵
+1532 - hotel_quad_train_957:	対 応	素 晴 らしく	|	対応	素晴らしく
+1533 - hotel_quad_train_957:	景 色	素 晴 らしく	|	景色	素晴らしく
+1534 - hotel_quad_train_957:	朝 食	素 晴 らしく	|	朝食	素晴らしく
+1535 - hotel_quad_train_958:	食 事	楽 しめました	|	食事	楽しめました
+1536 - hotel_quad_train_959:	食 事	NULL	|	食事	とても美味しかった
+1537 - hotel_quad_train_960:	立 地	良 く	|	立地	良く
+1538 - hotel_quad_train_960:	NULL	NULL	|	サービス	いつも満足
+1539 - hotel_quad_train_961:	NULL	普 通	|	ビジネスホテル	普通
+1540 - hotel_quad_train_962:	部 屋	広 く	|	部屋	広く
+1541 - hotel_quad_train_963:	温 泉	NULL	|	温泉	ちゃくちゃ良かった
+1542 - hotel_quad_train_964:	食 事	豪 華	|	食事	豪華
+1543 - hotel_quad_train_965:	風 呂	最 高	|	風呂	最高
+1544 - hotel_quad_train_965:	部 屋	最 高	|	部屋	最高
+1545 - hotel_quad_train_966:	私 語	少 ない	|	私語	少ない
+1546 - hotel_quad_train_966:	NULL	良	|	NULL	良い
+1547 - hotel_quad_train_967:	立 地	良 く	|	立地	良く
+1548 - hotel_quad_train_967:	施 設	綺 麗	|	施設	綺麗
+1549 - hotel_quad_train_968:	大 浴 場	満 喫	|	大浴場	満喫
+1550 - hotel_quad_train_969:	種 類	少 なく	|	種類	少なく
+1551 - hotel_quad_train_969:	朝 食	期 待 外 れ	|	朝食	期待外れ
+1552 - hotel_quad_train_970:	朝 食	美 味 しい	|	朝食	美味しい
+1553 - hotel_quad_train_971:	食 事	良 かった	|	食事	良かった
+1554 - hotel_quad_train_972:	温 泉	最 高	|	温泉	最高
+1555 - hotel_quad_train_973:	ベッド	良 かった	|	ベッド	良かった
+1556 - hotel_quad_train_974:	料 理	素 晴 らしい	|	料理	素晴らしい
+1557 - hotel_quad_train_975:	立 地	NULL	|	立地	とてもいい
+1558 - hotel_quad_train_976:	含 め 煮	美 味 しかった	|	含め煮	美味しかった
+1559 - hotel_quad_train_977:	NULL	静	|	NULL	静か
+1560 - hotel_quad_train_978:	NULL	美 味 すぎ	|	ご飯	美味すぎ
+1561 - hotel_quad_train_978:	肉 団 子 汁	美 味 すぎ	|	肉団子汁	美味すぎ
+1562 - hotel_quad_train_979:	水 圧	十 分	|	水圧	十分
+1563 - hotel_quad_train_979:	風 呂	安 心	|	風呂	安心
+1564 - hotel_quad_train_980:	水 回 り	若 干 古 さを 感 じました	|	水回り	若干古さを感じました
+1565 - hotel_quad_train_980:	部 屋	若 干 古 さを 感 じました	|	部屋	若干古さを感じました
+1566 - hotel_quad_train_981:	NULL	NULL	|	サービス	ちょい不満
+1567 - hotel_quad_train_982:	感 じ	良 く	|	感じ	良く
+1568 - hotel_quad_train_983:	白 米	不 味	|	白米	不味い
+1569 - hotel_quad_train_984:	朝 食	良 かった	|	朝食	良かった
+1570 - hotel_quad_train_984:	種 類	多 く	|	種類	多く
+1571 - hotel_quad_train_985:	露 天 風 呂	少 し 残 念	|	露天風呂	少し残念
+1572 - hotel_quad_train_986:	NULL	とても 使 いやすい	|	ホテル	とても使いやすい
+1573 - hotel_quad_train_987:	NULL	良 すぎた	|	サービス	良すぎた
+1574 - hotel_quad_train_988:	NULL	便 利	|	NULL	便利
+1575 - hotel_quad_train_989:	全 体 的	普 通	|	全体的	普通
+1576 - hotel_quad_train_989:	ベース	古 い	|	ベース	古い
+1577 - hotel_quad_train_990:	朝 食	NULL	|	朝食	すごく種類があり
+1578 - hotel_quad_train_991:	対 応	親 切	|	対応	親切
+1579 - hotel_quad_train_992:	チェックアウト	少 し 大 変	|	チェックアウト	少し大変
+1580 - hotel_quad_train_993:	景 色	綺 麗	|	景色	綺麗
+1581 - hotel_quad_train_993:	宙 館	NULL	|	宙館	とてもサイコー
+1582 - hotel_quad_train_994:	ホスピタリティ	良	|	ホスピタリティ	良い
+1583 - hotel_quad_train_995:	全 体 的	NULL	|	全体的	GOOD
+1584 - hotel_quad_train_996:	ハウステンボス	NULL	|	ハウステンボス	すぐ近く
+1585 - hotel_quad_train_997:	待 遇	破 格	|	待遇	破格
+1586 - hotel_quad_train_998:	露 天 風 呂	圧 巻	|	露天風呂	圧巻
+1587 - hotel_quad_train_998:	眺 め	NULL	|	眺め	いい
+1588 - hotel_quad_train_999:	NULL	NULL	|	NULL	キレイ
+1589 - hotel_quad_train_1000:	茶	NULL	|	茶	とてもおいしかった
+1590 - hotel_quad_train_1000:	接 客	丁 寧	|	接客	丁寧
+1591 - hotel_quad_train_1000:	NULL	NULL	|	カヌレ	とてもおいしかった
+1592 - hotel_quad_train_1001:	貸 切 風 呂	少 し 残 念	|	貸切風呂	少し残念
+1593 - hotel_quad_train_1002:	NULL	NULL	|	テンション	あがりました
+1594 - hotel_quad_train_1003:	大 浴 場	全 くくつろげませんでした	|	大浴場	全くくつろげませんでした
+1595 - hotel_quad_train_1004:	気 遣 い	満 足	|	気遣い	満足
+1596 - hotel_quad_train_1005:	サウナ	NULL	|	サウナ	へなちょこ温度
+1597 - hotel_quad_train_1006:	フロン	親 切	|	フロント	親切
+1598 - hotel_quad_train_1007:	清 掃 員	ちょっと 落 ち 着 かない	|	清掃員	ちょっと落ち着かない
+1600 - hotel_quad_train_1009:	景 色	NULL	|	景色	よく
+1601 - hotel_quad_train_1010:	NULL	良 かった	|	NULL	良かった
+1602 - hotel_quad_train_1010:	駅	近	|	駅	近い
+1603 - hotel_quad_train_1011:	部 屋	綺 麗	|	部屋	綺麗
+1604 - hotel_quad_train_1011:	水 回	古 さ	|	水回り	古さ
+1605 - hotel_quad_train_1012:	立 地	NULL	|	立地	いい
+1606 - hotel_quad_train_1013:	シャワー	使 いやすかった	|	シャワー	使いやすかった
+1607 - hotel_quad_train_1013:	部 屋	NULL	|	部屋	キレイ
+1608 - hotel_quad_train_1014:	対 応	NULL	|	対応	よかった
+1609 - hotel_quad_train_1015:	NULL	悪 臭	|	スリッパ	悪臭
+1610 - hotel_quad_train_1016:	対 応	とても 気 持 ちよかった	|	対応	とても気持ちよかった
+1611 - hotel_quad_train_1017:	湯	心 地 良	|	湯	心地良い
+1612 - hotel_quad_train_1017:	食 事	美 味 しい	|	食事	美味しい
+1613 - hotel_quad_train_1017:	部 屋	素 敵	|	部屋	素敵
+1614 - hotel_quad_train_1018:	宿 泊	NULL	|	宿泊	とても気持ちよく
+1615 - hotel_quad_train_1019:	温 泉	楽 しめる	|	温泉	楽しめる
+1616 - hotel_quad_train_1020:	宿 泊	快 適	|	宿泊	快適
+1617 - hotel_quad_train_1020:	備 品	問 題 なく	|	備品	問題なく
+1618 - hotel_quad_train_1021:	NULL	良 かった	|	NULL	良かった
+1619 - hotel_quad_train_1022:	NULL	良 く	|	アクセス	良く
+1620 - hotel_quad_train_1023:	景 色	NULL	|	景色	よく
+1621 - hotel_quad_train_1023:	大 浴 場	最 高	|	大浴場	最高
+1622 - hotel_quad_train_1024:	朝 食	美 味 しかった	|	朝食	美味しかった
+1623 - hotel_quad_train_1025:	部 屋	少 し 暗 く	|	部屋	少し暗く
+1624 - hotel_quad_train_1026:	部 屋	快 適	|	部屋	快適
+1625 - hotel_quad_train_1027:	部 屋	狭 い	|	部屋	狭い
+1626 - hotel_quad_train_1028:	食 事	NULL	|	食事	おいしかった
+1627 - hotel_quad_train_1028:	量	NULL	|	量	ちょうど良く
+1628 - hotel_quad_train_1029:	NULL	NULL	|	サービス	よかった
+1629 - hotel_quad_train_1030:	対 応	一 番 心 に 残 りました	|	対応	一番心に残りました
+1630 - hotel_quad_train_1031:	別 府 駅	至 近 距 離	|	別府駅	至近距離
+1631 - hotel_quad_train_1031:	駐 車 場 探 し	苦 労	|	駐車場探し	苦労
+1632 - hotel_quad_train_1032:	駅	近 く	|	駅	近く
+1633 - hotel_quad_train_1032:	NULL	大 変 便 利	|	NULL	大変便利
+1634 - hotel_quad_train_1033:	水 量 ・ 温 度 調 整	難 しかった	|	水量・温度調整	難しかった
+1635 - hotel_quad_train_1034:	朝 食	サイコー	|	朝食	サイコー
+1636 - hotel_quad_train_1035:	机	NULL	|	机	こぢんまり
+1637 - hotel_quad_train_1036:	それ 以 外	大 満 足	|	それ以外	大満足
+1638 - hotel_quad_train_1036:	部 屋	少 し 老 朽 化 している	|	部屋	少し老朽化している
+1639 - hotel_quad_train_1037:	温 度	NULL	|	温度	ちょうどよく
+1640 - hotel_quad_train_1037:	部 屋	NULL	|	部屋	とても綺麗
+1641 - hotel_quad_train_1038:	案 内	親 切	|	案内	親切
+1642 - hotel_quad_train_1039:	朝 食	とても 美 味 しく	|	朝食	とても美味しく
+1643 - hotel_quad_train_1040:	立 地	良 く	|	立地	良く
+1644 - hotel_quad_train_1040:	室 内	良 いイメージ	|	室内	良いイメージ
+1645 - hotel_quad_train_1041:	駐 車 場	助 かります	|	駐車場	助かります
+1646 - hotel_quad_train_1042:	朝 食	大 変 上 質	|	朝食	大変上質
+1647 - hotel_quad_train_1043:	NULL	大 変 助 かりました	|	NULL	大変助かりました
+1648 - hotel_quad_train_1044:	部 屋	綺 麗	|	部屋	綺麗
+1649 - hotel_quad_train_1044:	景 色	よく	|	景色	よく
+1650 - hotel_quad_train_1044:	移 動	不 便	|	移動	不便
+1651 - hotel_quad_train_1045:	対 応	良 かった	|	対応	良かった
+1652 - hotel_quad_train_1046:	接 客	問 題 なし	|	接客	問題なし
+1653 - hotel_quad_train_1047:	NULL	静 か	|	ホテル	静か
+1654 - hotel_quad_train_1048:	NULL	便 利	|	ホテル	便利
+1655 - hotel_quad_train_1048:	駅	近 く	|	駅	近く
+1656 - hotel_quad_train_1049:	枕	高 すぎ	|	枕	高すぎ
+1657 - hotel_quad_train_1049:	全 体 的	満 足	|	全体的	満足
+1658 - hotel_quad_train_1050:	食 事 内 容	どんどん 良 くなっている	|	食事内容	どんどん良くなっている
+1659 - hotel_quad_train_1050:	施 設	どんどん 良 くなっている	|	施設	どんどん良くなっている
+1660 - hotel_quad_train_1051:	外 観	NULL	|	外観	キレイ
+1661 - hotel_quad_train_1051:	大 浴 場	NULL	|	大浴場	うれしかった
+1662 - hotel_quad_train_1052:	NULL	便 利	|	デパート	便利
+1663 - hotel_quad_train_1053:	大 浴 場	癒 されました	|	大浴場	癒されました
+1664 - hotel_quad_train_1053:	館 内	NULL	|	館内	きれい
+1665 - hotel_quad_train_1053:	浴 槽	沢 山 あり	|	浴槽	沢山あり
+1666 - hotel_quad_train_1053:	部 屋	NULL	|	部屋	きれい
+1667 - hotel_quad_train_1054:	音	少 しうるさかった	|	音	少しうるさかった
+1668 - hotel_quad_train_1054:	NULL	NULL	|	NULL	よかった
+1669 - hotel_quad_train_1055:	繁 華 街	近 くて	|	繁華街	近くて
+1670 - hotel_quad_train_1055:	NULL	良 かった	|	NULL	良かった
+1671 - hotel_quad_train_1056:	食 事	楽 しかった	|	食事	楽しかった
+1672 - hotel_quad_train_1056:	料 理	美 味 しい	|	料理	美味しい
+1673 - hotel_quad_train_1057:	男 風 呂	NULL	|	男風呂	ちょっと不便
+1674 - hotel_quad_train_1057:	大 浴 場	NULL	|	大浴場	よかった
+1675 - hotel_quad_train_1058:	朝 食	充 実	|	朝食	充実
+1676 - hotel_quad_train_1059:	バイキング 料 理	NULL	|	バイキング料理	とても美味しかった
+1677 - hotel_quad_train_1060:	席	窮 屈	|	席	窮屈
+1678 - hotel_quad_train_1061:	NULL	美 味 しくて	|	ブッフェ	美味しくて
+1679 - hotel_quad_train_1062:	準 備	とても 助 かりました	|	準備	とても助かりました
+1680 - hotel_quad_train_1063:	NULL	最 高	|	ビジネスホテル	最高
+1681 - hotel_quad_train_1064:	朝 食 バイキング	楽 しめました	|	朝食バイキング	楽しめました
+1682 - hotel_quad_train_1065:	建 物	新 しく	|	建物	新しく
+1683 - hotel_quad_train_1065:	立 地	とても 満 足	|	立地	とても満足
+1684 - hotel_quad_train_1066:	ホテル 自 体	NULL	|	ホテル自体	しっかり
+1685 - hotel_quad_train_1066:	立 地	NULL	|	立地	よく
+1686 - hotel_quad_train_1066:	NULL	快 適	|	NULL	快適
+1687 - hotel_quad_train_1066:	部 屋	狭 め	|	部屋	狭め
+1688 - hotel_quad_train_1067:	温 泉 街	近 くて	|	温泉街	近くて
+1689 - hotel_quad_train_1067:	立 地	NULL	|	立地	とても便利
+1690 - hotel_quad_train_1068:	NULL	素 晴 らしかった	|	サービス	素晴らしかった
+1691 - hotel_quad_train_1068:	接 客	素 晴 らしかった	|	接客	素晴らしかった
+1692 - hotel_quad_train_1069:	感 じ	良 く	|	感じ	良く
+1693 - hotel_quad_train_1069:	設 え	凝 っている	|	設え	凝っている
+1694 - hotel_quad_train_1069:	スタッフ	良 く	|	スタッフ	良く
+1695 - hotel_quad_train_1070:	館 内	NULL	|	館内	とてもおしゃれ
+1696 - hotel_quad_train_1071:	部 屋	満 足	|	部屋	満足
+1697 - hotel_quad_train_1072:	NULL	NULL	|	お湯	ぬるかった
+1698 - hotel_quad_train_1073:	食 事	とても 充 実 していました	|	食事	とても充実していました
+1699 - hotel_quad_train_1074:	立 地	NULL	|	立地	ばっちり
+1700 - hotel_quad_train_1074:	朝 ごはん	美 味 しかった	|	朝ごはん	美味しかった
+1701 - hotel_quad_train_1074:	お 風 呂	NULL	|	お風呂	ゆっくり
+1702 - hotel_quad_train_1074:	駅	近 く	|	駅	近く
+1703 - hotel_quad_train_1075:	大 浴 場	満 足	|	大浴場	満足
+1704 - hotel_quad_train_1076:	NULL	最 高	|	お風呂	最高
+1705 - hotel_quad_train_1077:	感 じ	NULL	|	感じ	よく
+1706 - hotel_quad_train_1077:	NULL	気 に 入 ってます	|	NULL	気に入ってます
+1707 - hotel_quad_train_1078:	浴 衣	感 激	|	浴衣	感激
+1708 - hotel_quad_train_1079:	部 屋	清 掃 が 行 き 届 いてました	|	部屋	清掃が行き届いてました
+1709 - hotel_quad_train_1080:	室 内	古 い	|	室内	古い
+1710 - hotel_quad_train_1080:	フロント	NULL	|	フロント	とても良かった
+1711 - hotel_quad_train_1080:	対 応	NULL	|	対応	とても良かった
+1712 - hotel_quad_train_1081:	選 べる	ありがたかった	|	選べる	ありがたかった
+1713 - hotel_quad_train_1082:	アメニティ	NULL	|	アメニティ	たくさん
+1714 - hotel_quad_train_1083:	ホテル 自 体	気 持 ちよく	|	ホテル自体	気持ちよく
+1715 - hotel_quad_train_1084:	対 応	良 く	|	対応	良く
+1716 - hotel_quad_train_1085:	立 地	すごいいい	|	立地	すごいいい
+1717 - hotel_quad_train_1085:	NULL	最 高 の 立 地	|	ホテル	最高の立地
+1718 - hotel_quad_train_1086:	立 地	良 い	|	立地	良い
+1719 - hotel_quad_train_1087:	貸 切 風 呂	楽 しむことができました	|	貸切風呂	楽しむことができました
+1720 - hotel_quad_train_1088:	館 内	綺 麗	|	館内	綺麗
+1721 - hotel_quad_train_1088:	対 応	良 く	|	対応	良く
+1722 - hotel_quad_train_1088:	NULL	快 適	|	NULL	快適
+1723 - hotel_quad_train_1089:	NULL	NULL	|	スタッフ	すごく親切
+1724 - hotel_quad_train_1090:	駅 近	便 利	|	駅近	便利
+1725 - hotel_quad_train_1091:	対 応	NULL	|	対応	よく気が利いて
+1726 - hotel_quad_train_1092:	NULL	良 い	|	ホテル	良い
+1727 - hotel_quad_train_1093:	朝 食	美 味 しかった	|	朝食	美味しかった
+1728 - hotel_quad_train_1094:	部 屋	NULL	|	部屋	きれい
+1729 - hotel_quad_train_1095:	エアコン	効 きにくく	|	エアコン	効きにくく
+1730 - hotel_quad_train_1096:	朝 食	NULL	|	朝食	とてもよかった
+1731 - hotel_quad_train_1097:	Wi - Fi	つながりにくかった	|	Wi-Fi	つながりにくかった
+1732 - hotel_quad_train_1098:	レディースフロア	安 心 感	|	レディースフロア	安心感
+1733 - hotel_quad_train_1098:	大 浴 場	NULL	|	大浴場	よかった
+1734 - hotel_quad_train_1099:	陰 影	堪 能	|	陰影	堪能
+1735 - hotel_quad_train_1099:	NULL	癒	|	NULL	癒し
+1736 - hotel_quad_train_1100:	対 応	良 かった	|	対応	良かった
+1737 - hotel_quad_train_1101:	お 土 産	NULL	|	お土産	とても良かった
+1738 - hotel_quad_train_1102:	お 刺 身	美 味 しい	|	お刺身	美味しい
+1739 - hotel_quad_train_1102:	食 事	美 味 しい	|	食事	美味しい
+1740 - hotel_quad_train_1103:	NULL	NULL	|	ヤクルト	ありがたい
+1741 - hotel_quad_train_1104:	距 離 がある	難 点	|	距離がある	難点
+1742 - hotel_quad_train_1105:	駐 車 場	広 くて	|	駐車場	広くて
+1743 - hotel_quad_train_1106:	チェックイン	NULL	|	チェックイン	スムーズ
+1744 - hotel_quad_train_1106:	チェックアウト	NULL	|	チェックアウト	スムーズ
+1745 - hotel_quad_train_1107:	朝 食	NULL	|	朝食	しっかり
+1746 - hotel_quad_train_1108:	サウナ	NULL	|	サウナ	よかった
+1747 - hotel_quad_train_1109:	大 浴 場	NULL	|	大浴場	なお良い
+1748 - hotel_quad_train_1110:	食 事	美 味 しく	|	食事	美味しく
+1749 - hotel_quad_train_1110:	NULL	気 持 ち 良 く	|	NULL	気持ち良く
+1750 - hotel_quad_train_1110:	愛 想	NULL	|	愛想	よく
+1751 - hotel_quad_train_1111:	NULL	大 きめ	|	テレビ	大きめ
+1752 - hotel_quad_train_1112:	職 場	近	|	職場	近い
+1753 - hotel_quad_train_1113:	大 浴 場	楽 しかった	|	大浴場	楽しかった
+1754 - hotel_quad_train_1114:	NULL	抜 群	|	コスパ	抜群
+1755 - hotel_quad_train_1115:	牛 すじカレー	美 味 しい	|	牛すじカレー	美味しい
+1756 - hotel_quad_train_1116:	駅	少 し 離 れています	|	駅	少し離れています
+1757 - hotel_quad_train_1117:	居 心 地	良 く	|	居心地	良く
+1758 - hotel_quad_train_1118:	部 屋	NULL	|	部屋	ゆったりして
+1759 - hotel_quad_train_1119:	部 屋	NULL	|	部屋	きれい
+1760 - hotel_quad_train_1120:	NULL	良 く	|	アクセス	良く
+1761 - hotel_quad_train_1121:	広 島 駅	徒 歩 圏 内	|	広島駅	徒歩圏内
+1762 - hotel_quad_train_1121:	NULL	便 利	|	NULL	便利
+1763 - hotel_quad_train_1122:	露 天 風 呂	格 別	|	露天風呂	格別
+1764 - hotel_quad_train_1123:	じゅうたん	NULL	|	じゅうたん	ちょっと気に入らなかった
+1765 - hotel_quad_train_1124:	対 応	悪 くない	|	対応	悪くない
+1766 - hotel_quad_train_1125:	大 浴 場	NULL	|	大浴場	ありがたい
+1767 - hotel_quad_train_1126:	対 応	丁 寧	|	対応	丁寧
+1768 - hotel_quad_train_1126:	ホテル	NULL	|	ホテル	そこそこ年数はたっている
+1769 - hotel_quad_train_1127:	お 風 呂	NULL	|	お風呂	いい
+1770 - hotel_quad_train_1127:	立 地 条 件	NULL	|	立地条件	いい
+1771 - hotel_quad_train_1128:	駐 車 場	狭 く	|	駐車場	狭く
+1772 - hotel_quad_train_1129:	接 客	丁 寧	|	接客	丁寧
+1773 - hotel_quad_train_1130:	部 屋	古	|	部屋	古い
+1774 - hotel_quad_train_1130:	トイレとお 風 呂	狭 く	|	トイレとお風呂	狭く
+1775 - hotel_quad_train_1131:	説 明	丁 寧 に	|	説明	丁寧に
+1776 - hotel_quad_train_1132:	NULL	快 適	|	NULL	快適
+1777 - hotel_quad_train_1132:	トータル	清 潔	|	トータル	清潔
+1778 - hotel_quad_train_1133:	飲 食 店	多 く	|	飲食店	多く
+1779 - hotel_quad_train_1134:	食 事	大 変 満 足	|	食事	大変満足
+1780 - hotel_quad_train_1135:	朝 食	とてもいい	|	朝食	とてもいい
+1781 - hotel_quad_train_1136:	夕 食	少 しい 多 い	|	夕食	少しい多い
+1782 - hotel_quad_train_1137:	朝 食 ビュッフェ	美 味 しかった	|	朝食ビュッフェ	美味しかった
+1783 - hotel_quad_train_1138:	朝 風 呂	最 高	|	朝風呂	最高
+1784 - hotel_quad_train_1139:	フロント	素 晴 らしい	|	フロント	素晴らしい
+1785 - hotel_quad_train_1140:	ラウンジ	残 念	|	ラウンジ	残念
+1786 - hotel_quad_train_1141:	部 屋	結 構 広 く	|	部屋	結構広く
+1787 - hotel_quad_train_1142:	お 風 呂 とトイレ	狭	|	お風呂とトイレ	狭い
+1788 - hotel_quad_train_1142:	卵 焼	少 し 残 念	|	卵焼き	少し残念
+1789 - hotel_quad_train_1143:	NULL	便 利	|	NULL	便利
+1790 - hotel_quad_train_1143:	大 塚 美 術 館	近 くて	|	大塚美術館	近くて
+1791 - hotel_quad_train_1143:	鳴 門 大 橋	近 くて	|	鳴門大橋	近くて
+1792 - hotel_quad_train_1144:	配 慮	NULL	|	配慮	ありがたかった
+1793 - hotel_quad_train_1145:	お 食 事	美 味 しくて	|	お食事	美味しくて
+1794 - hotel_quad_train_1145:	お 風 呂	古 かった	|	お風呂	古かった
+1795 - hotel_quad_train_1145:	外 装	古 かった	|	外装	古かった
+1796 - hotel_quad_train_1145:	NULL	格 別 美 味 しかった	|	ごはん	格別美味しかった
+1797 - hotel_quad_train_1146:	朝 食	ゆっくり 食 べれた	|	朝食	ゆっくり食べれた
+1798 - hotel_quad_train_1147:	食 事	美 味 しかった	|	食事	美味しかった
+1799 - hotel_quad_train_1148:	直 前 割	NULL	|	直前割り	お得
+1800 - hotel_quad_train_1149:	心 配 り	NULL	|	心配り	バツグン
+1801 - hotel_quad_train_1149:	無 料 朝 食	高 く	|	無料朝食	高く
+1802 - hotel_quad_train_1150:	大 浴 場	気 持 ち 良 かった	|	大浴場	気持ち良かった
+1803 - hotel_quad_train_1151:	津 駅 前	少 し 遠	|	津駅前	少し遠い
+1804 - hotel_quad_train_1151:	アクセス	NULL	|	アクセス	そんなに悪くはありません
+1805 - hotel_quad_train_1152:	露 天 風 呂	満 足	|	露天風呂	満足
+1806 - hotel_quad_train_1152:	部 屋	満 足	|	部屋	満足
+1807 - hotel_quad_train_1153:	部 屋	寛 げなかった	|	部屋	寛げなかった
+1808 - hotel_quad_train_1154:	NULL	NULL	|	お店	あまりなく
+1809 - hotel_quad_train_1154:	NULL	不 便	|	NULL	不便
+1810 - hotel_quad_train_1155:	露 天 風 呂 施 設	良 かった	|	露天風呂施設	良かった
+1811 - hotel_quad_train_1156:	コスパ	NULL	|	コスパ	すごい満足
+1812 - hotel_quad_train_1157:	部 屋	広 く	|	部屋	広く
+1813 - hotel_quad_train_1158:	露 天 風 呂	本 当 に 満 足	|	露天風呂	本当に満足
+1814 - hotel_quad_train_1159:	場 所	便 利	|	場所	便利
+1815 - hotel_quad_train_1160:	NULL	NULL	|	コスパ	いい
+1816 - hotel_quad_train_1161:	食 事	美 味 しく	|	食事	美味しく
+1817 - hotel_quad_train_1162:	朝 食	美 味 しいし	|	朝食	美味しいし
+1818 - hotel_quad_train_1163:	対 応	NULL	|	対応	もの凄く良く
+1819 - hotel_quad_train_1163:	NULL	有 難	|	サービス	有難い
+1821 - hotel_quad_train_1165:	NULL	本 当 に 最 悪	|	NULL	本当に最悪
+1822 - hotel_quad_train_1166:	NULL	とても 広 く	|	お部屋	とても広く
+1823 - hotel_quad_train_1166:	NULL	広 い	|	NULL	広い
+1824 - hotel_quad_train_1167:	朝 食	美 味 しかった	|	朝食	美味しかった
+1825 - hotel_quad_train_1168:	食 事	大 満 足	|	食事	大満足
+1826 - hotel_quad_train_1168:	おもてなし	大 満 足	|	おもてなし	大満足
+1827 - hotel_quad_train_1169:	大 浴 場	古 く	|	大浴場	古く
+1828 - hotel_quad_train_1170:	部 屋	NULL	|	部屋	ひろめ
+1829 - hotel_quad_train_1171:	食 事	美 味 しかった	|	食事	美味しかった
+1830 - hotel_quad_train_1172:	対 応	とても 気 持 ちの 良 い	|	対応	とても気持ちの良い
+1831 - hotel_quad_train_1173:	立 地	NULL	|	立地	よく
+1832 - hotel_quad_train_1173:	繁 華 街	近 い	|	繁華街	近い
+1833 - hotel_quad_train_1174:	ラウンジ	楽 しめました	|	ラウンジ	楽しめました
+1834 - hotel_quad_train_1175:	温 泉	充 実	|	温泉	充実
+1835 - hotel_quad_train_1175:	アメニティ	充 実	|	アメニティ	充実
+1836 - hotel_quad_train_1175:	NULL	NULL	|	NULL	よかった
+1837 - hotel_quad_train_1176:	朝 食	美 味 しかった	|	朝食	美味しかった
+1838 - hotel_quad_train_1177:	建 物 全 体	新 しい 訳 ではない	|	建物全体	新しい訳ではない
+1839 - hotel_quad_train_1177:	水 回 り	ピカピカではありません	|	水回り	ピカピカではありません
+1840 - hotel_quad_train_1178:	接 客	NULL	|	接客	とてもよく
+1841 - hotel_quad_train_1179:	仕 事	NULL	|	仕事	しずらい
+1842 - hotel_quad_train_1180:	部 屋	綺 麗	|	部屋	綺麗
+1843 - hotel_quad_train_1180:	立 地	最 高	|	立地	最高
+1844 - hotel_quad_train_1181:	部 屋	快 適	|	部屋	快適
+1845 - hotel_quad_train_1182:	立 地	最 高	|	立地	最高
+1846 - hotel_quad_train_1183:	魚	美 味 しすぎました	|	魚	美味しすぎました
+1847 - hotel_quad_train_1183:	NULL	美 味 しすぎました	|	じゃこ天	美味しすぎました
+1848 - hotel_quad_train_1184:	朝 食 会 場	貧 弱	|	朝食会場	貧弱
+1849 - hotel_quad_train_1184:	食 事	貧 弱	|	食事	貧弱
+1850 - hotel_quad_train_1185:	NULL	満 足	|	この価格	満足
+1851 - hotel_quad_train_1186:	駅	近 くて	|	駅	近くて
+1852 - hotel_quad_train_1186:	NULL	便 利	|	NULL	便利
+1853 - hotel_quad_train_1187:	朝 食	大 満 足	|	朝食	大満足
+1854 - hotel_quad_train_1187:	品 数	多 く	|	品数	多く
+1855 - hotel_quad_train_1188:	宿 泊	快 く	|	宿泊	快く
+1856 - hotel_quad_train_1189:	使 い 勝 手	NULL	|	使い勝手	よく
+1857 - hotel_quad_train_1189:	部 屋	大 変 満 足	|	部屋	大変満足
+1858 - hotel_quad_train_1190:	NULL	NULL	|	リンス	チープなものではなく
+1859 - hotel_quad_train_1190:	NULL	NULL	|	シャンプー	チープなものではなく
+1860 - hotel_quad_train_1190:	洗 顔	NULL	|	洗顔	チープなものではなく
+1861 - hotel_quad_train_1191:	風 呂	綺 麗	|	風呂	綺麗
+1862 - hotel_quad_train_1192:	対 応	NULL	|	対応	すてき
+1863 - hotel_quad_train_1193:	料 理	満 足	|	料理	満足
+1864 - hotel_quad_train_1194:	風 呂	綺 麗	|	風呂	綺麗
+1865 - hotel_quad_train_1195:	部 屋	NULL	|	部屋	きれい
+1866 - hotel_quad_train_1196:	全 体	普 通	|	全体	普通
+1867 - hotel_quad_train_1196:	料 金	NULL	|	料金	リーズナブル
+1868 - hotel_quad_train_1197:	朝 食	美 味 しく	|	朝食	美味しく
+1869 - hotel_quad_train_1197:	風 呂	残 念	|	風呂	残念
+1870 - hotel_quad_train_1197:	NULL	良 かった	|	NULL	良かった
+1871 - hotel_quad_train_1198:	立 地	最 高	|	立地	最高
+1872 - hotel_quad_train_1199:	部 屋	夢 空 間	|	部屋	夢空間
+1873 - hotel_quad_train_1200:	風 呂	大 変 良 かった	|	風呂	大変良かった
+1874 - hotel_quad_train_1201:	部 屋	良 かった	|	部屋	良かった
+1875 - hotel_quad_train_1201:	ロケーション	良 かった	|	ロケーション	良かった
+1876 - hotel_quad_train_1201:	サービス	良 かった	|	サービス	良かった
+1877 - hotel_quad_train_1202:	朝 食	美 味 しい	|	朝食	美味しい
+1878 - hotel_quad_train_1202:	品 数	多 いし	|	品数	多いし
+1879 - hotel_quad_train_1202:	宿	最 高	|	宿	最高
+1880 - hotel_quad_train_1203:	朝 食	美 味 しい	|	朝食	美味しい
+1881 - hotel_quad_train_1204:	風 呂	特 に 気 に 入 ってます	|	風呂	特に気に入ってます
+1882 - hotel_quad_train_1205:	立 地	便 利	|	立地	便利
+1883 - hotel_quad_train_1206:	YouTube	最 高	|	YouTube	最高
+1884 - hotel_quad_train_1207:	立 地	良 く	|	立地	良く
+1885 - hotel_quad_train_1208:	一 つ 一 つ	NULL	|	一つ一つ	とても美味しかった
+1886 - hotel_quad_train_1208:	NULL	豪 華 ではない	|	NULL	豪華ではない
+1887 - hotel_quad_train_1209:	ベッドの 下	汚 れている	|	ベッドの下	汚れている
+1888 - hotel_quad_train_1209:	清 掃	不 十 分	|	清掃	不十分
+1889 - hotel_quad_train_1210:	宿	最 高	|	宿	最高
+1890 - hotel_quad_train_1211:	のっけ 丼	NULL	|	のっけ丼	とても良かった
+1891 - hotel_quad_train_1212:	部 屋	綺 麗	|	部屋	綺麗
+1892 - hotel_quad_train_1213:	夕 食	美 味 しかった	|	夕食	美味しかった
+1893 - hotel_quad_train_1214:	NULL	美 味 しかった	|	おにぎり	美味しかった
+1894 - hotel_quad_train_1215:	繁 華 街	近 く	|	繁華街	近く
+1895 - hotel_quad_train_1216:	魚	美 味 しく	|	魚	美味しく
+1896 - hotel_quad_train_1217:	夕 食	美 味 しかった	|	夕食	美味しかった
+1897 - hotel_quad_train_1217:	肉 料 理	柔 らかくて	|	肉料理	柔らかくて
+1898 - hotel_quad_train_1218:	スタッフ	親 切	|	スタッフ	親切
+1899 - hotel_quad_train_1219:	ベッド	広 く	|	ベッド	広く
+1900 - hotel_quad_train_1219:	NULL	NULL	|	NULL	とても快適
+1901 - hotel_quad_train_1220:	ホテル	綺 麗	|	ホテル	綺麗
+1902 - hotel_quad_train_1221:	朝 のバイキング	沢 山 種 類 があって	|	朝のバイキング	沢山種類があって
+1903 - hotel_quad_train_1222:	瓦 町 駅	近 く	|	瓦町駅	近く
+1904 - hotel_quad_train_1223:	女 性 スタッフ	NULL	|	女性スタッフ	とても良かった
+1905 - hotel_quad_train_1223:	男 性 スタッフ	感 じが 悪 くて	|	男性スタッフ	感じが悪くて
+1906 - hotel_quad_train_1223:	電 話 の 対 応	NULL	|	電話の対応	とても良かった
+1907 - hotel_quad_train_1224:	駐 車 場	便 利	|	駐車場	便利
+1908 - hotel_quad_train_1224:	駐 車 場 の 台 数	多 く	|	駐車場の台数	多く
+1909 - hotel_quad_train_1225:	NULL	NULL	|	たたきのたれ	とても美味しかった
+1910 - hotel_quad_train_1226:	部 屋	気 持 ち 良 く	|	部屋	気持ち良く
+1911 - hotel_quad_train_1227:	時 間	心 地 よい	|	時間	心地よい
+1912 - hotel_quad_train_1227:	立 地	良 く	|	立地	良く
+1913 - hotel_quad_train_1227:	部 屋	綺 麗	|	部屋	綺麗
+1914 - hotel_quad_train_1228:	大 浴 場	広 め	|	大浴場	広め
+1915 - hotel_quad_train_1229:	眺 め	NULL	|	眺め	とても良かった
+1916 - hotel_quad_train_1230:	部 屋	広 々	|	部屋	広々
+1917 - hotel_quad_train_1230:	NULL	安 く	|	NULL	安く
+1918 - hotel_quad_train_1231:	朝 食 付 き	良 かった	|	朝食付き	良かった
+1919 - hotel_quad_train_1232:	豆 乳 鍋	本 当 に 絶 品 過 ぎました	|	豆乳鍋	本当に絶品過ぎました
+1920 - hotel_quad_train_1233:	アメニティ	充 実	|	アメニティ	充実
+1921 - hotel_quad_train_1234:	NULL	NULL	|	ベッド	ふかふか
+1922 - hotel_quad_train_1234:	風 呂	NULL	|	風呂	ゆっくり入れて
+1923 - hotel_quad_train_1235:	駅	NULL	|	駅	それなりに近く
+1924 - hotel_quad_train_1236:	部 屋	広 くて	|	部屋	広くて
+1925 - hotel_quad_train_1237:	大 街 道	近 く	|	大街道	近く
+1926 - hotel_quad_train_1237:	価 格	NULL	|	価格	リーズナブル
+1927 - hotel_quad_train_1237:	立 地	便 利	|	立地	便利
+1928 - hotel_quad_train_1238:	飲 食 店	少 し 歩 きます	|	飲食店	少し歩きます
+1929 - hotel_quad_train_1239:	スタッフ	良 く	|	スタッフ	良く
+1930 - hotel_quad_train_1240:	部 屋 着	快 適	|	部屋着	快適
+1931 - hotel_quad_train_1241:	種 類	多 く	|	種類	多く
+1932 - hotel_quad_train_1241:	NULL	大 変 満 足	|	NULL	大変満足
+1933 - hotel_quad_train_1242:	食 事	少 しクセがある	|	食事	少しクセがある
+1934 - hotel_quad_train_1243:	朝 食	大 変 良 かった	|	朝食	大変良かった
+1935 - hotel_quad_train_1244:	接 客	とても 良 かった	|	接客	とても良かった
+1936 - hotel_quad_train_1244:	ウェルカムドリンク	充 実	|	ウェルカムドリンク	充実
+1937 - hotel_quad_train_1244:	心 遣	良 かった	|	心遣い	良かった
+1938 - hotel_quad_train_1245:	部 屋	NULL	|	部屋	やや不満
+1939 - hotel_quad_train_1246:	NULL	高 級 感 ある	|	ホテル	高級感ある
+1940 - hotel_quad_train_1247:	檜 風 呂	最 高	|	檜風呂	最高
+1941 - hotel_quad_train_1248:	部 屋	狭 め	|	部屋	狭め
+1942 - hotel_quad_train_1249:	NULL	悪 くて	|	エアコンの調子	悪くて
+1943 - hotel_quad_train_1250:	NULL	NULL	|	タレ	とても好み
+1944 - hotel_quad_train_1251:	スタッフ	良 かった	|	スタッフ	良かった
+1945 - hotel_quad_train_1252:	NULL	好 立 地	|	NULL	好立地
+1946 - hotel_quad_train_1252:	徳 島 駅	目 の 前	|	徳島駅	目の前
+1947 - hotel_quad_train_1253:	水 圧	最 高	|	水圧	最高
+1948 - hotel_quad_train_1254:	建 物	古	|	建物	古い
+1949 - hotel_quad_train_1255:	立 地	良 く	|	立地	良く
+1950 - hotel_quad_train_1255:	部 屋	綺 麗	|	部屋	綺麗
+1951 - hotel_quad_train_1255:	NULL	NULL	|	ホテル	お気に入り
+1952 - hotel_quad_train_1256:	朝 食	NULL	|	朝食	とてもおいしかった
+1953 - hotel_quad_train_1257:	空 港	近 く	|	空港	近く
+1954 - hotel_quad_train_1258:	立 地	NULL	|	立地	とても良かった
+1955 - hotel_quad_train_1259:	部 屋	清 潔	|	部屋	清潔
+1957 - hotel_quad_train_1260:	建 物	古 い	|	建物	古い
+1958 - hotel_quad_train_1261:	種 類	多 くて	|	種類	多くて
+1959 - hotel_quad_train_1261:	朝 ごはん	美 味 しかった	|	朝ごはん	美味しかった
+1960 - hotel_quad_train_1262:	NULL	割 安	|	NULL	割安
+1961 - hotel_quad_train_1263:	食 事	大 変 おいしかった	|	食事	大変おいしかった
+1962 - hotel_quad_train_1263:	量	多 過 ぎて	|	量	多過ぎて
+1963 - hotel_quad_train_1264:	NULL	利 用 しやすい	|	ホテル	利用しやすい
+1964 - hotel_quad_train_1265:	接 客	非 常 に 丁 寧	|	接客	非常に丁寧
+1965 - hotel_quad_train_1266:	食 事	大 変 良 かった	|	食事	大変良かった
+1966 - hotel_quad_train_1266:	対 応	大 変 良 かった	|	対応	大変良かった
+1967 - hotel_quad_train_1267:	朝 食	NULL	|	朝食	よかった
+1968 - hotel_quad_train_1268:	サウナ	最 高	|	サウナ	最高
+1969 - hotel_quad_train_1269:	建 物	NULL	|	建物	おしゃれ
+1970 - hotel_quad_train_1269:	部 屋	NULL	|	部屋	おしゃれ
+1971 - hotel_quad_train_1269:	対 応	親 切	|	対応	親切
+1972 - hotel_quad_train_1270:	建 物	NULL	|	建物	きれい
+1973 - hotel_quad_train_1271:	造	センスがよい	|	造り	センスがよい
+1974 - hotel_quad_train_1271:	大 浴 場	NULL	|	大浴場	ビッグ
+1975 - hotel_quad_train_1272:	朝 ごはん	満 足	|	朝ごはん	満足
+1976 - hotel_quad_train_1273:	NULL	NULL	|	NULL	ゆっくり
+1977 - hotel_quad_train_1273:	NULL	少 し 奥 まった 道 の 駅	|	ホテル	少し奥まった道の駅
+1978 - hotel_quad_train_1273:	部 屋 数	少 ない	|	部屋数	少ない
+1979 - hotel_quad_train_1274:	NULL	綺 麗	|	NULL	綺麗
+1980 - hotel_quad_train_1275:	ソファーベット	固 くて	|	ソファーベット	固くて
+1981 - hotel_quad_train_1275:	寝 心 地	NULL	|	寝心地	いまいち
+1982 - hotel_quad_train_1276:	全 体	気 持 ち 悪 かった	|	全体	気持ち悪かった
+1983 - hotel_quad_train_1277:	NULL	NULL	|	サウナ	とても良かった
+1984 - hotel_quad_train_1277:	大 浴 場	NULL	|	大浴場	とても良かった
+1985 - hotel_quad_train_1278:	風 呂	ゆっくり	|	風呂	ゆっくり
+1986 - hotel_quad_train_1279:	品 数	少 ない	|	品数	少ない
+1987 - hotel_quad_train_1280:	渡 り 廊 下	寒 かった	|	渡り廊下	寒かった
+1988 - hotel_quad_train_1280:	食 事 場 所	少 し 肌 寒 かった	|	食事場所	少し肌寒かった
+1989 - hotel_quad_train_1281:	NULL	快 適	|	ホテル	快適
+1990 - hotel_quad_train_1282:	入 り 口	分 かりにくい	|	入り口	分かりにくい
+1991 - hotel_quad_train_1282:	ホテル	古 い	|	ホテル	古い
+1992 - hotel_quad_train_1283:	立 地	便 利	|	立地	便利
+1993 - hotel_quad_train_1284:	施 設	手 入 れされていました	|	施設	手入れされていました
+1994 - hotel_quad_train_1285:	バイキング	良 く	|	バイキング	良く
+1995 - hotel_quad_train_1285:	NULL	非 常 に 満 足	|	NULL	非常に満足
+1996 - hotel_quad_train_1286:	接 待	素 晴 らしかった	|	接待	素晴らしかった
+1997 - hotel_quad_train_1287:	NULL	NULL	|	サービス	◎
+1998 - hotel_quad_train_1287:	種 類 を 選 べた	良 く	|	種類を選べた	良く
+1999 - hotel_quad_train_1287:	朝 食 バイキング	温 かく	|	朝食バイキング	温かく
+2000 - hotel_quad_train_1288:	駅	近 く	|	駅	近く
+2001 - hotel_quad_train_1289:	駅	NULL	|	駅	とても便利
+2002 - hotel_quad_train_1290:	朝 食	十 分 満 足	|	朝食	十分満足
+2003 - hotel_quad_train_1290:	夕 飯	十 分 満 足	|	夕飯	十分満足
+2004 - hotel_quad_train_1291:	部 屋	快 適	|	部屋	快適
+2005 - hotel_quad_train_1292:	部 屋	清 潔	|	部屋	清潔
+2006 - hotel_quad_train_1293:	温 泉	良 かった	|	温泉	良かった
+2007 - hotel_quad_train_1293:	朝 食 バイキング	良 かった	|	朝食バイキング	良かった
+2008 - hotel_quad_train_1294:	食 事	大 変 美 味 しく	|	食事	大変美味しく
+2009 - hotel_quad_train_1295:	値 段	高 くなりがち	|	値段	高くなりがち
+2010 - hotel_quad_train_1296:	NULL	大 変 良 かった	|	NULL	大変良かった
+2011 - hotel_quad_train_1296:	部 屋	NULL	|	部屋	きれい
+2012 - hotel_quad_train_1296:	調 色	豊 富	|	調色	豊富
+2013 - hotel_quad_train_1297:	スタッフ	素 晴 らしい	|	スタッフ	素晴らしい
+2014 - hotel_quad_train_1298:	女 性 スタッフ	明 るく	|	女性スタッフ	明るく
+2015 - hotel_quad_train_1298:	対 応	NULL	|	対応	とても気持ちの良い
+2016 - hotel_quad_train_1299:	立 地	NULL	|	立地	いい
+2017 - hotel_quad_train_1300:	宿 泊 代	ちょっとお 高 い	|	宿泊代	ちょっとお高い
+2018 - hotel_quad_train_1301:	朝 食	美 味 しかった	|	朝食	美味しかった
+2019 - hotel_quad_train_1302:	部 屋	大 満 足	|	部屋	大満足
+2020 - hotel_quad_train_1302:	食 事	大 満 足	|	食事	大満足
+2021 - hotel_quad_train_1303:	乾 燥 機 の 位 置	高	|	乾燥機の位置	高い
+2022 - hotel_quad_train_1304:	恐 竜	NULL	|	恐竜	びっくりしますた
+2023 - hotel_quad_train_1305:	富 士 山	綺 麗	|	富士山	綺麗
+2024 - hotel_quad_train_1305:	部 屋	嬉 しかった	|	部屋	嬉しかった
+2025 - hotel_quad_train_1306:	NULL	NULL	|	プラン	リーズナブル
+2026 - hotel_quad_train_1307:	NULL	残 念	|	NULL	残念
+2027 - hotel_quad_train_1307:	チェックイン	遅 く	|	チェックイン	遅く
+2028 - hotel_quad_train_1308:	設 備	NULL	|	設備	マイナス1点
+2029 - hotel_quad_train_1308:	そのほか	大 満 足	|	そのほか	大満足
+2030 - hotel_quad_train_1309:	テレビ	大 きく	|	テレビ	大きく
+2031 - hotel_quad_train_1309:	お 手 洗 いの 便 器	新 しく	|	お手洗いの便器	新しく
+2032 - hotel_quad_train_1310:	NULL	楽 しめました	|	イベント	楽しめました
+2033 - hotel_quad_train_1310:	設 備	楽 しめました	|	設備	楽しめました
+2034 - hotel_quad_train_1311:	富 士 山	綺 麗	|	富士山	綺麗
+2035 - hotel_quad_train_1311:	山 中 湖	綺 麗	|	山中湖	綺麗
+2036 - hotel_quad_train_1311:	部 屋	良 かった	|	部屋	良かった
+2037 - hotel_quad_train_1312:	スタート 時 間	遅 く	|	スタート時間	遅く
+2038 - hotel_quad_train_1313:	入 浴 剤 やシャンプー	大 満 足	|	入浴剤やシャンプー	大満足
+2039 - hotel_quad_train_1313:	アメニティ	豊 富	|	アメニティ	豊富
+2040 - hotel_quad_train_1314:	お 部 屋	綺 麗	|	お部屋	綺麗
+2041 - hotel_quad_train_1315:	会 場	NULL	|	会場	とても狭く
+2042 - hotel_quad_train_1316:	ビールやお 酒	素 晴 らしい	|	ビールやお酒	素晴らしい
+2043 - hotel_quad_train_1316:	食 事	美 味 しく	|	食事	美味しく
+2044 - hotel_quad_train_1317:	ウォーターサーバー	使 いにくく	|	ウォーターサーバー	使いにくく
+2045 - hotel_quad_train_1317:	水	冷 たすぎる	|	水	冷たすぎる
+2046 - hotel_quad_train_1318:	NULL	綺 麗	|	NULL	綺麗
+2047 - hotel_quad_train_1319:	お 食 事	NULL	|	お食事	とてもおいしかった
+2048 - hotel_quad_train_1320:	食 事	NULL	|	食事	ゆっくり
+2049 - hotel_quad_train_1321:	宿 泊 プラン	大 変 満 足	|	宿泊プラン	大変満足
+2050 - hotel_quad_train_1322:	スタッフ	親 切	|	スタッフ	親切
+2051 - hotel_quad_train_1323:	お 部 屋	NULL	|	お部屋	きれい
+2052 - hotel_quad_train_1324:	NULL	洗 いにくかった	|	お風呂	洗いにくかった
+2053 - hotel_quad_train_1325:	大 浴 場	快 適 でした	|	大浴場	快適でした
+2054 - hotel_quad_train_1326:	食 事	NULL	|	食事	おいしかった
+2055 - hotel_quad_train_1327:	地 酒	良 かった	|	地酒	良かった
+2056 - hotel_quad_train_1327:	クラフトビール	良 かった	|	クラフトビール	良かった
+2057 - hotel_quad_train_1328:	宿 泊 料 金	安 め	|	宿泊料金	安め
+2058 - hotel_quad_train_1328:	NULL	満 足	|	コストパフォーマンス	満足
+2059 - hotel_quad_train_1329:	NULL	とてもお 安 く	|	NULL	とてもお安く
+2060 - hotel_quad_train_1329:	対 応	最 高	|	対応	最高
+2061 - hotel_quad_train_1330:	夕 食	とても 美 味 しく	|	夕食	とても 美味しく
+2062 - hotel_quad_train_1331:	朝 食 メニュー	豊 富	|	朝食メニュー	豊富
+2063 - hotel_quad_train_1332:	階 段	多	|	階段	多い
+2064 - hotel_quad_train_1332:	年 配 の 方	難 しい	|	年配の方	難しい
+2065 - hotel_quad_train_1333:	もてなしの 心 の 深 さ	感 動	|	もてなしの心の深さ	感動
+2066 - hotel_quad_train_1334:	設 備	魅 力 的	|	設備	魅力的
+2067 - hotel_quad_train_1334:	大 浴 場	綺 麗	|	大浴場	綺麗
+2068 - hotel_quad_train_1334:	お 部 屋	清 潔 感	|	お部屋	清潔感
+2069 - hotel_quad_train_1335:	大 浴 場	NULL	|	大浴場	とても良かった
+2070 - hotel_quad_train_1336:	大 浴 場	のんびり	|	大浴場	のんびり
+2071 - hotel_quad_train_1336:	NULL	少 々 遠 め	|	アクセス	少々遠め
+2072 - hotel_quad_train_1337:	朝 の 挨 拶	いい	|	朝の挨拶	いい
+2073 - hotel_quad_train_1338:	御 食 国 小 浜	さすが	|	御食国小浜	さすが
+2074 - hotel_quad_train_1339:	展 示	気 分 が 上 がりました	|	展示	気分が上がりました
+2075 - hotel_quad_train_1339:	恐 竜 ロボット	気 分 が 上 がりました	|	恐竜ロボット	気分が上がりました
+2076 - hotel_quad_train_1340:	NULL	利 用 しやすかった	|	NULL	利用しやすかった
+2077 - hotel_quad_train_1341:	部 屋 の 枕	酷 くて	|	部屋の枕	酷くて
+2078 - hotel_quad_train_1341:	NULL	良 い	|	ホテル	良い
+2079 - hotel_quad_train_1342:	朝 ごはん	おいしく	|	朝ごはん	おいしく
+2080 - hotel_quad_train_1343:	部 屋	とてもいい	|	部屋	とてもいい
+2081 - hotel_quad_train_1344:	駅	近 く	|	駅	近く
+2082 - hotel_quad_train_1344:	立 地	良 かった	|	立地	良かった
+2083 - hotel_quad_train_1345:	移 動	楽	|	移動	楽
+2084 - hotel_quad_train_1346:	工 事 中	少 し 残 念	|	工事中	少し残念
+2085 - hotel_quad_train_1347:	価 格	NULL	|	価格	お得
+2086 - hotel_quad_train_1348:	ス	素 晴 らしく	|	スタッフ	素晴らしく
+2087 - hotel_quad_train_1348:	NULL	嬉 しかった	|	サービス	嬉しかった
+2088 - hotel_quad_train_1348:	スイーツ	嬉 しかった	|	スイーツ	嬉しかった
+2089 - hotel_quad_train_1349:	駐 車 係 の 人	困 った	|	駐車係の人	困った
+2090 - hotel_quad_train_1350:	眺 め	最 高	|	眺め	最高
+2091 - hotel_quad_train_1350:	NULL	神 コスパ	|	ホテル	神コスパ
+2092 - hotel_quad_train_1351:	ベッド	広 く	|	ベッド	広く
+2093 - hotel_quad_train_1351:	清 掃	丁 寧	|	清掃	丁寧
+2094 - hotel_quad_train_1351:	NULL	十 二 分 にくつろげた	|	NULL	十二分にくつろげた
+2095 - hotel_quad_train_1351:	NULL	大 きく	|	テレビ	大きく
+2096 - hotel_quad_train_1351:	景 色	NULL	|	景色	あまり見えない
+2097 - hotel_quad_train_1352:	創 作 中 華	大 満 足	|	創作中華	大満足
+2098 - hotel_quad_train_1353:	朝 食	NULL	|	朝食	とてもリーズナブル
+2099 - hotel_quad_train_1354:	味	良 く	|	味	良く
+2100 - hotel_quad_train_1355:	味	NULL	|	味	とてもおいしかった
+2101 - hotel_quad_train_1355:	食 事	NULL	|	食事	バランスが良く
+2102 - hotel_quad_train_1355:	野 菜	多 く	|	野菜	多く
+2103 - hotel_quad_train_1356:	レストラン	かな	|	レストラン	かなり高価
+2104 - hotel_quad_train_1357:	NULL	NULL	|	ログハウス	おしゃれ
+2105 - hotel_quad_train_1358:	風 呂	楽 しめ	|	風呂	楽しめ
+2106 - hotel_quad_train_1358:	内 湯	楽 しめ	|	内湯	楽しめ
+2107 - hotel_quad_train_1359:	スタッフ	良	|	スタッフ	良い
+2108 - hotel_quad_train_1360:	対 応	大 変 親 切	|	対応	大変親切
+2109 - hotel_quad_train_1361:	サービス	良 し	|	サービス	良し
+2110 - hotel_quad_train_1362:	NULL	動 きやすい	|	NULL	動きやすい
+2111 - hotel_quad_train_1362:	駅	近 く	|	駅	近く
+2112 - hotel_quad_train_1363:	部 屋	とても 良 い	|	部屋	とても良い
+2113 - hotel_quad_train_1364:	全 ての 点	満 足	|	全ての点	満足
+2114 - hotel_quad_train_1365:	NULL	レトロ	|	ゲームコーナー	レトロ
+2115 - hotel_quad_train_1366:	試 飲 タイム	NULL	|	試飲タイム	たまらない
+2116 - hotel_quad_train_1367:	NULL	最 高	|	ワイン	最高
+2117 - hotel_quad_train_1368:	道 の 駅	近 く	|	道の駅	近く
+2118 - hotel_quad_train_1369:	対 応	丁 寧	|	対応	丁寧
+2119 - hotel_quad_train_1370:	大 浴 場	良 かった	|	大浴場	良かった
+2120 - hotel_quad_train_1371:	ReFaグッズ	NULL	|	ReFaグッズ	よかった
+2121 - hotel_quad_train_1371:	角 部 屋	十 分 な 広 さがあり	|	角部屋	十分な広さがあり
+2122 - hotel_quad_train_1372:	風 呂	少 し 残 念	|	風呂	少し残念
+2123 - hotel_quad_train_1373:	NULL	快 適	|	NULL	快適
+2124 - hotel_quad_train_1373:	駅	近 く	|	駅	近く
+2125 - hotel_quad_train_1373:	飲 食 店	多 く	|	飲食店	多く
+2126 - hotel_quad_train_1374:	滞 在	最 高	|	滞在	最高
+2127 - hotel_quad_train_1374:	スタッフ	良 く	|	スタッフ	良く
+2128 - hotel_quad_train_1375:	NULL	NULL	|	ホテル	とても綺麗
+2129 - hotel_quad_train_1376:	床	不 満	|	床	不満
+2130 - hotel_quad_train_1377:	朝 食	楽 しめました	|	朝食	楽しめました
+2131 - hotel_quad_train_1377:	NULL	多 く	|	トッピング	多く
+2132 - hotel_quad_train_1378:	部 屋	NULL	|	部屋	とても良かった
+2133 - hotel_quad_train_1379:	露 天 風 呂	残 念	|	露天風呂	残念
+2134 - hotel_quad_train_1379:	温 泉	残 念	|	温泉	残念
+2135 - hotel_quad_train_1380:	見 栄 え	悪 かった	|	見栄え	悪かった
+2136 - hotel_quad_train_1381:	部 屋	大 変 綺 麗	|	部屋	大変綺麗
+2137 - hotel_quad_train_1381:	風 呂	最 高	|	風呂	最高
+2138 - hotel_quad_train_1382:	部 屋	想 像 以 上 に 広 く	|	部屋	想像以上に広く
+2139 - hotel_quad_train_1383:	NULL	大 満 足	|	ドライヤー	大満足
+2140 - hotel_quad_train_1384:	NULL	少 し 遠 い	|	NULL	少し遠い
+2141 - hotel_quad_train_1385:	NULL	とても 綺 麗	|	NULL	とても綺麗
+2142 - hotel_quad_train_1386:	スタッフ	素 晴 らしい	|	スタッフ	素晴らしい
+2143 - hotel_quad_train_1386:	立 地	良 さ	|	立地	良さ
+2144 - hotel_quad_train_1387:	風 呂	NULL	|	風呂	もう少し広いと良い
+2145 - hotel_quad_train_1388:	種 類	NULL	|	種類	やや少なめ
+2146 - hotel_quad_train_1388:	ウェルカムドリンク	嬉 しい	|	ウェルカムドリンク	嬉しい
+2147 - hotel_quad_train_1389:	立 地	NULL	|	立地	いい
+2148 - hotel_quad_train_1390:	夕 食	美 味 しかった	|	夕食	美味しかった
+2149 - hotel_quad_train_1391:	駅	目 の 前	|	駅	目の前
+2150 - hotel_quad_train_1391:	NULL	非 常 に 良	|	アクセス	非常に良い
+2151 - hotel_quad_train_1392:	食 事	NULL	|	食事	とてもおいしかった
+2152 - hotel_quad_train_1393:	演 出	楽 しかった	|	演出	楽しかった
+2153 - hotel_quad_train_1394:	部 分	汚 れて	|	部分	汚れて
+2154 - hotel_quad_train_1394:	NULL	癒 し	|	NULL	癒し
+2155 - hotel_quad_train_1395:	温 泉	NULL	|	温泉	よかった
+2156 - hotel_quad_train_1396:	館 内	NULL	|	館内	キレイ
+2157 - hotel_quad_train_1396:	室 内	NULL	|	室内	キレイ
+2158 - hotel_quad_train_1397:	部 屋	NULL	|	部屋	タバコの匂い
+2159 - hotel_quad_train_1398:	道	細 い	|	道	細い
+2160 - hotel_quad_train_1399:	心 遣	素 晴 らしい	|	心遣い	素晴らしい
+2161 - hotel_quad_train_1400:	水 回 り	快 適	|	水回り	快適
+2162 - hotel_quad_train_1400:	駅	近 い	|	駅	近い
+2163 - hotel_quad_train_1400:	部 屋	綺 麗	|	部屋	綺麗
+2164 - hotel_quad_train_1401:	値 段	相 応	|	値段	相応
+2165 - hotel_quad_train_1402:	肉	めっちゃ 美 味 しかった	|	肉	めっちゃ美味しかった
+2166 - hotel_quad_train_1403:	料 金	リーズナブル	|	料金	リーズナブル
+2167 - hotel_quad_train_1404:	駅	遠	|	駅	遠い
+2168 - hotel_quad_train_1404:	NULL	大 変 すばらしい	|	ホテル	大変すばらしい
+2169 - hotel_quad_train_1405:	対 応	とにかく 良 く	|	対応	とにかく良く
+2170 - hotel_quad_train_1405:	NULL	快 適	|	NULL	快適
+2171 - hotel_quad_train_1406:	NULL	満 足	|	ホテル	満足
+2172 - hotel_quad_train_1406:	利 用	安 心 して	|	利用	安心して
+2173 - hotel_quad_train_1407:	NULL	普 通	|	ホテル	普通
+2174 - hotel_quad_train_1408:	部 屋	NULL	|	部屋	とても快適
+2175 - hotel_quad_train_1408:	朝 食	豊 富	|	朝食	豊富
+2176 - hotel_quad_train_1409:	匂	残 念	|	匂い	残念
+2177 - hotel_quad_train_1410:	直 結	良 かった	|	直結	良かった
+2178 - hotel_quad_train_1411:	品 数	沢 山	|	品数	沢山
+2179 - hotel_quad_train_1411:	朝 食	美 味 しい	|	朝食	美味しい
+2180 - hotel_quad_train_1412:	夕 食	NULL	|	夕食	ゆっくり
+2181 - hotel_quad_train_1413:	朝 食	美 味 しかった	|	朝食	美味しかった
+2182 - hotel_quad_train_1413:	対 応	素 晴 らしく	|	対応	素晴らしく
+2183 - hotel_quad_train_1414:	窓 際	NULL	|	窓際	すごく冷えた
+2184 - hotel_quad_train_1415:	食 事 時 間	NULL	|	食事時間	なく
+2185 - hotel_quad_train_1415:	組 数	少 ない	|	組数	少ない
+2186 - hotel_quad_train_1415:	NULL	NULL	|	NULL	いい
+2187 - hotel_quad_train_1416:	駅	直 ぐ	|	駅	直ぐ
+2188 - hotel_quad_train_1417:	対 応	丁 寧	|	対応	丁寧
+2189 - hotel_quad_train_1418:	NULL	広	|	バスタブ	広々
+2190 - hotel_quad_train_1419:	品 揃 え	満 足 できません	|	品揃え	満足できません
+2191 - hotel_quad_train_1420:	畳	好 印 象	|	畳	好印象
+2192 - hotel_quad_train_1420:	風 呂	好 印 象	|	風呂	好印象
+2193 - hotel_quad_train_1420:	館 内	好 印 象	|	館内	好印象
+2194 - hotel_quad_train_1421:	風 呂	ゆっくり	|	風呂	ゆっくり
+2195 - hotel_quad_train_1422:	時 間	楽 しい	|	時間	楽しい
+2196 - hotel_quad_train_1423:	和 食 処	とても 美 味 しかった	|	和食処	とても美味しかった
+2197 - hotel_quad_train_1424:	立 地	NULL	|	立地	とても良かった
+2198 - hotel_quad_train_1425:	部 屋	快 適	|	部屋	快適
+2199 - hotel_quad_train_1426:	挨 拶	気 持 ち 良 く	|	挨拶	気持ち良く
+2200 - hotel_quad_train_1426:	NULL	快 適	|	NULL	快適
+2201 - hotel_quad_train_1427:	NULL	小 さく	|	TV型式	小さく
+2202 - hotel_quad_train_1427:	NULL	見 ずらい	|	TV	見ずらい
+2203 - hotel_quad_train_1428:	部 屋	NULL	|	部屋	キレイ
+2204 - hotel_quad_train_1429:	朝 食	大 変 いい	|	朝食	大変いい
+2205 - hotel_quad_train_1430:	スタッフ	NULL	|	スタッフ	とても礼儀正しく
+2206 - hotel_quad_train_1431:	朝 食	シ	|	朝食	シンプル
+2207 - hotel_quad_train_1431:	部 屋	NULL	|	部屋	きれい
+2208 - hotel_quad_train_1432:	NULL	汚 れていた	|	トイレ	汚れていた
+2209 - hotel_quad_train_1432:	部 屋	やや 不 満	|	部屋	やや不満
+2210 - hotel_quad_train_1433:	電 話	大 変 困 りました	|	電話	大変困りました
+2211 - hotel_quad_train_1434:	風 呂	最 高	|	風呂	最高
+2212 - hotel_quad_train_1434:	NULL	最 高	|	サウナ	最高
+2213 - hotel_quad_train_1435:	風 呂	NULL	|	風呂	ゆっくり
+2214 - hotel_quad_train_1435:	NULL	NULL	|	サウナ	ゆっくり
+2215 - hotel_quad_train_1436:	脱 衣 所	狭 く	|	脱衣所	狭く
+2216 - hotel_quad_train_1436:	髪 の 毛	気 になりました	|	髪の毛	気になりました
+2217 - hotel_quad_train_1437:	NULL	NULL	|	NULL	richな気分
+2218 - hotel_quad_train_1437:	対 応	親 切	|	対応	親切
+2219 - hotel_quad_train_1438:	飲 食 店	NULL	|	飲食店	おいしい
+2220 - hotel_quad_train_1439:	NULL	残 念	|	コーヒーサービス	残念
+2221 - hotel_quad_train_1440:	対 応	NULL	|	対応	よく
+2222 - hotel_quad_train_1440:	部 屋	清 潔	|	部屋	清潔
+2223 - hotel_quad_train_1441:	油 豆 腐 のたれ	辛 く	|	油豆腐のたれ	辛く
+2224 - hotel_quad_train_1442:	温 泉	NULL	|	温泉	とても気持ちが良くて
+2225 - hotel_quad_train_1443:	温 泉	混 雑 していなくて	|	温泉	混雑していなくて
+2226 - hotel_quad_train_1444:	食 事	素 晴 らしかった	|	食事	素晴らしかった
+2227 - hotel_quad_train_1444:	対 応	素 晴 らしかった	|	対応	素晴らしかった
+2228 - hotel_quad_train_1445:	部 屋	快 適	|	部屋	快適
+2229 - hotel_quad_train_1445:	NULL	良 く	|	リネン	良く
+2230 - hotel_quad_train_1446:	スタッフ	NULL	|	スタッフ	あまり慣れていない
+2231 - hotel_quad_train_1447:	アメニティ	NULL	|	アメニティ	とても充実
+2232 - hotel_quad_train_1448:	NULL	嬉	|	NULL	嬉し
+2233 - hotel_quad_train_1448:	NULL	NULL	|	メニュー	たくさん
+2234 - hotel_quad_train_1448:	NULL	体 に 良 さげ	|	おかず	体に良さげ
+2235 - hotel_quad_train_1449:	ボリュウーム	満 足	|	ボリュウーム	満足
+2236 - hotel_quad_train_1449:	味	満 足	|	味	満足
+2237 - hotel_quad_train_1449:	朝 食	最 高	|	朝食	最高
+2238 - hotel_quad_train_1450:	ふろん	良 かった	|	ふろんと	良かった
+2239 - hotel_quad_train_1451:	部 屋	綺 麗	|	部屋	綺麗
+2240 - hotel_quad_train_1452:	部 屋	綺 麗	|	部屋	綺麗
+2241 - hotel_quad_train_1453:	部 屋	清 潔	|	部屋	清潔
+2242 - hotel_quad_train_1454:	ホテル	満 足	|	ホテル	満足
+2243 - hotel_quad_train_1455:	扉 の 開 閉 音	残 念	|	扉の開閉音	残念
+2244 - hotel_quad_train_1456:	ワイン	楽 しめました	|	ワイン	楽しめました
+2245 - hotel_quad_train_1457:	充 足 感	大	|	充足感	大
+2246 - hotel_quad_train_1457:	食 事	満 足	|	食事	満足
+2247 - hotel_quad_train_1457:	駐 車 場	少 し 残 念	|	駐車場	少し残念
+2248 - hotel_quad_train_1457:	部 屋	清 潔	|	部屋	清潔
+2249 - hotel_quad_train_1458:	朝 食 ビュッフェ	美 味 しい	|	朝食ビュッフェ	美味しい
+2250 - hotel_quad_train_1459:	NULL	とても 親 切	|	NULL	とても親切
+2251 - hotel_quad_train_1459:	NULL	NULL	|	ホテル	いい
+2252 - hotel_quad_train_1460:	立 地	NULL	|	立地	よく
+2253 - hotel_quad_train_1460:	夜	静	|	夜	静か
+2254 - hotel_quad_train_1461:	NULL	便 利	|	コンコース	便利
+2255 - hotel_quad_train_1462:	NULL	楽 ちん	|	バス	楽ちん
+2256 - hotel_quad_train_1463:	スタッフ	優 しく	|	スタッフ	優しく
+2257 - hotel_quad_train_1464:	施 設	素 晴 らしい	|	施設	素晴らしい
+2258 - hotel_quad_train_1465:	立 地	良 く	|	立地	良く
+2259 - hotel_quad_train_1466:	部 屋	清 潔	|	部屋	清潔
+2260 - hotel_quad_train_1467:	道	雰 囲 気 バッチリ	|	道	雰囲気バッチリ
+2261 - hotel_quad_train_1467:	景 色	最 高 に 良 い	|	景色	最高に良い
+2262 - hotel_quad_train_1468:	食 材	楽 しむことができました	|	食材	楽しむことができました
+2263 - hotel_quad_train_1469:	繁 華 街	徒 歩 圏 内	|	繁華街	徒歩圏内
+2264 - hotel_quad_train_1469:	食 事	困 りません	|	食事	困りません
+2265 - hotel_quad_train_1470:	NULL	快 適	|	NULL	快適
+2266 - hotel_quad_train_1471:	温 泉 施 設	疲 れがとれました	|	温泉施設	疲れがとれました
+2267 - hotel_quad_train_1472:	コスパ	良 く	|	コスパ	良く
+2268 - hotel_quad_train_1472:	従 業 員	感 じが 良 い	|	従業員	感じが良い
+2269 - hotel_quad_train_1473:	チェックアウト	素 晴 らしい	|	チェックアウト	素晴らしい
+2270 - hotel_quad_train_1474:	部 屋	良 かった	|	部屋	良かった
+2271 - hotel_quad_train_1474:	朝 食	良 し	|	朝食	良し
+2272 - hotel_quad_train_1474:	NULL	良 し	|	サービス	良し
+2273 - hotel_quad_train_1475:	部 屋	NULL	|	部屋	ヨーロッパのクラシカルなグランドホテルのような雰囲気
+2274 - hotel_quad_train_1475:	NULL	NULL	|	ホテル	テーマパーク気分
+2275 - hotel_quad_train_1475:	ロビー	NULL	|	ロビー	ヨーロッパのクラシカルなグランドホテルのような雰囲気
+2276 - hotel_quad_train_1476:	駅	便 利	|	駅	便利
+2277 - hotel_quad_train_1476:	博 多 駅	便 利	|	博多駅	便利
+2278 - hotel_quad_train_1477:	風 呂	NULL	|	風呂	ヌルヌル
+2279 - hotel_quad_train_1478:	食 事	ビックリ	|	食事	ビックリ
+2280 - hotel_quad_train_1479:	立 地	抜 群	|	立地	抜群
+2281 - hotel_quad_train_1480:	浴 槽	NULL	|	浴槽	ゴミ
+2282 - hotel_quad_train_1481:	NULL	寛 ぐ	|	NULL	寛ぐ
+2283 - hotel_quad_train_1481:	NULL	清 潔 感	|	お部屋	清潔感
+2284 - hotel_quad_train_1482:	朝 食	満 足	|	朝食	満足
+2285 - hotel_quad_train_1483:	NULL	種 類 豊 富	|	ソフトドリンク	種類豊富
+2286 - hotel_quad_train_1483:	お 酒 類	種 類 豊 富	|	お酒類	種類豊富
+2287 - hotel_quad_train_1483:	料 理	少 ない	|	料理	少ない
+2288 - hotel_quad_train_1484:	NULL	便 利	|	ご飯	便利
+2289 - hotel_quad_train_1485:	部 屋	最 高	|	部屋	最高
+2290 - hotel_quad_train_1486:	食 事	面 倒	|	食事	面倒
+2291 - hotel_quad_train_1486:	NULL	面 倒	|	チェックイン	面倒
+2292 - hotel_quad_train_1486:	大 浴 場	面 倒	|	大浴場	面倒
+2293 - hotel_quad_train_1487:	風 呂	NULL	|	風呂	ゆっくり
+2294 - hotel_quad_train_1487:	部 屋	NULL	|	部屋	きれい
+2295 - hotel_quad_train_1488:	静 かさ	感 動	|	静かさ	感動
+2296 - hotel_quad_train_1488:	部 屋	感 動	|	部屋	感動
+2297 - hotel_quad_train_1488:	気 遣 い	感 動	|	気遣い	感動
+2298 - hotel_quad_train_1488:	居 心 地	感 動	|	居心地	感動
+2299 - hotel_quad_train_1489:	朝 食	不 満 が 出 るほどでもない	|	朝食	不満が出るほどでもない
+2300 - hotel_quad_train_1490:	スタッフ	NULL	|	スタッフ	とても親切
+2301 - hotel_quad_train_1490:	利 用	快 適	|	利用	快適
+2302 - hotel_quad_train_1491:	宿 泊	リーズナブル	|	宿泊	リーズナブル
+2303 - hotel_quad_train_1491:	価 格	リーズナブル	|	価格	リーズナブル
+2304 - hotel_quad_train_1492:	部 屋	広 く	|	部屋	広く
+2305 - hotel_quad_train_1492:	浴 室	広 く	|	浴室	広く
+2306 - hotel_quad_train_1492:	料 金	とてもリーズナブル	|	料金	とてもリーズナブル
+2307 - hotel_quad_train_1492:	NULL	とても 快 適	|	NULL	とても快適
+2308 - hotel_quad_train_1493:	NULL	NULL	|	NULL	リフレッシュ
+2309 - hotel_quad_train_1494:	風 呂	NULL	|	風呂	いい
+2310 - hotel_quad_train_1495:	総 合 評 価	一 番	|	総合評価	一番
+2311 - hotel_quad_train_1495:	移 動	便 利	|	移動	便利
+2312 - hotel_quad_train_1496:	中 華 街	NULL	|	中華街	ちかい
+2313 - hotel_quad_train_1497:	スタッフの 気 配 り	良 かった	|	スタッフの気配り	良かった
+2314 - hotel_quad_train_1498:	部 屋	NULL	|	部屋	くつろげました
+2315 - hotel_quad_train_1499:	立 地	大 変 便 利	|	立地	大変便利
+2316 - hotel_quad_train_1500:	部 屋 風 呂	NULL	|	部屋風呂	まあまあ広さがある
+2317 - hotel_quad_train_1501:	NULL	残 念	|	ベッド	残念
+2318 - hotel_quad_train_1502:	テナント	残 念	|	テナント	残念
+2319 - hotel_quad_train_1503:	部 屋	NULL	|	部屋	かなりよかった
+2320 - hotel_quad_train_1504:	朝 食	満 足	|	朝食	満足
+2321 - hotel_quad_train_1504:	NULL	快 適	|	NULL	快適
+2322 - hotel_quad_train_1505:	朝 食	NULL	|	朝食	とても美味しく
+2323 - hotel_quad_train_1506:	部 屋	とても 寒 かった	|	部屋	とても寒かった
+2324 - hotel_quad_train_1507:	暖 房	効 きにくく	|	暖房	効きにくく
+2325 - hotel_quad_train_1507:	部 屋	若 干 広 い	|	部屋	若干広い
+2326 - hotel_quad_train_1507:	駐 車 場	近 い	|	駐車場	近い
+2327 - hotel_quad_train_1508:	部 屋	絶 景	|	部屋	絶景
+2328 - hotel_quad_train_1508:	温 泉	最 高	|	温泉	最高
+2329 - hotel_quad_train_1509:	部 屋 付 け 露 天 風 呂	十 分 満 喫	|	部屋付け露天風呂	十分満喫
+2330 - hotel_quad_train_1509:	湯 量	豊 富	|	湯量	豊富
+2331 - hotel_quad_train_1509:	温 度	高 く	|	温度	高く
+2332 - hotel_quad_train_1509:	貸 切 露 天 風 呂	十 分 満 喫	|	貸切露天風呂	十分満喫
+2333 - hotel_quad_train_1509:	眺 望	NULL	|	眺望	イマイチ
+2334 - hotel_quad_train_1510:	夕 食	NULL	|	夕食	とても美味しく
+2335 - hotel_quad_train_1511:	食 事	美 味 しく	|	食事	美味しく
+2336 - hotel_quad_train_1511:	雰 囲 気	最 高	|	雰囲気	最高
+2337 - hotel_quad_train_1512:	朝 食	不 便	|	朝食	不便
+2338 - hotel_quad_train_1513:	朝 食	家 庭 的 なお 味	|	朝食	家庭的なお味
+2339 - hotel_quad_train_1514:	案 内	感 激	|	案内	感激
+2340 - hotel_quad_train_1515:	NULL	静 か	|	NULL	静か
+2341 - hotel_quad_train_1515:	NULL	良 く	|	ロケーション	良く
+2342 - hotel_quad_train_1516:	スタッフの 皆 さん	にこやかに	|	スタッフの皆さん	にこやかに
+2343 - hotel_quad_train_1517:	NULL	NULL	|	ビュッフェ	とても美味しく
+2344 - hotel_quad_train_1517:	NULL	広 い	|	レストラン	広い
+2345 - hotel_quad_train_1518:	立 地	最 高	|	立地	最高
+2346 - hotel_quad_train_1518:	NULL	近	|	コンビニ	近
+2348 - hotel_quad_train_1519:	NULL	心 地 よく	|	マッサージ機	心地よく
+2349 - hotel_quad_train_1520:	場 所	静 かな	|	場所	静かな
+2351 - hotel_quad_train_1522:	NULL	快 適	|	チェックイン	快適
+2352 - hotel_quad_train_1523:	温 泉	満 足	|	温泉	満足
+2353 - hotel_quad_train_1524:	NULL	NULL	|	サービス	とてもよく
+2354 - hotel_quad_train_1524:	宿 泊	気 持 ちよく	|	宿泊	気持ちよく
+2355 - hotel_quad_train_1525:	お 料 理	素 晴 らしい	|	お料理	素晴らしい
+2356 - hotel_quad_train_1525:	部 屋	素 晴 らしい	|	部屋	素晴らしい
+2357 - hotel_quad_train_1525:	おもてなし	素 晴 らしい	|	おもてなし	素晴らしい
+2358 - hotel_quad_train_1525:	サービス	素 晴 らしい	|	サービス	素晴らしい
+2359 - hotel_quad_train_1526:	NULL	NULL	|	NULL	リフレッシュ
+2360 - hotel_quad_train_1526:	浴 室	大 変 きれい	|	浴室	大変きれい
+2361 - hotel_quad_train_1526:	展 望	大 変 よく	|	展望	大変よく
+2362 - hotel_quad_train_1526:	風 呂	大 変 きれい	|	風呂	大変きれい
+2363 - hotel_quad_train_1527:	対 応	残 念	|	対応	残念
+2364 - hotel_quad_train_1528:	ロッカー	助 かりました	|	ロッカー	助かりました
+2365 - hotel_quad_train_1529:	NULL	伸 び 伸 び 過 ごす	|	わんこ	伸び伸び過ごす
+2366 - hotel_quad_train_1529:	お 部 屋	良 かった	|	お部屋	良かった
+2367 - hotel_quad_train_1530:	ホテル 内	安 眠	|	ホテル内	安眠
+2368 - hotel_quad_train_1531:	駐 車 場	便 利	|	駐車場	便利
+2369 - hotel_quad_train_1532:	NULL	大 変 助 かりました	|	チェックイン	大変助かりました
+2371 - hotel_quad_train_1533:	NULL	無 料	|	アイス	無料
+2372 - hotel_quad_train_1533:	お 風 呂 上 がり	NULL	|	お風呂上がり	リラックスできました
+2373 - hotel_quad_train_1534:	NULL	最 高	|	ヤクルト	最高
+2374 - hotel_quad_train_1534:	NULL	最 高	|	アイス	最高
+2375 - hotel_quad_train_1535:	高 山 ラーメン	美 味 しかった	|	高山ラーメン	美味しかった
+2376 - hotel_quad_train_1536:	NULL	優 れている	|	コスパ	優れている
+2377 - hotel_quad_train_1537:	NULL	NULL	|	スタッフ	とても丁寧
+2378 - hotel_quad_train_1537:	NULL	嬉 しかった	|	NULL	嬉しかった
+2379 - hotel_quad_train_1538:	露 天 風 呂	格 別	|	露天風呂	格別
+2380 - hotel_quad_train_1539:	NULL	感 じよかった	|	スタッフ	感じよかった
+2381 - hotel_quad_train_1540:	風 呂	NULL	|	風呂	とても良かった
+2382 - hotel_quad_train_1541:	夕 食	混 んでいた	|	夕食	混んでいた
+2383 - hotel_quad_train_1541:	対 応	良 い	|	対応	良いもの
+2384 - hotel_quad_train_1542:	ツインルーム	かなり 広 いスペース	|	ツインルーム	かなり広いスペース
+2385 - hotel_quad_train_1543:	朝 食	大 満 足	|	朝食	大満足
+2386 - hotel_quad_train_1544:	接 客	NULL	|	接客	とても良く
+2387 - hotel_quad_train_1544:	気 分	良 かった	|	気分	良かった
+2388 - hotel_quad_train_1545:	部 屋	狭 い	|	部屋	狭い
+2389 - hotel_quad_train_1546:	自 然	最 高	|	自然	最高
+2390 - hotel_quad_train_1547:	風 呂	満 足	|	風呂	満足
+2391 - hotel_quad_train_1547:	NULL	価 格 以 上	|	NULL	価格以上
+2392 - hotel_quad_train_1547:	サウナ	満 足	|	サウナ	満足
+2393 - hotel_quad_train_1547:	朝 食	満 足	|	朝食	満足
+2394 - hotel_quad_train_1548:	追 加 の 枕	NULL	|	追加の枕	よかった
+2395 - hotel_quad_train_1549:	景 色	癒 されます	|	景色	癒されます
+2396 - hotel_quad_train_1550:	コスパ	NULL	|	コスパ	とても高い
+2397 - hotel_quad_train_1551:	部 屋	少 し 古	|	部屋	少し古い
+2398 - hotel_quad_train_1551:	景 色	良 かった	|	景色	良かった
+2399 - hotel_quad_train_1552:	椅 子	重 宝 しました	|	椅子	重宝しました
+2400 - hotel_quad_train_1552:	部 屋 の 据 置 の 椅 子	使 い 勝 手 もよく	|	部屋の据置の椅子	使い勝手もよく
+2401 - hotel_quad_train_1553:	立 地	便 利	|	立地	便利
+2402 - hotel_quad_train_1554:	部 屋	広 かった	|	部屋	広かった
+2403 - hotel_quad_train_1555:	夕 食	感 動 しました	|	夕食	感動しました
+2404 - hotel_quad_train_1556:	利 用	気 持 ち 良 く	|	利用	気持ち良く
+2405 - hotel_quad_train_1556:	接 客	良 く	|	接客	良く
+2406 - hotel_quad_train_1557:	スタッフ	NULL	|	スタッフ	よかった
+2407 - hotel_quad_train_1558:	NULL	残 念	|	NULL	残念
+2408 - hotel_quad_train_1559:	NULL	活 気 のある	|	ホテル	活気のある
+2409 - hotel_quad_train_1560:	温 泉	最 高	|	温泉	最高
+2410 - hotel_quad_train_1561:	臭	少 し 気 になりました	|	臭い	少し気になりました
+2411 - hotel_quad_train_1562:	朝 食	NULL	|	朝食	ありがたかった
+2412 - hotel_quad_train_1563:	NULL	良 く	|	アクセス	良く
+2413 - hotel_quad_train_1563:	朝 食	非 常 に 魅 力 的 でした	|	朝食	非常に魅力的でした
+2414 - hotel_quad_train_1564:	食 事	必 要 十 分 な	|	食事	必要十分なもの
+2415 - hotel_quad_train_1564:	部 屋	必 要 十 分 な 広 さ	|	部屋	必要十分な広さ
+2416 - hotel_quad_train_1565:	部 屋	癒 されました	|	部屋	癒されました
+2417 - hotel_quad_train_1565:	建 物	清 掃 してある	|	建物	清掃してある
+2418 - hotel_quad_train_1565:	花 火	NULL	|	花火	ラッキー
+2419 - hotel_quad_train_1565:	NULL	美 味 しくて	|	ご飯	美味しくて
+2420 - hotel_quad_train_1565:	量	満 足	|	量	満足
+2421 - hotel_quad_train_1566:	朝 食 メニュー	素 晴 らしく	|	朝食メニュー	素晴らしく
+2422 - hotel_quad_train_1566:	スタッフの 対 応	し	|	スタッフの対応	しっかりしていて
+2423 - hotel_quad_train_1567:	種 類	少 し 少 ない	|	種類	少し少ない
+2424 - hotel_quad_train_1567:	朝 食 バイキング	満 足	|	朝食バイキング	満足
+2425 - hotel_quad_train_1568:	説 明	助 かりました	|	説明	助かりました
+2426 - hotel_quad_train_1569:	NULL	文 句 なし	|	NULL	文句なし
+2427 - hotel_quad_train_1570:	温 泉	NULL	|	温泉	ツルツル
+2428 - hotel_quad_train_1571:	お 祝 いケーキ	美 味 でした	|	お祝いケーキ	美味でした
+2429 - hotel_quad_train_1571:	食 事	新 鮮	|	食事	新鮮
+2430 - hotel_quad_train_1572:	フロント	残 念	|	フロント	残念
+2431 - hotel_quad_train_1573:	些 細 なサービス	有 り 難	|	些細なサービス	有り難い
+2432 - hotel_quad_train_1573:	アメニティ	豊 富	|	アメニティ	豊富
+2433 - hotel_quad_train_1574:	朝 食	満 足	|	朝食	満足
+2434 - hotel_quad_train_1575:	露 天 風 呂	格 別	|	露天風呂	格別
+2435 - hotel_quad_train_1576:	朝 ご 飯 会 場	寒	|	朝ご飯会場	寒い
+2436 - hotel_quad_train_1577:	シャワールーム	良 かった	|	シャワールーム	良かった
+2437 - hotel_quad_train_1578:	NULL	NULL	|	サウナ	ベスト
+2439 - hotel_quad_train_1580:	部 屋	NULL	|	部屋	とても良い雰囲気
+2440 - hotel_quad_train_1581:	風 呂	便 利	|	風呂	便利
+2441 - hotel_quad_train_1582:	NULL	良 かった	|	スイートルーム	良かった
+2442 - hotel_quad_train_1583:	接 客	当 たり 外 れがある	|	接客	当たり外れがある
+2443 - hotel_quad_train_1584:	送 迎 バス	NULL	|	送迎バス	とても便利
+2444 - hotel_quad_train_1585:	掛 け 物	寒 かった	|	掛け物	寒かった
+2445 - hotel_quad_train_1585:	食 堂	狭 く	|	食堂	狭く
+2446 - hotel_quad_train_1585:	朝 食	混 雑	|	朝食	混雑
+2447 - hotel_quad_train_1586:	風 呂	癒 されます	|	風呂	癒されます
+2448 - hotel_quad_train_1587:	対 応	迅 速	|	対応	迅速
+2449 - hotel_quad_train_1588:	NULL	NULL	|	サービス	すごくよく
+2450 - hotel_quad_train_1589:	雰 囲 気	落 ち 着 いた	|	雰囲気	落ち着いた
+2451 - hotel_quad_train_1589:	滞 在	ゆっくりとした	|	滞在	ゆっくりとした
+2452 - hotel_quad_train_1590:	朝 食	少 々 残 念	|	朝食	少々残念
+2453 - hotel_quad_train_1591:	朝 食	美 味 しく	|	朝食	美味しく
+2454 - hotel_quad_train_1592:	朝 ごはん	充 実 させて 欲 しい	|	朝ごはん	充実させて欲しい
+2455 - hotel_quad_train_1593:	設 備	古 く	|	設備	古く
+2456 - hotel_quad_train_1594:	ファイヤースペース	NULL	|	ファイヤースペース	とてもとても良かった
+2457 - hotel_quad_train_1594:	置 いてあるレトロモダンな 家 具	NULL	|	置いてあるレトロモダンな家具	とてもとても良かった
+2458 - hotel_quad_train_1594:	対 応	NULL	|	対応	しっかりしている
+2459 - hotel_quad_train_1594:	部 屋 のモダンさ	NULL	|	部屋のモダンさ	とてもとても良かった
+2460 - hotel_quad_train_1594:	全 て	NULL	|	全て	とてもとても良かった
+2461 - hotel_quad_train_1594:	サービス	NULL	|	サービス	とてもとても良かった
+2462 - hotel_quad_train_1595:	大 浴 場	NULL	|	大浴場	よかった
+2463 - hotel_quad_train_1596:	滞 在 時 間	至 福	|	滞在時間	至福
+2464 - hotel_quad_train_1597:	NULL	感 激	|	ご案内	感激
+2465 - hotel_quad_train_1597:	料 金 設 定	NULL	|	料金設定	お値打ち
+2466 - hotel_quad_train_1598:	NULL	NULL	|	コンビニ	ない
+2467 - hotel_quad_train_1599:	NULL	NULL	|	NULL	リラックス
+2468 - hotel_quad_train_1600:	朝 食 バイキング	美 味 しい	|	朝食バイキング	美味しい
+2469 - hotel_quad_train_1600:	NULL	とても 嬉 しく	|	NULL	とても嬉しく

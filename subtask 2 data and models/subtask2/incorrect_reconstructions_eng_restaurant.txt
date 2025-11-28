@@ -1,0 +1,14 @@
+DF Index	 Dataset Index	Recon Asp	Recon Opn	|	 ASP	OPN
+77 - rest16_quad_dev_62:	staff	truly unprofessional and i wish cafe noir would get some good	|	staff	truly unprofessional and i wish cafe noir would get some good staff
+197 - rest16_quad_dev_152:	sake s	very well	|	sake ’ s	very well
+703 - rest16_quad_test_303:	delicious	pizza s	|	delicious	pizza ’ s
+704 - rest16_quad_test_304:	menu	t be disappointed	|	menu	 t be disappointed
+1392 - rest16_quad_train_266:	big wong	ups	|	big wong	big ups
+1421 - rest16_quad_train_282:	good	NULL	|	good	good
+1663 - rest16_quad_train_461:	dal bukhara rocks.	NULL	|	dal bukhara rocks .	NULL
+1681 - rest16_quad_train_476:	roth ' s	very disappointing.	|	roth ' s	very disappointing .
+1909 - rest16_quad_train_634:	fish	really, really fresh	|	fish	really , really fresh
+2470 - rest16_quad_train_1044:	NULL	very, very nice	|	NULL	very , very nice
+2533 - rest16_quad_train_1092:	dancing, white river and millenium rolls	musts	|	dancing , white river and millenium rolls	musts
+2827 - rest16_quad_train_1325:	salt encrusted shrimp ' ' appetizer	NULL	|	` ` salt encrusted shrimp ' ' appetizer	NULL
+2840 - rest16_quad_train_1337:	indian food	very normal	|	indian food	very ` ` normal

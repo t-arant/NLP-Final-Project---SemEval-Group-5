@@ -1,0 +1,18 @@
+BIOES Labeling - 8 epoch
+Train Bal acc:
+0.9098857277303083
+Val bal acc:
+0.8521282440597477
+
+BIOES Labeling - 10 epoch
+Train Bal acc:
+0.9304466113676761
+Val bal acc:
+0.8600783604939596
+
+IO LABELING - 8 EPOCH
+Train Bal acc:
+0.9472201116236687
+Val bal acc:
+0.8986662742710715
+
