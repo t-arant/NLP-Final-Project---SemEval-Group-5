@@ -1,4 +1,5 @@
 # This file contains the code for defining, training, and evaluating a BERT-based model for subtask 1 
+# DM 11/28/2025 - automates some hyperparameter tuning (hidden dims, activation fn)
 
 import torch.nn as nn
 from torch.utils.data import Dataset
@@ -64,59 +65,47 @@ class RegressorModel(nn.Module):
 
     - Uses a pretrained BERT backbone to contextualize text embeddings.
     - Takes the [CLS] token representation as sentence-level embedding.
-    - Runs [CLS] token through dropout layer and regression head
-    - DOES NOT INCLUDE helper methods for one training epoch and one evaluation epoch. 
+    - Runs [CLS] token through dropout layer and regression head.
+    - DOES NOT INCLUDE helper methods for one training epoch and one evaluation epoch.
+    - Activation function testing can be automated, but stays the same for each layer. 
 
     Args:
-        model_name (str): HuggingFace model name, default "bert-base-multilingual-cased".
+        model_name (str): HuggingFace model name, default "distilbert-base-multilingual-cased".
         dropout (float): Dropout rate before the regression head.
+        hidden_dims (list): List of hidden layer dimensions (e.g., [384] for one hidden layer)
+        activation (str): Activation function - 'relu', 'leaky_relu', 'gelu', 'elu', or 'none'
+
+    (This version automates hyperparameter tuning, call with 
+    model = RegressorModel(hidden_dims=[YOUR_DIMS], activation='YOUR_ACTIVATION'))
     '''
-    def __init__(self, model_name="distilbert-base-multilingual-cased", dropout=0.1):
+    def __init__(self, model_name="distilbert-base-multilingual-cased", dropout=0.1, 
+                 hidden_dims=[384], activation='none'):
         super().__init__()
         self.backbone = AutoModel.from_pretrained(model_name)
         self.dropout = nn.Dropout(dropout)
         
-        self.reg_head = nn.Sequential(
-
-            nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            nn.Linear(CLS_SIZE//2, 2),
-
-            # list of all regression head archs. tried in hyperparamter tuning 
-            # TODO: Automate this process 
-            
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.Linear(CLS_SIZE//2, (CLS_SIZE//2)//2),
-            # nn.Linear((CLS_SIZE//2)//2, 2)
-            
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.ReLU(),
-            # nn.Linear(CLS_SIZE//2, (CLS_SIZE//2)//2),
-            # nn.ReLU(),
-            # nn.Linear((CLS_SIZE//2)//2, 2)
-
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.LeakyReLU(0.3),
-            # nn.Linear(CLS_SIZE//2, (CLS_SIZE//2)//2),
-            # nn.LeakyReLU(0.3),
-            # nn.Linear((CLS_SIZE//2)//2, 2)
-
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.GELU(),
-            # nn.Linear(CLS_SIZE//2, (CLS_SIZE//2)//2),
-            # nn.GELU(),
-            # nn.Linear((CLS_SIZE//2)//2, 2)
-
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.ELU(),
-            # nn.Linear(CLS_SIZE//2, 2),
-
-            # nn.Linear(CLS_SIZE, CLS_SIZE//2),
-            # nn.ELU(),
-            # nn.Linear(CLS_SIZE//2, (CLS_SIZE//2)//2),
-            # nn.ELU(),
-            # nn.Linear((CLS_SIZE//2)//2, 2)
-        )
-
+        layers = []
+        input_dim = CLS_SIZE
+        
+        for hidden_dim in hidden_dims:
+            layers.append(nn.Linear(input_dim, hidden_dim))
+            layers.append(self._get_activation(activation))
+            input_dim = hidden_dim
+        
+        layers.append(nn.Linear(input_dim, 2))
+        
+        self.reg_head = nn.Sequential(*layers)
+    
+    def _get_activation(self, activation):
+        activations = {
+            'relu': nn.ReLU(),
+            'leaky_relu': nn.LeakyReLU(0.3),
+            'gelu': nn.GELU(),
+            'elu': nn.ELU(),
+            'none': nn.Identity()  # No activation
+        }
+        return activations.get(activation, nn.Identity())
+ 
     def forward(self, input_ids, attention_mask):
         outputs = self.backbone(input_ids=input_ids, attention_mask=attention_mask)
         hidden_states = outputs.last_hidden_state        

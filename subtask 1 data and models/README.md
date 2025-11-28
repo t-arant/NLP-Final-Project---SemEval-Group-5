@@ -1,5 +1,5 @@
 ## Subtask 1
-Code and Data for Subtask 1, using BERT-based transformers to usse contextualized embeddings for Valence/Arousal prediction
+Code and Data for Subtask 1, using BERT-based transformers to use contextualized embeddings for Valence/Arousal prediction
 - Current state
   Backbone code is completed. We need to automate hyperparamter tuning and test on languages other than English
 
