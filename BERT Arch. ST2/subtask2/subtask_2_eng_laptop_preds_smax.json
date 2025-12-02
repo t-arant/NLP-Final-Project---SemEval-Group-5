@@ -1,0 +1,816 @@
+{"ID": "laptop_quad_test_1", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.02#6.90"}]}
+{"ID": "laptop_quad_test_10", "Triplet": [{"Aspect": ": - great price for", "Opinion": "none", "VA": "3.86#4.62"}]}
+{"ID": "laptop_quad_test_100", "Triplet": [{"Aspect": ": i like", "Opinion": "none", "VA": "6.03#6.74"}]}
+{"ID": "laptop_quad_test_101", "Triplet": [{"Aspect": "none", "Opinion": "good for", "VA": "6.30#7.13"}]}
+{"ID": "laptop_quad_test_102", "Triplet": [{"Aspect": ":", "Opinion": "screen is perfect", "VA": "5.59#6.74"}]}
+{"ID": "laptop_quad_test_103", "Triplet": [{"Aspect": "up : this", "Opinion": "boot", "VA": "6.22#7.21"}, {"Aspect": "none", "Opinion": "none", "VA": "6.23#7.08"}]}
+{"ID": "laptop_quad_test_104", "Triplet": [{"Aspect": "google and partners", "Opinion": "none", "VA": "6.40#7.06"}]}
+{"ID": "laptop_quad_test_105", "Triplet": [{"Aspect": "none", "Opinion": "##L : i something", "VA": "6.08#7.13"}]}
+{"ID": "laptop_quad_test_106", "Triplet": [{"Aspect": "##s on", "Opinion": "none", "VA": "6.25#7.20"}]}
+{"ID": "laptop_quad_test_107", "Triplet": [{"Aspect": "none", "Opinion": ": this thing", "VA": "6.18#7.06"}]}
+{"ID": "laptop_quad_test_108", "Triplet": [{"Aspect": "i chose to purchase", "Opinion": "because", "VA": "6.28#6.99"}]}
+{"ID": "laptop_quad_test_109", "Triplet": [{"Aspect": "with", "Opinion": "couldn ' t be ha", "VA": "5.77#6.70"}]}
+{"ID": "laptop_quad_test_11", "Triplet": [{"Aspect": "none", "Opinion": "##L : it", "VA": "5.67#6.79"}]}
+{"ID": "laptop_quad_test_110", "Triplet": [{"Aspect": "hinge :", "Opinion": "screen hin", "VA": "6.36#7.30"}]}
+{"ID": "laptop_quad_test_111", "Triplet": [{"Aspect": ":", "Opinion": "size", "VA": "6.28#7.06"}, {"Aspect": "none", "Opinion": ":", "VA": "6.32#7.07"}]}
+{"ID": "laptop_quad_test_112", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.12"}]}
+{"ID": "laptop_quad_test_113", "Triplet": [{"Aspect": "life :", "Opinion": "none", "VA": "6.23#7.10"}]}
+{"ID": "laptop_quad_test_114", "Triplet": [{"Aspect": "##romebook :", "Opinion": "none", "VA": "6.40#7.19"}]}
+{"ID": "laptop_quad_test_115", "Triplet": [{"Aspect": "fitness center,", "Opinion": "none", "VA": "6.24#7.03"}]}
+{"ID": "laptop_quad_test_116", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.23#6.85"}]}
+{"ID": "laptop_quad_test_117", "Triplet": [{"Aspect": "powers up", "Opinion": "none", "VA": "6.36#7.08"}, {"Aspect": "immediately,", "Opinion": "none", "VA": "6.38#7.14"}, {"Aspect": ",", "Opinion": ",", "VA": "6.00#6.93"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#7.08"}]}
+{"ID": "laptop_quad_test_118", "Triplet": [{"Aspect": "none", "Opinion": "i ' m", "VA": "6.18#7.06"}]}
+{"ID": "laptop_quad_test_119", "Triplet": [{"Aspect": ": this is my", "Opinion": "none", "VA": "6.15#6.78"}, {"Aspect": "use", "Opinion": "none", "VA": "5.99#6.73"}]}
+{"ID": "laptop_quad_test_12", "Triplet": [{"Aspect": "one,", "Opinion": "none", "VA": "6.23#7.16"}]}
+{"ID": "laptop_quad_test_120", "Triplet": [{"Aspect": "act like", "Opinion": "none", "VA": "6.30#7.16"}]}
+{"ID": "laptop_quad_test_121", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.98"}]}
+{"ID": "laptop_quad_test_122", "Triplet": [{"Aspect": "a", "Opinion": "none", "VA": "5.78#6.41"}]}
+{"ID": "laptop_quad_test_123", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.16#7.06"}]}
+{"ID": "laptop_quad_test_124", "Triplet": [{"Aspect": "##top :", "Opinion": "laptop", "VA": "6.32#7.24"}]}
+{"ID": "laptop_quad_test_125", "Triplet": [{"Aspect": "none", "Opinion": ",", "VA": "6.27#6.87"}]}
+{"ID": "laptop_quad_test_126", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "5.73#6.33"}]}
+{"ID": "laptop_quad_test_127", "Triplet": [{"Aspect": ":", "Opinion": "itself is aw", "VA": "5.63#6.63"}]}
+{"ID": "laptop_quad_test_128", "Triplet": [{"Aspect": ": great", "Opinion": "laptop", "VA": "6.42#7.04"}, {"Aspect": "laptop", "Opinion": "none", "VA": "6.40#7.10"}]}
+{"ID": "laptop_quad_test_129", "Triplet": [{"Aspect": "##rmebook :", "Opinion": "none", "VA": "6.38#7.02"}]}
+{"ID": "laptop_quad_test_13", "Triplet": [{"Aspect": "the", "Opinion": "is very", "VA": "5.96#6.81"}]}
+{"ID": "laptop_quad_test_130", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.94"}]}
+{"ID": "laptop_quad_test_131", "Triplet": [{"Aspect": "##gged, light", "Opinion": "none", "VA": "6.31#7.11"}]}
+{"ID": "laptop_quad_test_132", "Triplet": [{"Aspect": "love", "Opinion": "keyboard", "VA": "5.81#6.54"}]}
+{"ID": "laptop_quad_test_133", "Triplet": [{"Aspect": "getting use to", "Opinion": "none", "VA": "6.39#7.19"}]}
+{"ID": "laptop_quad_test_134", "Triplet": [{"Aspect": "none", "Opinion": "##L :", "VA": "6.23#7.24"}]}
+{"ID": "laptop_quad_test_135", "Triplet": [{"Aspect": "school", "Opinion": "navigation", "VA": "6.09#6.89"}]}
+{"ID": "laptop_quad_test_136", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.92"}]}
+{"ID": "laptop_quad_test_137", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.32#7.00"}]}
+{"ID": "laptop_quad_test_138", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#7.01"}]}
+{"ID": "laptop_quad_test_139", "Triplet": [{"Aspect": "is", "Opinion": "isn ' t", "VA": "5.96#6.97"}]}
+{"ID": "laptop_quad_test_14", "Triplet": [{"Aspect": "a", "Opinion": "none", "VA": "5.89#6.72"}]}
+{"ID": "laptop_quad_test_140", "Triplet": [{"Aspect": "none", "Opinion": "N", "VA": "5.06#5.42"}]}
+{"ID": "laptop_quad_test_141", "Triplet": [{"Aspect": "life :", "Opinion": "battery", "VA": "6.11#6.71"}]}
+{"ID": "laptop_quad_test_142", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.98"}]}
+{"ID": "laptop_quad_test_143", "Triplet": [{"Aspect": "none", "Opinion": "##L :", "VA": "5.73#6.89"}]}
+{"ID": "laptop_quad_test_144", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.22#6.84"}]}
+{"ID": "laptop_quad_test_145", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "6.22#6.85"}, {"Aspect": "i went for", "Opinion": "none", "VA": "6.30#7.11"}, {"Aspect": "speed", "Opinion": "none", "VA": "5.96#6.81"}, {"Aspect": "display", "Opinion": "none", "VA": "6.06#6.88"}]}
+{"ID": "laptop_quad_test_146", "Triplet": [{"Aspect": ":", "Opinion": "display is c", "VA": "6.13#6.96"}, {"Aspect": "and bright", "Opinion": "none", "VA": "6.35#7.16"}, {"Aspect": "none", "Opinion": "none", "VA": "6.28#7.07"}]}
+{"ID": "laptop_quad_test_147", "Triplet": [{"Aspect": "none", "Opinion": "N", "VA": "6.19#7.02"}]}
+{"ID": "laptop_quad_test_148", "Triplet": [{"Aspect": ": i love", "Opinion": "##romebook", "VA": "6.07#6.71"}]}
+{"ID": "laptop_quad_test_149", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "5.92#6.71"}]}
+{"ID": "laptop_quad_test_15", "Triplet": [{"Aspect": "to pressity on", "Opinion": "none", "VA": "6.25#7.10"}]}
+{"ID": "laptop_quad_test_150", "Triplet": [{"Aspect": "a high", "Opinion": "none", "VA": "6.27#7.13"}]}
+{"ID": "laptop_quad_test_151", "Triplet": [{"Aspect": "delivery", "Opinion": "delivery a", "VA": "5.96#6.85"}, {"Aspect": "i bl", "Opinion": "none", "VA": "6.34#7.19"}]}
+{"ID": "laptop_quad_test_152", "Triplet": [{"Aspect": "amd a12 processor", "Opinion": "amd a", "VA": "6.26#7.15"}]}
+{"ID": "laptop_quad_test_153", "Triplet": [{"Aspect": "none", "Opinion": "size", "VA": "6.16#7.00"}]}
+{"ID": "laptop_quad_test_154", "Triplet": [{"Aspect": "get", "Opinion": "none", "VA": "5.87#6.61"}]}
+{"ID": "laptop_quad_test_155", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.13#6.97"}]}
+{"ID": "laptop_quad_test_156", "Triplet": [{"Aspect": "function", "Opinion": "computer", "VA": "5.71#6.75"}]}
+{"ID": "laptop_quad_test_157", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.30#7.23"}]}
+{"ID": "laptop_quad_test_158", "Triplet": [{"Aspect": "##top :", "Opinion": "none", "VA": "6.35#7.06"}]}
+{"ID": "laptop_quad_test_159", "Triplet": [{"Aspect": "de", "Opinion": ": works fl and", "VA": "5.90#6.91"}, {"Aspect": "none", "Opinion": "##L :", "VA": "6.12#7.13"}]}
+{"ID": "laptop_quad_test_16", "Triplet": [{"Aspect": "updated", "Opinion": "none", "VA": "6.06#6.94"}]}
+{"ID": "laptop_quad_test_160", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "4.69#5.09"}]}
+{"ID": "laptop_quad_test_161", "Triplet": [{"Aspect": "great", "Opinion": "graphics", "VA": "6.00#6.75"}]}
+{"ID": "laptop_quad_test_162", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.16#7.03"}]}
+{"ID": "laptop_quad_test_163", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.33#6.93"}]}
+{"ID": "laptop_quad_test_164", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.41#7.00"}]}
+{"ID": "laptop_quad_test_165", "Triplet": [{"Aspect": "love our", "Opinion": "lap", "VA": "6.05#6.60"}]}
+{"ID": "laptop_quad_test_166", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.96#6.66"}]}
+{"ID": "laptop_quad_test_167", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.33#7.03"}, {"Aspect": ",", "Opinion": "none", "VA": "5.92#6.77"}, {"Aspect": ",", "Opinion": "", "VA": "5.96#6.86"}]}
+{"ID": "laptop_quad_test_168", "Triplet": [{"Aspect": "none", "Opinion": "##L :", "VA": "6.12#6.78"}]}
+{"ID": "laptop_quad_test_169", "Triplet": [{"Aspect": "and", "Opinion": "quiet", "VA": "5.98#6.75"}]}
+{"ID": "laptop_quad_test_17", "Triplet": [{"Aspect": "hdmi", "Opinion": "none", "VA": "6.01#6.76"}]}
+{"ID": "laptop_quad_test_170", "Triplet": [{"Aspect": "on", "Opinion": "none", "VA": "5.87#6.85"}]}
+{"ID": "laptop_quad_test_171", "Triplet": [{"Aspect": "to get", "Opinion": ": i was", "VA": "6.08#7.07"}]}
+{"ID": "laptop_quad_test_172", "Triplet": [{"Aspect": "person shooters :", "Opinion": "first person", "VA": "5.37#6.51"}]}
+{"ID": "laptop_quad_test_173", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.18#7.11"}]}
+{"ID": "laptop_quad_test_174", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.34#6.97"}]}
+{"ID": "laptop_quad_test_175", "Triplet": [{"Aspect": "of", "Opinion": "none", "VA": "5.87#6.75"}]}
+{"ID": "laptop_quad_test_176", "Triplet": [{"Aspect": "s a very", "Opinion": "'", "VA": "6.35#7.16"}]}
+{"ID": "laptop_quad_test_177", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "6.22#7.14"}]}
+{"ID": "laptop_quad_test_178", "Triplet": [{"Aspect": "a", "Opinion": "s", "VA": "6.01#6.89"}, {"Aspect": "flaw", "Opinion": "battery life", "VA": "6.30#7.07"}]}
+{"ID": "laptop_quad_test_179", "Triplet": [{"Aspect": "lose", "Opinion": "none", "VA": "5.84#6.68"}]}
+{"ID": "laptop_quad_test_18", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#6.99"}]}
+{"ID": "laptop_quad_test_180", "Triplet": [{"Aspect": ":", "Opinion": "processor", "VA": "5.58#6.17"}]}
+{"ID": "laptop_quad_test_181", "Triplet": [{"Aspect": "you want", "Opinion": "none", "VA": "6.28#7.09"}]}
+{"ID": "laptop_quad_test_182", "Triplet": [{"Aspect": "think", "Opinion": "battery is", "VA": "6.00#6.87"}]}
+{"ID": "laptop_quad_test_183", "Triplet": [{"Aspect": "is an", "Opinion": "this", "VA": "6.40#7.07"}]}
+{"ID": "laptop_quad_test_184", "Triplet": [{"Aspect": "##vd player :", "Opinion": "dvd player is", "VA": "6.33#7.23"}]}
+{"ID": "laptop_quad_test_185", "Triplet": [{"Aspect": "the", "Opinion": "none", "VA": "5.84#6.63"}]}
+{"ID": "laptop_quad_test_186", "Triplet": [{"Aspect": "laptop", "Opinion": "laptop", "VA": "6.33#7.10"}]}
+{"ID": "laptop_quad_test_187", "Triplet": [{"Aspect": ": on", "Opinion": "computer", "VA": "6.10#6.87"}]}
+{"ID": "laptop_quad_test_188", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.14#6.74"}]}
+{"ID": "laptop_quad_test_189", "Triplet": [{"Aspect": "none", "Opinion": "so we", "VA": "6.33#7.13"}]}
+{"ID": "laptop_quad_test_19", "Triplet": [{"Aspect": "i noticed", "Opinion": "none", "VA": "6.16#7.11"}]}
+{"ID": "laptop_quad_test_190", "Triplet": [{"Aspect": "cpu", "Opinion": "none", "VA": "6.03#6.47"}]}
+{"ID": "laptop_quad_test_191", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#7.03"}]}
+{"ID": "laptop_quad_test_192", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "6.05#6.76"}]}
+{"ID": "laptop_quad_test_193", "Triplet": [{"Aspect": "storm", "Opinion": "none", "VA": "6.03#6.79"}]}
+{"ID": "laptop_quad_test_194", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.18#6.78"}]}
+{"ID": "laptop_quad_test_195", "Triplet": [{"Aspect": "to", "Opinion": "none", "VA": "5.97#6.71"}]}
+{"ID": "laptop_quad_test_196", "Triplet": [{"Aspect": "none", "Opinion": "us", "VA": "6.26#6.83"}]}
+{"ID": "laptop_quad_test_197", "Triplet": [{"Aspect": "ever", "Opinion": "none", "VA": "6.00#6.73"}, {"Aspect": "ever online computer", "Opinion": "you", "VA": "6.27#6.98"}]}
+{"ID": "laptop_quad_test_198", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.14"}]}
+{"ID": "laptop_quad_test_199", "Triplet": [{"Aspect": "to", "Opinion": "keyboard", "VA": "6.05#6.90"}]}
+{"ID": "laptop_quad_test_2", "Triplet": [{"Aspect": "11 : going acer 15", "Opinion": "none", "VA": "6.32#7.25"}]}
+{"ID": "laptop_quad_test_20", "Triplet": [{"Aspect": "##ect here", "Opinion": "none", "VA": "6.19#7.05"}]}
+{"ID": "laptop_quad_test_200", "Triplet": [{"Aspect": "super", "Opinion": "is a", "VA": "5.93#6.85"}]}
+{"ID": "laptop_quad_test_201", "Triplet": [{"Aspect": "far a", "Opinion": "none", "VA": "6.32#7.05"}]}
+{"ID": "laptop_quad_test_202", "Triplet": [{"Aspect": "i purchased", "Opinion": "none", "VA": "6.32#7.08"}]}
+{"ID": "laptop_quad_test_203", "Triplet": [{"Aspect": "t comment", "Opinion": "none", "VA": "6.24#7.12"}]}
+{"ID": "laptop_quad_test_204", "Triplet": [{"Aspect": "battery life", "Opinion": "battery", "VA": "6.41#7.09"}]}
+{"ID": "laptop_quad_test_205", "Triplet": [{"Aspect": "sl", "Opinion": "design :", "VA": "5.59#6.59"}]}
+{"ID": "laptop_quad_test_206", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#6.80"}]}
+{"ID": "laptop_quad_test_207", "Triplet": [{"Aspect": "nic", "Opinion": "computer :", "VA": "5.92#6.82"}]}
+{"ID": "laptop_quad_test_208", "Triplet": [{"Aspect": "##top :", "Opinion": "laptop", "VA": "6.29#7.24"}]}
+{"ID": "laptop_quad_test_209", "Triplet": [{"Aspect": "very nic", "Opinion": "this is a", "VA": "6.09#6.87"}]}
+{"ID": "laptop_quad_test_21", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#6.98"}]}
+{"ID": "laptop_quad_test_210", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.44#7.00"}]}
+{"ID": "laptop_quad_test_211", "Triplet": [{"Aspect": "none", "Opinion": "wanted", "VA": "6.28#7.14"}]}
+{"ID": "laptop_quad_test_212", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.42#7.15"}]}
+{"ID": "laptop_quad_test_213", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.92"}, {"Aspect": "but", "Opinion": "", "VA": "5.97#6.78"}]}
+{"ID": "laptop_quad_test_214", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.11#6.97"}]}
+{"ID": "laptop_quad_test_215", "Triplet": [{"Aspect": ":", "Opinion": "computer", "VA": "5.99#6.82"}, {"Aspect": "great computer", "Opinion": "set", "VA": "6.29#6.96"}]}
+{"ID": "laptop_quad_test_216", "Triplet": [{"Aspect": "##love with", "Opinion": "none", "VA": "6.33#7.09"}]}
+{"ID": "laptop_quad_test_217", "Triplet": [{"Aspect": "graphics", "Opinion": "graphics", "VA": "6.22#6.94"}]}
+{"ID": "laptop_quad_test_218", "Triplet": [{"Aspect": ": finally got", "Opinion": "none", "VA": "6.24#7.15"}]}
+{"ID": "laptop_quad_test_219", "Triplet": [{"Aspect": "it since", "Opinion": "none", "VA": "6.24#7.11"}]}
+{"ID": "laptop_quad_test_22", "Triplet": [{"Aspect": "de", "Opinion": "sound :", "VA": "5.83#6.77"}]}
+{"ID": "laptop_quad_test_220", "Triplet": [{"Aspect": "and my otherwise", "Opinion": "none", "VA": "6.17#7.12"}, {"Aspect": "##sable anytime", "Opinion": "none", "VA": "5.99#6.99"}]}
+{"ID": "laptop_quad_test_221", "Triplet": [{"Aspect": "fix", "Opinion": "none", "VA": "6.21#7.06"}]}
+{"ID": "laptop_quad_test_222", "Triplet": [{"Aspect": "the", "Opinion": ":", "VA": "5.94#6.83"}]}
+{"ID": "laptop_quad_test_223", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#7.02"}]}
+{"ID": "laptop_quad_test_224", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.35#7.04"}]}
+{"ID": "laptop_quad_test_225", "Triplet": [{"Aspect": "with", "Opinion": "is very", "VA": "6.05#6.90"}]}
+{"ID": "laptop_quad_test_226", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.12#6.91"}]}
+{"ID": "laptop_quad_test_227", "Triplet": [{"Aspect": "screen :", "Opinion": "touch screen works", "VA": "5.98#7.11"}]}
+{"ID": "laptop_quad_test_228", "Triplet": [{"Aspect": "have noted,", "Opinion": "back", "VA": "6.33#7.07"}]}
+{"ID": "laptop_quad_test_229", "Triplet": [{"Aspect": "that", "Opinion": "screen is not", "VA": "6.00#6.95"}]}
+{"ID": "laptop_quad_test_23", "Triplet": [{"Aspect": ": flim", "Opinion": "adapter", "VA": "5.73#6.49"}]}
+{"ID": "laptop_quad_test_230", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#7.10"}]}
+{"ID": "laptop_quad_test_231", "Triplet": [{"Aspect": "such an", "Opinion": "none", "VA": "5.93#6.82"}]}
+{"ID": "laptop_quad_test_232", "Triplet": [{"Aspect": "##rge", "Opinion": "screen : go", "VA": "5.94#6.82"}, {"Aspect": ",", "Opinion": "profile", "VA": "6.06#6.97"}, {"Aspect": ", built", "Opinion": "none", "VA": "6.28#7.14"}]}
+{"ID": "laptop_quad_test_233", "Triplet": [{"Aspect": "am missing the", "Opinion": "none", "VA": "6.17#7.05"}]}
+{"ID": "laptop_quad_test_234", "Triplet": [{"Aspect": "none", "Opinion": ": i wouldn", "VA": "6.14#7.16"}]}
+{"ID": "laptop_quad_test_235", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.87"}]}
+{"ID": "laptop_quad_test_236", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.97#6.85"}]}
+{"ID": "laptop_quad_test_237", "Triplet": [{"Aspect": "none", "Opinion": "quality", "VA": "6.06#7.07"}, {"Aspect": "##able to", "Opinion": "quality", "VA": "6.11#7.12"}]}
+{"ID": "laptop_quad_test_238", "Triplet": [{"Aspect": "battery life", "Opinion": "battery", "VA": "6.11#6.70"}]}
+{"ID": "laptop_quad_test_239", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#7.04"}]}
+{"ID": "laptop_quad_test_24", "Triplet": [{"Aspect": "wi - fi", "Opinion": "none", "VA": "6.24#7.02"}]}
+{"ID": "laptop_quad_test_240", "Triplet": [{"Aspect": "support : another star off", "Opinion": "none", "VA": "6.19#6.99"}]}
+{"ID": "laptop_quad_test_241", "Triplet": [{"Aspect": "t find a", "Opinion": ", so", "VA": "6.13#7.07"}]}
+{"ID": "laptop_quad_test_242", "Triplet": [{"Aspect": "battery life", "Opinion": "battery life", "VA": "6.30#7.00"}]}
+{"ID": "laptop_quad_test_243", "Triplet": [{"Aspect": "amazon", "Opinion": "none", "VA": "6.11#6.81"}]}
+{"ID": "laptop_quad_test_244", "Triplet": [{"Aspect": "battery", "Opinion": "battery", "VA": "6.17#6.88"}, {"Aspect": "good", "Opinion": "none", "VA": "5.97#6.82"}, {"Aspect": "display", "Opinion": "keyboard are", "VA": "6.12#7.00"}]}
+{"ID": "laptop_quad_test_245", "Triplet": [{"Aspect": "about", "Opinion": "none", "VA": "6.18#7.00"}]}
+{"ID": "laptop_quad_test_246", "Triplet": [{"Aspect": "bad baby", "Opinion": "none", "VA": "6.39#7.07"}, {"Aspect": "chromeos", "Opinion": "none", "VA": "6.35#7.15"}]}
+{"ID": "laptop_quad_test_247", "Triplet": [{"Aspect": "that", "Opinion": "none", "VA": "6.00#6.92"}]}
+{"ID": "laptop_quad_test_248", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.00#6.92"}]}
+{"ID": "laptop_quad_test_249", "Triplet": [{"Aspect": "proposition here with", "Opinion": "none", "VA": "6.34#7.13"}]}
+{"ID": "laptop_quad_test_25", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.28#7.14"}]}
+{"ID": "laptop_quad_test_250", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.89"}]}
+{"ID": "laptop_quad_test_251", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.78#6.54"}]}
+{"ID": "laptop_quad_test_252", "Triplet": [{"Aspect": "t say", "Opinion": "ac", "VA": "6.44#7.19"}]}
+{"ID": "laptop_quad_test_253", "Triplet": [{"Aspect": "oversiz", "Opinion": "none", "VA": "6.26#7.16"}]}
+{"ID": "laptop_quad_test_254", "Triplet": [{"Aspect": "10 - 12", "Opinion": "none", "VA": "6.26#7.07"}]}
+{"ID": "laptop_quad_test_255", "Triplet": [{"Aspect": "only has a nic", "Opinion": "none", "VA": "6.29#7.14"}, {"Aspect": "de", "Opinion": "has a", "VA": "6.00#6.94"}]}
+{"ID": "laptop_quad_test_256", "Triplet": [{"Aspect": "was the lack of", "Opinion": "none", "VA": "5.96#7.05"}]}
+{"ID": "laptop_quad_test_257", "Triplet": [{"Aspect": "none", "Opinion": "##UL", "VA": "6.06#6.67"}]}
+{"ID": "laptop_quad_test_258", "Triplet": [{"Aspect": "none", "Opinion": "this is an unbeli", "VA": "6.07#6.94"}]}
+{"ID": "laptop_quad_test_259", "Triplet": [{"Aspect": "life :", "Opinion": "battery life", "VA": "6.33#7.21"}]}
+{"ID": "laptop_quad_test_26", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.08"}]}
+{"ID": "laptop_quad_test_260", "Triplet": [{"Aspect": "none", "Opinion": "overall", "VA": "6.33#7.00"}]}
+{"ID": "laptop_quad_test_261", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#7.17"}]}
+{"ID": "laptop_quad_test_262", "Triplet": [{"Aspect": "a learning curve", "Opinion": "none", "VA": "6.34#7.12"}]}
+{"ID": "laptop_quad_test_263", "Triplet": [{"Aspect": "not recognize", "Opinion": "none", "VA": "6.29#7.04"}]}
+{"ID": "laptop_quad_test_264", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "6.35#7.07"}]}
+{"ID": "laptop_quad_test_265", "Triplet": [{"Aspect": "##dmi and usb ports :", "Opinion": "none", "VA": "6.02#6.83"}]}
+{"ID": "laptop_quad_test_266", "Triplet": [{"Aspect": "initial feel for", "Opinion": "chrome", "VA": "6.32#7.22"}]}
+{"ID": "laptop_quad_test_267", "Triplet": [{"Aspect": "##d - core celeron n3160 :", "Opinion": "none", "VA": "5.50#6.60"}]}
+{"ID": "laptop_quad_test_268", "Triplet": [{"Aspect": "balance", "Opinion": "none", "VA": "5.79#6.82"}]}
+{"ID": "laptop_quad_test_269", "Triplet": [{"Aspect": "been my", "Opinion": "has", "VA": "6.26#6.96"}]}
+{"ID": "laptop_quad_test_27", "Triplet": [{"Aspect": ":", "Opinion": "product", "VA": "6.03#6.95"}, {"Aspect": ", but", "Opinion": "customer support is", "VA": "6.11#7.12"}]}
+{"ID": "laptop_quad_test_270", "Triplet": [{"Aspect": "at how well", "Opinion": "i ' m been", "VA": "6.32#7.06"}]}
+{"ID": "laptop_quad_test_271", "Triplet": [{"Aspect": "as for software", "Opinion": "##romeos", "VA": "6.42#7.21"}]}
+{"ID": "laptop_quad_test_272", "Triplet": [{"Aspect": "none", "Opinion": "that", "VA": "6.10#7.03"}, {"Aspect": "ama", "Opinion": "##ly an", "VA": "5.86#6.75"}]}
+{"ID": "laptop_quad_test_273", "Triplet": [{"Aspect": "##eas", "Opinion": "", "VA": "5.69#6.68"}]}
+{"ID": "laptop_quad_test_274", "Triplet": [{"Aspect": "for", "Opinion": "none", "VA": "5.96#6.71"}]}
+{"ID": "laptop_quad_test_275", "Triplet": [{"Aspect": "##ly,", "Opinion": "trackpad feels a", "VA": "5.91#7.02"}]}
+{"ID": "laptop_quad_test_276", "Triplet": [{"Aspect": ":", "Opinion": "battery", "VA": "5.93#6.79"}]}
+{"ID": "laptop_quad_test_277", "Triplet": [{"Aspect": "looking for", "Opinion": "none", "VA": "6.31#7.04"}]}
+{"ID": "laptop_quad_test_278", "Triplet": [{"Aspect": "& a on", "Opinion": "none", "VA": "6.32#7.05"}]}
+{"ID": "laptop_quad_test_279", "Triplet": [{"Aspect": "battery", "Opinion": "be", "VA": "5.98#6.87"}]}
+{"ID": "laptop_quad_test_28", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.98#6.83"}]}
+{"ID": "laptop_quad_test_280", "Triplet": [{"Aspect": ": with the", "Opinion": "none", "VA": "6.13#7.01"}]}
+{"ID": "laptop_quad_test_281", "Triplet": [{"Aspect": "this is my", "Opinion": "none", "VA": "6.40#7.16"}]}
+{"ID": "laptop_quad_test_282", "Triplet": [{"Aspect": "none", "Opinion": "need and", "VA": "6.25#7.02"}]}
+{"ID": "laptop_quad_test_283", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.24#7.01"}]}
+{"ID": "laptop_quad_test_284", "Triplet": [{"Aspect": "m", "Opinion": "none", "VA": "5.96#6.72"}]}
+{"ID": "laptop_quad_test_285", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.24#6.91"}]}
+{"ID": "laptop_quad_test_286", "Triplet": [{"Aspect": "- drives are", "Opinion": "none", "VA": "6.02#6.72"}]}
+{"ID": "laptop_quad_test_287", "Triplet": [{"Aspect": "-", "Opinion": "none", "VA": "5.91#6.80"}]}
+{"ID": "laptop_quad_test_288", "Triplet": [{"Aspect": "drive : -", "Opinion": "none", "VA": "5.81#6.48"}]}
+{"ID": "laptop_quad_test_289", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.05"}]}
+{"ID": "laptop_quad_test_29", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.90"}]}
+{"ID": "laptop_quad_test_290", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#7.15"}]}
+{"ID": "laptop_quad_test_291", "Triplet": [{"Aspect": "very", "Opinion": "screen :", "VA": "6.16#7.08"}]}
+{"ID": "laptop_quad_test_292", "Triplet": [{"Aspect": ": something", "Opinion": "none", "VA": "6.33#7.09"}, {"Aspect": "high", "Opinion": "none", "VA": "5.99#6.89"}]}
+{"ID": "laptop_quad_test_293", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.04#6.87"}]}
+{"ID": "laptop_quad_test_294", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.81#6.84"}]}
+{"ID": "laptop_quad_test_295", "Triplet": [{"Aspect": "x yosemite :", "Opinion": ",", "VA": "5.35#6.40"}, {"Aspect": ",", "Opinion": "os is very", "VA": "6.03#6.97"}]}
+{"ID": "laptop_quad_test_296", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.48#7.20"}, {"Aspect": "and", "Opinion": "none", "VA": "6.08#6.93"}]}
+{"ID": "laptop_quad_test_297", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.25#6.87"}]}
+{"ID": "laptop_quad_test_298", "Triplet": [{"Aspect": ":", "Opinion": "computer is", "VA": "6.07#6.97"}]}
+{"ID": "laptop_quad_test_299", "Triplet": [{"Aspect": "##lighting :", "Opinion": "back", "VA": "6.43#7.29"}, {"Aspect": "comparable, but", "Opinion": "mb", "VA": "6.26#7.32"}]}
+{"ID": "laptop_quad_test_3", "Triplet": [{"Aspect": "s not a", "Opinion": "none", "VA": "6.38#7.20"}]}
+{"ID": "laptop_quad_test_30", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#6.97"}]}
+{"ID": "laptop_quad_test_300", "Triplet": [{"Aspect": "##nderbolt ports :", "Opinion": "thunderbolt", "VA": "6.01#6.97"}]}
+{"ID": "laptop_quad_test_301", "Triplet": [{"Aspect": ": the", "Opinion": "##top", "VA": "6.35#7.01"}]}
+{"ID": "laptop_quad_test_302", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.85"}]}
+{"ID": "laptop_quad_test_303", "Triplet": [{"Aspect": "an", "Opinion": "is", "VA": "5.93#6.71"}]}
+{"ID": "laptop_quad_test_304", "Triplet": [{"Aspect": "##bility :", "Opinion": "dura", "VA": "6.34#6.91"}, {"Aspect": "none", "Opinion": "N", "VA": "6.29#6.98"}, {"Aspect": "outstanding performance", "Opinion": "portability", "VA": "6.24#6.87"}]}
+{"ID": "laptop_quad_test_305", "Triplet": [{"Aspect": "response", "Opinion": "response", "VA": "6.10#7.01"}]}
+{"ID": "laptop_quad_test_306", "Triplet": [{"Aspect": "life :", "Opinion": "none", "VA": "6.22#6.85"}]}
+{"ID": "laptop_quad_test_307", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.16#6.91"}]}
+{"ID": "laptop_quad_test_308", "Triplet": [{"Aspect": "selection", "Opinion": ": -", "VA": "6.01#6.84"}]}
+{"ID": "laptop_quad_test_309", "Triplet": [{"Aspect": "##top :", "Opinion": "laptop", "VA": "6.25#7.03"}]}
+{"ID": "laptop_quad_test_31", "Triplet": [{"Aspect": ":", "Opinion": "screen", "VA": "5.92#6.88"}]}
+{"ID": "laptop_quad_test_310", "Triplet": [{"Aspect": "of", "Opinion": "none", "VA": "5.92#6.64"}]}
+{"ID": "laptop_quad_test_311", "Triplet": [{"Aspect": ":", "Opinion": "shipping", "VA": "6.06#6.93"}, {"Aspect": "shipping", "Opinion": "none", "VA": "5.93#6.82"}]}
+{"ID": "laptop_quad_test_312", "Triplet": [{"Aspect": "the", "Opinion": "display :", "VA": "5.92#6.92"}, {"Aspect": "display and", "Opinion": "none", "VA": "6.13#7.16"}]}
+{"ID": "laptop_quad_test_313", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.33#7.12"}]}
+{"ID": "laptop_quad_test_314", "Triplet": [{"Aspect": "i love", "Opinion": "##book", "VA": "6.18#6.76"}]}
+{"ID": "laptop_quad_test_315", "Triplet": [{"Aspect": ":", "Opinion": "product", "VA": "4.99#5.56"}]}
+{"ID": "laptop_quad_test_316", "Triplet": [{"Aspect": "ama", "Opinion": "is an", "VA": "6.01#6.89"}]}
+{"ID": "laptop_quad_test_317", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.35#7.03"}, {"Aspect": "that", "Opinion": "none", "VA": "6.09#6.91"}, {"Aspect": "that hardware", "Opinion": "none", "VA": "6.06#6.87"}]}
+{"ID": "laptop_quad_test_318", "Triplet": [{"Aspect": "##ly", "Opinion": "", "VA": "5.22#6.00"}]}
+{"ID": "laptop_quad_test_319", "Triplet": [{"Aspect": "very nic", "Opinion": "laptop :", "VA": "6.31#7.14"}, {"Aspect": "none", "Opinion": "NUL", "VA": "6.32#7.11"}, {"Aspect": "feature and", "Opinion": "running speed", "VA": "6.29#7.13"}]}
+{"ID": "laptop_quad_test_32", "Triplet": [{"Aspect": "reinserted", "Opinion": "none", "VA": "6.35#7.19"}]}
+{"ID": "laptop_quad_test_320", "Triplet": [{"Aspect": ") is", "Opinion": "none", "VA": "6.22#7.05"}]}
+{"ID": "laptop_quad_test_321", "Triplet": [{"Aspect": "none", "Opinion": "##L :", "VA": "5.91#6.92"}]}
+{"ID": "laptop_quad_test_322", "Triplet": [{"Aspect": "##eso", "Opinion": "computer : aw", "VA": "5.43#6.46"}]}
+{"ID": "laptop_quad_test_323", "Triplet": [{"Aspect": ":", "Opinion": "shipping", "VA": "5.97#6.67"}, {"Aspect": "fast and", "Opinion": "selle", "VA": "6.31#6.89"}]}
+{"ID": "laptop_quad_test_324", "Triplet": [{"Aspect": ":", "Opinion": "mac", "VA": "6.22#7.04"}, {"Aspect": "##sides", "Opinion": "none", "VA": "6.02#6.83"}]}
+{"ID": "laptop_quad_test_325", "Triplet": [{"Aspect": ":", "Opinion": "design", "VA": "6.21#7.04"}, {"Aspect": "the force", "Opinion": "track pad", "VA": "6.36#7.27"}]}
+{"ID": "laptop_quad_test_326", "Triplet": [{"Aspect": "##ah the", "Opinion": "mac", "VA": "6.29#7.20"}, {"Aspect": "small but", "Opinion": "internals are a", "VA": "6.29#7.23"}]}
+{"ID": "laptop_quad_test_327", "Triplet": [{"Aspect": ":", "Opinion": "this computer", "VA": "5.28#6.03"}]}
+{"ID": "laptop_quad_test_328", "Triplet": [{"Aspect": ": force", "Opinion": "none", "VA": "6.03#7.03"}]}
+{"ID": "laptop_quad_test_329", "Triplet": [{"Aspect": "charm and", "Opinion": "retina display", "VA": "5.94#7.07"}]}
+{"ID": "laptop_quad_test_33", "Triplet": [{"Aspect": "down", "Opinion": "none", "VA": "6.02#6.95"}]}
+{"ID": "laptop_quad_test_330", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#6.81"}]}
+{"ID": "laptop_quad_test_331", "Triplet": [{"Aspect": "love", "Opinion": ": i absolute", "VA": "6.04#6.85"}]}
+{"ID": "laptop_quad_test_332", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "6.20#6.93"}]}
+{"ID": "laptop_quad_test_333", "Triplet": [{"Aspect": "##book :", "Opinion": "none", "VA": "6.34#7.21"}]}
+{"ID": "laptop_quad_test_334", "Triplet": [{"Aspect": "considering getting", "Opinion": "none", "VA": "6.20#7.03"}]}
+{"ID": "laptop_quad_test_335", "Triplet": [{"Aspect": "hard drive :", "Opinion": "none", "VA": "6.37#7.06"}]}
+{"ID": "laptop_quad_test_336", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.21#7.09"}]}
+{"ID": "laptop_quad_test_337", "Triplet": [{"Aspect": "none", "Opinion": "how it", "VA": "5.83#6.78"}]}
+{"ID": "laptop_quad_test_338", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "5.70#6.22"}, {"Aspect": "great price", "Opinion": "customer", "VA": "5.65#6.32"}]}
+{"ID": "laptop_quad_test_339", "Triplet": [{"Aspect": "##pad and", "Opinion": "none", "VA": "6.27#7.03"}]}
+{"ID": "laptop_quad_test_34", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#7.17"}]}
+{"ID": "laptop_quad_test_340", "Triplet": [{"Aspect": "laptop", "Opinion": "lap", "VA": "6.31#6.96"}, {"Aspect": "get a", "Opinion": "none", "VA": "6.43#7.15"}]}
+{"ID": "laptop_quad_test_341", "Triplet": [{"Aspect": "##eso", "Opinion": "machine : aw", "VA": "5.49#6.48"}]}
+{"ID": "laptop_quad_test_342", "Triplet": [{"Aspect": "$ $ more", "Opinion": "apple products", "VA": "6.47#7.22"}]}
+{"ID": "laptop_quad_test_343", "Triplet": [{"Aspect": ":", "Opinion": "computer", "VA": "6.15#7.00"}, {"Aspect": "a fant", "Opinion": "and has", "VA": "6.19#7.03"}]}
+{"ID": "laptop_quad_test_344", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "6.06#6.65"}]}
+{"ID": "laptop_quad_test_345", "Triplet": [{"Aspect": ":", "Opinion": "computer", "VA": "5.86#6.49"}]}
+{"ID": "laptop_quad_test_346", "Triplet": [{"Aspect": "nor", "Opinion": "none", "VA": "5.94#6.70"}]}
+{"ID": "laptop_quad_test_347", "Triplet": [{"Aspect": "##dcut :", "Opinion": "pro", "VA": "4.92#5.53"}]}
+{"ID": "laptop_quad_test_348", "Triplet": [{"Aspect": "like the", "Opinion": "none", "VA": "6.25#7.06"}]}
+{"ID": "laptop_quad_test_349", "Triplet": [{"Aspect": "shipping", "Opinion": "shipping", "VA": "6.10#6.77"}, {"Aspect": "fast", "Opinion": "none", "VA": "5.86#6.63"}]}
+{"ID": "laptop_quad_test_35", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.82#6.73"}]}
+{"ID": "laptop_quad_test_350", "Triplet": [{"Aspect": "apple updates", "Opinion": "apple", "VA": "5.10#5.95"}]}
+{"ID": "laptop_quad_test_351", "Triplet": [{"Aspect": "none", "Opinion": "'", "VA": "6.33#7.10"}]}
+{"ID": "laptop_quad_test_352", "Triplet": [{"Aspect": "quai", "Opinion": "computer :", "VA": "6.01#6.86"}]}
+{"ID": "laptop_quad_test_353", "Triplet": [{"Aspect": "like", "Opinion": "machine quite", "VA": "5.84#6.79"}]}
+{"ID": "laptop_quad_test_354", "Triplet": [{"Aspect": "as", "Opinion": "system was somewhat", "VA": "5.96#6.88"}, {"Aspect": "a problem with", "Opinion": "none", "VA": "6.25#7.17"}]}
+{"ID": "laptop_quad_test_355", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#7.06"}]}
+{"ID": "laptop_quad_test_356", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "6.04#6.90"}]}
+{"ID": "laptop_quad_test_357", "Triplet": [{"Aspect": "battery", "Opinion": "battery", "VA": "5.83#6.64"}]}
+{"ID": "laptop_quad_test_358", "Triplet": [{"Aspect": ":", "Opinion": "are a", "VA": "6.13#6.99"}, {"Aspect": "equalizer on", "Opinion": "none", "VA": "6.21#7.08"}]}
+{"ID": "laptop_quad_test_359", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.15"}]}
+{"ID": "laptop_quad_test_36", "Triplet": [{"Aspect": "##d", "Opinion": "none", "VA": "5.83#6.70"}]}
+{"ID": "laptop_quad_test_360", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#6.96"}, {"Aspect": "-", "Opinion": "none", "VA": "6.01#6.91"}]}
+{"ID": "laptop_quad_test_361", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.89"}]}
+{"ID": "laptop_quad_test_362", "Triplet": [{"Aspect": "laptop : my trust", "Opinion": "none", "VA": "6.41#7.26"}]}
+{"ID": "laptop_quad_test_363", "Triplet": [{"Aspect": "gb of", "Opinion": "none", "VA": "6.11#6.83"}]}
+{"ID": "laptop_quad_test_364", "Triplet": [{"Aspect": "##screen :", "Opinion": "touch", "VA": "6.21#7.25"}, {"Aspect": "and", "Opinion": "keyboard is", "VA": "6.10#7.07"}]}
+{"ID": "laptop_quad_test_365", "Triplet": [{"Aspect": "useless", "Opinion": "none", "VA": "6.13#7.11"}]}
+{"ID": "laptop_quad_test_366", "Triplet": [{"Aspect": "to install my", "Opinion": "none", "VA": "6.18#7.16"}]}
+{"ID": "laptop_quad_test_367", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.23#7.04"}]}
+{"ID": "laptop_quad_test_368", "Triplet": [{"Aspect": "i can use", "Opinion": "none", "VA": "6.28#7.08"}]}
+{"ID": "laptop_quad_test_369", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.19#7.09"}]}
+{"ID": "laptop_quad_test_37", "Triplet": [{"Aspect": "but", "Opinion": "none", "VA": "5.99#6.88"}, {"Aspect": "but", "Opinion": "sound is", "VA": "6.04#6.98"}]}
+{"ID": "laptop_quad_test_370", "Triplet": [{"Aspect": "##g", "Opinion": "none", "VA": "6.07#6.95"}]}
+{"ID": "laptop_quad_test_371", "Triplet": [{"Aspect": "happy about : a", "Opinion": "none", "VA": "6.05#6.91"}]}
+{"ID": "laptop_quad_test_372", "Triplet": [{"Aspect": "purchasing", "Opinion": "none", "VA": "6.31#7.11"}]}
+{"ID": "laptop_quad_test_373", "Triplet": [{"Aspect": "due to the", "Opinion": "none", "VA": "6.26#7.07"}]}
+{"ID": "laptop_quad_test_374", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.16#6.95"}]}
+{"ID": "laptop_quad_test_375", "Triplet": [{"Aspect": "far all but 1 of", "Opinion": "none", "VA": "6.23#7.07"}]}
+{"ID": "laptop_quad_test_376", "Triplet": [{"Aspect": "laptop", "Opinion": "##top", "VA": "6.09#6.91"}, {"Aspect": "##im", "Opinion": "none", "VA": "6.02#6.92"}, {"Aspect": "hair in", "Opinion": "none", "VA": "6.28#7.14"}]}
+{"ID": "laptop_quad_test_377", "Triplet": [{"Aspect": "up", "Opinion": "none", "VA": "5.85#6.59"}]}
+{"ID": "laptop_quad_test_378", "Triplet": [{"Aspect": "blaming", "Opinion": "none", "VA": "6.28#7.14"}, {"Aspect": "##r, i am bl", "Opinion": "", "VA": "5.90#6.99"}, {"Aspect": "##tch", "Opinion": "its", "VA": "5.98#6.88"}]}
+{"ID": "laptop_quad_test_379", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.21#7.14"}, {"Aspect": ",", "Opinion": "none", "VA": "6.09#6.95"}]}
+{"ID": "laptop_quad_test_38", "Triplet": [{"Aspect": "nano edge display", "Opinion": "nano edge", "VA": "4.93#6.03"}]}
+{"ID": "laptop_quad_test_380", "Triplet": [{"Aspect": "pro : ordered", "Opinion": "none", "VA": "6.35#7.18"}, {"Aspect": "the exception of", "Opinion": "none", "VA": "6.25#7.11"}, {"Aspect": ",", "Opinion": "none", "VA": "6.08#6.94"}, {"Aspect": "keyboard and", "Opinion": "none", "VA": "6.27#7.08"}]}
+{"ID": "laptop_quad_test_381", "Triplet": [{"Aspect": "##r :", "Opinion": "none", "VA": "6.42#7.09"}]}
+{"ID": "laptop_quad_test_382", "Triplet": [{"Aspect": ": apparently", "Opinion": "none", "VA": "6.34#7.14"}]}
+{"ID": "laptop_quad_test_383", "Triplet": [{"Aspect": "##s,", "Opinion": "none", "VA": "6.31#7.13"}]}
+{"ID": "laptop_quad_test_384", "Triplet": [{"Aspect": "your time money", "Opinion": "none", "VA": "6.21#7.03"}]}
+{"ID": "laptop_quad_test_385", "Triplet": [{"Aspect": "love", "Opinion": "none", "VA": "5.99#6.75"}, {"Aspect": ", and", "Opinion": "none", "VA": "6.32#6.99"}]}
+{"ID": "laptop_quad_test_386", "Triplet": [{"Aspect": "- reflective coating :", "Opinion": "none", "VA": "5.79#6.76"}, {"Aspect": "isn ' t covered", "Opinion": "none", "VA": "5.70#6.86"}]}
+{"ID": "laptop_quad_test_387", "Triplet": [{"Aspect": "##book pro :", "Opinion": "pro", "VA": "6.22#7.22"}]}
+{"ID": "laptop_quad_test_388", "Triplet": [{"Aspect": "##b ports :", "Opinion": "none", "VA": "6.38#7.18"}, {"Aspect": "2 usb ports and", "Opinion": "none", "VA": "6.01#6.80"}]}
+{"ID": "laptop_quad_test_389", "Triplet": [{"Aspect": ": the", "Opinion": "", "VA": "5.44#6.39"}]}
+{"ID": "laptop_quad_test_39", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.41#7.04"}]}
+{"ID": "laptop_quad_test_390", "Triplet": [{"Aspect": "##r : of use", "Opinion": "charger", "VA": "6.15#7.26"}]}
+{"ID": "laptop_quad_test_391", "Triplet": [{"Aspect": ", excellent", "Opinion": "none", "VA": "6.32#7.14"}]}
+{"ID": "laptop_quad_test_392", "Triplet": [{"Aspect": "love", "Opinion": "none", "VA": "6.01#6.86"}, {"Aspect": "keyboard and", "Opinion": "none", "VA": "6.27#7.08"}]}
+{"ID": "laptop_quad_test_393", "Triplet": [{"Aspect": "life :", "Opinion": "battery", "VA": "6.41#7.18"}]}
+{"ID": "laptop_quad_test_394", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.99"}]}
+{"ID": "laptop_quad_test_395", "Triplet": [{"Aspect": "t purchase", "Opinion": "none", "VA": "6.34#7.16"}, {"Aspect": "can not believe", "Opinion": "none", "VA": "6.37#7.22"}]}
+{"ID": "laptop_quad_test_396", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#7.00"}]}
+{"ID": "laptop_quad_test_397", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#7.00"}]}
+{"ID": "laptop_quad_test_398", "Triplet": [{"Aspect": "##le :", "Opinion": "none", "VA": "6.27#7.13"}]}
+{"ID": "laptop_quad_test_399", "Triplet": [{"Aspect": "* very", "Opinion": "life :", "VA": "5.67#6.14"}]}
+{"ID": "laptop_quad_test_4", "Triplet": [{"Aspect": ":t", "Opinion": "none", "VA": "5.92#6.93"}]}
+{"ID": "laptop_quad_test_40", "Triplet": [{"Aspect": ":", "Opinion": "audio", "VA": "6.02#7.05"}]}
+{"ID": "laptop_quad_test_400", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.13#6.96"}]}
+{"ID": "laptop_quad_test_401", "Triplet": [{"Aspect": "##n away", "Opinion": "none", "VA": "6.29#7.13"}]}
+{"ID": "laptop_quad_test_402", "Triplet": [{"Aspect": "i purchased", "Opinion": "none", "VA": "6.38#7.26"}]}
+{"ID": "laptop_quad_test_403", "Triplet": [{"Aspect": "received confirmation", "Opinion": "none", "VA": "6.26#7.11"}]}
+{"ID": "laptop_quad_test_404", "Triplet": [{"Aspect": "asus", "Opinion": "has a ho", "VA": "5.84#6.82"}]}
+{"ID": "laptop_quad_test_405", "Triplet": [{"Aspect": "as", "Opinion": "none", "VA": "6.04#6.98"}]}
+{"ID": "laptop_quad_test_406", "Triplet": [{"Aspect": "uses,", "Opinion": "1080", "VA": "6.39#7.14"}]}
+{"ID": "laptop_quad_test_407", "Triplet": [{"Aspect": "life :", "Opinion": "battery", "VA": "6.36#7.14"}]}
+{"ID": "laptop_quad_test_408", "Triplet": [{"Aspect": "##screen :", "Opinion": "touchscreen", "VA": "6.11#7.12"}]}
+{"ID": "laptop_quad_test_409", "Triplet": [{"Aspect": "i absolutely ima it seems", "Opinion": "", "VA": "6.39#7.18"}]}
+{"ID": "laptop_quad_test_41", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.30#6.99"}]}
+{"ID": "laptop_quad_test_410", "Triplet": [{"Aspect": ",", "Opinion": "screen", "VA": "6.05#6.98"}]}
+{"ID": "laptop_quad_test_411", "Triplet": [{"Aspect": "ratio :", "Opinion": "none", "VA": "6.42#7.29"}]}
+{"ID": "laptop_quad_test_412", "Triplet": [{"Aspect": "use", "Opinion": "none", "VA": "5.83#6.70"}]}
+{"ID": "laptop_quad_test_413", "Triplet": [{"Aspect": "##mend", "Opinion": "i would highly", "VA": "5.99#6.80"}]}
+{"ID": "laptop_quad_test_414", "Triplet": [{"Aspect": "##ng of", "Opinion": "none", "VA": "6.20#7.20"}]}
+{"ID": "laptop_quad_test_415", "Triplet": [{"Aspect": "1080p but", "Opinion": "none", "VA": "6.44#7.28"}]}
+{"ID": "laptop_quad_test_416", "Triplet": [{"Aspect": "unless,", "Opinion": "none", "VA": "6.07#6.97"}, {"Aspect": "none", "Opinion": "none", "VA": "6.19#7.00"}]}
+{"ID": "laptop_quad_test_417", "Triplet": [{"Aspect": ": •", "Opinion": "life", "VA": "6.09#6.69"}]}
+{"ID": "laptop_quad_test_418", "Triplet": [{"Aspect": "none", "Opinion": ": • volume", "VA": "5.83#6.74"}]}
+{"ID": "laptop_quad_test_419", "Triplet": [{"Aspect": "to consider keeping this", "Opinion": "none", "VA": "6.05#6.89"}]}
+{"ID": "laptop_quad_test_42", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#7.13"}]}
+{"ID": "laptop_quad_test_420", "Triplet": [{"Aspect": "up to a", "Opinion": "none", "VA": "6.32#7.03"}]}
+{"ID": "laptop_quad_test_421", "Triplet": [{"Aspect": "use as", "Opinion": "'", "VA": "6.19#7.17"}]}
+{"ID": "laptop_quad_test_422", "Triplet": [{"Aspect": "none", "Opinion": ")", "VA": "6.29#7.15"}]}
+{"ID": "laptop_quad_test_423", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.13#7.03"}]}
+{"ID": "laptop_quad_test_424", "Triplet": [{"Aspect": ":", "Opinion": "product was", "VA": "6.05#6.98"}, {"Aspect": "##astic - -", "Opinion": "product", "VA": "6.27#7.10"}, {"Aspect": "build quality", "Opinion": "none", "VA": "6.19#7.13"}, {"Aspect": "resolution", "Opinion": "none", "VA": "6.03#6.94"}, {"Aspect": "none", "Opinion": ":", "VA": "6.23#7.08"}]}
+{"ID": "laptop_quad_test_425", "Triplet": [{"Aspect": "was clear this was", "Opinion": "none", "VA": "6.08#6.82"}]}
+{"ID": "laptop_quad_test_426", "Triplet": [{"Aspect": "if", "Opinion": "' s una", "VA": "6.00#6.83"}]}
+{"ID": "laptop_quad_test_427", "Triplet": [{"Aspect": "by", "Opinion": "none", "VA": "6.07#6.85"}]}
+{"ID": "laptop_quad_test_428", "Triplet": [{"Aspect": "##top :", "Opinion": "lap", "VA": "6.40#7.25"}]}
+{"ID": "laptop_quad_test_429", "Triplet": [{"Aspect": "one of the best", "Opinion": "none", "VA": "6.41#7.11"}]}
+{"ID": "laptop_quad_test_43", "Triplet": [{"Aspect": "doesn ' t", "Opinion": "none", "VA": "6.41#7.38"}]}
+{"ID": "laptop_quad_test_430", "Triplet": [{"Aspect": "customer service people :", "Opinion": "asus customer service", "VA": "6.03#7.06"}]}
+{"ID": "laptop_quad_test_431", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.19#7.02"}]}
+{"ID": "laptop_quad_test_432", "Triplet": [{"Aspect": "problem", "Opinion": "none", "VA": "5.74#6.55"}]}
+{"ID": "laptop_quad_test_433", "Triplet": [{"Aspect": "asus customer service", "Opinion": "asus customer", "VA": "5.38#6.16"}]}
+{"ID": "laptop_quad_test_434", "Triplet": [{"Aspect": ": i", "Opinion": "none", "VA": "6.18#7.04"}]}
+{"ID": "laptop_quad_test_435", "Triplet": [{"Aspect": ", well", "Opinion": "it", "VA": "6.28#6.98"}]}
+{"ID": "laptop_quad_test_436", "Triplet": [{"Aspect": "premiu", "Opinion": "none", "VA": "5.78#6.66"}]}
+{"ID": "laptop_quad_test_437", "Triplet": [{"Aspect": "asus", "Opinion": "none", "VA": "5.97#6.79"}]}
+{"ID": "laptop_quad_test_438", "Triplet": [{"Aspect": "love", "Opinion": "i", "VA": "5.82#6.73"}]}
+{"ID": "laptop_quad_test_439", "Triplet": [{"Aspect": "but", "Opinion": "is still de", "VA": "6.00#6.92"}]}
+{"ID": "laptop_quad_test_44", "Triplet": [{"Aspect": "none", "Opinion": "NULL :", "VA": "5.85#6.93"}]}
+{"ID": "laptop_quad_test_440", "Triplet": [{"Aspect": "impressed with my", "Opinion": "chrome", "VA": "6.11#7.06"}]}
+{"ID": "laptop_quad_test_441", "Triplet": [{"Aspect": "it as much", "Opinion": "none", "VA": "6.37#7.20"}]}
+{"ID": "laptop_quad_test_442", "Triplet": [{"Aspect": "high hopes for", "Opinion": "none", "VA": "6.17#7.01"}]}
+{"ID": "laptop_quad_test_443", "Triplet": [{"Aspect": "google docs", "Opinion": "google", "VA": "5.77#6.36"}]}
+{"ID": "laptop_quad_test_444", "Triplet": [{"Aspect": "##romebook :", "Opinion": "none", "VA": "6.54#7.19"}]}
+{"ID": "laptop_quad_test_445", "Triplet": [{"Aspect": "none", "Opinion": "second,", "VA": "6.13#7.10"}]}
+{"ID": "laptop_quad_test_446", "Triplet": [{"Aspect": "6 months", "Opinion": "none", "VA": "6.25#7.03"}, {"Aspect": "the", "Opinion": "is", "VA": "5.98#6.78"}]}
+{"ID": "laptop_quad_test_447", "Triplet": [{"Aspect": "product", "Opinion": "product is st", "VA": "5.80#6.72"}, {"Aspect": "fast, and", "Opinion": "none", "VA": "6.08#7.07"}]}
+{"ID": "laptop_quad_test_448", "Triplet": [{"Aspect": "mouse because", "Opinion": "touchpad is", "VA": "6.27#7.15"}]}
+{"ID": "laptop_quad_test_449", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.02#6.98"}, {"Aspect": "also,", "Opinion": "screen quality is", "VA": "5.88#6.98"}]}
+{"ID": "laptop_quad_test_45", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "6.16#6.95"}, {"Aspect": ": keyboard", "Opinion": "mouse", "VA": "6.43#7.21"}, {"Aspect": "none", "Opinion": "none", "VA": "6.21#7.00"}]}
+{"ID": "laptop_quad_test_450", "Triplet": [{"Aspect": "not buy", "Opinion": "none", "VA": "5.83#6.52"}]}
+{"ID": "laptop_quad_test_451", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.99"}]}
+{"ID": "laptop_quad_test_452", "Triplet": [{"Aspect": "ve contacte", "Opinion": "none", "VA": "6.24#7.08"}, {"Aspect": "##zon", "Opinion": "none", "VA": "5.80#6.67"}]}
+{"ID": "laptop_quad_test_453", "Triplet": [{"Aspect": "this piece", "Opinion": "none", "VA": "6.31#7.26"}]}
+{"ID": "laptop_quad_test_454", "Triplet": [{"Aspect": ": several of", "Opinion": "ch", "VA": "6.23#7.23"}]}
+{"ID": "laptop_quad_test_455", "Triplet": [{"Aspect": ")", "Opinion": "thing are ho", "VA": "5.82#6.82"}]}
+{"ID": "laptop_quad_test_456", "Triplet": [{"Aspect": "battery life", "Opinion": "battery life", "VA": "6.06#6.89"}]}
+{"ID": "laptop_quad_test_457", "Triplet": [{"Aspect": ":", "Opinion": "screen is very", "VA": "5.92#6.99"}]}
+{"ID": "laptop_quad_test_458", "Triplet": [{"Aspect": "m3 processor :", "Opinion": "intel m3", "VA": "6.20#7.16"}, {"Aspect": "tasking and", "Opinion": "google play", "VA": "6.27#7.19"}, {"Aspect": "##e to have,", "Opinion": "none", "VA": "6.15#7.09"}]}
+{"ID": "laptop_quad_test_459", "Triplet": [{"Aspect": "##book : a", "Opinion": "##rome", "VA": "6.41#7.17"}]}
+{"ID": "laptop_quad_test_46", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.94"}]}
+{"ID": "laptop_quad_test_460", "Triplet": [{"Aspect": "purchase", "Opinion": "was really was more af", "VA": "5.78#6.75"}]}
+{"ID": "laptop_quad_test_461", "Triplet": [{"Aspect": "chromebooks", "Opinion": "ch", "VA": "6.39#7.03"}]}
+{"ID": "laptop_quad_test_462", "Triplet": [{"Aspect": "##y", "Opinion": "machine is extremely", "VA": "5.64#6.77"}]}
+{"ID": "laptop_quad_test_463", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.91#6.79"}]}
+{"ID": "laptop_quad_test_464", "Triplet": [{"Aspect": "##more,", "Opinion": "file system", "VA": "6.12#7.08"}]}
+{"ID": "laptop_quad_test_465", "Triplet": [{"Aspect": "panel on :", "Opinion": "none", "VA": "6.25#7.12"}]}
+{"ID": "laptop_quad_test_466", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#7.04"}]}
+{"ID": "laptop_quad_test_467", "Triplet": [{"Aspect": ":", "Opinion": "machine", "VA": "6.11#6.94"}, {"Aspect": "none", "Opinion": "none", "VA": "6.04#6.86"}, {"Aspect": "the whole concept", "Opinion": "none", "VA": "6.43#7.20"}, {"Aspect": "##rome os", "Opinion": "cloud applications", "VA": "6.26#7.12"}]}
+{"ID": "laptop_quad_test_468", "Triplet": [{"Aspect": ", now it", "Opinion": "none", "VA": "6.27#7.12"}]}
+{"ID": "laptop_quad_test_469", "Triplet": [{"Aspect": "hinge :", "Opinion": "screen hin", "VA": "5.84#6.96"}]}
+{"ID": "laptop_quad_test_47", "Triplet": [{"Aspect": "craz", "Opinion": "keypad :", "VA": "6.20#7.15"}]}
+{"ID": "laptop_quad_test_470", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "5.98#6.69"}]}
+{"ID": "laptop_quad_test_471", "Triplet": [{"Aspect": "##romebook :", "Opinion": "chromebook", "VA": "6.01#7.09"}]}
+{"ID": "laptop_quad_test_472", "Triplet": [{"Aspect": "provides zero", "Opinion": "none", "VA": "6.17#6.95"}, {"Aspect": "google", "Opinion": "none", "VA": "6.03#6.77"}]}
+{"ID": "laptop_quad_test_473", "Triplet": [{"Aspect": "##rri", "Opinion": "product : ho", "VA": "5.50#6.58"}]}
+{"ID": "laptop_quad_test_474", "Triplet": [{"Aspect": "tech support", "Opinion": "none", "VA": "6.19#6.88"}]}
+{"ID": "laptop_quad_test_475", "Triplet": [{"Aspect": "difficult time with", "Opinion": "i am", "VA": "6.23#7.10"}]}
+{"ID": "laptop_quad_test_476", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#7.16"}]}
+{"ID": "laptop_quad_test_477", "Triplet": [{"Aspect": "##phone :", "Opinion": "none", "VA": "6.27#7.15"}, {"Aspect": "with", "Opinion": "none", "VA": "5.89#6.80"}]}
+{"ID": "laptop_quad_test_478", "Triplet": [{"Aspect": "##t mode :", "Opinion": "tablet mode", "VA": "6.07#7.15"}, {"Aspect": "integrated with", "Opinion": "none", "VA": "5.91#6.97"}, {"Aspect": "os", "Opinion": "none", "VA": "5.98#6.98"}]}
+{"ID": "laptop_quad_test_479", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#7.00"}]}
+{"ID": "laptop_quad_test_48", "Triplet": [{"Aspect": "overall,", "Opinion": "none", "VA": "6.29#7.15"}]}
+{"ID": "laptop_quad_test_480", "Triplet": [{"Aspect": "an oka", "Opinion": "none", "VA": "6.29#7.04"}]}
+{"ID": "laptop_quad_test_481", "Triplet": [{"Aspect": "one of the nic", "Opinion": "s", "VA": "6.41#7.01"}]}
+{"ID": "laptop_quad_test_482", "Triplet": [{"Aspect": "an anno", "Opinion": "came with", "VA": "6.17#6.94"}]}
+{"ID": "laptop_quad_test_483", "Triplet": [{"Aspect": "metal monitor casing :", "Opinion": "none", "VA": "5.83#6.79"}]}
+{"ID": "laptop_quad_test_484", "Triplet": [{"Aspect": ": mine arrived with", "Opinion": "metal screen", "VA": "6.15#7.13"}]}
+{"ID": "laptop_quad_test_485", "Triplet": [{"Aspect": "of the right", "Opinion": "none", "VA": "6.28#7.04"}]}
+{"ID": "laptop_quad_test_486", "Triplet": [{"Aspect": "##romebook :", "Opinion": "none", "VA": "6.49#7.06"}, {"Aspect": "issues +", "Opinion": "manufacturing", "VA": "5.99#6.59"}]}
+{"ID": "laptop_quad_test_487", "Triplet": [{"Aspect": "they this", "Opinion": "none", "VA": "6.00#6.82"}]}
+{"ID": "laptop_quad_test_488", "Triplet": [{"Aspect": "os : i find", "Opinion": "##romium os to", "VA": "5.95#7.07"}, {"Aspect": "over a che", "Opinion": "none", "VA": "6.07#7.09"}]}
+{"ID": "laptop_quad_test_489", "Triplet": [{"Aspect": ": just", "Opinion": "keyboard is", "VA": "6.11#7.01"}]}
+{"ID": "laptop_quad_test_49", "Triplet": [{"Aspect": "new", "Opinion": "none", "VA": "5.92#6.77"}]}
+{"ID": "laptop_quad_test_490", "Triplet": [{"Aspect": "##pad :", "Opinion": "none", "VA": "6.40#7.23"}]}
+{"ID": "laptop_quad_test_491", "Triplet": [{"Aspect": "1 - fault", "Opinion": "none", "VA": "6.08#7.09"}]}
+{"ID": "laptop_quad_test_492", "Triplet": [{"Aspect": "on", "Opinion": "none", "VA": "5.80#6.67"}]}
+{"ID": "laptop_quad_test_493", "Triplet": [{"Aspect": "a really speed", "Opinion": "you want", "VA": "6.38#6.92"}]}
+{"ID": "laptop_quad_test_494", "Triplet": [{"Aspect": "the", "Opinion": "none", "VA": "5.89#6.74"}]}
+{"ID": "laptop_quad_test_495", "Triplet": [{"Aspect": "use it because i have", "Opinion": "none", "VA": "6.08#7.00"}]}
+{"ID": "laptop_quad_test_496", "Triplet": [{"Aspect": "trackpad", "Opinion": "none", "VA": "5.94#6.53"}]}
+{"ID": "laptop_quad_test_497", "Triplet": [{"Aspect": "wireless card", "Opinion": "wireless card", "VA": "6.28#7.03"}]}
+{"ID": "laptop_quad_test_498", "Triplet": [{"Aspect": "##top :", "Opinion": "none", "VA": "6.40#7.17"}]}
+{"ID": "laptop_quad_test_499", "Triplet": [{"Aspect": "that", "Opinion": "hardware is def", "VA": "6.03#6.91"}]}
+{"ID": "laptop_quad_test_5", "Triplet": [{"Aspect": "ago i updated", "Opinion": "none", "VA": "6.22#6.97"}]}
+{"ID": "laptop_quad_test_50", "Triplet": [{"Aspect": "not return", "Opinion": "none", "VA": "6.22#7.07"}]}
+{"ID": "laptop_quad_test_500", "Triplet": [{"Aspect": "from", "Opinion": "none", "VA": "5.94#6.92"}]}
+{"ID": "laptop_quad_test_501", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.35#6.97"}]}
+{"ID": "laptop_quad_test_502", "Triplet": [{"Aspect": "##top :", "Opinion": "none", "VA": "6.38#7.10"}]}
+{"ID": "laptop_quad_test_503", "Triplet": [{"Aspect": "or", "Opinion": "none", "VA": "5.96#6.90"}, {"Aspect": "or", "Opinion": "none", "VA": "5.98#6.92"}, {"Aspect": ",", "Opinion": "none", "VA": "6.02#6.91"}, {"Aspect": "a brand", "Opinion": "none", "VA": "6.19#7.04"}]}
+{"ID": "laptop_quad_test_504", "Triplet": [{"Aspect": "and", "Opinion": "none", "VA": "6.03#6.93"}]}
+{"ID": "laptop_quad_test_505", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "6.02#6.90"}]}
+{"ID": "laptop_quad_test_506", "Triplet": [{"Aspect": "##self,", "Opinion": "none", "VA": "6.21#7.04"}]}
+{"ID": "laptop_quad_test_507", "Triplet": [{"Aspect": ":", "Opinion": "sound is", "VA": "5.97#6.92"}]}
+{"ID": "laptop_quad_test_508", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.21#6.88"}]}
+{"ID": "laptop_quad_test_509", "Triplet": [{"Aspect": ":", "Opinion": "product", "VA": "5.11#5.67"}]}
+{"ID": "laptop_quad_test_51", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "6.06#6.89"}, {"Aspect": ", the processor", "Opinion": "none", "VA": "6.27#7.15"}, {"Aspect": ", but", "Opinion": "web cam", "VA": "6.20#7.06"}, {"Aspect": "and", "Opinion": "none", "VA": "6.07#6.96"}, {"Aspect": "part and", "Opinion": "none", "VA": "6.19#7.06"}, {"Aspect": "lock", "Opinion": "none", "VA": "6.21#7.08"}]}
+{"ID": "laptop_quad_test_510", "Triplet": [{"Aspect": "always like", "Opinion": "i ' ve", "VA": "6.36#7.17"}]}
+{"ID": "laptop_quad_test_511", "Triplet": [{"Aspect": "##zing", "Opinion": "none", "VA": "6.02#6.95"}]}
+{"ID": "laptop_quad_test_512", "Triplet": [{"Aspect": "buying", "Opinion": "none", "VA": "6.37#7.16"}]}
+{"ID": "laptop_quad_test_513", "Triplet": [{"Aspect": "none", "Opinion": ",", "VA": "6.25#6.85"}]}
+{"ID": "laptop_quad_test_514", "Triplet": [{"Aspect": "##top :", "Opinion": "none", "VA": "6.30#7.16"}]}
+{"ID": "laptop_quad_test_515", "Triplet": [{"Aspect": ": we", "Opinion": "none", "VA": "6.22#7.12"}]}
+{"ID": "laptop_quad_test_516", "Triplet": [{"Aspect": "##inted with", "Opinion": ": i am extremely", "VA": "5.94#6.94"}]}
+{"ID": "laptop_quad_test_517", "Triplet": [{"Aspect": "the", "Opinion": "none", "VA": "5.94#6.80"}]}
+{"ID": "laptop_quad_test_518", "Triplet": [{"Aspect": "##top : got", "Opinion": "none", "VA": "6.34#7.08"}]}
+{"ID": "laptop_quad_test_519", "Triplet": [{"Aspect": "involving", "Opinion": "none", "VA": "6.07#7.02"}, {"Aspect": "##guing", "Opinion": "none", "VA": "6.26#7.23"}]}
+{"ID": "laptop_quad_test_52", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "5.55#6.46"}]}
+{"ID": "laptop_quad_test_520", "Triplet": [{"Aspect": ":", "Opinion": "design", "VA": "5.99#6.77"}, {"Aspect": "design and", "Opinion": "none", "VA": "6.11#6.90"}]}
+{"ID": "laptop_quad_test_521", "Triplet": [{"Aspect": ":", "Opinion": "computer is", "VA": "5.91#6.89"}]}
+{"ID": "laptop_quad_test_522", "Triplet": [{"Aspect": "quite like", "Opinion": "none", "VA": "6.33#7.13"}, {"Aspect": "to receive that nic", "Opinion": "none", "VA": "6.08#6.98"}]}
+{"ID": "laptop_quad_test_523", "Triplet": [{"Aspect": "too happy", "Opinion": "##i :", "VA": "6.29#7.16"}, {"Aspect": "to return", "Opinion": "##top", "VA": "6.13#7.14"}]}
+{"ID": "laptop_quad_test_524", "Triplet": [{"Aspect": "##top :", "Opinion": "none", "VA": "6.44#7.17"}]}
+{"ID": "laptop_quad_test_525", "Triplet": [{"Aspect": "page : and", "Opinion": "support page is people are", "VA": "5.98#7.14"}, {"Aspect": ":, and", "Opinion": "page is support people are un", "VA": "5.95#7.13"}]}
+{"ID": "laptop_quad_test_526", "Triplet": [{"Aspect": "much avoiding", "Opinion": "none", "VA": "6.29#7.14"}]}
+{"ID": "laptop_quad_test_527", "Triplet": [{"Aspect": "return", "Opinion": "none", "VA": "5.71#6.55"}]}
+{"ID": "laptop_quad_test_528", "Triplet": [{"Aspect": "good luck", "Opinion": "none", "VA": "6.33#7.29"}, {"Aspect": "tech support", "Opinion": "none", "VA": "6.28#7.14"}]}
+{"ID": "laptop_quad_test_529", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.21#7.06"}]}
+{"ID": "laptop_quad_test_53", "Triplet": [{"Aspect": "##sterday", "Opinion": "none", "VA": "6.24#7.07"}]}
+{"ID": "laptop_quad_test_530", "Triplet": [{"Aspect": "pick up", "Opinion": "none", "VA": "6.26#7.08"}]}
+{"ID": "laptop_quad_test_531", "Triplet": [{"Aspect": "really loved", "Opinion": "##top", "VA": "6.17#6.88"}]}
+{"ID": "laptop_quad_test_532", "Triplet": [{"Aspect": "will never own", "Opinion": "none", "VA": "6.08#6.82"}]}
+{"ID": "laptop_quad_test_533", "Triplet": [{"Aspect": ", as", "Opinion": "none", "VA": "6.27#7.09"}]}
+{"ID": "laptop_quad_test_534", "Triplet": [{"Aspect": "3 month", "Opinion": "none", "VA": "6.29#7.09"}]}
+{"ID": "laptop_quad_test_535", "Triplet": [{"Aspect": "on", "Opinion": "none", "VA": "5.91#6.80"}]}
+{"ID": "laptop_quad_test_536", "Triplet": [{"Aspect": "none", "Opinion": "##ing", "VA": "6.27#6.90"}]}
+{"ID": "laptop_quad_test_537", "Triplet": [{"Aspect": "none", "Opinion": "out you", "VA": "6.21#7.08"}]}
+{"ID": "laptop_quad_test_538", "Triplet": [{"Aspect": "a de also,", "Opinion": "overall", "VA": "6.39#7.18"}, {"Aspect": "none", "Opinion": "none", "VA": "6.32#7.12"}]}
+{"ID": "laptop_quad_test_539", "Triplet": [{"Aspect": "laptop", "Opinion": "laptop", "VA": "5.94#6.80"}]}
+{"ID": "laptop_quad_test_54", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#7.00"}]}
+{"ID": "laptop_quad_test_540", "Triplet": [{"Aspect": "nic", "Opinion": "have a", "VA": "6.03#7.01"}]}
+{"ID": "laptop_quad_test_541", "Triplet": [{"Aspect": ":", "Opinion": "keyboard is very", "VA": "5.82#6.88"}]}
+{"ID": "laptop_quad_test_542", "Triplet": [{"Aspect": "love the", "Opinion": "none", "VA": "6.34#7.18"}, {"Aspect": "##up time with", "Opinion": "none", "VA": "6.35#7.26"}]}
+{"ID": "laptop_quad_test_543", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.97#6.87"}]}
+{"ID": "laptop_quad_test_544", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#7.02"}]}
+{"ID": "laptop_quad_test_545", "Triplet": [{"Aspect": "rpm 1 t", "Opinion": "none", "VA": "6.26#7.13"}]}
+{"ID": "laptop_quad_test_546", "Triplet": [{"Aspect": "matte fhd panel : + very", "Opinion": "none", "VA": "5.88#6.80"}]}
+{"ID": "laptop_quad_test_547", "Triplet": [{"Aspect": "is an", "Opinion": "none", "VA": "6.37#7.12"}]}
+{"ID": "laptop_quad_test_548", "Triplet": [{"Aspect": "##net port : -", "Opinion": "none", "VA": "6.01#6.64"}]}
+{"ID": "laptop_quad_test_549", "Triplet": [{"Aspect": "back", "Opinion": "none", "VA": "5.89#6.78"}]}
+{"ID": "laptop_quad_test_55", "Triplet": [{"Aspect": "now i have to deal", "Opinion": "none", "VA": "5.95#6.61"}]}
+{"ID": "laptop_quad_test_550", "Triplet": [{"Aspect": "##enty", "Opinion": "none", "VA": "6.00#6.81"}]}
+{"ID": "laptop_quad_test_551", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.28#7.12"}]}
+{"ID": "laptop_quad_test_552", "Triplet": [{"Aspect": "reason", "Opinion": "with its", "VA": "6.03#6.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.19#7.06"}]}
+{"ID": "laptop_quad_test_553", "Triplet": [{"Aspect": "not a fan of", "Opinion": "none", "VA": "6.23#7.17"}]}
+{"ID": "laptop_quad_test_554", "Triplet": [{"Aspect": "none", "Opinion": "any issues", "VA": "6.09#7.11"}]}
+{"ID": "laptop_quad_test_555", "Triplet": [{"Aspect": "nice", "Opinion": "laptop :", "VA": "6.39#7.08"}]}
+{"ID": "laptop_quad_test_556", "Triplet": [{"Aspect": "10 :", "Opinion": "none", "VA": "6.39#7.10"}, {"Aspect": ",", "Opinion": "none", "VA": "5.88#6.71"}, {"Aspect": "display,", "Opinion": "none", "VA": "6.13#6.85"}]}
+{"ID": "laptop_quad_test_557", "Triplet": [{"Aspect": "great", "Opinion": "computer :", "VA": "5.93#6.73"}]}
+{"ID": "laptop_quad_test_558", "Triplet": [{"Aspect": ": like", "Opinion": "none", "VA": "6.43#7.17"}, {"Aspect": "this has", "Opinion": "none", "VA": "6.34#7.06"}]}
+{"ID": "laptop_quad_test_559", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.98"}]}
+{"ID": "laptop_quad_test_56", "Triplet": [{"Aspect": "ram", "Opinion": "none", "VA": "5.31#5.71"}]}
+{"ID": "laptop_quad_test_560", "Triplet": [{"Aspect": ", pretty", "Opinion": "all", "VA": "6.35#6.92"}]}
+{"ID": "laptop_quad_test_561", "Triplet": [{"Aspect": "2 and", "Opinion": "none", "VA": "6.38#7.13"}]}
+{"ID": "laptop_quad_test_562", "Triplet": [{"Aspect": ": very", "Opinion": "laptop", "VA": "6.42#7.23"}]}
+{"ID": "laptop_quad_test_563", "Triplet": [{"Aspect": ":", "Opinion": "hardware", "VA": "6.11#6.92"}, {"Aspect": "updati", "Opinion": "none", "VA": "6.29#7.11"}]}
+{"ID": "laptop_quad_test_564", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#7.01"}]}
+{"ID": "laptop_quad_test_565", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "6.05#6.94"}]}
+{"ID": "laptop_quad_test_566", "Triplet": [{"Aspect": "##print reader :", "Opinion": "none", "VA": "6.43#7.07"}]}
+{"ID": "laptop_quad_test_567", "Triplet": [{"Aspect": ":", "Opinion": "sound", "VA": "6.13#6.98"}, {"Aspect": "as good", "Opinion": "none", "VA": "6.19#7.04"}]}
+{"ID": "laptop_quad_test_568", "Triplet": [{"Aspect": "that", "Opinion": "##s", "VA": "5.93#6.85"}, {"Aspect": "not that this", "Opinion": "boot", "VA": "6.27#7.08"}]}
+{"ID": "laptop_quad_test_569", "Triplet": [{"Aspect": "value for", "Opinion": "lap", "VA": "6.12#6.73"}]}
+{"ID": "laptop_quad_test_57", "Triplet": [{"Aspect": "hard drive", "Opinion": "none", "VA": "5.42#5.74"}]}
+{"ID": "laptop_quad_test_570", "Triplet": [{"Aspect": "screen : love body of", "Opinion": "none", "VA": "6.24#6.95"}]}
+{"ID": "laptop_quad_test_571", "Triplet": [{"Aspect": "none", "Opinion": "N", "VA": "6.33#7.05"}]}
+{"ID": "laptop_quad_test_572", "Triplet": [{"Aspect": "touchpad", "Opinion": "touch", "VA": "5.82#6.35"}]}
+{"ID": "laptop_quad_test_573", "Triplet": [{"Aspect": ":", "Opinion": "speakers are", "VA": "6.06#6.94"}]}
+{"ID": "laptop_quad_test_574", "Triplet": [{"Aspect": "like", "Opinion": "none", "VA": "5.99#6.84"}, {"Aspect": "gigs", "Opinion": "none", "VA": "6.25#7.07"}]}
+{"ID": "laptop_quad_test_575", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.13"}]}
+{"ID": "laptop_quad_test_576", "Triplet": [{"Aspect": "backup or", "Opinion": "none", "VA": "6.34#7.07"}]}
+{"ID": "laptop_quad_test_577", "Triplet": [{"Aspect": "to have kept", "Opinion": "none", "VA": "6.35#7.15"}]}
+{"ID": "laptop_quad_test_578", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.27#7.08"}]}
+{"ID": "laptop_quad_test_579", "Triplet": [{"Aspect": "to love", "Opinion": "none", "VA": "6.31#7.21"}]}
+{"ID": "laptop_quad_test_58", "Triplet": [{"Aspect": "issues with", "Opinion": "none", "VA": "6.15#7.16"}]}
+{"ID": "laptop_quad_test_580", "Triplet": [{"Aspect": "none", "Opinion": ": it", "VA": "5.91#6.82"}]}
+{"ID": "laptop_quad_test_581", "Triplet": [{"Aspect": "ssd", "Opinion": "none", "VA": "5.51#5.87"}]}
+{"ID": "laptop_quad_test_582", "Triplet": [{"Aspect": "amazon : note thank", "Opinion": "none", "VA": "6.28#6.98"}, {"Aspect": "note : support, thank god", "Opinion": "none", "VA": "5.65#6.35"}]}
+{"ID": "laptop_quad_test_583", "Triplet": [{"Aspect": "procedure :", "Opinion": "return procedure", "VA": "6.21#7.13"}]}
+{"ID": "laptop_quad_test_584", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.98"}]}
+{"ID": "laptop_quad_test_585", "Triplet": [{"Aspect": ":", "Opinion": "keyboard felt resp", "VA": "6.00#6.94"}]}
+{"ID": "laptop_quad_test_586", "Triplet": [{"Aspect": "never buying", "Opinion": "none", "VA": "6.20#7.12"}]}
+{"ID": "laptop_quad_test_587", "Triplet": [{"Aspect": "##s for", "Opinion": "none", "VA": "6.23#6.99"}]}
+{"ID": "laptop_quad_test_588", "Triplet": [{"Aspect": "none", "Opinion": "this", "VA": "6.10#6.98"}]}
+{"ID": "laptop_quad_test_589", "Triplet": [{"Aspect": "exception", "Opinion": ": -", "VA": "5.77#6.58"}, {"Aspect": "##al keyboard", "Opinion": "none", "VA": "5.95#6.75"}]}
+{"ID": "laptop_quad_test_59", "Triplet": [{"Aspect": "mainly", "Opinion": "none", "VA": "5.93#6.78"}]}
+{"ID": "laptop_quad_test_590", "Triplet": [{"Aspect": "- below", "Opinion": "none", "VA": "5.93#6.84"}]}
+{"ID": "laptop_quad_test_591", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#7.04"}]}
+{"ID": "laptop_quad_test_592", "Triplet": [{"Aspect": "it back", "Opinion": "none", "VA": "6.32#7.18"}]}
+{"ID": "laptop_quad_test_593", "Triplet": [{"Aspect": "##er aspire :", "Opinion": "none", "VA": "6.35#7.06"}]}
+{"ID": "laptop_quad_test_594", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "5.98#6.88"}]}
+{"ID": "laptop_quad_test_595", "Triplet": [{"Aspect": "a nic", "Opinion": "they are", "VA": "6.16#6.87"}]}
+{"ID": "laptop_quad_test_596", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#7.04"}]}
+{"ID": "laptop_quad_test_597", "Triplet": [{"Aspect": "purchased", "Opinion": "none", "VA": "6.08#6.94"}]}
+{"ID": "laptop_quad_test_598", "Triplet": [{"Aspect": "m giving", "Opinion": "none", "VA": "6.32#7.06"}]}
+{"ID": "laptop_quad_test_599", "Triplet": [{"Aspect": "remove", "Opinion": "none", "VA": "5.76#6.75"}]}
+{"ID": "laptop_quad_test_6", "Triplet": [{"Aspect": "s just", "Opinion": "none", "VA": "6.36#7.14"}]}
+{"ID": "laptop_quad_test_60", "Triplet": [{"Aspect": "had", "Opinion": "none", "VA": "5.94#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.19#6.86"}]}
+{"ID": "laptop_quad_test_600", "Triplet": [{"Aspect": "the", "Opinion": "none", "VA": "5.67#6.51"}]}
+{"ID": "laptop_quad_test_601", "Triplet": [{"Aspect": "computer", "Opinion": "computer", "VA": "6.11#6.85"}, {"Aspect": "but", "Opinion": "none", "VA": "5.98#6.76"}]}
+{"ID": "laptop_quad_test_602", "Triplet": [{"Aspect": ":", "Opinion": "computer", "VA": "6.12#6.95"}, {"Aspect": "the price, but", "Opinion": "hd", "VA": "6.33#7.04"}]}
+{"ID": "laptop_quad_test_603", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.14"}]}
+{"ID": "laptop_quad_test_604", "Triplet": [{"Aspect": "not a", "Opinion": "none", "VA": "6.25#7.08"}]}
+{"ID": "laptop_quad_test_605", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.99#6.79"}]}
+{"ID": "laptop_quad_test_606", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.13#6.99"}]}
+{"ID": "laptop_quad_test_607", "Triplet": [{"Aspect": "##e", "Opinion": "feels really", "VA": "5.92#6.92"}]}
+{"ID": "laptop_quad_test_608", "Triplet": [{"Aspect": ": overall", "Opinion": "laptop", "VA": "6.22#7.23"}]}
+{"ID": "laptop_quad_test_609", "Triplet": [{"Aspect": "mx150 gaphics card", "Opinion": "mx150 gaphics", "VA": "4.12#4.95"}]}
+{"ID": "laptop_quad_test_61", "Triplet": [{"Aspect": "i send it", "Opinion": "none", "VA": "6.00#6.86"}]}
+{"ID": "laptop_quad_test_610", "Triplet": [{"Aspect": "service help", "Opinion": "none", "VA": "6.17#7.05"}]}
+{"ID": "laptop_quad_test_611", "Triplet": [{"Aspect": "a", "Opinion": "has", "VA": "5.81#6.59"}]}
+{"ID": "laptop_quad_test_612", "Triplet": [{"Aspect": "wrong with", "Opinion": "none", "VA": "6.20#6.95"}]}
+{"ID": "laptop_quad_test_613", "Triplet": [{"Aspect": "wrong with", "Opinion": "none", "VA": "6.19#6.88"}]}
+{"ID": "laptop_quad_test_614", "Triplet": [{"Aspect": "the $", "Opinion": "e 15 : very", "VA": "6.13#6.98"}]}
+{"ID": "laptop_quad_test_615", "Triplet": [{"Aspect": "##pad :", "Opinion": "none", "VA": "6.36#7.09"}]}
+{"ID": "laptop_quad_test_616", "Triplet": [{"Aspect": "of", "Opinion": "that is very", "VA": "5.90#6.90"}]}
+{"ID": "laptop_quad_test_617", "Triplet": [{"Aspect": "##cent but", "Opinion": "none", "VA": "6.32#7.21"}]}
+{"ID": "laptop_quad_test_618", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#6.97"}]}
+{"ID": "laptop_quad_test_619", "Triplet": [{"Aspect": "##ect", "Opinion": "of a def", "VA": "5.86#6.65"}]}
+{"ID": "laptop_quad_test_62", "Triplet": [{"Aspect": "display", "Opinion": "none", "VA": "5.82#6.61"}]}
+{"ID": "laptop_quad_test_620", "Triplet": [{"Aspect": ":", "Opinion": "is actually", "VA": "6.04#6.93"}, {"Aspect": "fast with", "Opinion": "none", "VA": "6.30#7.11"}, {"Aspect": "##d", "Opinion": "none", "VA": "5.97#6.84"}]}
+{"ID": "laptop_quad_test_621", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "6.00#6.85"}, {"Aspect": ": keyboard", "Opinion": "none", "VA": "6.30#7.18"}]}
+{"ID": "laptop_quad_test_622", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "5.93#6.87"}]}
+{"ID": "laptop_quad_test_623", "Triplet": [{"Aspect": "not connect", "Opinion": "none", "VA": "6.24#7.22"}, {"Aspect": "am", "Opinion": "none", "VA": "5.78#6.81"}]}
+{"ID": "laptop_quad_test_624", "Triplet": [{"Aspect": "but", "Opinion": "speakers are absolutely ho", "VA": "5.72#6.69"}]}
+{"ID": "laptop_quad_test_625", "Triplet": [{"Aspect": "generation core i5 cpu :", "Opinion": "none", "VA": "1.99#2.44"}]}
+{"ID": "laptop_quad_test_626", "Triplet": [{"Aspect": "keyboard", "Opinion": "keyboard", "VA": "5.81#6.54"}]}
+{"ID": "laptop_quad_test_627", "Triplet": [{"Aspect": "##light :", "Opinion": "", "VA": "5.99#6.67"}, {"Aspect": "##light", "Opinion": "none", "VA": "5.60#6.47"}]}
+{"ID": "laptop_quad_test_628", "Triplet": [{"Aspect": "key", "Opinion": "##s are too", "VA": "5.82#6.92"}]}
+{"ID": "laptop_quad_test_629", "Triplet": [{"Aspect": "hdd", "Opinion": "lap", "VA": "6.05#6.81"}, {"Aspect": "##dd makes", "Opinion": "lap", "VA": "6.32#7.20"}]}
+{"ID": "laptop_quad_test_63", "Triplet": [{"Aspect": "had to nothing about", "Opinion": "none", "VA": "6.23#6.96"}]}
+{"ID": "laptop_quad_test_630", "Triplet": [{"Aspect": "designed", "Opinion": "none", "VA": "6.02#6.92"}, {"Aspect": "the case", "Opinion": "none", "VA": "6.35#7.18"}]}
+{"ID": "laptop_quad_test_631", "Triplet": [{"Aspect": "there is", "Opinion": "none", "VA": "6.23#7.24"}, {"Aspect": "##light", "Opinion": "keys are too", "VA": "5.99#6.98"}]}
+{"ID": "laptop_quad_test_632", "Triplet": [{"Aspect": "use", "Opinion": "none", "VA": "5.88#6.72"}]}
+{"ID": "laptop_quad_test_633", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.31#7.13"}]}
+{"ID": "laptop_quad_test_634", "Triplet": [{"Aspect": "##ing file took only 25 minutes", "Opinion": "none", "VA": "5.46#6.40"}]}
+{"ID": "laptop_quad_test_635", "Triplet": [{"Aspect": "hear", "Opinion": "none", "VA": "6.00#6.97"}]}
+{"ID": "laptop_quad_test_636", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.23#6.99"}]}
+{"ID": "laptop_quad_test_637", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#7.01"}]}
+{"ID": "laptop_quad_test_638", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.15#7.05"}]}
+{"ID": "laptop_quad_test_639", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.83"}]}
+{"ID": "laptop_quad_test_64", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#7.06"}]}
+{"ID": "laptop_quad_test_640", "Triplet": [{"Aspect": "quality,", "Opinion": "none", "VA": "6.39#7.17"}]}
+{"ID": "laptop_quad_test_641", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.97"}]}
+{"ID": "laptop_quad_test_642", "Triplet": [{"Aspect": ":", "Opinion": "keyboard is", "VA": "5.85#6.85"}]}
+{"ID": "laptop_quad_test_643", "Triplet": [{"Aspect": "smoothly", "Opinion": "none", "VA": "6.05#7.07"}]}
+{"ID": "laptop_quad_test_644", "Triplet": [{"Aspect": "horri", "Opinion": "laptop :", "VA": "5.84#6.54"}]}
+{"ID": "laptop_quad_test_645", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#6.88"}]}
+{"ID": "laptop_quad_test_646", "Triplet": [{"Aspect": "buy an", "Opinion": "none", "VA": "5.98#6.77"}]}
+{"ID": "laptop_quad_test_647", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.20#6.83"}]}
+{"ID": "laptop_quad_test_648", "Triplet": [{"Aspect": "-", "Opinion": "screen looks", "VA": "6.17#7.07"}]}
+{"ID": "laptop_quad_test_649", "Triplet": [{"Aspect": "-", "Opinion": "keyboard is", "VA": "5.91#6.87"}]}
+{"ID": "laptop_quad_test_65", "Triplet": [{"Aspect": ": all over", "Opinion": "none", "VA": "6.18#7.27"}, {"Aspect": "- function", "Opinion": "which has a non", "VA": "6.17#7.06"}]}
+{"ID": "laptop_quad_test_650", "Triplet": [{"Aspect": "i", "Opinion": "none", "VA": "5.83#6.65"}]}
+{"ID": "laptop_quad_test_651", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.24#7.04"}]}
+{"ID": "laptop_quad_test_652", "Triplet": [{"Aspect": "after my", "Opinion": "none", "VA": "6.33#7.13"}]}
+{"ID": "laptop_quad_test_653", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#6.96"}]}
+{"ID": "laptop_quad_test_654", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "5.94#6.70"}]}
+{"ID": "laptop_quad_test_655", "Triplet": [{"Aspect": "buy", "Opinion": "none", "VA": "6.00#6.83"}]}
+{"ID": "laptop_quad_test_656", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.80#6.39"}]}
+{"ID": "laptop_quad_test_657", "Triplet": [{"Aspect": ": overall", "Opinion": "##top", "VA": "6.21#6.73"}]}
+{"ID": "laptop_quad_test_658", "Triplet": [{"Aspect": "##print scanner :", "Opinion": "finger", "VA": "5.90#6.90"}]}
+{"ID": "laptop_quad_test_659", "Triplet": [{"Aspect": "and", "Opinion": "none", "VA": "5.98#6.82"}]}
+{"ID": "laptop_quad_test_66", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.08#6.88"}]}
+{"ID": "laptop_quad_test_660", "Triplet": [{"Aspect": "finger print scanner", "Opinion": "fingercan", "VA": "5.26#6.20"}]}
+{"ID": "laptop_quad_test_661", "Triplet": [{"Aspect": "with all the", "Opinion": "none", "VA": "6.43#7.15"}, {"Aspect": "sp", "Opinion": "none", "VA": "6.02#6.80"}, {"Aspect": "5400rp", "Opinion": "none", "VA": "6.28#7.03"}]}
+{"ID": "laptop_quad_test_662", "Triplet": [{"Aspect": "pad :", "Opinion": "touch", "VA": "6.33#7.14"}]}
+{"ID": "laptop_quad_test_663", "Triplet": [{"Aspect": "and of", "Opinion": "none", "VA": "6.28#7.09"}]}
+{"ID": "laptop_quad_test_664", "Triplet": [{"Aspect": "interfaces :", "Opinion": "none", "VA": "5.48#6.38"}]}
+{"ID": "laptop_quad_test_665", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.22#7.01"}]}
+{"ID": "laptop_quad_test_666", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.13#6.81"}, {"Aspect": "some network scan", "Opinion": "none", "VA": "6.21#6.96"}]}
+{"ID": "laptop_quad_test_667", "Triplet": [{"Aspect": "mouse", "Opinion": "none", "VA": "6.12#6.98"}, {"Aspect": "settings : mouse", "Opinion": "trackpad", "VA": "6.41#7.30"}, {"Aspect": "keys, and", "Opinion": "power management", "VA": "6.38#7.18"}]}
+{"ID": "laptop_quad_test_668", "Triplet": [{"Aspect": "store : and", "Opinion": "none", "VA": "6.43#7.22"}, {"Aspect": "full of", "Opinion": "none", "VA": "6.36#7.13"}]}
+{"ID": "laptop_quad_test_669", "Triplet": [{"Aspect": "makes experimenting with", "Opinion": "none", "VA": "6.10#6.92"}, {"Aspect": "##s", "Opinion": "none", "VA": "6.05#6.94"}]}
+{"ID": "laptop_quad_test_67", "Triplet": [{"Aspect": "bother", "Opinion": "none", "VA": "6.12#6.92"}]}
+{"ID": "laptop_quad_test_670", "Triplet": [{"Aspect": "great makes", "Opinion": "t be", "VA": "5.92#6.80"}, {"Aspect": "none", "Opinion": ": you won ' t", "VA": "6.13#7.10"}, {"Aspect": "and", "Opinion": "t be", "VA": "5.91#6.80"}]}
+{"ID": "laptop_quad_test_671", "Triplet": [{"Aspect": "fitted anti - g", "Opinion": "none", "VA": "6.32#7.20"}, {"Aspect": "none", "Opinion": "about protecting", "VA": "6.11#6.98"}]}
+{"ID": "laptop_quad_test_672", "Triplet": [{"Aspect": ": i saw", "Opinion": "none", "VA": "6.40#7.21"}, {"Aspect": "it since it has", "Opinion": "none", "VA": "5.94#6.67"}]}
+{"ID": "laptop_quad_test_673", "Triplet": [{"Aspect": "apps", "Opinion": "none", "VA": "6.05#6.84"}, {"Aspect": "word : apps", "Opinion": "none", "VA": "6.03#6.81"}, {"Aspect": "##ft word", "Opinion": "etc", "VA": "6.10#7.03"}]}
+{"ID": "laptop_quad_test_674", "Triplet": [{"Aspect": "app : for instance,", "Opinion": "none", "VA": "5.92#7.05"}]}
+{"ID": "laptop_quad_test_675", "Triplet": [{"Aspect": "none", "Opinion": "##L :", "VA": "6.01#6.90"}]}
+{"ID": "laptop_quad_test_676", "Triplet": [{"Aspect": "excellently on", "Opinion": "none", "VA": "6.14#7.15"}]}
+{"ID": "laptop_quad_test_677", "Triplet": [{"Aspect": "easily the best", "Opinion": "none", "VA": "6.45#7.02"}]}
+{"ID": "laptop_quad_test_678", "Triplet": [{"Aspect": ": *", "Opinion": "life", "VA": "5.92#6.71"}, {"Aspect": "life : battery *", "Opinion": "battery", "VA": "6.16#6.81"}]}
+{"ID": "laptop_quad_test_679", "Triplet": [{"Aspect": "##light :", "Opinion": "back", "VA": "6.42#7.21"}]}
+{"ID": "laptop_quad_test_68", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "5.99#6.84"}]}
+{"ID": "laptop_quad_test_680", "Triplet": [{"Aspect": "nice", "Opinion": "s a", "VA": "6.07#6.96"}]}
+{"ID": "laptop_quad_test_681", "Triplet": [{"Aspect": "multi - touch input", "Opinion": "multi -", "VA": "5.24#5.82"}]}
+{"ID": "laptop_quad_test_682", "Triplet": [{"Aspect": "build quality :", "Opinion": "i ' m", "VA": "6.30#7.19"}, {"Aspect": "none", "Opinion": "- i ' m", "VA": "6.38#7.21"}]}
+{"ID": "laptop_quad_test_683", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#7.05"}]}
+{"ID": "laptop_quad_test_684", "Triplet": [{"Aspect": "up :", "Opinion": "none", "VA": "6.31#7.00"}]}
+{"ID": "laptop_quad_test_685", "Triplet": [{"Aspect": "even", "Opinion": "none", "VA": "6.11#6.94"}]}
+{"ID": "laptop_quad_test_686", "Triplet": [{"Aspect": "this is finally", "Opinion": "none", "VA": "6.32#7.10"}]}
+{"ID": "laptop_quad_test_687", "Triplet": [{"Aspect": "-", "Opinion": "none", "VA": "6.08#6.96"}]}
+{"ID": "laptop_quad_test_688", "Triplet": [{"Aspect": "wish", "Opinion": "none", "VA": "5.93#6.88"}]}
+{"ID": "laptop_quad_test_689", "Triplet": [{"Aspect": "##book : overall", "Opinion": "##rome", "VA": "6.11#6.77"}]}
+{"ID": "laptop_quad_test_69", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.18#7.03"}, {"Aspect": "yet", "Opinion": "none", "VA": "6.09#7.05"}]}
+{"ID": "laptop_quad_test_690", "Triplet": [{"Aspect": "is a specta", "Opinion": "this", "VA": "6.08#6.80"}]}
+{"ID": "laptop_quad_test_691", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#7.01"}, {"Aspect": ",", "Opinion": "screen is much", "VA": "6.04#6.91"}, {"Aspect": "twice", "Opinion": "none", "VA": "6.06#6.92"}, {"Aspect": "four times", "Opinion": "none", "VA": "6.15#7.02"}]}
+{"ID": "laptop_quad_test_692", "Triplet": [{"Aspect": "sl", "Opinion": "the", "VA": "6.02#6.93"}]}
+{"ID": "laptop_quad_test_693", "Triplet": [{"Aspect": "none", "Opinion": "timesaver", "VA": "6.07#6.92"}]}
+{"ID": "laptop_quad_test_694", "Triplet": [{"Aspect": "find", "Opinion": "none", "VA": "5.95#6.93"}, {"Aspect": "sharp", "Opinion": "none", "VA": "6.00#7.01"}]}
+{"ID": "laptop_quad_test_695", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.95"}]}
+{"ID": "laptop_quad_test_696", "Triplet": [{"Aspect": ",", "Opinion": ": -", "VA": "6.11#6.96"}, {"Aspect": ", bright screen", "Opinion": "##sc", "VA": "5.95#6.60"}]}
+{"ID": "laptop_quad_test_697", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.85#6.74"}]}
+{"ID": "laptop_quad_test_698", "Triplet": [{"Aspect": "and", "Opinion": "is a very", "VA": "5.91#6.92"}]}
+{"ID": "laptop_quad_test_699", "Triplet": [{"Aspect": "likely the", "Opinion": "", "VA": "6.35#7.07"}]}
+{"ID": "laptop_quad_test_7", "Triplet": [{"Aspect": "none", "Opinion": "it won", "VA": "6.19#7.05"}]}
+{"ID": "laptop_quad_test_70", "Triplet": [{"Aspect": "good", "Opinion": "none", "VA": "6.15#6.84"}]}
+{"ID": "laptop_quad_test_700", "Triplet": [{"Aspect": "none", "Opinion": "and", "VA": "6.36#6.93"}]}
+{"ID": "laptop_quad_test_701", "Triplet": [{"Aspect": "##pad :", "Opinion": "trackpad isn '", "VA": "5.98#7.06"}]}
+{"ID": "laptop_quad_test_702", "Triplet": [{"Aspect": ": -", "Opinion": "touch screen isn", "VA": "6.21#7.09"}]}
+{"ID": "laptop_quad_test_703", "Triplet": [{"Aspect": "-", "Opinion": "none", "VA": "6.10#7.02"}]}
+{"ID": "laptop_quad_test_704", "Triplet": [{"Aspect": ",", "Opinion": "none", "VA": "6.09#6.91"}]}
+{"ID": "laptop_quad_test_705", "Triplet": [{"Aspect": "extremely impressed with", "Opinion": "##book and", "VA": "6.23#7.19"}]}
+{"ID": "laptop_quad_test_706", "Triplet": [{"Aspect": "well as", "Opinion": "none", "VA": "6.15#6.90"}]}
+{"ID": "laptop_quad_test_707", "Triplet": [{"Aspect": "great as", "Opinion": "none", "VA": "6.36#7.08"}]}
+{"ID": "laptop_quad_test_708", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#7.05"}]}
+{"ID": "laptop_quad_test_709", "Triplet": [{"Aspect": "found", "Opinion": "to be very", "VA": "6.04#7.05"}]}
+{"ID": "laptop_quad_test_71", "Triplet": [{"Aspect": "##age", "Opinion": "none", "VA": "5.86#6.73"}]}
+{"ID": "laptop_quad_test_710", "Triplet": [{"Aspect": "##ion", "Opinion": "none", "VA": "6.11#7.00"}]}
+{"ID": "laptop_quad_test_711", "Triplet": [{"Aspect": "of", "Opinion": "none", "VA": "6.03#6.88"}, {"Aspect": "and the excellent", "Opinion": "none", "VA": "6.31#7.02"}]}
+{"ID": "laptop_quad_test_712", "Triplet": [{"Aspect": "price points,", "Opinion": "none", "VA": "6.39#7.15"}, {"Aspect": "still offers the best premiu", "Opinion": "none", "VA": "6.41#7.12"}]}
+{"ID": "laptop_quad_test_713", "Triplet": [{"Aspect": ":", "Opinion": "screen is", "VA": "5.87#6.99"}]}
+{"ID": "laptop_quad_test_714", "Triplet": [{"Aspect": "##pad :", "Opinion": "mousepad feels", "VA": "6.10#7.11"}]}
+{"ID": "laptop_quad_test_715", "Triplet": [{"Aspect": "performance :", "Opinion": "'", "VA": "6.29#7.17"}]}
+{"ID": "laptop_quad_test_716", "Triplet": [{"Aspect": ":", "Opinion": "sound", "VA": "6.16#7.01"}]}
+{"ID": "laptop_quad_test_717", "Triplet": [{"Aspect": "backlit", "Opinion": "none", "VA": "6.22#6.95"}, {"Aspect": "use", "Opinion": "none", "VA": "6.02#6.89"}]}
+{"ID": "laptop_quad_test_718", "Triplet": [{"Aspect": "##pad :", "Opinion": "none", "VA": "6.32#7.13"}, {"Aspect": "the trackpad", "Opinion": "touchsc", "VA": "6.32#7.02"}]}
+{"ID": "laptop_quad_test_719", "Triplet": [{"Aspect": "sound :", "Opinion": "none", "VA": "6.25#7.14"}]}
+{"ID": "laptop_quad_test_72", "Triplet": [{"Aspect": "##s up :", "Opinion": "none", "VA": "6.41#7.21"}, {"Aspect": "down : in 10 seconds", "Opinion": "none", "VA": "6.30#7.15"}]}
+{"ID": "laptop_quad_test_720", "Triplet": [{"Aspect": "really do love", "Opinion": "none", "VA": "6.45#7.11"}]}
+{"ID": "laptop_quad_test_721", "Triplet": [{"Aspect": "- c ports : * gives me admi port an", "Opinion": "us", "VA": "6.24#7.06"}]}
+{"ID": "laptop_quad_test_722", "Triplet": [{"Aspect": "speakers :", "Opinion": "speaker", "VA": "6.03#6.98"}, {"Aspect": "none", "Opinion": "none", "VA": "5.94#6.89"}]}
+{"ID": "laptop_quad_test_723", "Triplet": [{"Aspect": ":", "Opinion": "is so", "VA": "6.07#6.98"}]}
+{"ID": "laptop_quad_test_724", "Triplet": [{"Aspect": "##screen :", "Opinion": "touchscreen", "VA": "6.11#7.19"}]}
+{"ID": "laptop_quad_test_725", "Triplet": [{"Aspect": "life :", "Opinion": "none", "VA": "6.35#7.14"}]}
+{"ID": "laptop_quad_test_726", "Triplet": [{"Aspect": "is a fant", "Opinion": ": this", "VA": "6.14#6.85"}]}
+{"ID": "laptop_quad_test_727", "Triplet": [{"Aspect": ": -", "Opinion": "none", "VA": "6.19#7.04"}]}
+{"ID": "laptop_quad_test_728", "Triplet": [{"Aspect": ": i love", "Opinion": "##romebook", "VA": "6.12#6.77"}]}
+{"ID": "laptop_quad_test_729", "Triplet": [{"Aspect": "very well,", "Opinion": "none", "VA": "6.32#7.18"}]}
+{"ID": "laptop_quad_test_73", "Triplet": [{"Aspect": "that", "Opinion": "none", "VA": "5.87#6.75"}]}
+{"ID": "laptop_quad_test_730", "Triplet": [{"Aspect": ": i love", "Opinion": "##romebook", "VA": "6.09#6.72"}]}
+{"ID": "laptop_quad_test_731", "Triplet": [{"Aspect": "love", "Opinion": "none", "VA": "5.89#6.73"}]}
+{"ID": "laptop_quad_test_732", "Triplet": [{"Aspect": "like", "Opinion": ": i", "VA": "5.78#6.74"}]}
+{"ID": "laptop_quad_test_733", "Triplet": [{"Aspect": "##t mode ;", "Opinion": "none", "VA": "6.16#7.25"}]}
+{"ID": "laptop_quad_test_734", "Triplet": [{"Aspect": ": as", "Opinion": "none", "VA": "6.39#7.11"}]}
+{"ID": "laptop_quad_test_735", "Triplet": [{"Aspect": ":", "Opinion": "keyboard", "VA": "6.02#6.95"}]}
+{"ID": "laptop_quad_test_736", "Triplet": [{"Aspect": "none", "Opinion": "##L : and it", "VA": "5.96#7.00"}]}
+{"ID": "laptop_quad_test_737", "Triplet": [{"Aspect": "life :", "Opinion": "none", "VA": "6.40#7.19"}]}
+{"ID": "laptop_quad_test_738", "Triplet": [{"Aspect": ":", "Opinion": "keyboard is", "VA": "5.97#6.89"}]}
+{"ID": "laptop_quad_test_739", "Triplet": [{"Aspect": ":", "Opinion": "screen", "VA": "6.06#7.00"}, {"Aspect": "and", "Opinion": "none", "VA": "6.01#6.95"}]}
+{"ID": "laptop_quad_test_74", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.90"}]}
+{"ID": "laptop_quad_test_740", "Triplet": [{"Aspect": "for work and use", "Opinion": "none", "VA": "6.35#7.04"}]}
+{"ID": "laptop_quad_test_741", "Triplet": [{"Aspect": "battery", "Opinion": "battery last incre", "VA": "5.63#6.57"}]}
+{"ID": "laptop_quad_test_742", "Triplet": [{"Aspect": "it", "Opinion": "none", "VA": "5.98#6.79"}]}
+{"ID": "laptop_quad_test_743", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.94"}]}
+{"ID": "laptop_quad_test_744", "Triplet": [{"Aspect": "my", "Opinion": "none", "VA": "5.95#6.71"}]}
+{"ID": "laptop_quad_test_745", "Triplet": [{"Aspect": "##ip 302 : give", "Opinion": "none", "VA": "5.67#6.67"}]}
+{"ID": "laptop_quad_test_746", "Triplet": [{"Aspect": "life :", "Opinion": "battery life", "VA": "6.37#7.25"}, {"Aspect": "and", "Opinion": "none", "VA": "6.00#6.90"}]}
+{"ID": "laptop_quad_test_747", "Triplet": [{"Aspect": "##gs :", "Opinion": "plu", "VA": "6.35#7.14"}]}
+{"ID": "laptop_quad_test_748", "Triplet": [{"Aspect": "##gged in", "Opinion": "none", "VA": "6.22#7.25"}]}
+{"ID": "laptop_quad_test_749", "Triplet": [{"Aspect": "nice off", "Opinion": "keyboard :", "VA": "6.19#7.06"}, {"Aspect": "great as", "Opinion": "table", "VA": "6.33#7.18"}]}
+{"ID": "laptop_quad_test_75", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.93"}]}
+{"ID": "laptop_quad_test_750", "Triplet": [{"Aspect": ":", "Opinion": "machine is", "VA": "6.06#6.95"}]}
+{"ID": "laptop_quad_test_751", "Triplet": [{"Aspect": ":", "Opinion": "size", "VA": "5.97#6.87"}]}
+{"ID": "laptop_quad_test_752", "Triplet": [{"Aspect": "find a", "Opinion": "none", "VA": "6.30#7.01"}]}
+{"ID": "laptop_quad_test_753", "Triplet": [{"Aspect": "none", "Opinion": ": it", "VA": "6.13#6.96"}]}
+{"ID": "laptop_quad_test_754", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#7.06"}]}
+{"ID": "laptop_quad_test_755", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#7.10"}]}
+{"ID": "laptop_quad_test_756", "Triplet": [{"Aspect": "quality :", "Opinion": "picture quality", "VA": "6.33#7.33"}, {"Aspect": "and", "Opinion": "itself is resp", "VA": "6.05#7.05"}]}
+{"ID": "laptop_quad_test_757", "Triplet": [{"Aspect": "t recommend", "Opinion": ": i", "VA": "5.80#6.71"}]}
+{"ID": "laptop_quad_test_758", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "5.92#6.83"}]}
+{"ID": "laptop_quad_test_759", "Triplet": [{"Aspect": "##screen :", "Opinion": "touch", "VA": "6.17#6.95"}]}
+{"ID": "laptop_quad_test_76", "Triplet": [{"Aspect": "of", "Opinion": ": +", "VA": "5.75#6.53"}]}
+{"ID": "laptop_quad_test_760", "Triplet": [{"Aspect": "none", "Opinion": "work", "VA": "6.19#6.91"}]}
+{"ID": "laptop_quad_test_761", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.22#7.16"}]}
+{"ID": "laptop_quad_test_762", "Triplet": [{"Aspect": "sound", "Opinion": "sound is", "VA": "6.07#6.86"}, {"Aspect": "really low while using", "Opinion": "none", "VA": "5.53#6.41"}]}
+{"ID": "laptop_quad_test_763", "Triplet": [{"Aspect": "spacebar", "Opinion": "none", "VA": "5.72#6.43"}]}
+{"ID": "laptop_quad_test_764", "Triplet": [{"Aspect": "my", "Opinion": "is", "VA": "5.91#6.69"}]}
+{"ID": "laptop_quad_test_765", "Triplet": [{"Aspect": "life :", "Opinion": "battery life is", "VA": "6.03#7.22"}]}
+{"ID": "laptop_quad_test_766", "Triplet": [{"Aspect": "with", "Opinion": "' m", "VA": "6.03#6.88"}]}
+{"ID": "laptop_quad_test_767", "Triplet": [{"Aspect": "##romebook :", "Opinion": "none", "VA": "6.51#7.18"}, {"Aspect": "the", "Opinion": "of", "VA": "5.97#6.75"}]}
+{"ID": "laptop_quad_test_768", "Triplet": [{"Aspect": "chromebook flip 302ca :", "Opinion": "asus ch", "VA": "4.75#5.73"}]}
+{"ID": "laptop_quad_test_769", "Triplet": [{"Aspect": "resolution :", "Opinion": "screen", "VA": "6.21#7.16"}]}
+{"ID": "laptop_quad_test_77", "Triplet": [{"Aspect": "+ it has", "Opinion": "none", "VA": "5.49#6.14"}]}
+{"ID": "laptop_quad_test_770", "Triplet": [{"Aspect": "pad :", "Opinion": "touch", "VA": "6.30#7.18"}]}
+{"ID": "laptop_quad_test_771", "Triplet": [{"Aspect": "way to default", "Opinion": "none", "VA": "6.36#7.22"}, {"Aspect": "well as default", "Opinion": "none", "VA": "6.31#7.26"}]}
+{"ID": "laptop_quad_test_772", "Triplet": [{"Aspect": "with", "Opinion": "am very", "VA": "6.08#6.98"}, {"Aspect": "price tag for", "Opinion": "i", "VA": "6.26#7.18"}]}
+{"ID": "laptop_quad_test_773", "Triplet": [{"Aspect": "##e to have", "Opinion": "it '", "VA": "6.25#7.13"}]}
+{"ID": "laptop_quad_test_774", "Triplet": [{"Aspect": "keyboard", "Opinion": "keyboard is", "VA": "6.07#7.00"}, {"Aspect": "##fortable", "Opinion": "screen", "VA": "6.01#7.03"}]}
+{"ID": "laptop_quad_test_775", "Triplet": [{"Aspect": "none", "Opinion": "##L", "VA": "6.24#7.16"}, {"Aspect": "##ble", "Opinion": ": its very", "VA": "5.92#6.86"}]}
+{"ID": "laptop_quad_test_776", "Triplet": [{"Aspect": "i truly love", "Opinion": "##romebook", "VA": "6.13#6.80"}]}
+{"ID": "laptop_quad_test_777", "Triplet": [{"Aspect": "accurate, and", "Opinion": "none", "VA": "6.26#7.15"}]}
+{"ID": "laptop_quad_test_778", "Triplet": [{"Aspect": "##s, earning", "Opinion": "pros def", "VA": "6.04#7.01"}]}
+{"ID": "laptop_quad_test_779", "Triplet": [{"Aspect": ":", "Opinion": "computer", "VA": "6.09#6.83"}]}
+{"ID": "laptop_quad_test_78", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.04#6.79"}]}
+{"ID": "laptop_quad_test_780", "Triplet": [{"Aspect": "- c : -", "Opinion": "none", "VA": "6.23#6.87"}]}
+{"ID": "laptop_quad_test_781", "Triplet": [{"Aspect": "bit expensive for", "Opinion": "-", "VA": "5.79#6.41"}]}
+{"ID": "laptop_quad_test_782", "Triplet": [{"Aspect": "none", "Opinion": ":", "VA": "6.40#7.14"}]}
+{"ID": "laptop_quad_test_783", "Triplet": [{"Aspect": "really love", "Opinion": "##top :", "VA": "6.34#7.15"}]}
+{"ID": "laptop_quad_test_784", "Triplet": [{"Aspect": "solid as", "Opinion": "feels and", "VA": "6.20#7.09"}]}
+{"ID": "laptop_quad_test_785", "Triplet": [{"Aspect": "##fi connectivity :", "Opinion": "wifi", "VA": "6.26#7.12"}]}
+{"ID": "laptop_quad_test_786", "Triplet": [{"Aspect": "is", "Opinion": "none", "VA": "5.86#6.88"}, {"Aspect": "and", "Opinion": "aren ' t", "VA": "5.94#6.92"}]}
+{"ID": "laptop_quad_test_787", "Triplet": [{"Aspect": "##302ca - dh54", "Opinion": "none", "VA": "5.85#6.64"}]}
+{"ID": "laptop_quad_test_788", "Triplet": [{"Aspect": ":", "Opinion": "graphics", "VA": "6.09#6.94"}]}
+{"ID": "laptop_quad_test_789", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#7.00"}]}
+{"ID": "laptop_quad_test_79", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.24#6.86"}]}
+{"ID": "laptop_quad_test_790", "Triplet": [{"Aspect": "none", "Opinion": ": it '", "VA": "6.36#7.19"}]}
+{"ID": "laptop_quad_test_791", "Triplet": [{"Aspect": "not native android versions", "Opinion": "none", "VA": "6.30#7.22"}]}
+{"ID": "laptop_quad_test_792", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.10#7.07"}]}
+{"ID": "laptop_quad_test_793", "Triplet": [{"Aspect": "well", "Opinion": "none", "VA": "5.81#6.63"}]}
+{"ID": "laptop_quad_test_794", "Triplet": [{"Aspect": "resolution :", "Opinion": "screen resolution is", "VA": "6.29#7.28"}]}
+{"ID": "laptop_quad_test_795", "Triplet": [{"Aspect": "none", "Opinion": "##L : i", "VA": "5.36#6.60"}]}
+{"ID": "laptop_quad_test_796", "Triplet": [{"Aspect": "i love", "Opinion": "none", "VA": "6.20#7.21"}]}
+{"ID": "laptop_quad_test_797", "Triplet": [{"Aspect": "speaker", "Opinion": "none", "VA": "6.01#6.95"}]}
+{"ID": "laptop_quad_test_798", "Triplet": [{"Aspect": "so comfortable", "Opinion": "none", "VA": "6.36#7.20"}]}
+{"ID": "laptop_quad_test_799", "Triplet": [{"Aspect": "but", "Opinion": "screen is", "VA": "6.11#6.96"}, {"Aspect": "and", "Opinion": "are", "VA": "6.05#6.92"}, {"Aspect": "the keyboard", "Opinion": "form factor", "VA": "6.36#7.20"}]}
+{"ID": "laptop_quad_test_8", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.24#6.83"}]}
+{"ID": "laptop_quad_test_80", "Triplet": [{"Aspect": "mobile processor : -", "Opinion": "none", "VA": "5.25#6.09"}]}
+{"ID": "laptop_quad_test_800", "Triplet": [{"Aspect": "folded", "Opinion": "none", "VA": "6.23#7.18"}]}
+{"ID": "laptop_quad_test_801", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.01#6.92"}, {"Aspect": "bad,", "Opinion": "none", "VA": "6.20#7.07"}, {"Aspect": "360 rotation", "Opinion": "touch screen", "VA": "6.21#7.12"}]}
+{"ID": "laptop_quad_test_802", "Triplet": [{"Aspect": "battery life", "Opinion": "battery life", "VA": "5.88#6.81"}]}
+{"ID": "laptop_quad_test_803", "Triplet": [{"Aspect": "none", "Opinion": "NUL", "VA": "6.07#6.96"}]}
+{"ID": "laptop_quad_test_804", "Triplet": [{"Aspect": "##top form :", "Opinion": ", it '", "VA": "6.26#7.15"}]}
+{"ID": "laptop_quad_test_805", "Triplet": [{"Aspect": "##romebook :", "Opinion": "none", "VA": "6.48#7.16"}, {"Aspect": "one of the", "Opinion": "none", "VA": "6.44#7.20"}]}
+{"ID": "laptop_quad_test_806", "Triplet": [{"Aspect": "life :", "Opinion": "battery", "VA": "6.47#7.23"}, {"Aspect": "none", "Opinion": "none", "VA": "6.36#7.09"}]}
+{"ID": "laptop_quad_test_807", "Triplet": [{"Aspect": "attached to one of", "Opinion": "none", "VA": "5.92#6.95"}]}
+{"ID": "laptop_quad_test_808", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.17#6.99"}]}
+{"ID": "laptop_quad_test_809", "Triplet": [{"Aspect": "everything about", "Opinion": "none", "VA": "6.30#7.03"}, {"Aspect": ",", "Opinion": "none", "VA": "5.96#6.79"}, {"Aspect": "the keyboard", "Opinion": "none", "VA": "6.26#7.08"}]}
+{"ID": "laptop_quad_test_81", "Triplet": [{"Aspect": "ddr4 ram :", "Opinion": "none", "VA": "5.66#6.58"}]}
+{"ID": "laptop_quad_test_810", "Triplet": [{"Aspect": ":", "Opinion": "none", "VA": "6.02#6.90"}]}
+{"ID": "laptop_quad_test_811", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.19#6.89"}, {"Aspect": "quick", "Opinion": "none", "VA": "6.04#6.81"}]}
+{"ID": "laptop_quad_test_812", "Triplet": [{"Aspect": "##n", "Opinion": "none", "VA": "5.99#6.78"}]}
+{"ID": "laptop_quad_test_813", "Triplet": [{"Aspect": ":", "Opinion": "has been aw", "VA": "5.69#6.73"}]}
+{"ID": "laptop_quad_test_814", "Triplet": [{"Aspect": "##lit keyboard :", "Opinion": "backlit keyboard", "VA": "5.82#6.93"}]}
+{"ID": "laptop_quad_test_815", "Triplet": [{"Aspect": "keyboard", "Opinion": "keyboard was a little con", "VA": "5.62#6.73"}]}
+{"ID": "laptop_quad_test_816", "Triplet": [{"Aspect": "screen display", "Opinion": "screen", "VA": "6.20#7.00"}, {"Aspect": "has", "Opinion": "", "VA": "6.09#6.90"}]}
+{"ID": "laptop_quad_test_82", "Triplet": [{"Aspect": "very de", "Opinion": "life : -", "VA": "6.03#6.72"}]}
+{"ID": "laptop_quad_test_83", "Triplet": [{"Aspect": "with", "Opinion": "none", "VA": "5.87#6.80"}]}
+{"ID": "laptop_quad_test_84", "Triplet": [{"Aspect": "is the", "Opinion": "none", "VA": "6.24#6.98"}]}
+{"ID": "laptop_quad_test_85", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.28#6.98"}]}
+{"ID": "laptop_quad_test_86", "Triplet": [{"Aspect": "have mentioned,", "Opinion": "none", "VA": "6.16#7.12"}]}
+{"ID": "laptop_quad_test_87", "Triplet": [{"Aspect": "easily upgrade", "Opinion": "##m : -", "VA": "4.49#5.27"}]}
+{"ID": "laptop_quad_test_88", "Triplet": [{"Aspect": "disable", "Opinion": "none", "VA": "6.27#7.10"}, {"Aspect": "from", "Opinion": "none", "VA": "5.99#6.89"}]}
+{"ID": "laptop_quad_test_89", "Triplet": [{"Aspect": "none", "Opinion": "it", "VA": "6.23#7.13"}]}
+{"ID": "laptop_quad_test_9", "Triplet": [{"Aspect": "use", "Opinion": "none", "VA": "5.72#6.60"}]}
+{"ID": "laptop_quad_test_90", "Triplet": [{"Aspect": ",", "Opinion": "can really", "VA": "5.93#6.82"}]}
+{"ID": "laptop_quad_test_91", "Triplet": [{"Aspect": "to storage", "Opinion": "none", "VA": "6.29#7.07"}]}
+{"ID": "laptop_quad_test_92", "Triplet": [{"Aspect": "to me because", "Opinion": "none", "VA": "6.27#6.94"}]}
+{"ID": "laptop_quad_test_93", "Triplet": [{"Aspect": ": i love", "Opinion": "none", "VA": "6.30#7.13"}]}
+{"ID": "laptop_quad_test_94", "Triplet": [{"Aspect": "##ming", "Opinion": "do some", "VA": "6.29#7.17"}]}
+{"ID": "laptop_quad_test_95", "Triplet": [{"Aspect": "s super fast", "Opinion": ": it", "VA": "6.30#7.02"}]}
+{"ID": "laptop_quad_test_96", "Triplet": [{"Aspect": "with", "Opinion": "i am", "VA": "5.80#6.83"}]}
+{"ID": "laptop_quad_test_97", "Triplet": [{"Aspect": "mastercam", "Opinion": "mastercam itself", "VA": "5.79#6.61"}]}
+{"ID": "laptop_quad_test_98", "Triplet": [{"Aspect": ": as", "Opinion": "none", "VA": "6.46#7.12"}]}
+{"ID": "laptop_quad_test_99", "Triplet": [{"Aspect": "screen", "Opinion": "screen", "VA": "6.03#6.95"}]}
