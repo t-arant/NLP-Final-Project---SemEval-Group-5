@@ -3,12 +3,12 @@ Loading prediction data...
 Warning: Duplicate prediction exists.
 
 --- Evaluation Results ---
-True Positives (TP): 185.0000
-True Positives (cTP): 149.9244
-False Positives (FP): 435
-False Negatives (FN): 435
-cPrecision: 0.2418
-cRecall: 0.2418
-cF1: 0.2418
+True Positives (TP): 392.0000
+True Positives (cTP): 334.2563
+False Positives (FP): 598
+False Negatives (FN): 598
+cPrecision: 0.3376
+cRecall: 0.3376
+cF1: 0.3376
 
-Final Results: {'TP': 149.9243971406135, 'FP': 435, 'FN': 435, 'cPrecision': 0.24181354377518308, 'cRecall': 0.24181354377518308, 'cF1': 0.24181354377518308}
+Final Results: {'TP': 334.2563382143254, 'FP': 598, 'FN': 598, 'cPrecision': 0.33763266486295496, 'cRecall': 0.33763266486295496, 'cF1': 0.33763266486295496}
