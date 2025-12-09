@@ -1,0 +1,53 @@
+Loading gold data...
+An unknown error occurred while processing line 491: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 519: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 535: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 551: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 585: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 589: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 594: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 620: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 642: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 682: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 704: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 705: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 713: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 720: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 721: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 723: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 724: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 774: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 784: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 794: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 846: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 855: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 859: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 894: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 917: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 926: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 948: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 953: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 960: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 966: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 989: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1006: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1038: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1077: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1088: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1108: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1109: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1114: 'NoneType' object has no attribute 'lower'
+An unknown error occurred while processing line 1162: 'NoneType' object has no attribute 'lower'
+Loading prediction data...
+Warning: Duplicate prediction exists.
+
+--- Evaluation Results ---
+True Positives (TP): 575.0000
+True Positives (cTP): 540.7137
+False Positives (FP): 856
+False Negatives (FN): 801
+cPrecision: 0.3779
+cRecall: 0.3930
+cF1: 0.3853
+
+Final Results: {'TP': 540.7136625496794, 'FP': 856, 'FN': 801, 'cPrecision': 0.37785720653366833, 'cRecall': 0.3929605105738949, 'cF1': 0.3852608924472244}

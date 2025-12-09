@@ -1,0 +1,14 @@
+Loading gold data...
+Loading prediction data...
+Warning: Duplicate prediction exists.
+
+--- Evaluation Results ---
+True Positives (TP): 201.0000
+True Positives (cTP): 160.2857
+False Positives (FP): 419
+False Negatives (FN): 419
+cPrecision: 0.2585
+cRecall: 0.2585
+cF1: 0.2585
+
+Final Results: {'TP': 160.2856581623259, 'FP': 419, 'FN': 419, 'cPrecision': 0.25852525510052565, 'cRecall': 0.25852525510052565, 'cF1': 0.25852525510052565}

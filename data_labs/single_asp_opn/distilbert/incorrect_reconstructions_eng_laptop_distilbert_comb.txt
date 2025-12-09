@@ -1,0 +1,19 @@
+DF Index	 Dataset Index	Recon Asp	Recon Opn	|	 ASP	OPN
+66 - laptop_quad_dev_57:	hd / ssd	NULL	|	hd / ssd	so love
+847 - laptop_quad_test_389:	ssd drive	NULL	|	ssd drive ` `	NULL
+2706 - laptop_quad_train_1122:	trackpad	NULL	|	trackpad	trackpad
+3075 - laptop_quad_train_1430:	keyboard dock	far, far superior	|	keyboard dock	far , far superior
+3153 - laptop_quad_train_1504:	a key	bit unresponsive	|	a key	a bit unresponsive
+3412 - laptop_quad_train_1712:	touch screen	veryy	|	touch screen	very touchy
+3531 - laptop_quad_train_1814:	cooler boost button	NULL	|	cooler boost button	cooler
+3573 - laptop_quad_train_1850:	battery	again, disappointing	|	battery	again , disappointing
+3866 - laptop_quad_train_2096:	crap	NULL	|	crap	crap
+3871 - laptop_quad_train_2101:	trash	NULL	|	trash	trash
+3883 - laptop_quad_train_2111:	dud	NULL	|	dud	dud
+3991 - laptop_quad_train_2194:	machine,	very capable	|	machine ,	very capable
+4023 - laptop_quad_train_2221:	acer garbage	NULL	|	acer garbage	garbage
+4053 - laptop_quad_train_2246:	speed fast	NULL	|	speed fast	fast
+4085 - laptop_quad_train_2275:	junky	very	|	junky	very junky
+
+
+corrects: 4943	incorrects 15

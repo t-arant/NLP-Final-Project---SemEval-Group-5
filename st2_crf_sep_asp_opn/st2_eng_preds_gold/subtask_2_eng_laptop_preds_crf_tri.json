@@ -1,0 +1,816 @@
+{"ID": "laptop_quad_test_1", "Triplet": [{"Aspect": "unit", "Opinion": "none", "VA": "3.96#5.58"}]}
+{"ID": "laptop_quad_test_10", "Triplet": [{"Aspect": "touchscreen chromebook", "Opinion": "great", "VA": "7.56#7.67"}]}
+{"ID": "laptop_quad_test_100", "Triplet": [{"Aspect": "back lit keyboard", "Opinion": "like", "VA": "6.73#6.87"}]}
+{"ID": "laptop_quad_test_101", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.98#7.09"}]}
+{"ID": "laptop_quad_test_102", "Triplet": [{"Aspect": "screen", "Opinion": "perfectly", "VA": "7.58#7.75"}]}
+{"ID": "laptop_quad_test_103", "Triplet": [{"Aspect": "boots up", "Opinion": "super quick", "VA": "7.50#7.62"}, {"Aspect": "boots up", "Opinion": "super quick", "VA": "7.50#7.62"}]}
+{"ID": "laptop_quad_test_104", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.41#7.52"}]}
+{"ID": "laptop_quad_test_105", "Triplet": [{"Aspect": "tablet", "Opinion": "highly recommend", "VA": "7.11#7.29"}]}
+{"ID": "laptop_quad_test_106", "Triplet": [{"Aspect": "touch pad", "Opinion": "none", "VA": "4.74#5.48"}]}
+{"ID": "laptop_quad_test_107", "Triplet": [{"Aspect": "none", "Opinion": "still fantastic", "VA": "7.62#7.81"}]}
+{"ID": "laptop_quad_test_108", "Triplet": [{"Aspect": "samsung chromebook", "Opinion": "inexpensive", "VA": "6.84#6.96"}]}
+{"ID": "laptop_quad_test_109", "Triplet": [{"Aspect": "product", "Opinion": "' t be happier", "VA": "7.02#7.12"}]}
+{"ID": "laptop_quad_test_11", "Triplet": [{"Aspect": "none", "Opinion": "glitchy", "VA": "2.40#6.40"}]}
+{"ID": "laptop_quad_test_110", "Triplet": [{"Aspect": "screen hinge", "Opinion": "super strong", "VA": "6.34#6.70"}]}
+{"ID": "laptop_quad_test_111", "Triplet": [{"Aspect": "size", "Opinion": "perfect", "VA": "7.52#7.65"}, {"Aspect": "size", "Opinion": "perfect", "VA": "7.52#7.65"}]}
+{"ID": "laptop_quad_test_112", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.08#7.14"}]}
+{"ID": "laptop_quad_test_113", "Triplet": [{"Aspect": "battery life", "Opinion": "good", "VA": "6.59#6.71"}]}
+{"ID": "laptop_quad_test_114", "Triplet": [{"Aspect": "chromebook", "Opinion": "instantly", "VA": "7.62#7.80"}]}
+{"ID": "laptop_quad_test_115", "Triplet": [{"Aspect": "android tablets", "Opinion": "none", "VA": "4.99#5.57"}]}
+{"ID": "laptop_quad_test_116", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.57#7.68"}]}
+{"ID": "laptop_quad_test_117", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.60#7.75"}, {"Aspect": "none", "Opinion": "none", "VA": "7.60#7.75"}, {"Aspect": "none", "Opinion": "none", "VA": "7.60#7.75"}, {"Aspect": "none", "Opinion": "none", "VA": "7.60#7.75"}]}
+{"ID": "laptop_quad_test_118", "Triplet": [{"Aspect": "apple product", "Opinion": "much happier", "VA": "7.02#7.13"}]}
+{"ID": "laptop_quad_test_119", "Triplet": [{"Aspect": "samsung chromebook", "Opinion": "none", "VA": "5.80#5.97"}, {"Aspect": "samsung chromebook", "Opinion": "none", "VA": "5.80#5.97"}]}
+{"ID": "laptop_quad_test_12", "Triplet": [{"Aspect": "touch pad", "Opinion": "none", "VA": "3.76#5.57"}]}
+{"ID": "laptop_quad_test_120", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.19#5.44"}]}
+{"ID": "laptop_quad_test_121", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.14#5.39"}]}
+{"ID": "laptop_quad_test_122", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.21#7.29"}]}
+{"ID": "laptop_quad_test_123", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.91#7.11"}]}
+{"ID": "laptop_quad_test_124", "Triplet": [{"Aspect": "laptop", "Opinion": "very straight", "VA": "7.12#7.23"}]}
+{"ID": "laptop_quad_test_125", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.25#7.35"}]}
+{"ID": "laptop_quad_test_126", "Triplet": [{"Aspect": "os", "Opinion": "secure", "VA": "6.41#6.51"}]}
+{"ID": "laptop_quad_test_127", "Triplet": [{"Aspect": "product", "Opinion": "awesome", "VA": "7.60#7.79"}]}
+{"ID": "laptop_quad_test_128", "Triplet": [{"Aspect": "laptop tablet", "Opinion": "great", "VA": "7.48#7.57"}, {"Aspect": "laptop tablet", "Opinion": "great", "VA": "7.48#7.57"}]}
+{"ID": "laptop_quad_test_129", "Triplet": [{"Aspect": "chormebook", "Opinion": "none", "VA": "6.49#6.65"}]}
+{"ID": "laptop_quad_test_13", "Triplet": [{"Aspect": "none", "Opinion": "very unproductive", "VA": "3.12#6.20"}]}
+{"ID": "laptop_quad_test_130", "Triplet": [{"Aspect": "size", "Opinion": "like", "VA": "6.89#7.04"}]}
+{"ID": "laptop_quad_test_131", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.61#6.69"}]}
+{"ID": "laptop_quad_test_132", "Triplet": [{"Aspect": "keyboard", "Opinion": "love", "VA": "7.51#7.58"}]}
+{"ID": "laptop_quad_test_133", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "7.39#7.52"}]}
+{"ID": "laptop_quad_test_134", "Triplet": [{"Aspect": "none", "Opinion": "so glad", "VA": "7.41#7.51"}]}
+{"ID": "laptop_quad_test_135", "Triplet": [{"Aspect": "navigation", "Opinion": "easy", "VA": "6.64#6.76"}]}
+{"ID": "laptop_quad_test_136", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.33#7.40"}]}
+{"ID": "laptop_quad_test_137", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "6.79#6.90"}]}
+{"ID": "laptop_quad_test_138", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.16#6.53"}]}
+{"ID": "laptop_quad_test_139", "Triplet": [{"Aspect": "speaker", "Opinion": "' t loud", "VA": "3.91#5.69"}]}
+{"ID": "laptop_quad_test_14", "Triplet": [{"Aspect": "device", "Opinion": "none", "VA": "3.24#6.10"}]}
+{"ID": "laptop_quad_test_140", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.55#7.64"}]}
+{"ID": "laptop_quad_test_141", "Triplet": [{"Aspect": "battery life", "Opinion": "great", "VA": "7.44#7.48"}]}
+{"ID": "laptop_quad_test_142", "Triplet": [{"Aspect": "none", "Opinion": "easy", "VA": "6.92#7.01"}]}
+{"ID": "laptop_quad_test_143", "Triplet": [{"Aspect": "none", "Opinion": "recommend", "VA": "7.45#7.77"}]}
+{"ID": "laptop_quad_test_144", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.59#7.70"}]}
+{"ID": "laptop_quad_test_145", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.42#5.72"}, {"Aspect": "none", "Opinion": "none", "VA": "5.42#5.72"}, {"Aspect": "none", "Opinion": "none", "VA": "5.42#5.72"}, {"Aspect": "none", "Opinion": "none", "VA": "5.42#5.72"}]}
+{"ID": "laptop_quad_test_146", "Triplet": [{"Aspect": "display", "Opinion": "crisp", "VA": "7.04#7.22"}, {"Aspect": "display", "Opinion": "crisp", "VA": "7.04#7.22"}, {"Aspect": "display", "Opinion": "crisp", "VA": "7.04#7.22"}]}
+{"ID": "laptop_quad_test_147", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.95#7.09"}]}
+{"ID": "laptop_quad_test_148", "Triplet": [{"Aspect": "chromebook", "Opinion": "love", "VA": "7.56#7.68"}]}
+{"ID": "laptop_quad_test_149", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "4.77#5.31"}]}
+{"ID": "laptop_quad_test_15", "Triplet": [{"Aspect": "trackpad", "Opinion": "none", "VA": "3.43#5.96"}]}
+{"ID": "laptop_quad_test_150", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.79#5.60"}]}
+{"ID": "laptop_quad_test_151", "Triplet": [{"Aspect": "delivery", "Opinion": "none", "VA": "3.73#5.67"}, {"Aspect": "delivery", "Opinion": "none", "VA": "3.73#5.67"}]}
+{"ID": "laptop_quad_test_152", "Triplet": [{"Aspect": "none", "Opinion": "quite fast", "VA": "7.26#7.37"}]}
+{"ID": "laptop_quad_test_153", "Triplet": [{"Aspect": "none", "Opinion": "light", "VA": "5.77#5.98"}]}
+{"ID": "laptop_quad_test_154", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "6.09#6.14"}]}
+{"ID": "laptop_quad_test_155", "Triplet": [{"Aspect": "computer", "Opinion": "best", "VA": "7.63#7.80"}]}
+{"ID": "laptop_quad_test_156", "Triplet": [{"Aspect": "functioning computer", "Opinion": "great", "VA": "7.60#7.71"}]}
+{"ID": "laptop_quad_test_157", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "7.60#7.75"}]}
+{"ID": "laptop_quad_test_158", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.75#6.80"}]}
+{"ID": "laptop_quad_test_159", "Triplet": [{"Aspect": "battery life", "Opinion": "flawlessly", "VA": "7.57#7.74"}, {"Aspect": "battery life", "Opinion": "flawlessly", "VA": "7.57#7.74"}]}
+{"ID": "laptop_quad_test_16", "Triplet": [{"Aspect": "os", "Opinion": "none", "VA": "4.55#5.24"}]}
+{"ID": "laptop_quad_test_160", "Triplet": [{"Aspect": "laptop", "Opinion": "excelente", "VA": "7.48#7.55"}]}
+{"ID": "laptop_quad_test_161", "Triplet": [{"Aspect": "graphics", "Opinion": "great", "VA": "6.79#6.89"}]}
+{"ID": "laptop_quad_test_162", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.56#6.75"}]}
+{"ID": "laptop_quad_test_163", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.85#6.94"}]}
+{"ID": "laptop_quad_test_164", "Triplet": [{"Aspect": "none", "Opinion": "fast", "VA": "6.80#6.94"}]}
+{"ID": "laptop_quad_test_165", "Triplet": [{"Aspect": "laptop", "Opinion": "love", "VA": "7.58#7.69"}]}
+{"ID": "laptop_quad_test_166", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.04#5.51"}]}
+{"ID": "laptop_quad_test_167", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.85#6.94"}, {"Aspect": "none", "Opinion": "none", "VA": "6.85#6.94"}, {"Aspect": "none", "Opinion": "none", "VA": "6.85#6.94"}]}
+{"ID": "laptop_quad_test_168", "Triplet": [{"Aspect": "none", "Opinion": "very content", "VA": "7.00#7.10"}]}
+{"ID": "laptop_quad_test_169", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.54#7.64"}]}
+{"ID": "laptop_quad_test_17", "Triplet": [{"Aspect": "hdmi out", "Opinion": "none", "VA": "4.33#5.54"}]}
+{"ID": "laptop_quad_test_170", "Triplet": [{"Aspect": "sims 4", "Opinion": "very smoothly", "VA": "7.37#7.51"}]}
+{"ID": "laptop_quad_test_171", "Triplet": [{"Aspect": "laptop", "Opinion": "really excited", "VA": "7.34#7.44"}]}
+{"ID": "laptop_quad_test_172", "Triplet": [{"Aspect": "none", "Opinion": "relatively well", "VA": "6.73#6.86"}]}
+{"ID": "laptop_quad_test_173", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.07#5.37"}]}
+{"ID": "laptop_quad_test_174", "Triplet": [{"Aspect": "laptop", "Opinion": "super easy", "VA": "7.28#7.38"}]}
+{"ID": "laptop_quad_test_175", "Triplet": [{"Aspect": "numbering pad", "Opinion": "none", "VA": "4.52#5.29"}]}
+{"ID": "laptop_quad_test_176", "Triplet": [{"Aspect": "none", "Opinion": "very good", "VA": "7.31#7.44"}]}
+{"ID": "laptop_quad_test_177", "Triplet": [{"Aspect": "dvd player", "Opinion": "nice", "VA": "7.06#7.19"}]}
+{"ID": "laptop_quad_test_178", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "6.79#6.92"}, {"Aspect": "battery life", "Opinion": "none", "VA": "6.79#6.92"}]}
+{"ID": "laptop_quad_test_179", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.06#6.16"}]}
+{"ID": "laptop_quad_test_18", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.93#5.41"}]}
+{"ID": "laptop_quad_test_180", "Triplet": [{"Aspect": "processor", "Opinion": "fast", "VA": "7.59#7.70"}]}
+{"ID": "laptop_quad_test_181", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.04#5.52"}]}
+{"ID": "laptop_quad_test_182", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "4.67#5.47"}]}
+{"ID": "laptop_quad_test_183", "Triplet": [{"Aspect": "laptop", "Opinion": "excellent", "VA": "7.61#7.79"}]}
+{"ID": "laptop_quad_test_184", "Triplet": [{"Aspect": "dvd player", "Opinion": "really nice", "VA": "6.97#7.14"}]}
+{"ID": "laptop_quad_test_185", "Triplet": [{"Aspect": "ports", "Opinion": "none", "VA": "6.32#6.29"}]}
+{"ID": "laptop_quad_test_186", "Triplet": [{"Aspect": "laptop", "Opinion": "very fast", "VA": "7.25#7.34"}]}
+{"ID": "laptop_quad_test_187", "Triplet": [{"Aspect": "computer", "Opinion": "great", "VA": "6.93#7.01"}]}
+{"ID": "laptop_quad_test_188", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "7.60#7.75"}]}
+{"ID": "laptop_quad_test_189", "Triplet": [{"Aspect": "none", "Opinion": "pleased", "VA": "7.41#7.56"}]}
+{"ID": "laptop_quad_test_19", "Triplet": [{"Aspect": "touchscreen", "Opinion": "none", "VA": "3.60#5.70"}]}
+{"ID": "laptop_quad_test_190", "Triplet": [{"Aspect": "cpu", "Opinion": "well", "VA": "6.69#6.80"}]}
+{"ID": "laptop_quad_test_191", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.32#5.47"}]}
+{"ID": "laptop_quad_test_192", "Triplet": [{"Aspect": "none", "Opinion": "really like", "VA": "6.74#6.89"}]}
+{"ID": "laptop_quad_test_193", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.19#5.51"}]}
+{"ID": "laptop_quad_test_194", "Triplet": [{"Aspect": "webpages", "Opinion": "none", "VA": "6.74#6.85"}]}
+{"ID": "laptop_quad_test_195", "Triplet": [{"Aspect": "processor", "Opinion": "none", "VA": "4.41#5.35"}]}
+{"ID": "laptop_quad_test_196", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.57#7.71"}]}
+{"ID": "laptop_quad_test_197", "Triplet": [{"Aspect": "computer / laptop", "Opinion": "pretty good", "VA": "6.82#6.93"}, {"Aspect": "computer / laptop", "Opinion": "pretty good", "VA": "6.82#6.93"}]}
+{"ID": "laptop_quad_test_198", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.59#7.76"}]}
+{"ID": "laptop_quad_test_199", "Triplet": [{"Aspect": "keyboard", "Opinion": "great", "VA": "7.08#7.16"}]}
+{"ID": "laptop_quad_test_2", "Triplet": [{"Aspect": "none", "Opinion": "difficult", "VA": "3.38#5.99"}]}
+{"ID": "laptop_quad_test_20", "Triplet": [{"Aspect": "acer", "Opinion": "none", "VA": "2.52#6.35"}]}
+{"ID": "laptop_quad_test_200", "Triplet": [{"Aspect": "computer", "Opinion": "super fast really like", "VA": "7.52#7.65"}]}
+{"ID": "laptop_quad_test_201", "Triplet": [{"Aspect": "laptop", "Opinion": "solid", "VA": "7.26#7.36"}]}
+{"ID": "laptop_quad_test_202", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.72#5.27"}]}
+{"ID": "laptop_quad_test_203", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "4.35#5.40"}]}
+{"ID": "laptop_quad_test_204", "Triplet": [{"Aspect": "battery life", "Opinion": "short", "VA": "4.02#5.54"}]}
+{"ID": "laptop_quad_test_205", "Triplet": [{"Aspect": "design", "Opinion": "sleek", "VA": "7.43#7.51"}]}
+{"ID": "laptop_quad_test_206", "Triplet": [{"Aspect": "none", "Opinion": "easy", "VA": "6.79#6.89"}]}
+{"ID": "laptop_quad_test_207", "Triplet": [{"Aspect": "computer", "Opinion": "nice", "VA": "6.98#7.14"}]}
+{"ID": "laptop_quad_test_208", "Triplet": [{"Aspect": "laptop", "Opinion": "well engineered", "VA": "7.32#7.39"}]}
+{"ID": "laptop_quad_test_209", "Triplet": [{"Aspect": "laptop", "Opinion": "very nice", "VA": "7.33#7.47"}]}
+{"ID": "laptop_quad_test_21", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.96#5.27"}]}
+{"ID": "laptop_quad_test_210", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.62#7.77"}]}
+{"ID": "laptop_quad_test_211", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.16#6.25"}]}
+{"ID": "laptop_quad_test_212", "Triplet": [{"Aspect": "laptop", "Opinion": "fast", "VA": "7.47#7.59"}]}
+{"ID": "laptop_quad_test_213", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "7.09#7.36"}, {"Aspect": "battery", "Opinion": "none", "VA": "7.09#7.36"}]}
+{"ID": "laptop_quad_test_214", "Triplet": [{"Aspect": "none", "Opinion": "a little slow", "VA": "2.98#6.28"}]}
+{"ID": "laptop_quad_test_215", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.45#7.57"}, {"Aspect": "none", "Opinion": "none", "VA": "7.45#7.57"}]}
+{"ID": "laptop_quad_test_216", "Triplet": [{"Aspect": "laptop", "Opinion": "nice", "VA": "7.24#7.39"}]}
+{"ID": "laptop_quad_test_217", "Triplet": [{"Aspect": "graphics", "Opinion": "good", "VA": "6.66#6.78"}]}
+{"ID": "laptop_quad_test_218", "Triplet": [{"Aspect": "warranty", "Opinion": "honored", "VA": "4.57#5.50"}]}
+{"ID": "laptop_quad_test_219", "Triplet": [{"Aspect": "touch screen", "Opinion": "none", "VA": "3.80#5.59"}]}
+{"ID": "laptop_quad_test_22", "Triplet": [{"Aspect": "sound quality", "Opinion": "decent", "VA": "6.50#6.58"}]}
+{"ID": "laptop_quad_test_220", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "6.06#6.34"}, {"Aspect": "chromebook", "Opinion": "none", "VA": "6.06#6.34"}]}
+{"ID": "laptop_quad_test_221", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.78#5.54"}]}
+{"ID": "laptop_quad_test_222", "Triplet": [{"Aspect": "screen", "Opinion": "beautiful", "VA": "6.81#6.92"}]}
+{"ID": "laptop_quad_test_223", "Triplet": [{"Aspect": "none", "Opinion": "prefer", "VA": "5.70#6.03"}]}
+{"ID": "laptop_quad_test_224", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.53"}]}
+{"ID": "laptop_quad_test_225", "Triplet": [{"Aspect": "chromeos", "Opinion": "very annoying", "VA": "2.82#6.37"}]}
+{"ID": "laptop_quad_test_226", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.98#5.81"}]}
+{"ID": "laptop_quad_test_227", "Triplet": [{"Aspect": "touch screen", "Opinion": "wonderfully", "VA": "7.49#7.63"}]}
+{"ID": "laptop_quad_test_228", "Triplet": [{"Aspect": "backspace key", "Opinion": "small", "VA": "5.98#6.12"}]}
+{"ID": "laptop_quad_test_229", "Triplet": [{"Aspect": "screen", "Opinion": "not very durable", "VA": "4.66#5.54"}]}
+{"ID": "laptop_quad_test_23", "Triplet": [{"Aspect": "power adapter", "Opinion": "flimsy", "VA": "6.98#7.19"}]}
+{"ID": "laptop_quad_test_230", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.16#5.91"}]}
+{"ID": "laptop_quad_test_231", "Triplet": [{"Aspect": "device", "Opinion": "none", "VA": "3.32#6.13"}]}
+{"ID": "laptop_quad_test_232", "Triplet": [{"Aspect": "none", "Opinion": "gorgeous", "VA": "7.57#7.78"}, {"Aspect": "none", "Opinion": "gorgeous", "VA": "7.57#7.78"}, {"Aspect": "none", "Opinion": "gorgeous", "VA": "7.57#7.78"}]}
+{"ID": "laptop_quad_test_233", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.20#6.31"}]}
+{"ID": "laptop_quad_test_234", "Triplet": [{"Aspect": "none", "Opinion": "' t recommend", "VA": "4.02#5.49"}]}
+{"ID": "laptop_quad_test_235", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.66#5.27"}]}
+{"ID": "laptop_quad_test_236", "Triplet": [{"Aspect": "screen", "Opinion": "good", "VA": "6.61#6.76"}]}
+{"ID": "laptop_quad_test_237", "Triplet": [{"Aspect": "none", "Opinion": "terrible", "VA": "2.98#6.39"}, {"Aspect": "none", "Opinion": "terrible", "VA": "2.98#6.39"}]}
+{"ID": "laptop_quad_test_238", "Triplet": [{"Aspect": "battery life", "Opinion": "ok", "VA": "5.41#5.57"}]}
+{"ID": "laptop_quad_test_239", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.89#6.51"}]}
+{"ID": "laptop_quad_test_24", "Triplet": [{"Aspect": "wi - fi", "Opinion": "none", "VA": "2.73#6.26"}]}
+{"ID": "laptop_quad_test_240", "Triplet": [{"Aspect": "android app support", "Opinion": "none", "VA": "4.19#5.28"}]}
+{"ID": "laptop_quad_test_241", "Triplet": [{"Aspect": "android app chrome os", "Opinion": "disappointed", "VA": "3.27#6.22"}]}
+{"ID": "laptop_quad_test_242", "Triplet": [{"Aspect": "battery life", "Opinion": "mediocre", "VA": "5.68#6.05"}]}
+{"ID": "laptop_quad_test_243", "Triplet": [{"Aspect": "amazon", "Opinion": "none", "VA": "3.99#5.42"}]}
+{"ID": "laptop_quad_test_244", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.16#7.24"}, {"Aspect": "none", "Opinion": "none", "VA": "7.16#7.24"}, {"Aspect": "none", "Opinion": "none", "VA": "7.16#7.24"}]}
+{"ID": "laptop_quad_test_245", "Triplet": [{"Aspect": "tablet", "Opinion": "none", "VA": "4.62#5.54"}]}
+{"ID": "laptop_quad_test_246", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.27#6.11"}, {"Aspect": "none", "Opinion": "none", "VA": "4.27#6.11"}]}
+{"ID": "laptop_quad_test_247", "Triplet": [{"Aspect": "computer", "Opinion": "nice", "VA": "6.19#6.53"}]}
+{"ID": "laptop_quad_test_248", "Triplet": [{"Aspect": "keyboard", "Opinion": "inconvenient", "VA": "2.82#6.30"}]}
+{"ID": "laptop_quad_test_249", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "7.17#7.29"}]}
+{"ID": "laptop_quad_test_25", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.54"}]}
+{"ID": "laptop_quad_test_250", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.51#7.63"}]}
+{"ID": "laptop_quad_test_251", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.71#6.16"}]}
+{"ID": "laptop_quad_test_252", "Triplet": [{"Aspect": "acer", "Opinion": "bad", "VA": "3.30#6.20"}]}
+{"ID": "laptop_quad_test_253", "Triplet": [{"Aspect": "trackpad", "Opinion": "none", "VA": "7.26#7.47"}]}
+{"ID": "laptop_quad_test_254", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.18#6.31"}]}
+{"ID": "laptop_quad_test_255", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.95#7.11"}, {"Aspect": "none", "Opinion": "none", "VA": "6.95#7.11"}]}
+{"ID": "laptop_quad_test_256", "Triplet": [{"Aspect": "model", "Opinion": "none", "VA": "3.14#6.14"}]}
+{"ID": "laptop_quad_test_257", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.62#7.76"}]}
+{"ID": "laptop_quad_test_258", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "5.03#6.08"}]}
+{"ID": "laptop_quad_test_259", "Triplet": [{"Aspect": "battery life", "Opinion": "incredible", "VA": "6.48#6.75"}]}
+{"ID": "laptop_quad_test_26", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.74#5.67"}]}
+{"ID": "laptop_quad_test_260", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "7.15#7.25"}]}
+{"ID": "laptop_quad_test_261", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#6.50"}]}
+{"ID": "laptop_quad_test_262", "Triplet": [{"Aspect": "chrome os", "Opinion": "none", "VA": "4.69#5.33"}]}
+{"ID": "laptop_quad_test_263", "Triplet": [{"Aspect": "play store", "Opinion": "none", "VA": "4.25#5.42"}]}
+{"ID": "laptop_quad_test_264", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.13#5.97"}]}
+{"ID": "laptop_quad_test_265", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.55"}]}
+{"ID": "laptop_quad_test_266", "Triplet": [{"Aspect": "chromebook", "Opinion": "superb", "VA": "6.92#7.12"}]}
+{"ID": "laptop_quad_test_267", "Triplet": [{"Aspect": "quad - core celeron n3160", "Opinion": "respectable", "VA": "6.53#6.68"}]}
+{"ID": "laptop_quad_test_268", "Triplet": [{"Aspect": "design", "Opinion": "solid", "VA": "7.38#7.51"}]}
+{"ID": "laptop_quad_test_269", "Triplet": [{"Aspect": "laptop", "Opinion": "favorite", "VA": "7.62#7.80"}]}
+{"ID": "laptop_quad_test_27", "Triplet": [{"Aspect": "none", "Opinion": "horrible", "VA": "6.21#6.96"}, {"Aspect": "none", "Opinion": "horrible", "VA": "6.21#6.96"}]}
+{"ID": "laptop_quad_test_270", "Triplet": [{"Aspect": "chromebook", "Opinion": "quite pleased", "VA": "7.52#7.67"}]}
+{"ID": "laptop_quad_test_271", "Triplet": [{"Aspect": "chromeos", "Opinion": "decent", "VA": "5.62#5.94"}]}
+{"ID": "laptop_quad_test_272", "Triplet": [{"Aspect": "machine", "Opinion": "amazing", "VA": "7.56#7.71"}, {"Aspect": "machine", "Opinion": "amazing", "VA": "7.56#7.71"}]}
+{"ID": "laptop_quad_test_273", "Triplet": [{"Aspect": "machine", "Opinion": "really aesthetically pleasing", "VA": "7.38#7.52"}]}
+{"ID": "laptop_quad_test_274", "Triplet": [{"Aspect": "model", "Opinion": "none", "VA": "6.67#6.75"}]}
+{"ID": "laptop_quad_test_275", "Triplet": [{"Aspect": "trackpad", "Opinion": "a bit delicate", "VA": "2.98#6.29"}]}
+{"ID": "laptop_quad_test_276", "Triplet": [{"Aspect": "battery", "Opinion": "good", "VA": "6.56#6.69"}]}
+{"ID": "laptop_quad_test_277", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "5.98#6.07"}]}
+{"ID": "laptop_quad_test_278", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.87#5.28"}]}
+{"ID": "laptop_quad_test_279", "Triplet": [{"Aspect": "battery", "Opinion": "pretty good", "VA": "6.77#6.89"}]}
+{"ID": "laptop_quad_test_28", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.45#5.80"}]}
+{"ID": "laptop_quad_test_280", "Triplet": [{"Aspect": "celeron processor", "Opinion": "none", "VA": "3.02#6.26"}]}
+{"ID": "laptop_quad_test_281", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.37#5.29"}]}
+{"ID": "laptop_quad_test_282", "Triplet": [{"Aspect": "none", "Opinion": "surprisingly fast", "VA": "7.55#7.72"}]}
+{"ID": "laptop_quad_test_283", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.98#5.51"}]}
+{"ID": "laptop_quad_test_284", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.55#6.63"}]}
+{"ID": "laptop_quad_test_285", "Triplet": [{"Aspect": "none", "Opinion": "plus", "VA": "7.39#7.50"}]}
+{"ID": "laptop_quad_test_286", "Triplet": [{"Aspect": "drives", "Opinion": "none", "VA": "5.48#5.66"}]}
+{"ID": "laptop_quad_test_287", "Triplet": [{"Aspect": "speakers", "Opinion": "none", "VA": "5.78#5.86"}]}
+{"ID": "laptop_quad_test_288", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.86#5.33"}]}
+{"ID": "laptop_quad_test_289", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "5.74#6.22"}]}
+{"ID": "laptop_quad_test_29", "Triplet": [{"Aspect": "none", "Opinion": "terrible", "VA": "4.36#5.83"}]}
+{"ID": "laptop_quad_test_290", "Triplet": [{"Aspect": "laptop", "Opinion": "pretty light", "VA": "6.93#7.03"}]}
+{"ID": "laptop_quad_test_291", "Triplet": [{"Aspect": "screen", "Opinion": "very sharp", "VA": "7.11#7.20"}]}
+{"ID": "laptop_quad_test_292", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.17#6.35"}, {"Aspect": "none", "Opinion": "none", "VA": "6.17#6.35"}]}
+{"ID": "laptop_quad_test_293", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.37#5.39"}]}
+{"ID": "laptop_quad_test_294", "Triplet": [{"Aspect": "computer", "Opinion": "fast", "VA": "7.43#7.58"}]}
+{"ID": "laptop_quad_test_295", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.52#7.65"}, {"Aspect": "none", "Opinion": "none", "VA": "7.52#7.65"}]}
+{"ID": "laptop_quad_test_296", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "6.96#7.05"}, {"Aspect": "laptop", "Opinion": "great", "VA": "6.96#7.05"}]}
+{"ID": "laptop_quad_test_297", "Triplet": [{"Aspect": "none", "Opinion": "fast", "VA": "7.48#7.60"}]}
+{"ID": "laptop_quad_test_298", "Triplet": [{"Aspect": "computer", "Opinion": "very high", "VA": "6.56#6.78"}]}
+{"ID": "laptop_quad_test_299", "Triplet": [{"Aspect": "mbp", "Opinion": "none", "VA": "6.54#6.71"}, {"Aspect": "mbp", "Opinion": "none", "VA": "6.54#6.71"}]}
+{"ID": "laptop_quad_test_3", "Triplet": [{"Aspect": "ssd drive", "Opinion": "none", "VA": "3.95#5.57"}]}
+{"ID": "laptop_quad_test_30", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.76#5.21"}]}
+{"ID": "laptop_quad_test_300", "Triplet": [{"Aspect": "thunderbolt ports", "Opinion": "nice", "VA": "7.01#7.13"}]}
+{"ID": "laptop_quad_test_301", "Triplet": [{"Aspect": "laptop", "Opinion": "best", "VA": "7.63#7.77"}]}
+{"ID": "laptop_quad_test_302", "Triplet": [{"Aspect": "none", "Opinion": "loves", "VA": "7.21#7.27"}]}
+{"ID": "laptop_quad_test_303", "Triplet": [{"Aspect": "machine", "Opinion": "excellent", "VA": "7.62#7.80"}]}
+{"ID": "laptop_quad_test_304", "Triplet": [{"Aspect": "none", "Opinion": "good", "VA": "7.42#7.54"}, {"Aspect": "none", "Opinion": "good", "VA": "7.42#7.54"}, {"Aspect": "none", "Opinion": "good", "VA": "7.42#7.54"}]}
+{"ID": "laptop_quad_test_305", "Triplet": [{"Aspect": "response", "Opinion": "excellent", "VA": "7.60#7.75"}]}
+{"ID": "laptop_quad_test_306", "Triplet": [{"Aspect": "battery life", "Opinion": "excellent", "VA": "7.58#7.69"}]}
+{"ID": "laptop_quad_test_307", "Triplet": [{"Aspect": "laptop", "Opinion": "light", "VA": "6.68#6.76"}]}
+{"ID": "laptop_quad_test_308", "Triplet": [{"Aspect": "ports", "Opinion": "generous", "VA": "7.37#7.44"}]}
+{"ID": "laptop_quad_test_309", "Triplet": [{"Aspect": "laptop", "Opinion": "sleek", "VA": "6.99#7.07"}]}
+{"ID": "laptop_quad_test_31", "Triplet": [{"Aspect": "screen", "Opinion": "great", "VA": "7.32#7.40"}]}
+{"ID": "laptop_quad_test_310", "Triplet": [{"Aspect": "model", "Opinion": "enjoy", "VA": "7.28#7.33"}]}
+{"ID": "laptop_quad_test_311", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.17#7.28"}, {"Aspect": "none", "Opinion": "none", "VA": "7.17#7.28"}]}
+{"ID": "laptop_quad_test_312", "Triplet": [{"Aspect": "none", "Opinion": "loving", "VA": "7.56#7.69"}, {"Aspect": "none", "Opinion": "loving", "VA": "7.56#7.69"}]}
+{"ID": "laptop_quad_test_313", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.58#7.76"}]}
+{"ID": "laptop_quad_test_314", "Triplet": [{"Aspect": "macbook", "Opinion": "love", "VA": "7.59#7.72"}]}
+{"ID": "laptop_quad_test_315", "Triplet": [{"Aspect": "product", "Opinion": "great", "VA": "7.43#7.49"}]}
+{"ID": "laptop_quad_test_316", "Triplet": [{"Aspect": "none", "Opinion": "amazing", "VA": "7.61#7.84"}]}
+{"ID": "laptop_quad_test_317", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "6.29#6.46"}, {"Aspect": "none", "Opinion": "well", "VA": "6.29#6.46"}, {"Aspect": "none", "Opinion": "well", "VA": "6.29#6.46"}]}
+{"ID": "laptop_quad_test_318", "Triplet": [{"Aspect": "computer", "Opinion": "obviously great", "VA": "7.55#7.65"}]}
+{"ID": "laptop_quad_test_319", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.39#7.54"}, {"Aspect": "none", "Opinion": "none", "VA": "7.39#7.54"}, {"Aspect": "none", "Opinion": "none", "VA": "7.39#7.54"}]}
+{"ID": "laptop_quad_test_32", "Triplet": [{"Aspect": "charging adapter", "Opinion": "none", "VA": "5.47#5.81"}]}
+{"ID": "laptop_quad_test_320", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "4.51#5.33"}]}
+{"ID": "laptop_quad_test_321", "Triplet": [{"Aspect": "none", "Opinion": "thinner", "VA": "7.22#7.33"}]}
+{"ID": "laptop_quad_test_322", "Triplet": [{"Aspect": "computer", "Opinion": "awesome", "VA": "7.61#7.83"}]}
+{"ID": "laptop_quad_test_323", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.46#7.55"}, {"Aspect": "none", "Opinion": "none", "VA": "7.46#7.55"}]}
+{"ID": "laptop_quad_test_324", "Triplet": [{"Aspect": "mac", "Opinion": "great", "VA": "7.50#7.61"}, {"Aspect": "mac", "Opinion": "great", "VA": "7.50#7.61"}]}
+{"ID": "laptop_quad_test_325", "Triplet": [{"Aspect": "force feedback track pad", "Opinion": "none", "VA": "7.59#7.79"}, {"Aspect": "force feedback track pad", "Opinion": "none", "VA": "7.59#7.79"}]}
+{"ID": "laptop_quad_test_326", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.21#5.78"}, {"Aspect": "none", "Opinion": "none", "VA": "4.21#5.78"}]}
+{"ID": "laptop_quad_test_327", "Triplet": [{"Aspect": "computer", "Opinion": "love", "VA": "7.62#7.77"}]}
+{"ID": "laptop_quad_test_328", "Triplet": [{"Aspect": "touch trackpad", "Opinion": "awesome", "VA": "7.53#7.69"}]}
+{"ID": "laptop_quad_test_329", "Triplet": [{"Aspect": "retina display", "Opinion": "super gorgeous", "VA": "7.59#7.77"}]}
+{"ID": "laptop_quad_test_33", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "3.19#6.05"}]}
+{"ID": "laptop_quad_test_330", "Triplet": [{"Aspect": "laptop", "Opinion": "excellent", "VA": "7.60#7.76"}]}
+{"ID": "laptop_quad_test_331", "Triplet": [{"Aspect": "none", "Opinion": "absolutely love", "VA": "7.59#7.78"}]}
+{"ID": "laptop_quad_test_332", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "4.63#5.48"}]}
+{"ID": "laptop_quad_test_333", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.04#6.35"}]}
+{"ID": "laptop_quad_test_334", "Triplet": [{"Aspect": "macbook", "Opinion": "none", "VA": "6.45#6.62"}]}
+{"ID": "laptop_quad_test_335", "Triplet": [{"Aspect": "ss hard drive", "Opinion": "none", "VA": "3.90#5.41"}]}
+{"ID": "laptop_quad_test_336", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.79#5.42"}]}
+{"ID": "laptop_quad_test_337", "Triplet": [{"Aspect": "none", "Opinion": "really like ' t bulky", "VA": "6.12#6.50"}]}
+{"ID": "laptop_quad_test_338", "Triplet": [{"Aspect": "customer service", "Opinion": "great", "VA": "7.50#7.56"}, {"Aspect": "customer service", "Opinion": "great", "VA": "7.50#7.56"}]}
+{"ID": "laptop_quad_test_339", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.21#7.32"}]}
+{"ID": "laptop_quad_test_34", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "6.21#6.51"}]}
+{"ID": "laptop_quad_test_340", "Triplet": [{"Aspect": "laptop", "Opinion": "perfect", "VA": "6.61#6.74"}, {"Aspect": "laptop", "Opinion": "perfect", "VA": "6.61#6.74"}]}
+{"ID": "laptop_quad_test_341", "Triplet": [{"Aspect": "machine", "Opinion": "awesome", "VA": "7.61#7.83"}]}
+{"ID": "laptop_quad_test_342", "Triplet": [{"Aspect": "apple products", "Opinion": "best", "VA": "4.81#5.56"}]}
+{"ID": "laptop_quad_test_343", "Triplet": [{"Aspect": "none", "Opinion": "fantastic", "VA": "7.59#7.78"}, {"Aspect": "none", "Opinion": "fantastic", "VA": "7.59#7.78"}]}
+{"ID": "laptop_quad_test_344", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.51#7.57"}]}
+{"ID": "laptop_quad_test_345", "Triplet": [{"Aspect": "computer", "Opinion": "great", "VA": "7.61#7.76"}]}
+{"ID": "laptop_quad_test_346", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.66#6.75"}]}
+{"ID": "laptop_quad_test_347", "Triplet": [{"Aspect": "prodcut", "Opinion": "great", "VA": "7.57#7.67"}]}
+{"ID": "laptop_quad_test_348", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.69#5.77"}]}
+{"ID": "laptop_quad_test_349", "Triplet": [{"Aspect": "shipping", "Opinion": "fast", "VA": "7.32#7.42"}, {"Aspect": "shipping", "Opinion": "fast", "VA": "7.32#7.42"}]}
+{"ID": "laptop_quad_test_35", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "3.59#5.76"}]}
+{"ID": "laptop_quad_test_350", "Triplet": [{"Aspect": "apple updates", "Opinion": "easy", "VA": "6.90#7.02"}]}
+{"ID": "laptop_quad_test_351", "Triplet": [{"Aspect": "none", "Opinion": "perfectly", "VA": "7.60#7.77"}]}
+{"ID": "laptop_quad_test_352", "Triplet": [{"Aspect": "computer", "Opinion": "high", "VA": "7.38#7.43"}]}
+{"ID": "laptop_quad_test_353", "Triplet": [{"Aspect": "machine", "Opinion": "like", "VA": "6.65#6.83"}]}
+{"ID": "laptop_quad_test_354", "Triplet": [{"Aspect": "chrome os", "Opinion": "a little nervous somewhat glitchy", "VA": "3.00#6.24"}, {"Aspect": "chrome os", "Opinion": "a little nervous somewhat glitchy", "VA": "3.00#6.24"}]}
+{"ID": "laptop_quad_test_355", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "6.67#6.78"}]}
+{"ID": "laptop_quad_test_356", "Triplet": [{"Aspect": "screen", "Opinion": "solidly", "VA": "6.87#6.98"}]}
+{"ID": "laptop_quad_test_357", "Triplet": [{"Aspect": "battery", "Opinion": "solid", "VA": "6.92#6.99"}]}
+{"ID": "laptop_quad_test_358", "Triplet": [{"Aspect": "none", "Opinion": "a little tinny awesome", "VA": "6.29#6.62"}, {"Aspect": "none", "Opinion": "a little tinny awesome", "VA": "6.29#6.62"}]}
+{"ID": "laptop_quad_test_359", "Triplet": [{"Aspect": "tablet tablet", "Opinion": "none", "VA": "3.17#6.12"}]}
+{"ID": "laptop_quad_test_36", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "4.23#5.33"}]}
+{"ID": "laptop_quad_test_360", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "6.37#6.45"}, {"Aspect": "none", "Opinion": "love", "VA": "6.37#6.45"}]}
+{"ID": "laptop_quad_test_361", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.40#5.62"}]}
+{"ID": "laptop_quad_test_362", "Triplet": [{"Aspect": "windows 7 laptop", "Opinion": "none", "VA": "4.61#5.23"}]}
+{"ID": "laptop_quad_test_363", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.82#5.26"}]}
+{"ID": "laptop_quad_test_364", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.37#7.52"}, {"Aspect": "none", "Opinion": "none", "VA": "7.37#7.52"}]}
+{"ID": "laptop_quad_test_365", "Triplet": [{"Aspect": "chromebooks", "Opinion": "complain", "VA": "2.52#6.40"}]}
+{"ID": "laptop_quad_test_366", "Triplet": [{"Aspect": "screenwriting app", "Opinion": "favorite", "VA": "4.95#5.60"}]}
+{"ID": "laptop_quad_test_367", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.24#5.50"}]}
+{"ID": "laptop_quad_test_368", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.55"}]}
+{"ID": "laptop_quad_test_369", "Triplet": [{"Aspect": "none", "Opinion": "loud", "VA": "6.04#6.42"}]}
+{"ID": "laptop_quad_test_37", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.62#6.35"}, {"Aspect": "none", "Opinion": "none", "VA": "5.62#6.35"}]}
+{"ID": "laptop_quad_test_370", "Triplet": [{"Aspect": "4gb model", "Opinion": "like happy", "VA": "6.43#6.63"}]}
+{"ID": "laptop_quad_test_371", "Triplet": [{"Aspect": "fan - less device", "Opinion": "particularly happy", "VA": "6.90#7.07"}]}
+{"ID": "laptop_quad_test_372", "Triplet": [{"Aspect": "chromebook", "Opinion": "somewhat hesitant", "VA": "6.45#6.61"}]}
+{"ID": "laptop_quad_test_373", "Triplet": [{"Aspect": "none", "Opinion": "excellent", "VA": "7.62#7.78"}]}
+{"ID": "laptop_quad_test_374", "Triplet": [{"Aspect": "none", "Opinion": "fine", "VA": "6.21#6.36"}]}
+{"ID": "laptop_quad_test_375", "Triplet": [{"Aspect": "android apps", "Opinion": "none", "VA": "4.39#5.33"}]}
+{"ID": "laptop_quad_test_376", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.51#5.85"}, {"Aspect": "laptop", "Opinion": "none", "VA": "4.51#5.85"}, {"Aspect": "laptop", "Opinion": "none", "VA": "4.51#5.85"}]}
+{"ID": "laptop_quad_test_377", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "4.22#5.18"}]}
+{"ID": "laptop_quad_test_378", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "2.78#6.33"}, {"Aspect": "none", "Opinion": "none", "VA": "2.78#6.33"}, {"Aspect": "none", "Opinion": "none", "VA": "2.78#6.33"}]}
+{"ID": "laptop_quad_test_379", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "7.50#7.65"}, {"Aspect": "battery", "Opinion": "none", "VA": "7.50#7.65"}]}
+{"ID": "laptop_quad_test_38", "Triplet": [{"Aspect": "nano edge display", "Opinion": "nice", "VA": "7.18#7.32"}]}
+{"ID": "laptop_quad_test_380", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.88#5.37"}, {"Aspect": "none", "Opinion": "none", "VA": "4.88#5.37"}, {"Aspect": "none", "Opinion": "none", "VA": "4.88#5.37"}, {"Aspect": "none", "Opinion": "none", "VA": "4.88#5.37"}]}
+{"ID": "laptop_quad_test_381", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.49"}]}
+{"ID": "laptop_quad_test_382", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "2.94#6.26"}]}
+{"ID": "laptop_quad_test_383", "Triplet": [{"Aspect": "charger", "Opinion": "great", "VA": "6.15#6.42"}]}
+{"ID": "laptop_quad_test_384", "Triplet": [{"Aspect": "apple", "Opinion": "none", "VA": "3.05#6.17"}]}
+{"ID": "laptop_quad_test_385", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.35#7.48"}, {"Aspect": "none", "Opinion": "love", "VA": "7.35#7.48"}]}
+{"ID": "laptop_quad_test_386", "Triplet": [{"Aspect": "anti - reflective coating", "Opinion": "none", "VA": "5.13#5.76"}, {"Aspect": "anti - reflective coating", "Opinion": "none", "VA": "5.13#5.76"}]}
+{"ID": "laptop_quad_test_387", "Triplet": [{"Aspect": "none", "Opinion": "very dependable", "VA": "6.33#6.86"}]}
+{"ID": "laptop_quad_test_388", "Triplet": [{"Aspect": "usb ports thunderbolt ports", "Opinion": "none", "VA": "4.92#5.31"}, {"Aspect": "usb ports thunderbolt ports", "Opinion": "none", "VA": "4.92#5.31"}]}
+{"ID": "laptop_quad_test_389", "Triplet": [{"Aspect": "none", "Opinion": "not user replaceable", "VA": "4.22#5.34"}]}
+{"ID": "laptop_quad_test_39", "Triplet": [{"Aspect": "none", "Opinion": "fine", "VA": "6.73#6.81"}]}
+{"ID": "laptop_quad_test_390", "Triplet": [{"Aspect": "charger charger", "Opinion": "defective", "VA": "2.46#6.35"}]}
+{"ID": "laptop_quad_test_391", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "7.59#7.79"}]}
+{"ID": "laptop_quad_test_392", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.18#7.29"}, {"Aspect": "none", "Opinion": "love", "VA": "7.18#7.29"}]}
+{"ID": "laptop_quad_test_393", "Triplet": [{"Aspect": "none", "Opinion": "good", "VA": "6.38#6.49"}]}
+{"ID": "laptop_quad_test_394", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.53#5.37"}]}
+{"ID": "laptop_quad_test_395", "Triplet": [{"Aspect": "laptops", "Opinion": "none", "VA": "5.22#5.58"}, {"Aspect": "laptops", "Opinion": "none", "VA": "5.22#5.58"}]}
+{"ID": "laptop_quad_test_396", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.81#5.50"}]}
+{"ID": "laptop_quad_test_397", "Triplet": [{"Aspect": "none", "Opinion": "loves", "VA": "7.29#7.39"}]}
+{"ID": "laptop_quad_test_398", "Triplet": [{"Aspect": "apple", "Opinion": "none", "VA": "3.34#6.05"}]}
+{"ID": "laptop_quad_test_399", "Triplet": [{"Aspect": "battery life", "Opinion": "very good", "VA": "6.82#6.92"}]}
+{"ID": "laptop_quad_test_4", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.02#6.18"}]}
+{"ID": "laptop_quad_test_40", "Triplet": [{"Aspect": "audio", "Opinion": "none", "VA": "3.69#6.04"}]}
+{"ID": "laptop_quad_test_400", "Triplet": [{"Aspect": "none", "Opinion": "not worth", "VA": "3.33#6.06"}]}
+{"ID": "laptop_quad_test_401", "Triplet": [{"Aspect": "apple", "Opinion": "horrendous", "VA": "7.42#7.58"}]}
+{"ID": "laptop_quad_test_402", "Triplet": [{"Aspect": "notebook", "Opinion": "happy", "VA": "7.42#7.52"}]}
+{"ID": "laptop_quad_test_403", "Triplet": [{"Aspect": "warranty", "Opinion": "none", "VA": "3.74#5.69"}]}
+{"ID": "laptop_quad_test_404", "Triplet": [{"Aspect": "asus", "Opinion": "horrible", "VA": "2.44#6.36"}]}
+{"ID": "laptop_quad_test_405", "Triplet": [{"Aspect": "device", "Opinion": "somewhat solid", "VA": "6.03#6.45"}]}
+{"ID": "laptop_quad_test_406", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.49#7.61"}]}
+{"ID": "laptop_quad_test_407", "Triplet": [{"Aspect": "battery life", "Opinion": "solid", "VA": "6.25#6.48"}]}
+{"ID": "laptop_quad_test_408", "Triplet": [{"Aspect": "touchscreen", "Opinion": "responsive", "VA": "7.53#7.69"}]}
+{"ID": "laptop_quad_test_409", "Triplet": [{"Aspect": "chrome apps", "Opinion": "none", "VA": "6.88#6.99"}]}
+{"ID": "laptop_quad_test_41", "Triplet": [{"Aspect": "none", "Opinion": "slow", "VA": "3.04#6.21"}]}
+{"ID": "laptop_quad_test_410", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "5.16#5.55"}]}
+{"ID": "laptop_quad_test_411", "Triplet": [{"Aspect": "screen ratio", "Opinion": "great", "VA": "7.22#7.31"}]}
+{"ID": "laptop_quad_test_412", "Triplet": [{"Aspect": "unit", "Opinion": "none", "VA": "4.11#5.27"}]}
+{"ID": "laptop_quad_test_413", "Triplet": [{"Aspect": "device", "Opinion": "highly recommend", "VA": "7.47#7.67"}]}
+{"ID": "laptop_quad_test_414", "Triplet": [{"Aspect": "ui", "Opinion": "none", "VA": "4.12#5.45"}]}
+{"ID": "laptop_quad_test_415", "Triplet": [{"Aspect": "screen", "Opinion": "good", "VA": "5.67#5.95"}]}
+{"ID": "laptop_quad_test_416", "Triplet": [{"Aspect": "app app", "Opinion": "none", "VA": "3.66#5.73"}, {"Aspect": "app app", "Opinion": "none", "VA": "3.66#5.73"}]}
+{"ID": "laptop_quad_test_417", "Triplet": [{"Aspect": "battery life", "Opinion": "great", "VA": "7.47#7.53"}]}
+{"ID": "laptop_quad_test_418", "Triplet": [{"Aspect": "volume", "Opinion": "incredibly", "VA": "3.89#6.81"}]}
+{"ID": "laptop_quad_test_419", "Triplet": [{"Aspect": "asus chromebook", "Opinion": "none", "VA": "6.61#6.76"}]}
+{"ID": "laptop_quad_test_42", "Triplet": [{"Aspect": "none", "Opinion": "terrible", "VA": "2.66#6.36"}]}
+{"ID": "laptop_quad_test_420", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "2.89#6.24"}]}
+{"ID": "laptop_quad_test_421", "Triplet": [{"Aspect": "tablet", "Opinion": "too heavy", "VA": "4.20#5.66"}]}
+{"ID": "laptop_quad_test_422", "Triplet": [{"Aspect": "transfer speeds", "Opinion": "miserably", "VA": "3.22#6.09"}]}
+{"ID": "laptop_quad_test_423", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.07#6.78"}]}
+{"ID": "laptop_quad_test_424", "Triplet": [{"Aspect": "none", "Opinion": "fantastic", "VA": "6.17#6.55"}, {"Aspect": "none", "Opinion": "fantastic", "VA": "6.17#6.55"}, {"Aspect": "none", "Opinion": "fantastic", "VA": "6.17#6.55"}, {"Aspect": "none", "Opinion": "fantastic", "VA": "6.17#6.55"}, {"Aspect": "none", "Opinion": "fantastic", "VA": "6.17#6.55"}]}
+{"ID": "laptop_quad_test_425", "Triplet": [{"Aspect": "products", "Opinion": "none", "VA": "5.05#5.58"}]}
+{"ID": "laptop_quad_test_426", "Triplet": [{"Aspect": "device", "Opinion": "unacceptable", "VA": "2.98#6.23"}]}
+{"ID": "laptop_quad_test_427", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#6.37"}]}
+{"ID": "laptop_quad_test_428", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "7.25#7.36"}]}
+{"ID": "laptop_quad_test_429", "Triplet": [{"Aspect": "none", "Opinion": "best", "VA": "7.05#7.15"}]}
+{"ID": "laptop_quad_test_43", "Triplet": [{"Aspect": "backlit keyboard", "Opinion": "none", "VA": "4.00#5.58"}]}
+{"ID": "laptop_quad_test_430", "Triplet": [{"Aspect": "asus customer service", "Opinion": "rude", "VA": "6.80#6.91"}]}
+{"ID": "laptop_quad_test_431", "Triplet": [{"Aspect": "unit", "Opinion": "fine", "VA": "5.78#6.25"}]}
+{"ID": "laptop_quad_test_432", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.04#5.49"}]}
+{"ID": "laptop_quad_test_433", "Triplet": [{"Aspect": "asus customer service", "Opinion": "sucks", "VA": "3.81#5.51"}]}
+{"ID": "laptop_quad_test_434", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.89#5.49"}]}
+{"ID": "laptop_quad_test_435", "Triplet": [{"Aspect": "laptop", "Opinion": "beautiful", "VA": "7.31#7.40"}]}
+{"ID": "laptop_quad_test_436", "Triplet": [{"Aspect": "product", "Opinion": "nutty", "VA": "3.52#5.96"}]}
+{"ID": "laptop_quad_test_437", "Triplet": [{"Aspect": "product", "Opinion": "none", "VA": "5.65#5.79"}]}
+{"ID": "laptop_quad_test_438", "Triplet": [{"Aspect": "product", "Opinion": "seriously love", "VA": "6.20#6.47"}]}
+{"ID": "laptop_quad_test_439", "Triplet": [{"Aspect": "battery time", "Opinion": "none", "VA": "5.13#5.81"}]}
+{"ID": "laptop_quad_test_44", "Triplet": [{"Aspect": "none", "Opinion": "very disappointed", "VA": "2.56#6.30"}]}
+{"ID": "laptop_quad_test_440", "Triplet": [{"Aspect": "chromebook", "Opinion": "very impressed", "VA": "7.58#7.70"}]}
+{"ID": "laptop_quad_test_441", "Triplet": [{"Aspect": "tablet mode", "Opinion": "none", "VA": "4.17#5.40"}]}
+{"ID": "laptop_quad_test_442", "Triplet": [{"Aspect": "tablet / computer", "Opinion": "none", "VA": "4.45#5.29"}]}
+{"ID": "laptop_quad_test_443", "Triplet": [{"Aspect": "google docs", "Opinion": "fine", "VA": "7.04#7.09"}]}
+{"ID": "laptop_quad_test_444", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "6.36#6.44"}]}
+{"ID": "laptop_quad_test_445", "Triplet": [{"Aspect": "printer", "Opinion": "annoying", "VA": "2.69#6.31"}]}
+{"ID": "laptop_quad_test_446", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "3.80#5.70"}, {"Aspect": "computer", "Opinion": "none", "VA": "3.80#5.70"}]}
+{"ID": "laptop_quad_test_447", "Triplet": [{"Aspect": "none", "Opinion": "sturdy", "VA": "7.36#7.49"}, {"Aspect": "none", "Opinion": "sturdy", "VA": "7.36#7.49"}]}
+{"ID": "laptop_quad_test_448", "Triplet": [{"Aspect": "touchpad", "Opinion": "very sticky", "VA": "4.38#5.66"}]}
+{"ID": "laptop_quad_test_449", "Triplet": [{"Aspect": "screen quality", "Opinion": "just so - so", "VA": "6.00#6.29"}, {"Aspect": "screen quality", "Opinion": "just so - so", "VA": "6.00#6.29"}]}
+{"ID": "laptop_quad_test_45", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.63#6.49"}, {"Aspect": "none", "Opinion": "none", "VA": "5.63#6.49"}, {"Aspect": "none", "Opinion": "none", "VA": "5.63#6.49"}]}
+{"ID": "laptop_quad_test_450", "Triplet": [{"Aspect": "asus product", "Opinion": "none", "VA": "3.97#5.46"}]}
+{"ID": "laptop_quad_test_451", "Triplet": [{"Aspect": "none", "Opinion": "ok", "VA": "3.29#6.08"}]}
+{"ID": "laptop_quad_test_452", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.29#7.34"}, {"Aspect": "none", "Opinion": "none", "VA": "7.29#7.34"}]}
+{"ID": "laptop_quad_test_453", "Triplet": [{"Aspect": "crap", "Opinion": "really weak", "VA": "2.81#6.33"}]}
+{"ID": "laptop_quad_test_454", "Triplet": [{"Aspect": "chrome extensions", "Opinion": "poorly", "VA": "2.58#6.38"}]}
+{"ID": "laptop_quad_test_455", "Triplet": [{"Aspect": "speakers", "Opinion": "horrible", "VA": "2.56#6.39"}]}
+{"ID": "laptop_quad_test_456", "Triplet": [{"Aspect": "battery life", "Opinion": "not good", "VA": "4.40#5.42"}]}
+{"ID": "laptop_quad_test_457", "Triplet": [{"Aspect": "screen", "Opinion": "very weird", "VA": "3.58#6.15"}]}
+{"ID": "laptop_quad_test_458", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.33#7.47"}, {"Aspect": "none", "Opinion": "none", "VA": "7.33#7.47"}, {"Aspect": "none", "Opinion": "none", "VA": "7.33#7.47"}]}
+{"ID": "laptop_quad_test_459", "Triplet": [{"Aspect": "chromebook", "Opinion": "great", "VA": "6.35#6.75"}]}
+{"ID": "laptop_quad_test_46", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.14#6.21"}]}
+{"ID": "laptop_quad_test_460", "Triplet": [{"Aspect": "product", "Opinion": "really excited more affordable", "VA": "7.10#7.20"}]}
+{"ID": "laptop_quad_test_461", "Triplet": [{"Aspect": "chromebooks", "Opinion": "cool", "VA": "6.70#6.85"}]}
+{"ID": "laptop_quad_test_462", "Triplet": [{"Aspect": "machine", "Opinion": "extremely useable", "VA": "7.29#7.42"}]}
+{"ID": "laptop_quad_test_463", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "3.45#5.80"}]}
+{"ID": "laptop_quad_test_464", "Triplet": [{"Aspect": "file system", "Opinion": "extremely complicated", "VA": "3.51#6.19"}]}
+{"ID": "laptop_quad_test_465", "Triplet": [{"Aspect": "display panel", "Opinion": "none", "VA": "4.15#5.46"}]}
+{"ID": "laptop_quad_test_466", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.62#5.84"}]}
+{"ID": "laptop_quad_test_467", "Triplet": [{"Aspect": "none", "Opinion": "great sucks", "VA": "6.71#6.88"}, {"Aspect": "none", "Opinion": "great sucks", "VA": "6.71#6.88"}, {"Aspect": "none", "Opinion": "great sucks", "VA": "6.71#6.88"}, {"Aspect": "none", "Opinion": "great sucks", "VA": "6.71#6.88"}]}
+{"ID": "laptop_quad_test_468", "Triplet": [{"Aspect": "chrome os", "Opinion": "none", "VA": "3.24#5.98"}]}
+{"ID": "laptop_quad_test_469", "Triplet": [{"Aspect": "screen hinge", "Opinion": "weak", "VA": "2.79#6.31"}]}
+{"ID": "laptop_quad_test_47", "Triplet": [{"Aspect": "keypad", "Opinion": "crazy even worse", "VA": "2.43#6.33"}]}
+{"ID": "laptop_quad_test_470", "Triplet": [{"Aspect": "screen", "Opinion": "average", "VA": "5.20#5.57"}]}
+{"ID": "laptop_quad_test_471", "Triplet": [{"Aspect": "chromebook", "Opinion": "brilliant", "VA": "7.60#7.85"}]}
+{"ID": "laptop_quad_test_472", "Triplet": [{"Aspect": "google os", "Opinion": "none", "VA": "4.26#5.22"}, {"Aspect": "google os", "Opinion": "none", "VA": "4.26#5.22"}]}
+{"ID": "laptop_quad_test_473", "Triplet": [{"Aspect": "product", "Opinion": "horrible", "VA": "2.14#6.23"}]}
+{"ID": "laptop_quad_test_474", "Triplet": [{"Aspect": "tech support", "Opinion": "none", "VA": "3.56#5.74"}]}
+{"ID": "laptop_quad_test_475", "Triplet": [{"Aspect": "chromebook", "Opinion": "very difficult", "VA": "3.80#6.48"}]}
+{"ID": "laptop_quad_test_476", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.56#5.69"}]}
+{"ID": "laptop_quad_test_477", "Triplet": [{"Aspect": "microphone", "Opinion": "none", "VA": "4.14#5.50"}, {"Aspect": "microphone", "Opinion": "none", "VA": "4.14#5.50"}]}
+{"ID": "laptop_quad_test_478", "Triplet": [{"Aspect": "tablet mode", "Opinion": "horribly", "VA": "2.27#6.32"}, {"Aspect": "tablet mode", "Opinion": "horribly", "VA": "2.27#6.32"}, {"Aspect": "tablet mode", "Opinion": "horribly", "VA": "2.27#6.32"}]}
+{"ID": "laptop_quad_test_479", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.61#5.61"}]}
+{"ID": "laptop_quad_test_48", "Triplet": [{"Aspect": "laptop", "Opinion": "solid", "VA": "7.14#7.25"}]}
+{"ID": "laptop_quad_test_480", "Triplet": [{"Aspect": "laptop", "Opinion": "okay", "VA": "5.84#6.14"}]}
+{"ID": "laptop_quad_test_481", "Triplet": [{"Aspect": "none", "Opinion": "nicest", "VA": "7.05#7.21"}]}
+{"ID": "laptop_quad_test_482", "Triplet": [{"Aspect": "trackpad", "Opinion": "annoying", "VA": "2.62#6.35"}]}
+{"ID": "laptop_quad_test_483", "Triplet": [{"Aspect": "metal monitor", "Opinion": "soft", "VA": "3.91#5.63"}]}
+{"ID": "laptop_quad_test_484", "Triplet": [{"Aspect": "metal screen", "Opinion": "none", "VA": "4.28#5.52"}]}
+{"ID": "laptop_quad_test_485", "Triplet": [{"Aspect": "buzzing sound", "Opinion": "none", "VA": "4.61#5.27"}]}
+{"ID": "laptop_quad_test_486", "Triplet": [{"Aspect": "chromebook", "Opinion": "bad", "VA": "3.56#6.01"}, {"Aspect": "chromebook", "Opinion": "bad", "VA": "3.56#6.01"}]}
+{"ID": "laptop_quad_test_487", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.91#5.28"}]}
+{"ID": "laptop_quad_test_488", "Triplet": [{"Aspect": "chromium os", "Opinion": "very limiting", "VA": "3.01#6.23"}, {"Aspect": "chromium os", "Opinion": "very limiting", "VA": "3.01#6.23"}]}
+{"ID": "laptop_quad_test_489", "Triplet": [{"Aspect": "none", "Opinion": "fantastic", "VA": "7.32#7.42"}]}
+{"ID": "laptop_quad_test_49", "Triplet": [{"Aspect": "product", "Opinion": "none", "VA": "4.20#5.54"}]}
+{"ID": "laptop_quad_test_490", "Triplet": [{"Aspect": "touchpad", "Opinion": "none", "VA": "3.42#6.06"}]}
+{"ID": "laptop_quad_test_491", "Triplet": [{"Aspect": "trackpad", "Opinion": "none", "VA": "3.53#6.45"}]}
+{"ID": "laptop_quad_test_492", "Triplet": [{"Aspect": "screen", "Opinion": "dead", "VA": "2.75#6.24"}]}
+{"ID": "laptop_quad_test_493", "Triplet": [{"Aspect": "chromebook", "Opinion": "really speedy great", "VA": "6.93#7.06"}]}
+{"ID": "laptop_quad_test_494", "Triplet": [{"Aspect": "unit", "Opinion": "died", "VA": "3.22#6.03"}]}
+{"ID": "laptop_quad_test_495", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.11#6.47"}]}
+{"ID": "laptop_quad_test_496", "Triplet": [{"Aspect": "trackpad", "Opinion": "ok", "VA": "5.21#5.62"}]}
+{"ID": "laptop_quad_test_497", "Triplet": [{"Aspect": "wireless card", "Opinion": "finicky", "VA": "5.21#5.62"}]}
+{"ID": "laptop_quad_test_498", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "3.27#6.08"}]}
+{"ID": "laptop_quad_test_499", "Triplet": [{"Aspect": "hardware", "Opinion": "defective", "VA": "2.68#6.31"}]}
+{"ID": "laptop_quad_test_5", "Triplet": [{"Aspect": "chrome os", "Opinion": "none", "VA": "4.33#5.34"}]}
+{"ID": "laptop_quad_test_50", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.50#5.36"}]}
+{"ID": "laptop_quad_test_500", "Triplet": [{"Aspect": "machine", "Opinion": "none", "VA": "6.30#6.37"}]}
+{"ID": "laptop_quad_test_501", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.12#5.52"}]}
+{"ID": "laptop_quad_test_502", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "3.85#5.68"}]}
+{"ID": "laptop_quad_test_503", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.21#6.06"}, {"Aspect": "none", "Opinion": "none", "VA": "3.21#6.06"}, {"Aspect": "none", "Opinion": "none", "VA": "3.21#6.06"}, {"Aspect": "none", "Opinion": "none", "VA": "3.21#6.06"}]}
+{"ID": "laptop_quad_test_504", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.78#6.90"}]}
+{"ID": "laptop_quad_test_505", "Triplet": [{"Aspect": "system", "Opinion": "none", "VA": "3.70#5.67"}]}
+{"ID": "laptop_quad_test_506", "Triplet": [{"Aspect": "laptop", "Opinion": "well", "VA": "5.32#5.82"}]}
+{"ID": "laptop_quad_test_507", "Triplet": [{"Aspect": "sound", "Opinion": "really terrible", "VA": "2.36#6.29"}]}
+{"ID": "laptop_quad_test_508", "Triplet": [{"Aspect": "none", "Opinion": "fast", "VA": "7.41#7.52"}]}
+{"ID": "laptop_quad_test_509", "Triplet": [{"Aspect": "product", "Opinion": "excellent", "VA": "7.60#7.73"}]}
+{"ID": "laptop_quad_test_51", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}, {"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}, {"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}, {"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}, {"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}, {"Aspect": "none", "Opinion": "none", "VA": "5.56#6.34"}]}
+{"ID": "laptop_quad_test_510", "Triplet": [{"Aspect": "msi", "Opinion": "always liked", "VA": "6.91#7.01"}]}
+{"ID": "laptop_quad_test_511", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.98#6.30"}]}
+{"ID": "laptop_quad_test_512", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "3.41#5.86"}]}
+{"ID": "laptop_quad_test_513", "Triplet": [{"Aspect": "none", "Opinion": "pretty good", "VA": "6.85#6.97"}]}
+{"ID": "laptop_quad_test_514", "Triplet": [{"Aspect": "laptop", "Opinion": "not worth", "VA": "3.70#5.80"}]}
+{"ID": "laptop_quad_test_515", "Triplet": [{"Aspect": "tech support", "Opinion": "none", "VA": "3.46#5.89"}]}
+{"ID": "laptop_quad_test_516", "Triplet": [{"Aspect": "laptop", "Opinion": "extremely disappointed", "VA": "2.38#6.27"}]}
+{"ID": "laptop_quad_test_517", "Triplet": [{"Aspect": "computer", "Opinion": "worst", "VA": "2.53#6.36"}]}
+{"ID": "laptop_quad_test_518", "Triplet": [{"Aspect": "laptop", "Opinion": "died", "VA": "2.67#6.33"}]}
+{"ID": "laptop_quad_test_519", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.37#5.39"}, {"Aspect": "laptop", "Opinion": "none", "VA": "4.37#5.39"}]}
+{"ID": "laptop_quad_test_52", "Triplet": [{"Aspect": "none", "Opinion": "lightweight", "VA": "6.74#6.79"}]}
+{"ID": "laptop_quad_test_520", "Triplet": [{"Aspect": "tech support", "Opinion": "poor", "VA": "2.45#6.31"}, {"Aspect": "tech support", "Opinion": "poor", "VA": "2.45#6.31"}]}
+{"ID": "laptop_quad_test_521", "Triplet": [{"Aspect": "computer", "Opinion": "amazing", "VA": "7.60#7.81"}]}
+{"ID": "laptop_quad_test_522", "Triplet": [{"Aspect": "laptop msi headset", "Opinion": "none", "VA": "6.23#6.55"}, {"Aspect": "laptop msi headset", "Opinion": "none", "VA": "6.23#6.55"}]}
+{"ID": "laptop_quad_test_523", "Triplet": [{"Aspect": "msi laptop", "Opinion": "not too happy", "VA": "3.67#5.83"}, {"Aspect": "msi laptop", "Opinion": "not too happy", "VA": "3.67#5.83"}]}
+{"ID": "laptop_quad_test_524", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "7.39#7.48"}]}
+{"ID": "laptop_quad_test_525", "Triplet": [{"Aspect": "support page support people", "Opinion": "very buggy unhelpful", "VA": "2.64#6.35"}, {"Aspect": "support page support people", "Opinion": "very buggy unhelpful", "VA": "2.64#6.35"}]}
+{"ID": "laptop_quad_test_526", "Triplet": [{"Aspect": "optane drive", "Opinion": "none", "VA": "4.12#5.40"}]}
+{"ID": "laptop_quad_test_527", "Triplet": [{"Aspect": "product", "Opinion": "none", "VA": "3.98#5.35"}]}
+{"ID": "laptop_quad_test_528", "Triplet": [{"Aspect": "customer tech support msi", "Opinion": "none", "VA": "5.82#6.26"}, {"Aspect": "customer tech support msi", "Opinion": "none", "VA": "5.82#6.26"}]}
+{"ID": "laptop_quad_test_529", "Triplet": [{"Aspect": "none", "Opinion": "garbage", "VA": "2.75#6.31"}]}
+{"ID": "laptop_quad_test_53", "Triplet": [{"Aspect": "backlight", "Opinion": "none", "VA": "5.42#5.64"}]}
+{"ID": "laptop_quad_test_530", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.35#5.36"}]}
+{"ID": "laptop_quad_test_531", "Triplet": [{"Aspect": "laptop", "Opinion": "really loved", "VA": "7.47#7.57"}]}
+{"ID": "laptop_quad_test_532", "Triplet": [{"Aspect": "msi product", "Opinion": "none", "VA": "4.28#5.36"}]}
+{"ID": "laptop_quad_test_533", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.78#5.76"}]}
+{"ID": "laptop_quad_test_534", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "2.99#6.35"}]}
+{"ID": "laptop_quad_test_535", "Triplet": [{"Aspect": "product", "Opinion": "so slow", "VA": "2.57#6.33"}]}
+{"ID": "laptop_quad_test_536", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "7.43#7.52"}]}
+{"ID": "laptop_quad_test_537", "Triplet": [{"Aspect": "none", "Opinion": "garbage", "VA": "2.47#6.38"}]}
+{"ID": "laptop_quad_test_538", "Triplet": [{"Aspect": "none", "Opinion": "decent", "VA": "4.74#5.51"}, {"Aspect": "none", "Opinion": "decent", "VA": "4.74#5.51"}]}
+{"ID": "laptop_quad_test_539", "Triplet": [{"Aspect": "laptop", "Opinion": "malfunctioned", "VA": "2.58#6.28"}]}
+{"ID": "laptop_quad_test_54", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.62#5.79"}]}
+{"ID": "laptop_quad_test_540", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "7.20#7.35"}]}
+{"ID": "laptop_quad_test_541", "Triplet": [{"Aspect": "keyboard", "Opinion": "very nice", "VA": "7.44#7.61"}]}
+{"ID": "laptop_quad_test_542", "Triplet": [{"Aspect": "optane memory", "Opinion": "none", "VA": "6.62#7.10"}, {"Aspect": "optane memory", "Opinion": "none", "VA": "6.62#7.10"}]}
+{"ID": "laptop_quad_test_543", "Triplet": [{"Aspect": "charge", "Opinion": "none", "VA": "4.27#5.32"}]}
+{"ID": "laptop_quad_test_544", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.10#5.55"}]}
+{"ID": "laptop_quad_test_545", "Triplet": [{"Aspect": "5400 rpm 1 tb hard drive", "Opinion": "slow", "VA": "3.28#6.07"}]}
+{"ID": "laptop_quad_test_546", "Triplet": [{"Aspect": "none", "Opinion": "very good", "VA": "6.65#6.75"}]}
+{"ID": "laptop_quad_test_547", "Triplet": [{"Aspect": "laptop", "Opinion": "ok", "VA": "6.33#6.48"}]}
+{"ID": "laptop_quad_test_548", "Triplet": [{"Aspect": "port", "Opinion": "none", "VA": "4.47#5.30"}]}
+{"ID": "laptop_quad_test_549", "Triplet": [{"Aspect": "backlit keyboard", "Opinion": "none", "VA": "4.95#5.44"}]}
+{"ID": "laptop_quad_test_55", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.50#5.90"}]}
+{"ID": "laptop_quad_test_550", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.33#7.43"}]}
+{"ID": "laptop_quad_test_551", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.18#6.15"}]}
+{"ID": "laptop_quad_test_552", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.27#7.36"}, {"Aspect": "none", "Opinion": "none", "VA": "7.27#7.36"}]}
+{"ID": "laptop_quad_test_553", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "2.67#6.35"}]}
+{"ID": "laptop_quad_test_554", "Triplet": [{"Aspect": "none", "Opinion": "so pretty glad", "VA": "6.85#6.97"}]}
+{"ID": "laptop_quad_test_555", "Triplet": [{"Aspect": "laptop", "Opinion": "very nice", "VA": "7.26#7.39"}]}
+{"ID": "laptop_quad_test_556", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.35#6.49"}, {"Aspect": "none", "Opinion": "none", "VA": "6.35#6.49"}, {"Aspect": "none", "Opinion": "none", "VA": "6.35#6.49"}]}
+{"ID": "laptop_quad_test_557", "Triplet": [{"Aspect": "computer", "Opinion": "great", "VA": "7.52#7.60"}]}
+{"ID": "laptop_quad_test_558", "Triplet": [{"Aspect": "build quality", "Opinion": "good", "VA": "6.75#6.88"}, {"Aspect": "build quality", "Opinion": "good", "VA": "6.75#6.88"}]}
+{"ID": "laptop_quad_test_559", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.92#7.05"}]}
+{"ID": "laptop_quad_test_56", "Triplet": [{"Aspect": "ram", "Opinion": "none", "VA": "5.79#5.82"}]}
+{"ID": "laptop_quad_test_560", "Triplet": [{"Aspect": "none", "Opinion": "pretty good", "VA": "6.94#7.05"}]}
+{"ID": "laptop_quad_test_561", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "7.03#7.12"}]}
+{"ID": "laptop_quad_test_562", "Triplet": [{"Aspect": "laptop", "Opinion": "very good", "VA": "6.82#6.94"}]}
+{"ID": "laptop_quad_test_563", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.52"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.52"}]}
+{"ID": "laptop_quad_test_564", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.12#5.29"}]}
+{"ID": "laptop_quad_test_565", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "4.26#5.39"}]}
+{"ID": "laptop_quad_test_566", "Triplet": [{"Aspect": "fingerprint reader", "Opinion": "none", "VA": "6.00#6.01"}]}
+{"ID": "laptop_quad_test_567", "Triplet": [{"Aspect": "sound speakers", "Opinion": "fine", "VA": "6.08#6.38"}, {"Aspect": "sound speakers", "Opinion": "fine", "VA": "6.08#6.38"}]}
+{"ID": "laptop_quad_test_568", "Triplet": [{"Aspect": "machine boots up", "Opinion": "slow", "VA": "3.11#6.13"}, {"Aspect": "machine boots up", "Opinion": "slow", "VA": "3.11#6.13"}]}
+{"ID": "laptop_quad_test_569", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "7.46#7.50"}]}
+{"ID": "laptop_quad_test_57", "Triplet": [{"Aspect": "hard drive", "Opinion": "none", "VA": "4.22#5.24"}]}
+{"ID": "laptop_quad_test_570", "Triplet": [{"Aspect": "15 inch screen", "Opinion": "love", "VA": "7.06#7.09"}]}
+{"ID": "laptop_quad_test_571", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.11#6.32"}]}
+{"ID": "laptop_quad_test_572", "Triplet": [{"Aspect": "touchpad", "Opinion": "well", "VA": "6.64#6.76"}]}
+{"ID": "laptop_quad_test_573", "Triplet": [{"Aspect": "speakers", "Opinion": "mediocre", "VA": "4.60#5.37"}]}
+{"ID": "laptop_quad_test_574", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "6.54#6.66"}, {"Aspect": "screen", "Opinion": "none", "VA": "6.54#6.66"}]}
+{"ID": "laptop_quad_test_575", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.02#7.17"}]}
+{"ID": "laptop_quad_test_576", "Triplet": [{"Aspect": "laptop", "Opinion": "cheap", "VA": "6.08#6.09"}]}
+{"ID": "laptop_quad_test_577", "Triplet": [{"Aspect": "chromebook", "Opinion": "perfect", "VA": "7.48#7.61"}]}
+{"ID": "laptop_quad_test_578", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.09#5.46"}]}
+{"ID": "laptop_quad_test_579", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "7.57#7.71"}]}
+{"ID": "laptop_quad_test_58", "Triplet": [{"Aspect": "touchpad", "Opinion": "none", "VA": "3.42#5.92"}]}
+{"ID": "laptop_quad_test_580", "Triplet": [{"Aspect": "none", "Opinion": "decent", "VA": "7.14#7.15"}]}
+{"ID": "laptop_quad_test_581", "Triplet": [{"Aspect": "ssd hardware", "Opinion": "none", "VA": "4.37#5.22"}]}
+{"ID": "laptop_quad_test_582", "Triplet": [{"Aspect": "support for amazon", "Opinion": "good", "VA": "5.74#5.95"}, {"Aspect": "support for amazon", "Opinion": "good", "VA": "5.74#5.95"}]}
+{"ID": "laptop_quad_test_583", "Triplet": [{"Aspect": "none", "Opinion": "so elaborate", "VA": "3.11#6.14"}]}
+{"ID": "laptop_quad_test_584", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.47#6.05"}]}
+{"ID": "laptop_quad_test_585", "Triplet": [{"Aspect": "keyboard", "Opinion": "responsive", "VA": "6.95#7.11"}]}
+{"ID": "laptop_quad_test_586", "Triplet": [{"Aspect": "acer product", "Opinion": "none", "VA": "4.82#5.88"}]}
+{"ID": "laptop_quad_test_587", "Triplet": [{"Aspect": "build quality", "Opinion": "none", "VA": "6.07#6.08"}]}
+{"ID": "laptop_quad_test_588", "Triplet": [{"Aspect": "item", "Opinion": "very frustrating", "VA": "4.07#6.31"}]}
+{"ID": "laptop_quad_test_589", "Triplet": [{"Aspect": "none", "Opinion": "exceptional", "VA": "6.88#6.94"}, {"Aspect": "none", "Opinion": "exceptional", "VA": "6.88#6.94"}]}
+{"ID": "laptop_quad_test_59", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "6.49#6.67"}]}
+{"ID": "laptop_quad_test_590", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.46#5.67"}]}
+{"ID": "laptop_quad_test_591", "Triplet": [{"Aspect": "none", "Opinion": "fine", "VA": "6.43#6.51"}]}
+{"ID": "laptop_quad_test_592", "Triplet": [{"Aspect": "acer", "Opinion": "none", "VA": "3.53#5.74"}]}
+{"ID": "laptop_quad_test_593", "Triplet": [{"Aspect": "acer aspire e 15", "Opinion": "great", "VA": "6.73#6.88"}]}
+{"ID": "laptop_quad_test_594", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "3.45#5.86"}]}
+{"ID": "laptop_quad_test_595", "Triplet": [{"Aspect": "laptop", "Opinion": "nice", "VA": "6.52#6.77"}]}
+{"ID": "laptop_quad_test_596", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.06#5.68"}]}
+{"ID": "laptop_quad_test_597", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "7.55#7.68"}]}
+{"ID": "laptop_quad_test_598", "Triplet": [{"Aspect": "laptop", "Opinion": "good", "VA": "6.21#6.53"}]}
+{"ID": "laptop_quad_test_599", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "3.53#5.78"}]}
+{"ID": "laptop_quad_test_6", "Triplet": [{"Aspect": "chrome", "Opinion": "none", "VA": "5.33#5.86"}]}
+{"ID": "laptop_quad_test_60", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "4.93#5.36"}, {"Aspect": "computer", "Opinion": "none", "VA": "4.93#5.36"}]}
+{"ID": "laptop_quad_test_600", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "4.17#5.36"}]}
+{"ID": "laptop_quad_test_601", "Triplet": [{"Aspect": "speakers", "Opinion": "none", "VA": "5.69#6.12"}, {"Aspect": "speakers", "Opinion": "none", "VA": "5.69#6.12"}]}
+{"ID": "laptop_quad_test_602", "Triplet": [{"Aspect": "hdmi port", "Opinion": "none", "VA": "6.09#6.40"}, {"Aspect": "hdmi port", "Opinion": "none", "VA": "6.09#6.40"}]}
+{"ID": "laptop_quad_test_603", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.43#5.88"}]}
+{"ID": "laptop_quad_test_604", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "4.29#5.51"}]}
+{"ID": "laptop_quad_test_605", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "5.33#5.51"}]}
+{"ID": "laptop_quad_test_606", "Triplet": [{"Aspect": "speakers", "Opinion": "alright", "VA": "4.24#5.52"}]}
+{"ID": "laptop_quad_test_607", "Triplet": [{"Aspect": "keyboard", "Opinion": "hate really cheap", "VA": "2.44#6.41"}]}
+{"ID": "laptop_quad_test_608", "Triplet": [{"Aspect": "laptop", "Opinion": "cheap", "VA": "4.74#5.66"}]}
+{"ID": "laptop_quad_test_609", "Triplet": [{"Aspect": "mx150 gaphics card", "Opinion": "pretty bad", "VA": "3.32#6.26"}]}
+{"ID": "laptop_quad_test_61", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.74#5.50"}]}
+{"ID": "laptop_quad_test_610", "Triplet": [{"Aspect": "acer touch pad", "Opinion": "none", "VA": "5.69#6.36"}]}
+{"ID": "laptop_quad_test_611", "Triplet": [{"Aspect": "computer", "Opinion": "bad", "VA": "3.66#5.84"}]}
+{"ID": "laptop_quad_test_612", "Triplet": [{"Aspect": "laptop", "Opinion": "wrong", "VA": "3.58#6.05"}]}
+{"ID": "laptop_quad_test_613", "Triplet": [{"Aspect": "power management", "Opinion": "wrong", "VA": "2.86#6.38"}]}
+{"ID": "laptop_quad_test_614", "Triplet": [{"Aspect": "none", "Opinion": "very disappointed", "VA": "2.74#6.27"}]}
+{"ID": "laptop_quad_test_615", "Triplet": [{"Aspect": "trackpad", "Opinion": "none", "VA": "3.52#5.71"}]}
+{"ID": "laptop_quad_test_616", "Triplet": [{"Aspect": "screen", "Opinion": "very annoying", "VA": "2.50#6.35"}]}
+{"ID": "laptop_quad_test_617", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.21#5.49"}]}
+{"ID": "laptop_quad_test_618", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "6.58#6.73"}]}
+{"ID": "laptop_quad_test_619", "Triplet": [{"Aspect": "machine", "Opinion": "defective", "VA": "2.59#6.38"}]}
+{"ID": "laptop_quad_test_62", "Triplet": [{"Aspect": "display", "Opinion": "none", "VA": "4.16#5.23"}]}
+{"ID": "laptop_quad_test_620", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.94#7.07"}, {"Aspect": "none", "Opinion": "none", "VA": "6.94#7.07"}, {"Aspect": "none", "Opinion": "none", "VA": "6.94#7.07"}]}
+{"ID": "laptop_quad_test_621", "Triplet": [{"Aspect": "track pad", "Opinion": "none", "VA": "4.14#5.56"}, {"Aspect": "track pad", "Opinion": "none", "VA": "4.14#5.56"}]}
+{"ID": "laptop_quad_test_622", "Triplet": [{"Aspect": "keyboard", "Opinion": "loudly", "VA": "6.04#6.51"}]}
+{"ID": "laptop_quad_test_623", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.53#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "3.53#5.81"}]}
+{"ID": "laptop_quad_test_624", "Triplet": [{"Aspect": "speakers", "Opinion": "absolutely horrible", "VA": "2.83#6.52"}]}
+{"ID": "laptop_quad_test_625", "Triplet": [{"Aspect": "8th generation core i5 cpu", "Opinion": "none", "VA": "7.43#7.43"}]}
+{"ID": "laptop_quad_test_626", "Triplet": [{"Aspect": "keyboard", "Opinion": "flex", "VA": "5.61#5.70"}]}
+{"ID": "laptop_quad_test_627", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "4.76#5.25"}, {"Aspect": "keyboard", "Opinion": "none", "VA": "4.76#5.25"}]}
+{"ID": "laptop_quad_test_628", "Triplet": [{"Aspect": "key presses", "Opinion": "too stiff", "VA": "3.49#5.97"}]}
+{"ID": "laptop_quad_test_629", "Triplet": [{"Aspect": "hdd", "Opinion": "very slow", "VA": "2.85#6.28"}, {"Aspect": "hdd", "Opinion": "very slow", "VA": "2.85#6.28"}]}
+{"ID": "laptop_quad_test_63", "Triplet": [{"Aspect": "asus customer support", "Opinion": "none", "VA": "4.72#5.28"}]}
+{"ID": "laptop_quad_test_630", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.29#5.50"}, {"Aspect": "none", "Opinion": "none", "VA": "5.29#5.50"}]}
+{"ID": "laptop_quad_test_631", "Triplet": [{"Aspect": "keys", "Opinion": "none", "VA": "3.95#5.58"}, {"Aspect": "keys", "Opinion": "none", "VA": "3.95#5.58"}]}
+{"ID": "laptop_quad_test_632", "Triplet": [{"Aspect": "keyboard", "Opinion": "not healthy", "VA": "4.19#5.47"}]}
+{"ID": "laptop_quad_test_633", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#6.50"}]}
+{"ID": "laptop_quad_test_634", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.26#5.37"}]}
+{"ID": "laptop_quad_test_635", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "2.99#6.19"}]}
+{"ID": "laptop_quad_test_636", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.24#6.14"}]}
+{"ID": "laptop_quad_test_637", "Triplet": [{"Aspect": "software", "Opinion": "none", "VA": "4.96#5.28"}]}
+{"ID": "laptop_quad_test_638", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.22#5.26"}]}
+{"ID": "laptop_quad_test_639", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.27#5.70"}]}
+{"ID": "laptop_quad_test_64", "Triplet": [{"Aspect": "none", "Opinion": "bad", "VA": "3.14#6.20"}]}
+{"ID": "laptop_quad_test_640", "Triplet": [{"Aspect": "wifi", "Opinion": "enjoy", "VA": "7.24#7.34"}]}
+{"ID": "laptop_quad_test_641", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.29#5.38"}]}
+{"ID": "laptop_quad_test_642", "Triplet": [{"Aspect": "keyboard", "Opinion": "comfortable", "VA": "6.93#7.02"}]}
+{"ID": "laptop_quad_test_643", "Triplet": [{"Aspect": "finger", "Opinion": "none", "VA": "5.01#5.56"}]}
+{"ID": "laptop_quad_test_644", "Triplet": [{"Aspect": "laptop", "Opinion": "horrible", "VA": "2.20#6.27"}]}
+{"ID": "laptop_quad_test_645", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.29#5.29"}]}
+{"ID": "laptop_quad_test_646", "Triplet": [{"Aspect": "asus product", "Opinion": "none", "VA": "4.58#5.37"}]}
+{"ID": "laptop_quad_test_647", "Triplet": [{"Aspect": "none", "Opinion": "just crashed", "VA": "2.63#6.26"}]}
+{"ID": "laptop_quad_test_648", "Triplet": [{"Aspect": "screen", "Opinion": "pretty good", "VA": "6.77#6.91"}]}
+{"ID": "laptop_quad_test_649", "Triplet": [{"Aspect": "keyboard", "Opinion": "awful", "VA": "3.38#6.60"}]}
+{"ID": "laptop_quad_test_65", "Triplet": [{"Aspect": "asus laptop touchpad", "Opinion": "none", "VA": "7.15#7.25"}, {"Aspect": "asus laptop touchpad", "Opinion": "none", "VA": "7.15#7.25"}]}
+{"ID": "laptop_quad_test_650", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.10#5.28"}]}
+{"ID": "laptop_quad_test_651", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.66#6.00"}]}
+{"ID": "laptop_quad_test_652", "Triplet": [{"Aspect": "boot up", "Opinion": "damaged", "VA": "3.92#5.43"}]}
+{"ID": "laptop_quad_test_653", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.50#5.25"}]}
+{"ID": "laptop_quad_test_654", "Triplet": [{"Aspect": "none", "Opinion": "very good", "VA": "7.49#7.64"}]}
+{"ID": "laptop_quad_test_655", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "4.58#5.27"}]}
+{"ID": "laptop_quad_test_656", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.34#7.35"}]}
+{"ID": "laptop_quad_test_657", "Triplet": [{"Aspect": "laptop", "Opinion": "good", "VA": "6.69#6.80"}]}
+{"ID": "laptop_quad_test_658", "Triplet": [{"Aspect": "fingerprint scanner", "Opinion": "jotted", "VA": "4.21#5.68"}]}
+{"ID": "laptop_quad_test_659", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "4.40#5.25"}]}
+{"ID": "laptop_quad_test_66", "Triplet": [{"Aspect": "screen", "Opinion": "broke", "VA": "4.10#5.36"}]}
+{"ID": "laptop_quad_test_660", "Triplet": [{"Aspect": "finger print scanner", "Opinion": "none", "VA": "4.64#5.39"}]}
+{"ID": "laptop_quad_test_661", "Triplet": [{"Aspect": "spec hardware", "Opinion": "none", "VA": "6.58#6.77"}, {"Aspect": "spec hardware", "Opinion": "none", "VA": "6.58#6.77"}, {"Aspect": "spec hardware", "Opinion": "none", "VA": "6.58#6.77"}]}
+{"ID": "laptop_quad_test_662", "Triplet": [{"Aspect": "touch pad", "Opinion": "poor", "VA": "3.77#5.76"}]}
+{"ID": "laptop_quad_test_663", "Triplet": [{"Aspect": "none", "Opinion": "solid", "VA": "6.96#7.02"}]}
+{"ID": "laptop_quad_test_664", "Triplet": [{"Aspect": "none", "Opinion": "tight", "VA": "7.24#7.40"}]}
+{"ID": "laptop_quad_test_665", "Triplet": [{"Aspect": "none", "Opinion": "very robust", "VA": "6.43#6.66"}]}
+{"ID": "laptop_quad_test_666", "Triplet": [{"Aspect": "none", "Opinion": "very well", "VA": "6.73#6.86"}, {"Aspect": "none", "Opinion": "very well", "VA": "6.73#6.86"}]}
+{"ID": "laptop_quad_test_667", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.03#5.71"}, {"Aspect": "none", "Opinion": "none", "VA": "5.03#5.71"}, {"Aspect": "none", "Opinion": "none", "VA": "5.03#5.71"}]}
+{"ID": "laptop_quad_test_668", "Triplet": [{"Aspect": "google play store", "Opinion": "chock", "VA": "7.40#7.47"}, {"Aspect": "google play store", "Opinion": "chock", "VA": "7.40#7.47"}]}
+{"ID": "laptop_quad_test_669", "Triplet": [{"Aspect": "none", "Opinion": "really seamless", "VA": "7.22#7.37"}, {"Aspect": "none", "Opinion": "really seamless", "VA": "7.22#7.37"}]}
+{"ID": "laptop_quad_test_67", "Triplet": [{"Aspect": "customer support", "Opinion": "none", "VA": "5.58#6.07"}]}
+{"ID": "laptop_quad_test_670", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.95#7.16"}, {"Aspect": "none", "Opinion": "none", "VA": "6.95#7.16"}, {"Aspect": "none", "Opinion": "none", "VA": "6.95#7.16"}]}
+{"ID": "laptop_quad_test_671", "Triplet": [{"Aspect": "screen screen", "Opinion": "none", "VA": "6.19#6.62"}, {"Aspect": "screen screen", "Opinion": "none", "VA": "6.19#6.62"}]}
+{"ID": "laptop_quad_test_672", "Triplet": [{"Aspect": "c302 intel core m3 processor", "Opinion": "none", "VA": "6.60#6.60"}, {"Aspect": "c302 intel core m3 processor", "Opinion": "none", "VA": "6.60#6.60"}]}
+{"ID": "laptop_quad_test_673", "Triplet": [{"Aspect": "apps", "Opinion": "wonderfully", "VA": "5.88#6.06"}, {"Aspect": "apps", "Opinion": "wonderfully", "VA": "5.88#6.06"}, {"Aspect": "apps", "Opinion": "wonderfully", "VA": "5.88#6.06"}]}
+{"ID": "laptop_quad_test_674", "Triplet": [{"Aspect": "android youtube app", "Opinion": "very inconvenient", "VA": "6.22#6.52"}]}
+{"ID": "laptop_quad_test_675", "Triplet": [{"Aspect": "none", "Opinion": "pretty fast", "VA": "7.30#7.39"}]}
+{"ID": "laptop_quad_test_676", "Triplet": [{"Aspect": "c302", "Opinion": "very happy", "VA": "7.60#7.80"}]}
+{"ID": "laptop_quad_test_677", "Triplet": [{"Aspect": "chromebook", "Opinion": "easily the best", "VA": "7.61#7.77"}]}
+{"ID": "laptop_quad_test_678", "Triplet": [{"Aspect": "battery life", "Opinion": "great", "VA": "7.29#7.36"}, {"Aspect": "battery life", "Opinion": "great", "VA": "7.29#7.36"}]}
+{"ID": "laptop_quad_test_679", "Triplet": [{"Aspect": "backlight", "Opinion": "great", "VA": "7.28#7.35"}]}
+{"ID": "laptop_quad_test_68", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "5.97#6.00"}]}
+{"ID": "laptop_quad_test_680", "Triplet": [{"Aspect": "surface", "Opinion": "nice", "VA": "6.97#7.15"}]}
+{"ID": "laptop_quad_test_681", "Triplet": [{"Aspect": "multi - touch input", "Opinion": "great", "VA": "7.30#7.37"}]}
+{"ID": "laptop_quad_test_682", "Triplet": [{"Aspect": "none", "Opinion": "really pleased", "VA": "7.24#7.38"}, {"Aspect": "none", "Opinion": "really pleased", "VA": "7.24#7.38"}]}
+{"ID": "laptop_quad_test_683", "Triplet": [{"Aspect": "none", "Opinion": "light", "VA": "6.87#6.97"}]}
+{"ID": "laptop_quad_test_684", "Triplet": [{"Aspect": "starts up", "Opinion": "none", "VA": "5.29#5.49"}]}
+{"ID": "laptop_quad_test_685", "Triplet": [{"Aspect": "speakers", "Opinion": "better", "VA": "5.90#6.25"}]}
+{"ID": "laptop_quad_test_686", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "5.67#6.01"}]}
+{"ID": "laptop_quad_test_687", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "7.56#7.73"}]}
+{"ID": "laptop_quad_test_688", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "3.76#5.78"}]}
+{"ID": "laptop_quad_test_689", "Triplet": [{"Aspect": "chromebook", "Opinion": "great", "VA": "7.58#7.68"}]}
+{"ID": "laptop_quad_test_69", "Triplet": [{"Aspect": "item", "Opinion": "none", "VA": "5.99#6.22"}, {"Aspect": "item", "Opinion": "none", "VA": "5.99#6.22"}]}
+{"ID": "laptop_quad_test_690", "Triplet": [{"Aspect": "chromebook", "Opinion": "spectacular", "VA": "7.60#7.84"}]}
+{"ID": "laptop_quad_test_691", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.84#6.99"}, {"Aspect": "none", "Opinion": "none", "VA": "6.84#6.99"}, {"Aspect": "none", "Opinion": "none", "VA": "6.84#6.99"}, {"Aspect": "none", "Opinion": "none", "VA": "6.84#6.99"}]}
+{"ID": "laptop_quad_test_692", "Triplet": [{"Aspect": "core m3 processor", "Opinion": "none", "VA": "7.00#7.08"}]}
+{"ID": "laptop_quad_test_693", "Triplet": [{"Aspect": "none", "Opinion": "real timesaver honestly", "VA": "2.98#6.36"}]}
+{"ID": "laptop_quad_test_694", "Triplet": [{"Aspect": "display", "Opinion": "none", "VA": "7.55#7.73"}, {"Aspect": "display", "Opinion": "none", "VA": "7.55#7.73"}]}
+{"ID": "laptop_quad_test_695", "Triplet": [{"Aspect": "none", "Opinion": "worth", "VA": "5.96#6.15"}]}
+{"ID": "laptop_quad_test_696", "Triplet": [{"Aspect": "none", "Opinion": "nice", "VA": "7.19#7.34"}, {"Aspect": "none", "Opinion": "nice", "VA": "7.19#7.34"}]}
+{"ID": "laptop_quad_test_697", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "5.19#5.50"}]}
+{"ID": "laptop_quad_test_698", "Triplet": [{"Aspect": "machine", "Opinion": "very cleverly", "VA": "7.57#7.76"}]}
+{"ID": "laptop_quad_test_699", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "7.24#7.35"}]}
+{"ID": "laptop_quad_test_7", "Triplet": [{"Aspect": "none", "Opinion": "hopefully", "VA": "3.54#6.11"}]}
+{"ID": "laptop_quad_test_70", "Triplet": [{"Aspect": "machine", "Opinion": "good", "VA": "6.69#6.81"}]}
+{"ID": "laptop_quad_test_700", "Triplet": [{"Aspect": "none", "Opinion": "great", "VA": "6.89#7.01"}]}
+{"ID": "laptop_quad_test_701", "Triplet": [{"Aspect": "trackpad", "Opinion": "' t the best", "VA": "3.90#5.61"}]}
+{"ID": "laptop_quad_test_702", "Triplet": [{"Aspect": "touch screen", "Opinion": "' t as accurate", "VA": "4.16#5.46"}]}
+{"ID": "laptop_quad_test_703", "Triplet": [{"Aspect": "screen size", "Opinion": "none", "VA": "4.64#5.42"}]}
+{"ID": "laptop_quad_test_704", "Triplet": [{"Aspect": "asus", "Opinion": "best", "VA": "7.42#7.50"}]}
+{"ID": "laptop_quad_test_705", "Triplet": [{"Aspect": "chromebook", "Opinion": "extremely impressed", "VA": "7.59#7.84"}]}
+{"ID": "laptop_quad_test_706", "Triplet": [{"Aspect": "tablet", "Opinion": "well", "VA": "6.60#6.69"}]}
+{"ID": "laptop_quad_test_707", "Triplet": [{"Aspect": "laptop", "Opinion": "great", "VA": "7.31#7.38"}]}
+{"ID": "laptop_quad_test_708", "Triplet": [{"Aspect": "none", "Opinion": "well worth", "VA": "6.37#6.55"}]}
+{"ID": "laptop_quad_test_709", "Triplet": [{"Aspect": "display", "Opinion": "very vibrant", "VA": "7.59#7.77"}]}
+{"ID": "laptop_quad_test_71", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "3.51#5.83"}]}
+{"ID": "laptop_quad_test_710", "Triplet": [{"Aspect": "ports", "Opinion": "like", "VA": "6.75#6.93"}]}
+{"ID": "laptop_quad_test_711", "Triplet": [{"Aspect": "none", "Opinion": "excellent", "VA": "7.59#7.75"}, {"Aspect": "none", "Opinion": "excellent", "VA": "7.59#7.75"}]}
+{"ID": "laptop_quad_test_712", "Triplet": [{"Aspect": "c302", "Opinion": "none", "VA": "7.51#7.64"}, {"Aspect": "c302", "Opinion": "none", "VA": "7.51#7.64"}]}
+{"ID": "laptop_quad_test_713", "Triplet": [{"Aspect": "screen", "Opinion": "fantastic", "VA": "7.61#7.83"}]}
+{"ID": "laptop_quad_test_714", "Triplet": [{"Aspect": "mousepad", "Opinion": "very comfortable", "VA": "7.01#7.16"}]}
+{"ID": "laptop_quad_test_715", "Triplet": [{"Aspect": "battery performance", "Opinion": "none", "VA": "4.42#5.43"}]}
+{"ID": "laptop_quad_test_716", "Triplet": [{"Aspect": "sound", "Opinion": "rich", "VA": "6.27#6.60"}]}
+{"ID": "laptop_quad_test_717", "Triplet": [{"Aspect": "none", "Opinion": "comfortably", "VA": "4.86#5.34"}, {"Aspect": "none", "Opinion": "comfortably", "VA": "4.86#5.34"}]}
+{"ID": "laptop_quad_test_718", "Triplet": [{"Aspect": "none", "Opinion": "excellent", "VA": "7.60#7.76"}, {"Aspect": "none", "Opinion": "excellent", "VA": "7.60#7.76"}]}
+{"ID": "laptop_quad_test_719", "Triplet": [{"Aspect": "speaker sound", "Opinion": "ok", "VA": "5.38#5.87"}]}
+{"ID": "laptop_quad_test_72", "Triplet": [{"Aspect": "boots up", "Opinion": "none", "VA": "4.72#5.23"}, {"Aspect": "boots up", "Opinion": "none", "VA": "4.72#5.23"}]}
+{"ID": "laptop_quad_test_720", "Triplet": [{"Aspect": "chromebook", "Opinion": "love perfect", "VA": "7.60#7.79"}]}
+{"ID": "laptop_quad_test_721", "Triplet": [{"Aspect": "usb - c ports", "Opinion": "well", "VA": "6.01#6.25"}]}
+{"ID": "laptop_quad_test_722", "Triplet": [{"Aspect": "speaker speakers", "Opinion": "good", "VA": "5.31#5.94"}, {"Aspect": "speaker speakers", "Opinion": "good", "VA": "5.31#5.94"}]}
+{"ID": "laptop_quad_test_723", "Triplet": [{"Aspect": "device", "Opinion": "so sturdy", "VA": "7.39#7.53"}]}
+{"ID": "laptop_quad_test_724", "Triplet": [{"Aspect": "touchscreen", "Opinion": "very responsive", "VA": "7.54#7.71"}]}
+{"ID": "laptop_quad_test_725", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "4.86#5.43"}]}
+{"ID": "laptop_quad_test_726", "Triplet": [{"Aspect": "chromebook", "Opinion": "fantastic", "VA": "7.60#7.85"}]}
+{"ID": "laptop_quad_test_727", "Triplet": [{"Aspect": "battery charge", "Opinion": "none", "VA": "4.62#5.18"}]}
+{"ID": "laptop_quad_test_728", "Triplet": [{"Aspect": "chromebook", "Opinion": "love", "VA": "7.60#7.76"}]}
+{"ID": "laptop_quad_test_729", "Triplet": [{"Aspect": "android apps", "Opinion": "very well", "VA": "6.57#6.66"}]}
+{"ID": "laptop_quad_test_73", "Triplet": [{"Aspect": "keyboard", "Opinion": "like", "VA": "6.05#6.37"}]}
+{"ID": "laptop_quad_test_730", "Triplet": [{"Aspect": "chromebook", "Opinion": "love", "VA": "7.62#7.80"}]}
+{"ID": "laptop_quad_test_731", "Triplet": [{"Aspect": "device", "Opinion": "really love", "VA": "7.59#7.72"}]}
+{"ID": "laptop_quad_test_732", "Triplet": [{"Aspect": "keyboard", "Opinion": "really like", "VA": "6.70#6.84"}]}
+{"ID": "laptop_quad_test_733", "Triplet": [{"Aspect": "none", "Opinion": "drawback", "VA": "3.49#5.88"}]}
+{"ID": "laptop_quad_test_734", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.47#6.58"}]}
+{"ID": "laptop_quad_test_735", "Triplet": [{"Aspect": "keyboard", "Opinion": "particularly spectacular", "VA": "6.64#6.95"}]}
+{"ID": "laptop_quad_test_736", "Triplet": [{"Aspect": "none", "Opinion": "very light", "VA": "7.50#7.67"}]}
+{"ID": "laptop_quad_test_737", "Triplet": [{"Aspect": "battery life", "Opinion": "none", "VA": "4.82#5.54"}]}
+{"ID": "laptop_quad_test_738", "Triplet": [{"Aspect": "keyboard", "Opinion": "comfortable", "VA": "6.45#6.64"}]}
+{"ID": "laptop_quad_test_739", "Triplet": [{"Aspect": "screen", "Opinion": "none", "VA": "6.45#6.62"}, {"Aspect": "screen", "Opinion": "none", "VA": "6.45#6.62"}]}
+{"ID": "laptop_quad_test_74", "Triplet": [{"Aspect": "none", "Opinion": "well", "VA": "6.68#6.82"}]}
+{"ID": "laptop_quad_test_740", "Triplet": [{"Aspect": "chromebook", "Opinion": "none", "VA": "5.57#5.70"}]}
+{"ID": "laptop_quad_test_741", "Triplet": [{"Aspect": "battery", "Opinion": "incredibly", "VA": "7.48#7.62"}]}
+{"ID": "laptop_quad_test_742", "Triplet": [{"Aspect": "wireless printer", "Opinion": "none", "VA": "6.10#6.14"}]}
+{"ID": "laptop_quad_test_743", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.30#7.40"}]}
+{"ID": "laptop_quad_test_744", "Triplet": [{"Aspect": "computer", "Opinion": "none", "VA": "6.82#6.90"}]}
+{"ID": "laptop_quad_test_745", "Triplet": [{"Aspect": "asus flip 302", "Opinion": "none", "VA": "5.11#5.49"}]}
+{"ID": "laptop_quad_test_746", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.11#7.20"}, {"Aspect": "none", "Opinion": "none", "VA": "7.11#7.20"}]}
+{"ID": "laptop_quad_test_747", "Triplet": [{"Aspect": "plugs", "Opinion": "good", "VA": "6.07#6.55"}]}
+{"ID": "laptop_quad_test_748", "Triplet": [{"Aspect": "none", "Opinion": "horribly", "VA": "2.43#6.37"}]}
+{"ID": "laptop_quad_test_749", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.69#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.69#6.85"}]}
+{"ID": "laptop_quad_test_75", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.37#6.00"}]}
+{"ID": "laptop_quad_test_750", "Triplet": [{"Aspect": "machine", "Opinion": "far better", "VA": "7.32#7.41"}]}
+{"ID": "laptop_quad_test_751", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.44#7.56"}]}
+{"ID": "laptop_quad_test_752", "Triplet": [{"Aspect": "laptop", "Opinion": "better", "VA": "4.16#5.49"}]}
+{"ID": "laptop_quad_test_753", "Triplet": [{"Aspect": "none", "Opinion": "super thin", "VA": "7.42#7.52"}]}
+{"ID": "laptop_quad_test_754", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "6.38#6.47"}]}
+{"ID": "laptop_quad_test_755", "Triplet": [{"Aspect": "none", "Opinion": "very light", "VA": "7.05#7.16"}]}
+{"ID": "laptop_quad_test_756", "Triplet": [{"Aspect": "none", "Opinion": "very good", "VA": "7.34#7.49"}, {"Aspect": "none", "Opinion": "very good", "VA": "7.34#7.49"}]}
+{"ID": "laptop_quad_test_757", "Triplet": [{"Aspect": "asus c302", "Opinion": "' t recommend", "VA": "7.35#7.71"}]}
+{"ID": "laptop_quad_test_758", "Triplet": [{"Aspect": "keyboard", "Opinion": "weak", "VA": "3.12#6.25"}]}
+{"ID": "laptop_quad_test_759", "Triplet": [{"Aspect": "touchscreen", "Opinion": "well", "VA": "6.88#6.98"}]}
+{"ID": "laptop_quad_test_76", "Triplet": [{"Aspect": "ports", "Opinion": "decent", "VA": "7.14#7.13"}]}
+{"ID": "laptop_quad_test_760", "Triplet": [{"Aspect": "none", "Opinion": "handy", "VA": "6.56#6.65"}]}
+{"ID": "laptop_quad_test_761", "Triplet": [{"Aspect": "none", "Opinion": "very light comfortable", "VA": "7.15#7.27"}]}
+{"ID": "laptop_quad_test_762", "Triplet": [{"Aspect": "sound", "Opinion": "really low", "VA": "2.93#6.28"}, {"Aspect": "sound", "Opinion": "really low", "VA": "2.93#6.28"}]}
+{"ID": "laptop_quad_test_763", "Triplet": [{"Aspect": "spacebar", "Opinion": "none", "VA": "4.22#5.45"}]}
+{"ID": "laptop_quad_test_764", "Triplet": [{"Aspect": "computer", "Opinion": "favorite", "VA": "7.62#7.83"}]}
+{"ID": "laptop_quad_test_765", "Triplet": [{"Aspect": "battery life", "Opinion": "stunning", "VA": "7.57#7.71"}]}
+{"ID": "laptop_quad_test_766", "Triplet": [{"Aspect": "none", "Opinion": "insanely satisfied", "VA": "6.40#6.69"}]}
+{"ID": "laptop_quad_test_767", "Triplet": [{"Aspect": "chromebook", "Opinion": "best", "VA": "7.62#7.82"}, {"Aspect": "chromebook", "Opinion": "best", "VA": "7.62#7.82"}]}
+{"ID": "laptop_quad_test_768", "Triplet": [{"Aspect": "asus chromebook flip 302ca", "Opinion": "smooth", "VA": "7.56#7.74"}]}
+{"ID": "laptop_quad_test_769", "Triplet": [{"Aspect": "screen resolution", "Opinion": "great", "VA": "7.41#7.50"}]}
+{"ID": "laptop_quad_test_77", "Triplet": [{"Aspect": "dvd drive", "Opinion": "none", "VA": "5.74#5.80"}]}
+{"ID": "laptop_quad_test_770", "Triplet": [{"Aspect": "touch pad", "Opinion": "accurate", "VA": "7.24#7.33"}]}
+{"ID": "laptop_quad_test_771", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "3.35#5.99"}, {"Aspect": "none", "Opinion": "none", "VA": "3.35#5.99"}]}
+{"ID": "laptop_quad_test_772", "Triplet": [{"Aspect": "chromebook", "Opinion": "worth", "VA": "7.13#7.28"}, {"Aspect": "chromebook", "Opinion": "worth", "VA": "7.13#7.28"}]}
+{"ID": "laptop_quad_test_773", "Triplet": [{"Aspect": "touchscreen trackpad / keyboard", "Opinion": "none", "VA": "6.71#6.89"}]}
+{"ID": "laptop_quad_test_774", "Triplet": [{"Aspect": "none", "Opinion": "comfortable", "VA": "7.17#7.27"}, {"Aspect": "none", "Opinion": "comfortable", "VA": "7.17#7.27"}]}
+{"ID": "laptop_quad_test_775", "Triplet": [{"Aspect": "battery", "Opinion": "very portable", "VA": "5.22#5.67"}, {"Aspect": "battery", "Opinion": "very portable", "VA": "5.22#5.67"}]}
+{"ID": "laptop_quad_test_776", "Triplet": [{"Aspect": "chromebook", "Opinion": "truly love", "VA": "7.62#7.78"}]}
+{"ID": "laptop_quad_test_777", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.65#6.82"}]}
+{"ID": "laptop_quad_test_778", "Triplet": [{"Aspect": "pros", "Opinion": "definitely outweigh", "VA": "5.80#6.22"}]}
+{"ID": "laptop_quad_test_779", "Triplet": [{"Aspect": "computer", "Opinion": "great", "VA": "7.26#7.35"}]}
+{"ID": "laptop_quad_test_78", "Triplet": [{"Aspect": "none", "Opinion": "hot", "VA": "6.90#6.95"}]}
+{"ID": "laptop_quad_test_780", "Triplet": [{"Aspect": "usb - c", "Opinion": "none", "VA": "4.37#5.35"}]}
+{"ID": "laptop_quad_test_781", "Triplet": [{"Aspect": "chromebook", "Opinion": "a bit expensive", "VA": "2.83#6.30"}]}
+{"ID": "laptop_quad_test_782", "Triplet": [{"Aspect": "none", "Opinion": "perfect", "VA": "7.55#7.71"}]}
+{"ID": "laptop_quad_test_783", "Triplet": [{"Aspect": "laptop", "Opinion": "really love super happy", "VA": "7.56#7.77"}]}
+{"ID": "laptop_quad_test_784", "Triplet": [{"Aspect": "laptop", "Opinion": "mighty", "VA": "7.39#7.51"}]}
+{"ID": "laptop_quad_test_785", "Triplet": [{"Aspect": "wifi connectivity", "Opinion": "strong", "VA": "7.29#7.41"}]}
+{"ID": "laptop_quad_test_786", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.24#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "4.24#5.63"}]}
+{"ID": "laptop_quad_test_787", "Triplet": [{"Aspect": "c302ca - dh54", "Opinion": "none", "VA": "5.28#5.82"}]}
+{"ID": "laptop_quad_test_788", "Triplet": [{"Aspect": "graphics", "Opinion": "great", "VA": "7.33#7.41"}]}
+{"ID": "laptop_quad_test_789", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.97#7.04"}]}
+{"ID": "laptop_quad_test_79", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.40#6.41"}]}
+{"ID": "laptop_quad_test_790", "Triplet": [{"Aspect": "chromebook", "Opinion": "a bit pricey", "VA": "6.07#6.15"}]}
+{"ID": "laptop_quad_test_791", "Triplet": [{"Aspect": "android", "Opinion": "drawback", "VA": "3.75#5.63"}]}
+{"ID": "laptop_quad_test_792", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "7.54#7.66"}]}
+{"ID": "laptop_quad_test_793", "Triplet": [{"Aspect": "product ideal", "Opinion": "small", "VA": "6.79#6.90"}]}
+{"ID": "laptop_quad_test_794", "Triplet": [{"Aspect": "screen resolution", "Opinion": "very good", "VA": "6.72#6.86"}]}
+{"ID": "laptop_quad_test_795", "Triplet": [{"Aspect": "none", "Opinion": "highly recommend", "VA": "7.56#7.84"}]}
+{"ID": "laptop_quad_test_796", "Triplet": [{"Aspect": "backlight", "Opinion": "love", "VA": "6.52#6.73"}]}
+{"ID": "laptop_quad_test_797", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#6.48"}]}
+{"ID": "laptop_quad_test_798", "Triplet": [{"Aspect": "play store apps", "Opinion": "none", "VA": "6.57#6.65"}]}
+{"ID": "laptop_quad_test_799", "Triplet": [{"Aspect": "none", "Opinion": "really good", "VA": "6.81#6.94"}, {"Aspect": "none", "Opinion": "really good", "VA": "6.81#6.94"}, {"Aspect": "none", "Opinion": "really good", "VA": "6.81#6.94"}]}
+{"ID": "laptop_quad_test_8", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.22#5.48"}]}
+{"ID": "laptop_quad_test_80", "Triplet": [{"Aspect": "i5 mobile processor", "Opinion": "new", "VA": "6.53#6.47"}]}
+{"ID": "laptop_quad_test_800", "Triplet": [{"Aspect": "device", "Opinion": "really enjoy really like", "VA": "6.15#6.41"}]}
+{"ID": "laptop_quad_test_801", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.87#6.27"}, {"Aspect": "none", "Opinion": "none", "VA": "5.87#6.27"}, {"Aspect": "none", "Opinion": "none", "VA": "5.87#6.27"}]}
+{"ID": "laptop_quad_test_802", "Triplet": [{"Aspect": "battery life", "Opinion": "amazing", "VA": "7.59#7.76"}]}
+{"ID": "laptop_quad_test_803", "Triplet": [{"Aspect": "none", "Opinion": "very good", "VA": "6.86#6.96"}]}
+{"ID": "laptop_quad_test_804", "Triplet": [{"Aspect": "laptop form", "Opinion": "mediocre", "VA": "7.35#7.40"}]}
+{"ID": "laptop_quad_test_805", "Triplet": [{"Aspect": "chromebook laptops", "Opinion": "best best", "VA": "7.57#7.75"}, {"Aspect": "chromebook laptops", "Opinion": "best best", "VA": "7.57#7.75"}]}
+{"ID": "laptop_quad_test_806", "Triplet": [{"Aspect": "touchscreen / flip feature", "Opinion": "great", "VA": "7.56#7.71"}, {"Aspect": "touchscreen / flip feature", "Opinion": "great", "VA": "7.56#7.71"}]}
+{"ID": "laptop_quad_test_807", "Triplet": [{"Aspect": "audio quest dragonfly", "Opinion": "perfectly", "VA": "7.19#7.33"}]}
+{"ID": "laptop_quad_test_808", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "6.65#6.69"}]}
+{"ID": "laptop_quad_test_809", "Triplet": [{"Aspect": "none", "Opinion": "love", "VA": "7.55#7.67"}, {"Aspect": "none", "Opinion": "love", "VA": "7.55#7.67"}, {"Aspect": "none", "Opinion": "love", "VA": "7.55#7.67"}]}
+{"ID": "laptop_quad_test_81", "Triplet": [{"Aspect": "ddr4 ram", "Opinion": "none", "VA": "5.51#5.77"}]}
+{"ID": "laptop_quad_test_810", "Triplet": [{"Aspect": "battery", "Opinion": "perfect", "VA": "6.98#7.07"}]}
+{"ID": "laptop_quad_test_811", "Triplet": [{"Aspect": "battery", "Opinion": "none", "VA": "6.74#6.87"}, {"Aspect": "battery", "Opinion": "none", "VA": "6.74#6.87"}]}
+{"ID": "laptop_quad_test_812", "Triplet": [{"Aspect": "none", "Opinion": "clean", "VA": "6.83#6.93"}]}
+{"ID": "laptop_quad_test_813", "Triplet": [{"Aspect": "switch", "Opinion": "awesome", "VA": "7.52#7.70"}]}
+{"ID": "laptop_quad_test_814", "Triplet": [{"Aspect": "backlit keyboard", "Opinion": "awesome", "VA": "7.61#7.80"}]}
+{"ID": "laptop_quad_test_815", "Triplet": [{"Aspect": "keyboard", "Opinion": "a little confusing", "VA": "2.40#6.38"}]}
+{"ID": "laptop_quad_test_816", "Triplet": [{"Aspect": "screen display", "Opinion": "bright", "VA": "7.61#7.77"}, {"Aspect": "screen display", "Opinion": "bright", "VA": "7.61#7.77"}]}
+{"ID": "laptop_quad_test_82", "Triplet": [{"Aspect": "battery life", "Opinion": "very decent", "VA": "7.53#7.59"}]}
+{"ID": "laptop_quad_test_83", "Triplet": [{"Aspect": "unit", "Opinion": "pleasantly", "VA": "7.01#7.15"}]}
+{"ID": "laptop_quad_test_84", "Triplet": [{"Aspect": "laptop", "Opinion": "best", "VA": "6.85#6.98"}]}
+{"ID": "laptop_quad_test_85", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.23#6.43"}]}
+{"ID": "laptop_quad_test_86", "Triplet": [{"Aspect": "keyboard backlight", "Opinion": "annoying", "VA": "3.10#6.23"}]}
+{"ID": "laptop_quad_test_87", "Triplet": [{"Aspect": "ram", "Opinion": "easily upgradeable", "VA": "7.14#7.23"}]}
+{"ID": "laptop_quad_test_88", "Triplet": [{"Aspect": "touchpad", "Opinion": "love", "VA": "6.08#6.61"}, {"Aspect": "touchpad", "Opinion": "love", "VA": "6.08#6.61"}]}
+{"ID": "laptop_quad_test_89", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.53#6.71"}]}
+{"ID": "laptop_quad_test_9", "Triplet": [{"Aspect": "keyboard", "Opinion": "none", "VA": "4.79#5.50"}]}
+{"ID": "laptop_quad_test_90", "Triplet": [{"Aspect": "feature", "Opinion": "really be useful", "VA": "6.40#6.61"}]}
+{"ID": "laptop_quad_test_91", "Triplet": [{"Aspect": "ram", "Opinion": "none", "VA": "6.43#6.47"}]}
+{"ID": "laptop_quad_test_92", "Triplet": [{"Aspect": "mx150", "Opinion": "enough", "VA": "5.31#5.82"}]}
+{"ID": "laptop_quad_test_93", "Triplet": [{"Aspect": "solid state drive", "Opinion": "love", "VA": "7.12#7.16"}]}
+{"ID": "laptop_quad_test_94", "Triplet": [{"Aspect": "laptop", "Opinion": "none", "VA": "3.74#5.91"}]}
+{"ID": "laptop_quad_test_95", "Triplet": [{"Aspect": "boots up", "Opinion": "super fast", "VA": "7.54#7.68"}]}
+{"ID": "laptop_quad_test_96", "Triplet": [{"Aspect": "system", "Opinion": "very impressed", "VA": "7.62#7.80"}]}
+{"ID": "laptop_quad_test_97", "Triplet": [{"Aspect": "mastercam", "Opinion": "pretty good", "VA": "6.81#6.92"}]}
+{"ID": "laptop_quad_test_98", "Triplet": [{"Aspect": "amazon", "Opinion": "great", "VA": "7.16#7.26"}]}
+{"ID": "laptop_quad_test_99", "Triplet": [{"Aspect": "screen", "Opinion": "decent", "VA": "6.56#6.70"}]}

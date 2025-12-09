@@ -1,0 +1,65 @@
+extracted	actual	text
+battery life | 	keyboard | 	two cons i ' m disappointed about is the battery life and the flimsy keyboard .
+NULL | 	laptop | 	the laptop works great and the package was delivered on time .
+display | 	display | 	after updating the software i noticed that the was a lot of backlight bleeding from the display .
+computer | 	computer | 	update : i have had this computer for about 3 months now , and it is full of problems .
+brand | 	brand | 	i think for others they are just buying into the brand .
+NULL | 	NULL | 	barely have it for 6 months and everything ' s going haywire .
+item | 	NULL | 	6 ` ` screen is big enough to read with ease , yet the item itself is light enough to tote to meetings .
+fan | 	fan | 	the fan is almost always on even if you have it set to automatic , although it ' s not loud .
+NULL | 	screen | 	gorgeous screen , small profile , lightweight , built in stylus , i could go on and on about how awesome this thing was .
+NULL | 	keypad | 	the computer runs decent but the keypad turns off every time the computer sleeps .
+NULL | 	NULL | 	i am in love with how light and speedy it is .
+NULL | 	products | 	absolutly horrible product , cheap components make for unreliable products , but when the nearest service location is 50 + miles away i wonder how much apple truly cares ?
+battery | 	NULL | 	but currently i am happy with it , the battery is ok , and its very aesthetically pleasing .
+NULL | 	NULL | 	this is first impression , 1st day using it
+NULL | 	powers up | 	powers up immediately , great battery life , great keyboard , amazing features .
+NULL | 	NULL | 	today , it stopped powering on .
+backlit keyboard | 	NULL | 	backlit keyboard is great ; feels sturdy ; fast processing .
+NULL | 	chromebook | 	from the camera and audio quality through to the build styling , every aspect of this pc has been meticulously considered and it represents the best chromebook that has been delivered to date
+NULL | 	NULL | 	this is among the best .
+device | 	device | 	while the device is awesome , and there are lots of other reviews that will tell you exactly how awesome , i am just so impressed by how amazon ' s customer service handled the issue .
+NULL | 	back light keyboard | 	for me the extra storage , back light keyboard ( you ' ll love it ) , 2 in 1 factor , and great build quality made it a no - brainer .
+NULL | 	screen quality | 	poor screen quality , extremely dim , lacks clarity , slow photo uploads .
+mouse | 	wi - fi | 	mouse and wi - fi never functioned correctly .
+colour | 	colour | 	+ the colour is a beautiful grey and not purple as reviewed by other users
+touchscreen backlit keyboard | 	backlit keyboard | 	the touchscreen is great and the backlit keyboard is fantastic .
+keyboard lighting | 	keyboard lighting | 	keyboard lighting is primitive and keeps shutting off .
+NULL | 	NULL | 	it is easy to use , light , and you have the ability to download apps for just about any need .
+jstorrent | 	jstorrent | 	- jstorrent works nicely for any torrenting needs .
+device | 	amazon ' s customer service | 	while the device is awesome , and there are lots of other reviews that will tell you exactly how awesome , i am just so impressed by how amazon ' s customer service handled the issue .
+laptop | 	laptop | 	high speed laptop
+working unit | 	working unit | 	even though i was upset at first for receiving a lemon , the performance of the working unit far outweighs any cons .
+NULL | 	built | 	* very solidly built and it transitions nicely from laptop to tablet mode .
+NULL | 	screen | 	nice screen and keyboard , touch pad is great .
+laptop | 	laptop | 	this laptop is the best for the price in my opinion .
+msi product | 	msi product | 	i think this msi product will be a part of my business for a long time .
+NULL | 	NULL | 	i tried it , and it is very limited for the current price of $ 550 .
+keyboard | 	keyboard | 	the keyboard is good .
+image cache | 	NULL | 	occasionally it will get sort of slow and then i ' ll go to settings and clear the image cache and that takes care of it .
+app | 	app | 	every app i have downloaded from the google app store has worked perfectly .
+boot | 	boot | 	super fast boot .
+memory | 	memory | 	i will update this post if anything changes from what i posted , after i get the correct memory installed .
+operating system | 	operating system | 	very odd operating system .
+msi tech support | 	msi tech support | 	so called msi tech support , went through the troubleshooting and of course they could not fix it .
+fans | 	laptop | 	laptop runs really well but fans get a bit loud when gaming
+NULL | 	NULL | 	i ' ve used this daily for nearly eight months and have been very happy with .
+chromebook | 	chromebook | 	this chromebook is awesome .
+NULL | 	* * usb - c * * ports | 	has everything i was looking for , such as touch screen capability , tablet convertible , small bezel , lightweight and small footprint , * backlit * keyboard , not one but two * * usb - c * * ports , octane 2 .
+NULL | 	NULL | 	it is expensive , but it is absolutely , positively worth it .
+NULL | 	processor | 	this new generation macbook has a fast processor , great retina display , 13 inch high resolution screen , great compatibility and many more .
+NULL | 	version | 	this version has been my least favorite version i ' ve had for the following reasons listed bellow the pros .
+capacitor | 	conductor | 	i ' m still worried about the quality of capacitor and conductor inside this thing .
+hinge | 	NULL | 	however , it does feel like a sturdy hinge .
+NULL | 	android apps | 	i have had it about 4 days and have been checking out how well it runs my favorite android apps .
+computer | 	start up | 	easiest computer to start up ever .
+system | 	system | 	by the time i was returning it , the system was in such poor shape from the msi .
+NULL | 	internet | 	i really like the laptop and how fast it is and all the specs but , the internet started dropping only in this laptop .
+NULL | 	1080p | 	bright enough for all uses , and 1080p is perfect - images are sharp .
+NULL | 	trackpad | 	the aluminum construction is every bit as nice as my 12 ` ` macbook , the keyboard is excellent and has better travel / feedback and the trackpad is the best i ' ve used on any asus portable .
+space bar keyboard | 	space bar | 	the space bar on the keyboard is inconsistent .
+streaming content | 	videos | 	i see absolutely no lag on videos or streaming content .
+NULL | 	video card | 	very nice i love it it work very well even i instal gta 5 it run but not enoght video card mb but run at all
+hardware | 	hardware | 	they put a lot of thought and work into making sure that the hardware and software work real well together .
+screen | 	screen | 	good screen .
+computer | 	computer | 	i bought this computer a bit over two months ago for my son ' s college and after installing the windows update , it crashed !

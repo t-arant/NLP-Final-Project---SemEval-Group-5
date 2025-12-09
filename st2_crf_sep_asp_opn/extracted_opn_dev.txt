@@ -1,0 +1,65 @@
+extracted	actual	text
+none | 	pretty | 	this unit is ` ` pretty ` ` and stylish , so my high school daughter was attracted to it for that reason .
+okay | 	NULL | 	for now i ' m okay with upping the experience & device to 3 out of 5 stars .
+unlikely | 	NULL | 	seems unlikely but whatever , i ' ll go with it .
+favorite | 	least favorite | 	this version has been my least favorite version i ' ve had for the following reasons listed bellow the pros .
+disappointment | 	disappointment | 	- biggest disappointment is the track pad .
+none | 	NULL | 	should not of bought this chromebook .
+crazy | 	crazy | 	after about 5 / 10 minutes of use the screen goes crazy and you have to force to power down and wait to restart .
+none | 	NULL | 	i can not stand the trackpad or the keyboard keys .
+none | 	NULL | 	i can not stand the trackpad or the keyboard keys .
+stiff | 	stiff | 	the keyboard is stiff and unresponsive to my typing at times .
+hardly | 	NULL | 	the chromebook r 11 was hardly used and only a few months old .
+none | 	NULL | 	one day it just would not power up .
+none | 	NULL | 	some apps don ' t work but the play store is still in beta right now
+none | 	NULL | 	some apps don ' t work but the play store is still in beta right now
+none | 	NULL | 	what really did it was when i tried contacting acer support i was simply told ` ` try a restart ` ` and then ` ` call google , we can ' t help you ` ` .
+none | 	NULL | 	returning it after one day
+none | 	good | 	but do not dare will only be good for playing games maybe it will get better .
+none | 	NULL | 	after some use , the battery charge had logically gone down some ( down to about 80 % ) , and so i went back to my office to plug it in .
+none | 	cumbersome | 	asus customer support was through chat and cumbersome .
+none | 	NULL | 	i had it on my desk and was watching youtube videos and it went black .
+very dim | 	very dim | 	the screen is very dim however .
+dead | 	dead | 	the brand new vivobook is dead in the water !
+none | 	NULL | 	don ' t buy this machine .
+none | 	good | 	sounds like a good deal for a $ 620 laptop but battery doesn ' t perform as promised i am hardly getting 4 hrs .
+none | 	NULL | 	sounds like a good deal for a $ 620 laptop but battery doesn ' t perform as promised i am hardly getting 4 hrs .
+decent | 	decent | 	external speakers were decent sounding until right one gave away and now is heavily distorted at even mid vol .
+good | 	good | 	screen is good .
+decent | 	decent | 	keyboard is decent with good travel .
+amazing | 	amazing | 	screen is amazing
+thin | 	thin | 	thin bezels allow for a compact frame
+none | 	good | 	overall this is a good system for the price and i do recommend the ssd for the price .
+none | 	recommend | 	overall this is a good system for the price and i do recommend the ssd for the price .
+none | 	concerns | 	but my main concerns for everyone is the heat and fan noises , both are very apparent and if you have this on your lap you better have a laptop tray or keep it on a desk .
+none | 	always loved | 	always loved asus and they build amazing machines .
+none | 	amazing | 	always loved asus and they build amazing machines .
+recommend | 	recommend | 	if you can save for 750 - 800 i would recommend going up a bit in the asus line .
+none | 	NULL | 	it seems like there is a problem with the processor because it constantly starts and stops while i ' m trying to surf the web .
+none | 	NULL | 	bought this on may , barely used it and now 4 months later it ' s randomly shutting down every few minutes .
+lightweight | 	pros | 	pros : lightweight and looks nice .
+loud | 	loud | 	this computer is loud !
+so disgusted | 	so disgusted | 	i am so disgusted and disheartened by my dealings with asus support , it ' s hard to believe .
+crazy | 	crazy | 	returned because had it less than a month and it decided to go crazy and start typing by its self ect .
+none | 	NULL | 	this computer has wasted so much of my time already .
+nice | 	nice | 	it still is nice looking with a textured cover and being black overall .
+none | 	NULL | 	it opens programs immediately .
+none | 	NULL | 	i do not think i will need to upgrade the ram .
+none | 	winner | 	acer made a winner here !
+very happy | 	very happy | 	buy this computer and you ' ll be very happy with it .
+pretty nice | 	pretty nice | 	+ backlight kb and travel feels pretty nice on the keys .
+pretty nice | 	pretty nice | 	+ backlight kb and travel feels pretty nice on the keys .
+none | 	NULL | 	- an optical drive if you ever want to play a classic game or watch a dvd .
+none | 	really excited | 	the ports were another thing that i was really excited to see fully included on a laptop in this price range .
+none | 	NULL | 	the ports were another thing that i was really excited to see fully included on a laptop in this price range .
+happy | 	happy | 	i ' ve been happy being able to plug in and run overwatch from time to time on this laptop , with higher settings .
+best | 	best | 	this is the best laptop for the price .
+like | 	like | 	i like that it ' s got the 8th generation i5 cpu .
+dedicated | 	dedicated | 	dedicated graphics card
+none | 	NULL | 	the plastic that borders the screen kind of comes out ever so slightly .
+pretty fast | 	pretty fast | 	it ' s pretty fast for a laptop especially a laptop in this price point .
+pretty fast | 	NULL | 	it ' s pretty fast for a laptop especially a laptop in this price point .
+none | 	incredibly small | 	i would knock a star for the hard drive size since it ' s incredibly small but at this price you can easily pick up large one to add if you want to and it ' s not like you aren ' t warned when you buy it .
+none | 	amazing | 	the picture clarity is amazing and the backlit keyboard is awesome .
+none | 	awesome | 	the picture clarity is amazing and the backlit keyboard is awesome .
+none | 	NULL | 	overall , this budget laptop ticks all the boxes and there is nothing on the market that is new with so many features crammed in at this price .

@@ -1,0 +1,65 @@
+extracted	actual	text
+unit | 	unit | 	this unit is ` ` pretty ` ` and stylish , so my high school daughter was attracted to it for that reason .
+device | 	device | 	for now i ' m okay with upping the experience & device to 3 out of 5 stars .
+NULL | 	NULL | 	seems unlikely but whatever , i ' ll go with it .
+pros | 	version | 	this version has been my least favorite version i ' ve had for the following reasons listed bellow the pros .
+track pad | 	track pad | 	- biggest disappointment is the track pad .
+chromebook | 	chromebook | 	should not of bought this chromebook .
+screen | 	screen | 	after about 5 / 10 minutes of use the screen goes crazy and you have to force to power down and wait to restart .
+trackpad | 	trackpad | 	i can not stand the trackpad or the keyboard keys .
+trackpad | 	keyboard keys | 	i can not stand the trackpad or the keyboard keys .
+keyboard | 	keyboard | 	the keyboard is stiff and unresponsive to my typing at times .
+chromebook r 11 | 	chromebook r 11 | 	the chromebook r 11 was hardly used and only a few months old .
+NULL | 	NULL | 	one day it just would not power up .
+NULL | 	apps | 	some apps don ' t work but the play store is still in beta right now
+NULL | 	play store | 	some apps don ' t work but the play store is still in beta right now
+acer support | 	support | 	what really did it was when i tried contacting acer support i was simply told ` ` try a restart ` ` and then ` ` call google , we can ' t help you ` ` .
+NULL | 	NULL | 	returning it after one day
+NULL | 	it | 	but do not dare will only be good for playing games maybe it will get better .
+battery charge | 	battery | 	after some use , the battery charge had logically gone down some ( down to about 80 % ) , and so i went back to my office to plug it in .
+asus customer support | 	asus customer support | 	asus customer support was through chat and cumbersome .
+NULL | 	NULL | 	i had it on my desk and was watching youtube videos and it went black .
+screen | 	screen | 	the screen is very dim however .
+vivobook | 	vivobook | 	the brand new vivobook is dead in the water !
+machine | 	machine | 	don ' t buy this machine .
+NULL | 	laptop | 	sounds like a good deal for a $ 620 laptop but battery doesn ' t perform as promised i am hardly getting 4 hrs .
+NULL | 	battery | 	sounds like a good deal for a $ 620 laptop but battery doesn ' t perform as promised i am hardly getting 4 hrs .
+speakers | 	external speakers | 	external speakers were decent sounding until right one gave away and now is heavily distorted at even mid vol .
+screen | 	screen | 	screen is good .
+keyboard | 	keyboard | 	keyboard is decent with good travel .
+screen | 	screen | 	screen is amazing
+bezels | 	bezels | 	thin bezels allow for a compact frame
+ssd | 	system | 	overall this is a good system for the price and i do recommend the ssd for the price .
+ssd | 	ssd | 	overall this is a good system for the price and i do recommend the ssd for the price .
+NULL | 	fan | 	but my main concerns for everyone is the heat and fan noises , both are very apparent and if you have this on your lap you better have a laptop tray or keep it on a desk .
+asus | 	asus | 	always loved asus and they build amazing machines .
+asus | 	machines | 	always loved asus and they build amazing machines .
+asus line | 	asus | 	if you can save for 750 - 800 i would recommend going up a bit in the asus line .
+processor | 	processor | 	it seems like there is a problem with the processor because it constantly starts and stops while i ' m trying to surf the web .
+NULL | 	NULL | 	bought this on may , barely used it and now 4 months later it ' s randomly shutting down every few minutes .
+NULL | 	NULL | 	pros : lightweight and looks nice .
+computer | 	computer | 	this computer is loud !
+asus support | 	asus support | 	i am so disgusted and disheartened by my dealings with asus support , it ' s hard to believe .
+NULL | 	NULL | 	returned because had it less than a month and it decided to go crazy and start typing by its self ect .
+computer | 	computer | 	this computer has wasted so much of my time already .
+textured cover | 	NULL | 	it still is nice looking with a textured cover and being black overall .
+NULL | 	NULL | 	it opens programs immediately .
+ram | 	ram | 	i do not think i will need to upgrade the ram .
+acer | 	acer | 	acer made a winner here !
+computer | 	computer | 	buy this computer and you ' ll be very happy with it .
+NULL | 	backlight kb | 	+ backlight kb and travel feels pretty nice on the keys .
+NULL | 	keys | 	+ backlight kb and travel feels pretty nice on the keys .
+optical drive | 	optical drive | 	- an optical drive if you ever want to play a classic game or watch a dvd .
+ports | 	ports | 	the ports were another thing that i was really excited to see fully included on a laptop in this price range .
+ports | 	laptop | 	the ports were another thing that i was really excited to see fully included on a laptop in this price range .
+laptop | 	laptop | 	i ' ve been happy being able to plug in and run overwatch from time to time on this laptop , with higher settings .
+laptop | 	laptop | 	this is the best laptop for the price .
+i5 cpu | 	8th generation i5 cpu | 	i like that it ' s got the 8th generation i5 cpu .
+graphics card | 	graphics card | 	dedicated graphics card
+plastic | 	screen | 	the plastic that borders the screen kind of comes out ever so slightly .
+laptop laptop | 	laptop | 	it ' s pretty fast for a laptop especially a laptop in this price point .
+laptop laptop | 	NULL | 	it ' s pretty fast for a laptop especially a laptop in this price point .
+hard drive size | 	hard drive size | 	i would knock a star for the hard drive size since it ' s incredibly small but at this price you can easily pick up large one to add if you want to and it ' s not like you aren ' t warned when you buy it .
+NULL | 	picture clarity | 	the picture clarity is amazing and the backlit keyboard is awesome .
+NULL | 	backlit keyboard | 	the picture clarity is amazing and the backlit keyboard is awesome .
+laptop | 	budget laptop | 	overall , this budget laptop ticks all the boxes and there is nothing on the market that is new with so many features crammed in at this price .

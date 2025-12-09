@@ -1,0 +1,9 @@
+DF Index	 Dataset Index	Recon Asp	Recon Opn	|	 ASP	OPN
+66 - laptop_quad_dev_57:	hd / ssd	NULL	|	hd / ssd	so love
+847 - laptop_quad_test_389:	ssd drive	NULL	|	ssd drive ` `	NULL
+3075 - laptop_quad_train_1430:	keyboard dock	far, far superior	|	keyboard dock	far , far superior
+3573 - laptop_quad_train_1850:	battery	again, disappointing	|	battery	again , disappointing
+3991 - laptop_quad_train_2194:	machine,	very capable	|	machine ,	very capable
+
+
+corrects: 4953	incorrects 5

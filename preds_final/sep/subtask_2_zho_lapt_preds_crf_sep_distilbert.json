@@ -1,0 +1,691 @@
+{"ID": "6696296:S022", "Triplet": [{"Aspect": "重量", "Opinion": "none", "VA": "5.43#5.29"}]}
+{"ID": "6696296:S049", "Triplet": [{"Aspect": "none", "Opinion": "有大幅的提升", "VA": "5.84#5.67"}, {"Aspect": "none", "Opinion": "有大幅的提升", "VA": "5.84#5.67"}, {"Aspect": "none", "Opinion": "有大幅的提升", "VA": "5.84#5.67"}]}
+{"ID": "6696296:S055", "Triplet": [{"Aspect": "OLED筆電畫面", "Opinion": "真好", "VA": "6.70#6.51"}]}
+{"ID": "6696296:S360", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.60#5.48"}]}
+{"ID": "6696296:S393", "Triplet": [{"Aspect": "筆電外觀", "Opinion": "挺不錯", "VA": "6.12#5.50"}, {"Aspect": "筆電外觀", "Opinion": "挺不錯", "VA": "6.12#5.50"}]}
+{"ID": "6696296:S654", "Triplet": [{"Aspect": "散熱溫度", "Opinion": "較高", "VA": "4.99#5.48"}, {"Aspect": "散熱溫度", "Opinion": "較高", "VA": "4.99#5.48"}]}
+{"ID": "6696791:S011", "Triplet": [{"Aspect": "none", "Opinion": "蠻便宜", "VA": "6.01#5.83"}]}
+{"ID": "6697332:S003", "Triplet": [{"Aspect": "none", "Opinion": "好很多", "VA": "6.21#5.93"}, {"Aspect": "none", "Opinion": "好很多", "VA": "6.21#5.93"}, {"Aspect": "none", "Opinion": "好很多", "VA": "6.21#5.93"}]}
+{"ID": "6697502:S046", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "5.76#5.83"}]}
+{"ID": "6697502:S090", "Triplet": [{"Aspect": "LGgram的售價", "Opinion": "太高", "VA": "6.08#6.33"}]}
+{"ID": "6697502:S140", "Triplet": [{"Aspect": "筆電價格", "Opinion": "輕薄不便宜", "VA": "5.03#5.46"}, {"Aspect": "筆電價格", "Opinion": "輕薄不便宜", "VA": "5.03#5.46"}]}
+{"ID": "6697502:S237", "Triplet": [{"Aspect": "筆電", "Opinion": "好大", "VA": "6.32#6.28"}]}
+{"ID": "6697502:S271", "Triplet": [{"Aspect": "筆電", "Opinion": "還不錯", "VA": "6.38#5.74"}]}
+{"ID": "6697502:S418", "Triplet": [{"Aspect": "價格", "Opinion": "輕薄太高", "VA": "5.47#5.73"}, {"Aspect": "價格", "Opinion": "輕薄太高", "VA": "5.47#5.73"}]}
+{"ID": "6697781:S003", "Triplet": [{"Aspect": "none", "Opinion": "好一點", "VA": "6.06#5.71"}]}
+{"ID": "6699063:S009", "Triplet": [{"Aspect": "Aspire5筆電", "Opinion": "最好看", "VA": "6.60#6.39"}]}
+{"ID": "6699348:S1652", "Triplet": [{"Aspect": "none", "Opinion": "真的大了點", "VA": "5.33#5.89"}]}
+{"ID": "6699348:S1666", "Triplet": [{"Aspect": "Razer筆電", "Opinion": "有熱情", "VA": "5.91#5.94"}]}
+{"ID": "6699348:S168", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.02#5.80"}]}
+{"ID": "6699348:S390", "Triplet": [{"Aspect": "NB的Display規格", "Opinion": "越拉越高越來越高", "VA": "5.82#5.97"}, {"Aspect": "NB的Display規格", "Opinion": "越拉越高越來越高", "VA": "5.82#5.97"}]}
+{"ID": "6699348:S447", "Triplet": [{"Aspect": "none", "Opinion": "相當不錯", "VA": "6.52#5.87"}]}
+{"ID": "6699348:S659", "Triplet": [{"Aspect": "大螢幕輕薄機身", "Opinion": "不錯的選擇", "VA": "6.41#5.74"}, {"Aspect": "大螢幕輕薄機身", "Opinion": "不錯的選擇", "VA": "6.41#5.74"}]}
+{"ID": "6699768:S003", "Triplet": [{"Aspect": "CP值", "Opinion": "算OK", "VA": "5.91#5.67"}]}
+{"ID": "6700135:S001", "Triplet": [{"Aspect": "none", "Opinion": "縮小", "VA": "6.38#5.83"}]}
+{"ID": "6700135:S007", "Triplet": [{"Aspect": "none", "Opinion": "很好用", "VA": "5.19#5.57"}]}
+{"ID": "6700840:S022", "Triplet": [{"Aspect": "螢幕品質", "Opinion": "好一點好一些", "VA": "6.10#5.99"}, {"Aspect": "螢幕品質", "Opinion": "好一點好一些", "VA": "6.10#5.99"}, {"Aspect": "螢幕品質", "Opinion": "好一點好一些", "VA": "6.10#5.99"}]}
+{"ID": "6700915:S014", "Triplet": [{"Aspect": "T460那一代鍵盤", "Opinion": "勉強達成一個不錯", "VA": "6.29#5.87"}]}
+{"ID": "6701483:S004", "Triplet": [{"Aspect": "綠色", "Opinion": "none", "VA": "6.13#6.07"}]}
+{"ID": "6701483:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.67#6.20"}, {"Aspect": "none", "Opinion": "none", "VA": "6.67#6.20"}]}
+{"ID": "6701483:S014", "Triplet": [{"Aspect": "粉粉的綠色", "Opinion": "none", "VA": "6.42#6.13"}, {"Aspect": "粉粉的綠色", "Opinion": "none", "VA": "6.42#6.13"}]}
+{"ID": "6707403:S072", "Triplet": [{"Aspect": "none", "Opinion": "不錯很方便", "VA": "6.49#5.82"}, {"Aspect": "none", "Opinion": "不錯很方便", "VA": "6.49#5.82"}, {"Aspect": "none", "Opinion": "不錯很方便", "VA": "6.49#5.82"}]}
+{"ID": "6707403:S108", "Triplet": [{"Aspect": "規格品管", "Opinion": "很棒", "VA": "6.23#6.16"}, {"Aspect": "規格品管", "Opinion": "很棒", "VA": "6.23#6.16"}]}
+{"ID": "6707403:S324", "Triplet": [{"Aspect": "none", "Opinion": "真是少見", "VA": "5.69#6.02"}]}
+{"ID": "6707403:S384", "Triplet": [{"Aspect": "規格價格", "Opinion": "不錯", "VA": "6.09#5.52"}, {"Aspect": "規格價格", "Opinion": "不錯", "VA": "6.09#5.52"}]}
+{"ID": "6707403:S667", "Triplet": [{"Aspect": "規格", "Opinion": "none", "VA": "5.63#5.75"}]}
+{"ID": "6707403:S965", "Triplet": [{"Aspect": "價格", "Opinion": "略高", "VA": "5.29#5.73"}]}
+{"ID": "6707606:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.78#5.62"}]}
+{"ID": "6709147:S004", "Triplet": [{"Aspect": "ASUSROGStrixG17G713RM-0042F6900HX潮魂黑", "Opinion": "不錯", "VA": "6.54#5.91"}]}
+{"ID": "6709329:S002", "Triplet": [{"Aspect": "none", "Opinion": "非廣色域", "VA": "5.26#5.64"}, {"Aspect": "none", "Opinion": "非廣色域", "VA": "5.26#5.64"}]}
+{"ID": "6710269:S004", "Triplet": [{"Aspect": "規格微星散熱模組", "Opinion": "大同小異做得比較好", "VA": "5.56#5.55"}]}
+{"ID": "6710876:S012", "Triplet": [{"Aspect": "none", "Opinion": "蠻高", "VA": "6.65#6.38"}, {"Aspect": "none", "Opinion": "蠻高", "VA": "6.65#6.38"}, {"Aspect": "none", "Opinion": "蠻高", "VA": "6.65#6.38"}, {"Aspect": "none", "Opinion": "蠻高", "VA": "6.65#6.38"}, {"Aspect": "none", "Opinion": "蠻高", "VA": "6.65#6.38"}]}
+{"ID": "6710972:S007", "Triplet": [{"Aspect": "華碩的售後", "Opinion": "太帥", "VA": "6.15#6.10"}]}
+{"ID": "6714159:S012", "Triplet": [{"Aspect": "效能", "Opinion": "none", "VA": "6.31#6.11"}, {"Aspect": "效能", "Opinion": "none", "VA": "6.31#6.11"}]}
+{"ID": "6714159:S015", "Triplet": [{"Aspect": "asusb945014吋續航", "Opinion": "超強很棒", "VA": "6.16#6.01"}]}
+{"ID": "6714409:S017", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.03"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.03"}]}
+{"ID": "6714797:S042", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.14#5.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.14#5.79"}]}
+{"ID": "6715499:S006", "Triplet": [{"Aspect": "none", "Opinion": "很耗", "VA": "5.37#5.71"}]}
+{"ID": "6715758:S017", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.06#5.68"}, {"Aspect": "none", "Opinion": "none", "VA": "6.06#5.68"}]}
+{"ID": "6716431:S008", "Triplet": [{"Aspect": "處理器", "Opinion": "none", "VA": "6.28#5.63"}, {"Aspect": "處理器", "Opinion": "none", "VA": "6.28#5.63"}]}
+{"ID": "6718832:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.70#5.59"}, {"Aspect": "none", "Opinion": "none", "VA": "4.70#5.59"}]}
+{"ID": "6720456:S005", "Triplet": [{"Aspect": "ASUSFX506LHB-0291B10300H戰魂黑的妥善率", "Opinion": "還不錯", "VA": "6.17#5.80"}, {"Aspect": "ASUSFX506LHB-0291B10300H戰魂黑的妥善率", "Opinion": "還不錯", "VA": "6.17#5.80"}]}
+{"ID": "6720888:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.26#5.82"}]}
+{"ID": "6721913:S002", "Triplet": [{"Aspect": "none", "Opinion": "好看", "VA": "5.51#5.61"}, {"Aspect": "none", "Opinion": "好看", "VA": "5.51#5.61"}, {"Aspect": "none", "Opinion": "好看", "VA": "5.51#5.61"}]}
+{"ID": "6722798:S016", "Triplet": [{"Aspect": "none", "Opinion": "強壯與便宜", "VA": "6.38#6.01"}]}
+{"ID": "6724439:S091", "Triplet": [{"Aspect": "A蓋顏色", "Opinion": "很好看", "VA": "5.58#5.91"}, {"Aspect": "A蓋顏色", "Opinion": "很好看", "VA": "5.58#5.91"}, {"Aspect": "A蓋顏色", "Opinion": "很好看", "VA": "5.58#5.91"}]}
+{"ID": "6725019:S159", "Triplet": [{"Aspect": "AcerSwiftEdge這個顏色", "Opinion": "好喜歡", "VA": "6.62#6.31"}]}
+{"ID": "6727069:S061", "Triplet": [{"Aspect": "AcerPredatorHelios300", "Opinion": "真的很吵", "VA": "5.70#5.97"}, {"Aspect": "AcerPredatorHelios300", "Opinion": "真的很吵", "VA": "5.70#5.97"}]}
+{"ID": "6727080:S008", "Triplet": [{"Aspect": "none", "Opinion": "很好看", "VA": "6.35#5.81"}, {"Aspect": "none", "Opinion": "很好看", "VA": "6.35#5.81"}]}
+{"ID": "6729031:S004", "Triplet": [{"Aspect": "none", "Opinion": "很適合用", "VA": "5.91#5.71"}]}
+{"ID": "6730399:S010", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.58#5.68"}]}
+{"ID": "6730966:S016", "Triplet": [{"Aspect": "CP值", "Opinion": "比較新很不錯", "VA": "6.62#5.95"}, {"Aspect": "CP值", "Opinion": "比較新很不錯", "VA": "6.62#5.95"}]}
+{"ID": "6731231:S004", "Triplet": [{"Aspect": "電腦性能", "Opinion": "不錯", "VA": "6.59#6.05"}]}
+{"ID": "6731463:S001", "Triplet": [{"Aspect": "none", "Opinion": "很高", "VA": "6.41#6.02"}]}
+{"ID": "6731463:S011", "Triplet": [{"Aspect": "FA507RM的規格", "Opinion": "還不錯", "VA": "6.44#5.69"}, {"Aspect": "FA507RM的規格", "Opinion": "還不錯", "VA": "6.44#5.69"}]}
+{"ID": "6731786:S003", "Triplet": [{"Aspect": "none", "Opinion": "沒那麼容易壞掉", "VA": "5.08#5.51"}]}
+{"ID": "6732441:S008", "Triplet": [{"Aspect": "none", "Opinion": "沒有很好", "VA": "5.97#5.87"}]}
+{"ID": "6734057:S006", "Triplet": [{"Aspect": "筆電", "Opinion": "不值得", "VA": "4.96#5.44"}]}
+{"ID": "6734862:S031", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.19#5.96"}, {"Aspect": "none", "Opinion": "none", "VA": "6.19#5.96"}]}
+{"ID": "6734979:S005", "Triplet": [{"Aspect": "none", "Opinion": "鐵定不便宜", "VA": "5.06#5.48"}, {"Aspect": "none", "Opinion": "鐵定不便宜", "VA": "5.06#5.48"}, {"Aspect": "none", "Opinion": "鐵定不便宜", "VA": "5.06#5.48"}, {"Aspect": "none", "Opinion": "鐵定不便宜", "VA": "5.06#5.48"}]}
+{"ID": "6734979:S027", "Triplet": [{"Aspect": "價格", "Opinion": "很自視", "VA": "5.51#5.70"}, {"Aspect": "價格", "Opinion": "很自視", "VA": "5.51#5.70"}]}
+{"ID": "6735674:S004", "Triplet": [{"Aspect": "none", "Opinion": "真的滿不錯得不錯看", "VA": "6.53#5.92"}, {"Aspect": "none", "Opinion": "真的滿不錯得不錯看", "VA": "6.53#5.92"}, {"Aspect": "none", "Opinion": "真的滿不錯得不錯看", "VA": "6.53#5.92"}]}
+{"ID": "6737699:S025", "Triplet": [{"Aspect": "筆電端的RTX4070", "Opinion": "稍嫌可惜了些", "VA": "5.47#5.47"}]}
+{"ID": "6738095:S151", "Triplet": [{"Aspect": "MSI的筆電", "Opinion": "真的好用", "VA": "6.70#6.55"}]}
+{"ID": "6738095:S258", "Triplet": [{"Aspect": "MSI筆電", "Opinion": "越來越吸引人", "VA": "6.60#6.34"}]}
+{"ID": "6738095:S502", "Triplet": [{"Aspect": "筆電", "Opinion": "太誘人", "VA": "6.43#6.27"}]}
+{"ID": "6738095:S598", "Triplet": [{"Aspect": "規格", "Opinion": "給到頂", "VA": "6.57#6.64"}]}
+{"ID": "6738095:S821", "Triplet": [{"Aspect": "規格價格", "Opinion": "果然不是我負擔的起", "VA": "5.44#5.67"}]}
+{"ID": "6738133:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.52#5.65"}, {"Aspect": "none", "Opinion": "none", "VA": "5.52#5.65"}]}
+{"ID": "6742315:S002", "Triplet": [{"Aspect": "none", "Opinion": "不用擔心", "VA": "5.74#5.54"}, {"Aspect": "none", "Opinion": "不用擔心", "VA": "5.74#5.54"}]}
+{"ID": "6743339:S012", "Triplet": [{"Aspect": "價格", "Opinion": "有競爭力", "VA": "6.42#5.91"}, {"Aspect": "價格", "Opinion": "有競爭力", "VA": "6.42#5.91"}]}
+{"ID": "6743810:S013", "Triplet": [{"Aspect": "電池的電量", "Opinion": "似乎不太夠力", "VA": "5.32#5.57"}]}
+{"ID": "6743980:S021", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.04#5.66"}]}
+{"ID": "6744292:S182", "Triplet": [{"Aspect": "規格價格", "Opinion": "沒辦法", "VA": "5.57#5.67"}, {"Aspect": "規格價格", "Opinion": "沒辦法", "VA": "5.57#5.67"}]}
+{"ID": "6744292:S185", "Triplet": [{"Aspect": "Panasonic的筆電", "Opinion": "不錯", "VA": "6.18#5.76"}]}
+{"ID": "6744292:S241", "Triplet": [{"Aspect": "圓形筆電觸控版", "Opinion": "很特別", "VA": "6.55#6.18"}]}
+{"ID": "6744292:S283", "Triplet": [{"Aspect": "圓形的觸控板", "Opinion": "看起來怪怪", "VA": "6.50#6.41"}]}
+{"ID": "6744292:S360", "Triplet": [{"Aspect": "散熱續航力", "Opinion": "很重要", "VA": "6.48#6.35"}, {"Aspect": "散熱續航力", "Opinion": "很重要", "VA": "6.48#6.35"}]}
+{"ID": "6744292:S522", "Triplet": [{"Aspect": "中間的圓形觸控", "Opinion": "太搶眼", "VA": "5.88#5.91"}, {"Aspect": "中間的圓形觸控", "Opinion": "太搶眼", "VA": "5.88#5.91"}]}
+{"ID": "6744292:S571", "Triplet": [{"Aspect": "電腦的I/O外觀設計", "Opinion": "很日系真的老氣", "VA": "6.42#6.46"}, {"Aspect": "電腦的I/O外觀設計", "Opinion": "很日系真的老氣", "VA": "6.42#6.46"}]}
+{"ID": "6744968:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.31#5.79"}]}
+{"ID": "6745361:S107", "Triplet": [{"Aspect": "4090筆電", "Opinion": "好薄", "VA": "6.36#5.87"}]}
+{"ID": "6745361:S208", "Triplet": [{"Aspect": "效能", "Opinion": "真的挺厲害好正", "VA": "6.70#6.53"}]}
+{"ID": "6745361:S227", "Triplet": [{"Aspect": "價格", "Opinion": "真的夠驚人", "VA": "6.42#6.57"}, {"Aspect": "價格", "Opinion": "真的夠驚人", "VA": "6.42#6.57"}]}
+{"ID": "6745361:S617", "Triplet": [{"Aspect": "RTX4090", "Opinion": "太讚", "VA": "6.64#6.43"}]}
+{"ID": "6745395:S024", "Triplet": [{"Aspect": "S3502的規格", "Opinion": "比較好", "VA": "5.66#5.48"}]}
+{"ID": "6745971:S138", "Triplet": [{"Aspect": "MSIVectorGP7713VF電競筆電", "Opinion": "很棒", "VA": "6.65#6.21"}]}
+{"ID": "6745971:S287", "Triplet": [{"Aspect": "電競筆電", "Opinion": "太厲害", "VA": "6.45#6.28"}]}
+{"ID": "6746096:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.67#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.67#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.67#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.67#5.63"}]}
+{"ID": "6746249:S001", "Triplet": [{"Aspect": "none", "Opinion": "夠用", "VA": "6.11#5.81"}]}
+{"ID": "6747537:S002", "Triplet": [{"Aspect": "PanasonicCF-FV3捷元14XPro", "Opinion": "很好用", "VA": "6.67#6.10"}]}
+{"ID": "6748659:S021", "Triplet": [{"Aspect": "ThinkPadZ13Gen2", "Opinion": "看來比前一代有質感", "VA": "6.46#5.89"}]}
+{"ID": "6749219:S033", "Triplet": [{"Aspect": "價格", "Opinion": "none", "VA": "5.02#5.45"}]}
+{"ID": "6749219:S088", "Triplet": [{"Aspect": "效能", "Opinion": "none", "VA": "5.30#5.49"}]}
+{"ID": "6749219:S207", "Triplet": [{"Aspect": "效能", "Opinion": "有的拚了", "VA": "6.62#6.27"}]}
+{"ID": "6749219:S232", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#5.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.27#5.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.27#5.85"}]}
+{"ID": "6749219:S441", "Triplet": [{"Aspect": "MSI筆電", "Opinion": "真是棒", "VA": "6.59#6.48"}, {"Aspect": "MSI筆電", "Opinion": "真是棒", "VA": "6.59#6.48"}]}
+{"ID": "6749985:S013", "Triplet": [{"Aspect": "台灣的RTX4050筆電", "Opinion": "none", "VA": "4.93#5.54"}]}
+{"ID": "6750760:S007", "Triplet": [{"Aspect": "價格", "Opinion": "可以", "VA": "5.91#5.50"}, {"Aspect": "價格", "Opinion": "可以", "VA": "5.91#5.50"}]}
+{"ID": "6752254:S188", "Triplet": [{"Aspect": "筆電外觀", "Opinion": "比較耐看", "VA": "6.13#5.92"}]}
+{"ID": "6752254:S231", "Triplet": [{"Aspect": "續航力", "Opinion": "有點慘", "VA": "5.16#5.60"}]}
+{"ID": "6752432:S001", "Triplet": [{"Aspect": "none", "Opinion": "比較細緻", "VA": "5.57#5.54"}, {"Aspect": "none", "Opinion": "比較細緻", "VA": "5.57#5.54"}]}
+{"ID": "6752744:S004", "Triplet": [{"Aspect": "S5402ZACPU省電版效能", "Opinion": "鮮艷", "VA": "5.98#5.59"}, {"Aspect": "S5402ZACPU省電版效能", "Opinion": "鮮艷", "VA": "5.98#5.59"}]}
+{"ID": "6753146:S027", "Triplet": [{"Aspect": "none", "Opinion": "很方便出門帶", "VA": "5.77#5.69"}, {"Aspect": "none", "Opinion": "很方便出門帶", "VA": "5.77#5.69"}, {"Aspect": "none", "Opinion": "很方便出門帶", "VA": "5.77#5.69"}]}
+{"ID": "6754615:S208", "Triplet": [{"Aspect": "none", "Opinion": "有點弱", "VA": "5.59#5.64"}]}
+{"ID": "6754615:S305", "Triplet": [{"Aspect": "微星筆電", "Opinion": "很耐用", "VA": "6.71#6.22"}]}
+{"ID": "6754615:S374", "Triplet": [{"Aspect": "none", "Opinion": "很方便", "VA": "6.29#6.09"}, {"Aspect": "none", "Opinion": "很方便", "VA": "6.29#6.09"}]}
+{"ID": "6754887:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.04#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.04#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.04#5.86"}]}
+{"ID": "6755756:S035", "Triplet": [{"Aspect": "ASUS筆電的設計", "Opinion": "哲學真的很奇怪", "VA": "5.85#6.17"}]}
+{"ID": "6755756:S131", "Triplet": [{"Aspect": "電競筆電單價", "Opinion": "不低", "VA": "5.00#5.36"}]}
+{"ID": "6755756:S136", "Triplet": [{"Aspect": "散熱", "Opinion": "有用心", "VA": "5.81#5.91"}]}
+{"ID": "6755959:S006", "Triplet": [{"Aspect": "價格", "Opinion": "none", "VA": "4.88#5.52"}]}
+{"ID": "6756274:S093", "Triplet": [{"Aspect": "none", "Opinion": "很大", "VA": "5.96#6.05"}, {"Aspect": "none", "Opinion": "很大", "VA": "5.96#6.05"}, {"Aspect": "none", "Opinion": "很大", "VA": "5.96#6.05"}]}
+{"ID": "6758302:S018", "Triplet": [{"Aspect": "none", "Opinion": "太不專業", "VA": "5.41#5.87"}]}
+{"ID": "6758717:S010", "Triplet": [{"Aspect": "none", "Opinion": "很高", "VA": "6.13#6.07"}]}
+{"ID": "6759918:S002", "Triplet": [{"Aspect": "none", "Opinion": "爽感滿分", "VA": "6.06#6.26"}]}
+{"ID": "6760124:S006", "Triplet": [{"Aspect": "效能", "Opinion": "不錯很正", "VA": "6.49#6.00"}]}
+{"ID": "6760124:S015", "Triplet": [{"Aspect": "外型", "Opinion": "太圓潤", "VA": "5.01#5.47"}, {"Aspect": "外型", "Opinion": "太圓潤", "VA": "5.01#5.47"}]}
+{"ID": "6760124:S201", "Triplet": [{"Aspect": "Lenovo這系列CP值", "Opinion": "滿高", "VA": "6.54#6.22"}]}
+{"ID": "6763119:S012", "Triplet": [{"Aspect": "筆電", "Opinion": "不錯", "VA": "6.23#5.59"}]}
+{"ID": "6763424:S003", "Triplet": [{"Aspect": "散熱", "Opinion": "大幅增加", "VA": "5.39#5.76"}]}
+{"ID": "6764026:S008", "Triplet": [{"Aspect": "沒顯卡片子轉檔", "Opinion": "很慢", "VA": "5.58#5.82"}]}
+{"ID": "6764325:S029", "Triplet": [{"Aspect": "素雅的外觀", "Opinion": "很不錯", "VA": "6.35#5.88"}]}
+{"ID": "6764325:S117", "Triplet": [{"Aspect": "TUF的CP值", "Opinion": "越來越高", "VA": "6.61#6.48"}, {"Aspect": "TUF的CP值", "Opinion": "越來越高", "VA": "6.61#6.48"}]}
+{"ID": "6764325:S149", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.24#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.24#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.24#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.24#5.67"}]}
+{"ID": "6764325:S173", "Triplet": [{"Aspect": "華碩規格", "Opinion": "開得不錯", "VA": "6.41#5.73"}]}
+{"ID": "6764325:S205", "Triplet": [{"Aspect": "TUF系列螢幕規格", "Opinion": "終於正常", "VA": "6.46#6.03"}]}
+{"ID": "6764325:S214", "Triplet": [{"Aspect": "CP值", "Opinion": "蠻高", "VA": "6.60#6.21"}]}
+{"ID": "6764325:S243", "Triplet": [{"Aspect": "SSD記憶體", "Opinion": "太小了點", "VA": "5.41#5.56"}, {"Aspect": "SSD記憶體", "Opinion": "太小了點", "VA": "5.41#5.56"}]}
+{"ID": "6764325:S250", "Triplet": [{"Aspect": "TUF浮雕設計", "Opinion": "none", "VA": "6.33#5.92"}, {"Aspect": "TUF浮雕設計", "Opinion": "none", "VA": "6.33#5.92"}]}
+{"ID": "6764325:S263", "Triplet": [{"Aspect": "TUF系列價格", "Opinion": "比較可以接受", "VA": "5.85#5.57"}]}
+{"ID": "6764325:S269", "Triplet": [{"Aspect": "none", "Opinion": "有點破表", "VA": "5.77#5.73"}, {"Aspect": "none", "Opinion": "有點破表", "VA": "5.77#5.73"}]}
+{"ID": "6764325:S322", "Triplet": [{"Aspect": "散熱", "Opinion": "咆哮大聲", "VA": "5.71#5.89"}]}
+{"ID": "6764325:S354", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "5.95#5.46"}, {"Aspect": "none", "Opinion": "還不錯", "VA": "5.95#5.46"}, {"Aspect": "none", "Opinion": "還不錯", "VA": "5.95#5.46"}]}
+{"ID": "6767500:S008", "Triplet": [{"Aspect": "none", "Opinion": "真的挺不錯", "VA": "6.61#6.09"}]}
+{"ID": "6768055:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#5.70"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#5.70"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#5.70"}]}
+{"ID": "6768439:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.03#5.74"}, {"Aspect": "none", "Opinion": "none", "VA": "5.03#5.74"}, {"Aspect": "none", "Opinion": "none", "VA": "5.03#5.74"}]}
+{"ID": "6769489:S014", "Triplet": [{"Aspect": "none", "Opinion": "很醜", "VA": "5.65#5.75"}]}
+{"ID": "6769489:S126", "Triplet": [{"Aspect": "none", "Opinion": "特好", "VA": "5.70#5.84"}, {"Aspect": "none", "Opinion": "特好", "VA": "5.70#5.84"}]}
+{"ID": "6769489:S140", "Triplet": [{"Aspect": "聯名款的外觀", "Opinion": "很有特色比較喜歡", "VA": "5.39#5.86"}, {"Aspect": "聯名款的外觀", "Opinion": "很有特色比較喜歡", "VA": "5.39#5.86"}]}
+{"ID": "6769617:S028", "Triplet": [{"Aspect": "華碩的Zenbook沒獨顯", "Opinion": "很符合你的需求", "VA": "6.11#5.83"}]}
+{"ID": "6769686:S015", "Triplet": [{"Aspect": "FX507VU的螢幕", "Opinion": "很好看", "VA": "6.76#6.38"}, {"Aspect": "FX507VU的螢幕", "Opinion": "很好看", "VA": "6.76#6.38"}]}
+{"ID": "6770036:S115", "Triplet": [{"Aspect": "GIGABYTEAERO14OLED", "Opinion": "蠻不錯", "VA": "6.54#5.93"}]}
+{"ID": "6770036:S385", "Triplet": [{"Aspect": "筆電", "Opinion": "好久看起來不錯", "VA": "6.39#5.89"}]}
+{"ID": "6770036:S443", "Triplet": [{"Aspect": "全白色的筆電", "Opinion": "蠻好看", "VA": "6.66#6.46"}]}
+{"ID": "6770036:S504", "Triplet": [{"Aspect": "筆電", "Opinion": "喜歡簡約", "VA": "6.12#5.87"}]}
+{"ID": "6770036:S535", "Triplet": [{"Aspect": "筆電", "Opinion": "很棒", "VA": "6.62#6.60"}]}
+{"ID": "6770587:S018", "Triplet": [{"Aspect": "none", "Opinion": "差一大截", "VA": "5.63#5.78"}]}
+{"ID": "6770623:S017", "Triplet": [{"Aspect": "價格", "Opinion": "買十一代的就好", "VA": "6.13#5.92"}, {"Aspect": "價格", "Opinion": "買十一代的就好", "VA": "6.13#5.92"}]}
+{"ID": "6772247:S218", "Triplet": [{"Aspect": "ASUS的UX3402", "Opinion": "讓人心動", "VA": "6.16#5.99"}]}
+{"ID": "6772787:S036", "Triplet": [{"Aspect": "筆電價格", "Opinion": "越來越強", "VA": "6.41#6.29"}, {"Aspect": "筆電價格", "Opinion": "越來越強", "VA": "6.41#6.29"}]}
+{"ID": "6772787:S194", "Triplet": [{"Aspect": "none", "Opinion": "改善空間", "VA": "5.70#5.59"}]}
+{"ID": "6772787:S227", "Triplet": [{"Aspect": "MSI", "Opinion": "好棒棒", "VA": "6.67#6.43"}]}
+{"ID": "6772787:S241", "Triplet": [{"Aspect": "功能外型", "Opinion": "太強大", "VA": "6.72#6.46"}, {"Aspect": "功能外型", "Opinion": "太強大", "VA": "6.72#6.46"}]}
+{"ID": "6772787:S247", "Triplet": [{"Aspect": "雙工筆電", "Opinion": "很值得一試", "VA": "6.70#6.44"}]}
+{"ID": "6774327:S025", "Triplet": [{"Aspect": "台灣筆電規格", "Opinion": "減半加倍", "VA": "5.99#5.79"}, {"Aspect": "台灣筆電規格", "Opinion": "減半加倍", "VA": "5.99#5.79"}]}
+{"ID": "6774327:S030", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.43#5.85"}]}
+{"ID": "6775159:S021", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.85#5.76"}, {"Aspect": "none", "Opinion": "none", "VA": "5.85#5.76"}]}
+{"ID": "6775159:S028", "Triplet": [{"Aspect": "筆電的規格", "Opinion": "有比ASUS那一台好一些些", "VA": "6.07#5.79"}, {"Aspect": "筆電的規格", "Opinion": "有比ASUS那一台好一些些", "VA": "6.07#5.79"}]}
+{"ID": "6776287:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.41#5.62"}]}
+{"ID": "6776730:S152", "Triplet": [{"Aspect": "none", "Opinion": "真的很棒", "VA": "6.01#6.17"}, {"Aspect": "none", "Opinion": "真的很棒", "VA": "6.01#6.17"}, {"Aspect": "none", "Opinion": "真的很棒", "VA": "6.01#6.17"}]}
+{"ID": "6776730:S182", "Triplet": [{"Aspect": "筆電的外型", "Opinion": "有感中規中矩", "VA": "5.78#5.63"}]}
+{"ID": "6777054:S029", "Triplet": [{"Aspect": "13寸OLED筆電", "Opinion": "none", "VA": "6.48#5.97"}, {"Aspect": "13寸OLED筆電", "Opinion": "none", "VA": "6.48#5.97"}]}
+{"ID": "6777250:S187", "Triplet": [{"Aspect": "性能", "Opinion": "這麼好", "VA": "5.52#5.64"}]}
+{"ID": "6777250:S317", "Triplet": [{"Aspect": "AORUS17BSF性價比", "Opinion": "none", "VA": "6.47#5.82"}, {"Aspect": "AORUS17BSF性價比", "Opinion": "none", "VA": "6.47#5.82"}, {"Aspect": "AORUS17BSF性價比", "Opinion": "none", "VA": "6.47#5.82"}]}
+{"ID": "6777250:S524", "Triplet": [{"Aspect": "規格", "Opinion": "太棒", "VA": "6.57#6.59"}]}
+{"ID": "6777250:S827", "Triplet": [{"Aspect": "技嘉nb", "Opinion": "看起來有競爭", "VA": "6.05#5.93"}]}
+{"ID": "6777250:S964", "Triplet": [{"Aspect": "筆電", "Opinion": "越做越好", "VA": "5.65#5.98"}]}
+{"ID": "6777976:S005", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "6.41#5.82"}]}
+{"ID": "6778404:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.02#6.02"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#6.02"}]}
+{"ID": "6779544:S009", "Triplet": [{"Aspect": "none", "Opinion": "很不錯", "VA": "6.25#5.72"}, {"Aspect": "none", "Opinion": "很不錯", "VA": "6.25#5.72"}]}
+{"ID": "6779987:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#5.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.20#5.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.20#5.78"}]}
+{"ID": "6779987:S013", "Triplet": [{"Aspect": "none", "Opinion": "比較夠用", "VA": "5.95#5.64"}]}
+{"ID": "6782540:S089", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.05#5.60"}]}
+{"ID": "6783103:S101", "Triplet": [{"Aspect": "none", "Opinion": "很夠", "VA": "6.62#6.13"}, {"Aspect": "none", "Opinion": "很夠", "VA": "6.62#6.13"}]}
+{"ID": "6783103:S174", "Triplet": [{"Aspect": "電競筆電", "Opinion": "好炫", "VA": "6.59#6.32"}]}
+{"ID": "6783374:S006", "Triplet": [{"Aspect": "none", "Opinion": "好一點", "VA": "5.35#5.49"}, {"Aspect": "none", "Opinion": "好一點", "VA": "5.35#5.49"}]}
+{"ID": "6784308:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.17#5.52"}]}
+{"ID": "6785794:S091", "Triplet": [{"Aspect": "none", "Opinion": "好幫手", "VA": "6.17#5.83"}, {"Aspect": "none", "Opinion": "好幫手", "VA": "6.17#5.83"}]}
+{"ID": "6786477:S027", "Triplet": [{"Aspect": "擴充性筆電", "Opinion": "最好", "VA": "6.61#6.30"}]}
+{"ID": "6787253:S015", "Triplet": [{"Aspect": "none", "Opinion": "晴很值", "VA": "6.51#6.07"}, {"Aspect": "none", "Opinion": "晴很值", "VA": "6.51#6.07"}, {"Aspect": "none", "Opinion": "晴很值", "VA": "6.51#6.07"}, {"Aspect": "none", "Opinion": "晴很值", "VA": "6.51#6.07"}]}
+{"ID": "6787919:S007", "Triplet": [{"Aspect": "華碩的網卡", "Opinion": "真的有問題", "VA": "5.96#6.00"}]}
+{"ID": "6788177:S008", "Triplet": [{"Aspect": "none", "Opinion": "好攜帶", "VA": "6.52#5.89"}]}
+{"ID": "6788726:S045", "Triplet": [{"Aspect": "筆電的造型", "Opinion": "很特別", "VA": "6.51#6.31"}]}
+{"ID": "6788726:S112", "Triplet": [{"Aspect": "none", "Opinion": "太小", "VA": "5.66#5.88"}]}
+{"ID": "6788726:S340", "Triplet": [{"Aspect": "筆電", "Opinion": "很難找", "VA": "6.16#5.95"}]}
+{"ID": "6789574:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.25#5.52"}, {"Aspect": "none", "Opinion": "none", "VA": "5.25#5.52"}]}
+{"ID": "6789589:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.22"}]}
+{"ID": "6790452:S012", "Triplet": [{"Aspect": "cpu", "Opinion": "過剩", "VA": "5.20#5.55"}]}
+{"ID": "6791667:S009", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.56#5.67"}]}
+{"ID": "6792246:S002", "Triplet": [{"Aspect": "none", "Opinion": "還行", "VA": "5.52#5.66"}, {"Aspect": "none", "Opinion": "還行", "VA": "5.52#5.66"}]}
+{"ID": "6792246:S003", "Triplet": [{"Aspect": "none", "Opinion": "真的是比較貴", "VA": "5.37#5.83"}, {"Aspect": "none", "Opinion": "真的是比較貴", "VA": "5.37#5.83"}]}
+{"ID": "6792499:S105", "Triplet": [{"Aspect": "MSI的散熱", "Opinion": "很威", "VA": "5.08#5.75"}, {"Aspect": "MSI的散熱", "Opinion": "很威", "VA": "5.08#5.75"}]}
+{"ID": "6792499:S173", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#5.90"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.90"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.90"}]}
+{"ID": "6792914:S002", "Triplet": [{"Aspect": "none", "Opinion": "比較激進", "VA": "5.37#5.54"}, {"Aspect": "none", "Opinion": "比較激進", "VA": "5.37#5.54"}]}
+{"ID": "6793406:S004", "Triplet": [{"Aspect": "華碩規格", "Opinion": "none", "VA": "6.11#5.92"}, {"Aspect": "華碩規格", "Opinion": "none", "VA": "6.11#5.92"}]}
+{"ID": "6793679:S002", "Triplet": [{"Aspect": "none", "Opinion": "偏低", "VA": "5.95#5.63"}, {"Aspect": "none", "Opinion": "偏低", "VA": "5.95#5.63"}]}
+{"ID": "6794063:S006", "Triplet": [{"Aspect": "價格", "Opinion": "none", "VA": "5.89#5.95"}, {"Aspect": "價格", "Opinion": "none", "VA": "5.89#5.95"}]}
+{"ID": "6794063:S017", "Triplet": [{"Aspect": "none", "Opinion": "越來越新潮出聯名超帥", "VA": "6.16#5.97"}, {"Aspect": "none", "Opinion": "越來越新潮出聯名超帥", "VA": "6.16#5.97"}]}
+{"ID": "6794108:S004", "Triplet": [{"Aspect": "none", "Opinion": "比較差點", "VA": "5.21#5.52"}, {"Aspect": "none", "Opinion": "比較差點", "VA": "5.21#5.52"}, {"Aspect": "none", "Opinion": "比較差點", "VA": "5.21#5.52"}]}
+{"ID": "6794108:S022", "Triplet": [{"Aspect": "none", "Opinion": "物美價廉", "VA": "5.91#5.70"}]}
+{"ID": "6795285:S006", "Triplet": [{"Aspect": "none", "Opinion": "最便宜", "VA": "6.06#5.81"}]}
+{"ID": "6795449:S209", "Triplet": [{"Aspect": "顯卡", "Opinion": "果然貴", "VA": "5.04#5.54"}]}
+{"ID": "6795449:S265", "Triplet": [{"Aspect": "價格", "Opinion": "還不錯", "VA": "6.39#5.72"}, {"Aspect": "價格", "Opinion": "還不錯", "VA": "6.39#5.72"}]}
+{"ID": "6795611:S017", "Triplet": [{"Aspect": "獨顯效能", "Opinion": "最強", "VA": "6.60#6.21"}, {"Aspect": "獨顯效能", "Opinion": "最強", "VA": "6.60#6.21"}]}
+{"ID": "6796132:S009", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.33#5.47"}, {"Aspect": "none", "Opinion": "none", "VA": "5.33#5.47"}]}
+{"ID": "6796681:S025", "Triplet": [{"Aspect": "none", "Opinion": "比你那兩台筆電強很多", "VA": "6.61#6.09"}]}
+{"ID": "6797641:S012", "Triplet": [{"Aspect": "none", "Opinion": "真香", "VA": "4.98#5.65"}, {"Aspect": "none", "Opinion": "真香", "VA": "4.98#5.65"}]}
+{"ID": "6797970:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.37#5.68"}]}
+{"ID": "6797970:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#5.82"}]}
+{"ID": "6797970:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.71#5.70"}]}
+{"ID": "6797970:S015", "Triplet": [{"Aspect": "UX5304", "Opinion": "很麻煩真的很輕薄", "VA": "6.49#6.35"}]}
+{"ID": "6800764:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.15#5.85"}]}
+{"ID": "6800826:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.24#5.50"}, {"Aspect": "none", "Opinion": "none", "VA": "5.24#5.50"}]}
+{"ID": "6803625:S004", "Triplet": [{"Aspect": "none", "Opinion": "低非常推薦", "VA": "5.30#5.59"}, {"Aspect": "none", "Opinion": "低非常推薦", "VA": "5.30#5.59"}]}
+{"ID": "6806475:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.08"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.08"}]}
+{"ID": "6806698:S012", "Triplet": [{"Aspect": "none", "Opinion": "比較好一些", "VA": "6.02#5.90"}, {"Aspect": "none", "Opinion": "比較好一些", "VA": "6.02#5.90"}, {"Aspect": "none", "Opinion": "比較好一些", "VA": "6.02#5.90"}]}
+{"ID": "6809694:S005", "Triplet": [{"Aspect": "none", "Opinion": "夠便宜不錯", "VA": "5.99#5.51"}, {"Aspect": "none", "Opinion": "夠便宜不錯", "VA": "5.99#5.51"}]}
+{"ID": "6809694:S043", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.82#5.66"}, {"Aspect": "none", "Opinion": "none", "VA": "5.82#5.66"}, {"Aspect": "none", "Opinion": "none", "VA": "5.82#5.66"}, {"Aspect": "none", "Opinion": "none", "VA": "5.82#5.66"}]}
+{"ID": "6809825:S007", "Triplet": [{"Aspect": "14吋yogapro7i聯想官網規格", "Opinion": "none", "VA": "5.82#5.84"}]}
+{"ID": "6810173:S053", "Triplet": [{"Aspect": "none", "Opinion": "稍嫌普通", "VA": "4.86#5.41"}]}
+{"ID": "6810173:S060", "Triplet": [{"Aspect": "none", "Opinion": "不錯不錯不錯", "VA": "6.08#5.41"}]}
+{"ID": "6810173:S061", "Triplet": [{"Aspect": "none", "Opinion": "方便性足夠使用", "VA": "6.11#5.88"}]}
+{"ID": "6810173:S094", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.77#5.93"}]}
+{"ID": "6810392:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.03#5.72"}, {"Aspect": "none", "Opinion": "none", "VA": "6.03#5.72"}]}
+{"ID": "6811074:S002", "Triplet": [{"Aspect": "none", "Opinion": "比較推薦較來得好一點", "VA": "5.97#5.70"}, {"Aspect": "none", "Opinion": "比較推薦較來得好一點", "VA": "5.97#5.70"}]}
+{"ID": "6811221:S008", "Triplet": [{"Aspect": "ROG", "Opinion": "完美", "VA": "6.21#6.04"}]}
+{"ID": "6812376:S229", "Triplet": [{"Aspect": "none", "Opinion": "算是滿不錯", "VA": "6.35#5.71"}]}
+{"ID": "6812376:S266", "Triplet": [{"Aspect": "Thunderbolt4連接埠", "Opinion": "缺乏", "VA": "5.82#5.55"}, {"Aspect": "Thunderbolt4連接埠", "Opinion": "缺乏", "VA": "5.82#5.55"}]}
+{"ID": "6812835:S001", "Triplet": [{"Aspect": "none", "Opinion": "最便宜挺划算", "VA": "5.66#5.59"}]}
+{"ID": "6812980:S006", "Triplet": [{"Aspect": "none", "Opinion": "超輕薄", "VA": "6.61#6.07"}, {"Aspect": "none", "Opinion": "超輕薄", "VA": "6.61#6.07"}]}
+{"ID": "6814656:S011", "Triplet": [{"Aspect": "效能價錢", "Opinion": "普普", "VA": "5.72#5.70"}]}
+{"ID": "6814656:S025", "Triplet": [{"Aspect": "價格", "Opinion": "最失敗", "VA": "5.75#5.91"}]}
+{"ID": "6814912:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.48#5.70"}]}
+{"ID": "6815929:S046", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.25#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.25#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.25#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.25#5.86"}]}
+{"ID": "6817444:S020", "Triplet": [{"Aspect": "none", "Opinion": "最喜歡", "VA": "6.35#6.12"}]}
+{"ID": "6818071:S015", "Triplet": [{"Aspect": "筆電", "Opinion": "很特別", "VA": "6.59#6.40"}]}
+{"ID": "6818071:S029", "Triplet": [{"Aspect": "重量", "Opinion": "none", "VA": "6.34#5.71"}]}
+{"ID": "6818071:S057", "Triplet": [{"Aspect": "雙螢幕", "Opinion": "還不錯有點創意", "VA": "5.99#5.46"}]}
+{"ID": "6818071:S120", "Triplet": [{"Aspect": "雙螢幕可以直立擺放", "Opinion": "none", "VA": "6.25#5.99"}]}
+{"ID": "6818071:S128", "Triplet": [{"Aspect": "呆萌的外表筆電", "Opinion": "none", "VA": "6.15#6.26"}, {"Aspect": "呆萌的外表筆電", "Opinion": "none", "VA": "6.15#6.26"}, {"Aspect": "呆萌的外表筆電", "Opinion": "none", "VA": "6.15#6.26"}]}
+{"ID": "6818071:S156", "Triplet": [{"Aspect": "none", "Opinion": "小貴", "VA": "4.96#5.67"}, {"Aspect": "none", "Opinion": "小貴", "VA": "4.96#5.67"}]}
+{"ID": "6818071:S202", "Triplet": [{"Aspect": "雙螢幕筆電", "Opinion": "很讚有點貴超讚", "VA": "6.01#6.06"}, {"Aspect": "雙螢幕筆電", "Opinion": "很讚有點貴超讚", "VA": "6.01#6.06"}]}
+{"ID": "6818071:S215", "Triplet": [{"Aspect": "LenovoYogaBook9i", "Opinion": "好讚", "VA": "6.73#6.44"}]}
+{"ID": "6819503:S007", "Triplet": [{"Aspect": "OLED畫面", "Opinion": "漂亮", "VA": "4.92#5.55"}]}
+{"ID": "6820357:S020", "Triplet": [{"Aspect": "none", "Opinion": "真好看", "VA": "5.51#5.73"}, {"Aspect": "none", "Opinion": "真好看", "VA": "5.51#5.73"}, {"Aspect": "none", "Opinion": "真好看", "VA": "5.51#5.73"}]}
+{"ID": "6820790:S050", "Triplet": [{"Aspect": "none", "Opinion": "很貴", "VA": "5.41#5.74"}, {"Aspect": "none", "Opinion": "很貴", "VA": "5.41#5.74"}]}
+{"ID": "6822372:S001", "Triplet": [{"Aspect": "螢幕", "Opinion": "比較小一點", "VA": "5.23#5.56"}]}
+{"ID": "6822398:S013", "Triplet": [{"Aspect": "none", "Opinion": "有點過高", "VA": "5.74#5.64"}]}
+{"ID": "6822860:S004", "Triplet": [{"Aspect": "捷元14XPro筆記型電腦", "Opinion": "不錯的選擇", "VA": "6.37#5.75"}, {"Aspect": "捷元14XPro筆記型電腦", "Opinion": "不錯的選擇", "VA": "6.37#5.75"}]}
+{"ID": "6822948:S011", "Triplet": [{"Aspect": "價格", "Opinion": "none", "VA": "6.08#6.13"}, {"Aspect": "價格", "Opinion": "none", "VA": "6.08#6.13"}, {"Aspect": "價格", "Opinion": "none", "VA": "6.08#6.13"}]}
+{"ID": "6823349:S027", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#5.94"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#5.94"}]}
+{"ID": "6824472:S019", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "6.00#5.66"}, {"Aspect": "none", "Opinion": "比較好", "VA": "6.00#5.66"}]}
+{"ID": "6824712:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.17#5.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.17#5.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.17#5.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.17#5.65"}]}
+{"ID": "6824784:S004", "Triplet": [{"Aspect": "none", "Opinion": "很低階", "VA": "5.19#5.61"}, {"Aspect": "none", "Opinion": "很低階", "VA": "5.19#5.61"}, {"Aspect": "none", "Opinion": "很低階", "VA": "5.19#5.61"}, {"Aspect": "none", "Opinion": "很低階", "VA": "5.19#5.61"}]}
+{"ID": "6825044:S001", "Triplet": [{"Aspect": "none", "Opinion": "超帥很有質感", "VA": "6.43#6.04"}, {"Aspect": "none", "Opinion": "超帥很有質感", "VA": "6.43#6.04"}]}
+{"ID": "6825579:S010", "Triplet": [{"Aspect": "none", "Opinion": "很不錯的選擇", "VA": "6.18#5.78"}]}
+{"ID": "6826025:S001", "Triplet": [{"Aspect": "價格", "Opinion": "真的太便宜", "VA": "5.39#5.68"}]}
+{"ID": "6826356:S008", "Triplet": [{"Aspect": "none", "Opinion": "數少一點很夠用", "VA": "5.97#5.72"}]}
+{"ID": "6826356:S012", "Triplet": [{"Aspect": "none", "Opinion": "不夠多", "VA": "5.00#5.48"}, {"Aspect": "none", "Opinion": "不夠多", "VA": "5.00#5.48"}, {"Aspect": "none", "Opinion": "不夠多", "VA": "5.00#5.48"}, {"Aspect": "none", "Opinion": "不夠多", "VA": "5.00#5.48"}]}
+{"ID": "6826875:S004", "Triplet": [{"Aspect": "none", "Opinion": "偏大", "VA": "5.23#5.75"}]}
+{"ID": "6826926:S003", "Triplet": [{"Aspect": "筆電WiFi網路", "Opinion": "異常緩慢", "VA": "5.63#5.55"}]}
+{"ID": "6827240:S006", "Triplet": [{"Aspect": "規格", "Opinion": "很狂", "VA": "5.52#5.79"}, {"Aspect": "規格", "Opinion": "很狂", "VA": "5.52#5.79"}, {"Aspect": "規格", "Opinion": "很狂", "VA": "5.52#5.79"}]}
+{"ID": "6827910:S009", "Triplet": [{"Aspect": "筆電穩定性", "Opinion": "超高", "VA": "6.01#5.84"}, {"Aspect": "筆電穩定性", "Opinion": "超高", "VA": "6.01#5.84"}]}
+{"ID": "6830467:S014", "Triplet": [{"Aspect": "效能", "Opinion": "做得還不錯", "VA": "6.49#5.78"}]}
+{"ID": "6831083:S061", "Triplet": [{"Aspect": "筆電", "Opinion": "不錯看", "VA": "6.00#5.66"}, {"Aspect": "筆電", "Opinion": "不錯看", "VA": "6.00#5.66"}]}
+{"ID": "6831144:S029", "Triplet": [{"Aspect": "MSIPS428RC2019", "Opinion": "很順", "VA": "6.17#5.91"}]}
+{"ID": "6832097:S011", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "6.38#5.74"}, {"Aspect": "none", "Opinion": "還不錯", "VA": "6.38#5.74"}]}
+{"ID": "6833454:S013", "Triplet": [{"Aspect": "none", "Opinion": "非常足夠", "VA": "6.62#6.10"}]}
+{"ID": "6833601:S025", "Triplet": [{"Aspect": "RTX4090旗艦電競筆電MINILED面板", "Opinion": "好", "VA": "6.54#5.95"}]}
+{"ID": "6834023:S011", "Triplet": [{"Aspect": "AERO14OLED螢幕顏色", "Opinion": "有夠漂亮", "VA": "6.46#6.04"}]}
+{"ID": "6834023:S015", "Triplet": [{"Aspect": "記憶體", "Opinion": "真的沒差別", "VA": "5.03#5.50"}]}
+{"ID": "6834562:S004", "Triplet": [{"Aspect": "效能", "Opinion": "很夠用", "VA": "6.65#6.16"}]}
+{"ID": "6834782:S024", "Triplet": [{"Aspect": "none", "Opinion": "最吸引人", "VA": "6.54#6.25"}, {"Aspect": "none", "Opinion": "最吸引人", "VA": "6.54#6.25"}]}
+{"ID": "6836471:S006", "Triplet": [{"Aspect": "none", "Opinion": "相對其它輕薄", "VA": "6.25#5.82"}, {"Aspect": "none", "Opinion": "相對其它輕薄", "VA": "6.25#5.82"}]}
+{"ID": "6836560:S016", "Triplet": [{"Aspect": "none", "Opinion": "有觸控筆很好", "VA": "6.68#6.16"}]}
+{"ID": "6837523:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.31#5.76"}]}
+{"ID": "6838135:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#5.80"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#5.80"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#5.80"}]}
+{"ID": "6838135:S019", "Triplet": [{"Aspect": "none", "Opinion": "廉價塑膠", "VA": "5.22#5.55"}, {"Aspect": "none", "Opinion": "廉價塑膠", "VA": "5.22#5.55"}]}
+{"ID": "6838957:S012", "Triplet": [{"Aspect": "MSISummitE13FlipEvo觸控筆電", "Opinion": "不錯的選擇", "VA": "6.37#5.72"}]}
+{"ID": "6840077:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.07#5.44"}]}
+{"ID": "6840077:S029", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "6.40#5.90"}, {"Aspect": "none", "Opinion": "比較好", "VA": "6.40#5.90"}]}
+{"ID": "6840237:S095", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.27#5.62"}]}
+{"ID": "6840326:S024", "Triplet": [{"Aspect": "ASUSZenbookPro16XOLED2023", "Opinion": "推一下", "VA": "6.52#6.01"}]}
+{"ID": "6840326:S025", "Triplet": [{"Aspect": "規格價格", "Opinion": "很讚", "VA": "6.60#6.42"}, {"Aspect": "規格價格", "Opinion": "很讚", "VA": "6.60#6.42"}]}
+{"ID": "6842153:S005", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.55#5.95"}]}
+{"ID": "6842736:S020", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.99#5.65"}]}
+{"ID": "6842881:S006", "Triplet": [{"Aspect": "none", "Opinion": "蠻有水準", "VA": "4.81#5.59"}, {"Aspect": "none", "Opinion": "蠻有水準", "VA": "4.81#5.59"}]}
+{"ID": "6843528:S004", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "6.12#5.70"}, {"Aspect": "none", "Opinion": "比較好", "VA": "6.12#5.70"}]}
+{"ID": "6845274:S015", "Triplet": [{"Aspect": "none", "Opinion": "真的好輕巧", "VA": "6.48#6.10"}, {"Aspect": "none", "Opinion": "真的好輕巧", "VA": "6.48#6.10"}]}
+{"ID": "6846120:S003", "Triplet": [{"Aspect": "筆電規格", "Opinion": "太頂", "VA": "5.07#5.43"}]}
+{"ID": "6846181:S005", "Triplet": [{"Aspect": "none", "Opinion": "比較容易壞", "VA": "5.50#5.82"}, {"Aspect": "none", "Opinion": "比較容易壞", "VA": "5.50#5.82"}]}
+{"ID": "6849897:S019", "Triplet": [{"Aspect": "Strix系列目前質感", "Opinion": "還有沒有做出來", "VA": "5.45#5.63"}]}
+{"ID": "6858369:S030", "Triplet": [{"Aspect": "外觀金屬材質", "Opinion": "低調有質感", "VA": "5.42#5.62"}]}
+{"ID": "6859207:S001", "Triplet": [{"Aspect": "宏碁筆電的外觀設計", "Opinion": "越來越普通越來越謎", "VA": "5.56#5.91"}, {"Aspect": "宏碁筆電的外觀設計", "Opinion": "越來越普通越來越謎", "VA": "5.56#5.91"}]}
+{"ID": "6859825:S013", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#5.88"}]}
+{"ID": "6859825:S014", "Triplet": [{"Aspect": "Zenbook外觀", "Opinion": "真的好看", "VA": "6.69#6.49"}, {"Aspect": "Zenbook外觀", "Opinion": "真的好看", "VA": "6.69#6.49"}]}
+{"ID": "6860286:S005", "Triplet": [{"Aspect": "none", "Opinion": "輕猛", "VA": "5.56#5.59"}, {"Aspect": "none", "Opinion": "輕猛", "VA": "5.56#5.59"}]}
+{"ID": "6860879:S006", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "6.43#5.86"}, {"Aspect": "none", "Opinion": "比較好", "VA": "6.43#5.86"}]}
+{"ID": "6862212:S013", "Triplet": [{"Aspect": "victus做工散熱", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "victus做工散熱", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "victus做工散熱", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "victus做工散熱", "Opinion": "none", "VA": "6.02#5.82"}, {"Aspect": "victus做工散熱", "Opinion": "none", "VA": "6.02#5.82"}]}
+{"ID": "6862659:S024", "Triplet": [{"Aspect": "none", "Opinion": "很實用", "VA": "6.24#5.83"}]}
+{"ID": "6864966:S034", "Triplet": [{"Aspect": "CUDA的筆電", "Opinion": "非常適合工程使用", "VA": "6.44#5.87"}]}
+{"ID": "6865066:S007", "Triplet": [{"Aspect": "FX507ZC412500H的版本", "Opinion": "比較便宜", "VA": "5.94#5.64"}]}
+{"ID": "6867264:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.52#5.57"}, {"Aspect": "none", "Opinion": "none", "VA": "5.52#5.57"}, {"Aspect": "none", "Opinion": "none", "VA": "5.52#5.57"}]}
+{"ID": "6868362:S006", "Triplet": [{"Aspect": "TUF系列", "Opinion": "比較實際一點", "VA": "5.61#5.60"}]}
+{"ID": "6868801:S007", "Triplet": [{"Aspect": "價錢", "Opinion": "還不錯", "VA": "6.01#5.67"}]}
+{"ID": "6871220:S001", "Triplet": [{"Aspect": "MSIAlpha17C7VG規格", "Opinion": "none", "VA": "6.46#6.05"}, {"Aspect": "MSIAlpha17C7VG規格", "Opinion": "none", "VA": "6.46#6.05"}, {"Aspect": "MSIAlpha17C7VG規格", "Opinion": "none", "VA": "6.46#6.05"}]}
+{"ID": "6871220:S002", "Triplet": [{"Aspect": "華碩外型", "Opinion": "none", "VA": "6.54#5.87"}, {"Aspect": "華碩外型", "Opinion": "none", "VA": "6.54#5.87"}]}
+{"ID": "6871272:S004", "Triplet": [{"Aspect": "UX3402ZA加到1TSSD", "Opinion": "none", "VA": "5.86#5.65"}]}
+{"ID": "6871370:S005", "Triplet": [{"Aspect": "FA507NU", "Opinion": "可以看看", "VA": "6.47#5.92"}]}
+{"ID": "6871804:S009", "Triplet": [{"Aspect": "none", "Opinion": "還算蠻便宜", "VA": "5.74#5.48"}]}
+{"ID": "6872142:S002", "Triplet": [{"Aspect": "X1404VA純文書作業", "Opinion": "none", "VA": "6.59#6.44"}]}
+{"ID": "6872372:S013", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.86#5.69"}]}
+{"ID": "6873228:S013", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.32#5.58"}]}
+{"ID": "6873506:S045", "Triplet": [{"Aspect": "acerPredatorHeliosNeoPHN16", "Opinion": "none", "VA": "6.27#5.75"}, {"Aspect": "acerPredatorHeliosNeoPHN16", "Opinion": "none", "VA": "6.27#5.75"}]}
+{"ID": "6873592:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.73#5.92"}]}
+{"ID": "6875408:S009", "Triplet": [{"Aspect": "none", "Opinion": "比較優秀", "VA": "6.24#5.94"}, {"Aspect": "none", "Opinion": "比較優秀", "VA": "6.24#5.94"}, {"Aspect": "none", "Opinion": "比較優秀", "VA": "6.24#5.94"}, {"Aspect": "none", "Opinion": "比較優秀", "VA": "6.24#5.94"}, {"Aspect": "none", "Opinion": "比較優秀", "VA": "6.24#5.94"}]}
+{"ID": "6876865:S019", "Triplet": [{"Aspect": "none", "Opinion": "挺不錯", "VA": "6.50#5.81"}, {"Aspect": "none", "Opinion": "挺不錯", "VA": "6.50#5.81"}, {"Aspect": "none", "Opinion": "挺不錯", "VA": "6.50#5.81"}]}
+{"ID": "6877132:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.49#5.67"}]}
+{"ID": "6877246:S007", "Triplet": [{"Aspect": "none", "Opinion": "極致輕薄", "VA": "6.06#5.73"}]}
+{"ID": "6877881:S006", "Triplet": [{"Aspect": "none", "Opinion": "好不少", "VA": "5.71#5.75"}, {"Aspect": "none", "Opinion": "好不少", "VA": "5.71#5.75"}, {"Aspect": "none", "Opinion": "好不少", "VA": "5.71#5.75"}, {"Aspect": "none", "Opinion": "好不少", "VA": "5.71#5.75"}]}
+{"ID": "6878119:S011", "Triplet": [{"Aspect": "SSD價格", "Opinion": "大漲價", "VA": "5.60#5.85"}]}
+{"ID": "6878187:S028", "Triplet": [{"Aspect": "none", "Opinion": "真的不太討喜比較有區分", "VA": "5.29#5.66"}]}
+{"ID": "6878187:S032", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.91#5.79"}, {"Aspect": "none", "Opinion": "none", "VA": "5.91#5.79"}]}
+{"ID": "6878187:S058", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.69#5.57"}]}
+{"ID": "6878340:S002", "Triplet": [{"Aspect": "P14s雙11有含螢幕CP值", "Opinion": "超高", "VA": "5.31#5.84"}]}
+{"ID": "6880446:S001", "Triplet": [{"Aspect": "筆電", "Opinion": "好普通", "VA": "5.20#5.76"}]}
+{"ID": "6880567:S002", "Triplet": [{"Aspect": "none", "Opinion": "不錯", "VA": "6.52#5.84"}]}
+{"ID": "6880764:S002", "Triplet": [{"Aspect": "none", "Opinion": "便宜很多", "VA": "6.17#5.78"}]}
+{"ID": "6884569:S006", "Triplet": [{"Aspect": "none", "Opinion": "真的太低階", "VA": "5.60#5.94"}]}
+{"ID": "6885536:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.90#5.61"}, {"Aspect": "none", "Opinion": "none", "VA": "5.90#5.61"}, {"Aspect": "none", "Opinion": "none", "VA": "5.90#5.61"}]}
+{"ID": "6885954:S111", "Triplet": [{"Aspect": "電競筆電價格", "Opinion": "越來越親民", "VA": "5.88#5.94"}]}
+{"ID": "6885954:S114", "Triplet": [{"Aspect": "MD的4050", "Opinion": "不夠用", "VA": "5.80#5.74"}]}
+{"ID": "6887610:S017", "Triplet": [{"Aspect": "none", "Opinion": "推薦夠用", "VA": "6.48#5.86"}]}
+{"ID": "6891204:S023", "Triplet": [{"Aspect": "Intel的续航性能", "Opinion": "none", "VA": "5.78#5.89"}, {"Aspect": "Intel的续航性能", "Opinion": "none", "VA": "5.78#5.89"}, {"Aspect": "Intel的续航性能", "Opinion": "none", "VA": "5.78#5.89"}, {"Aspect": "Intel的续航性能", "Opinion": "none", "VA": "5.78#5.89"}]}
+{"ID": "6891204:S028", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.36#5.68"}]}
+{"ID": "6893496:S003", "Triplet": [{"Aspect": "none", "Opinion": "用起來還不錯", "VA": "6.44#6.11"}]}
+{"ID": "6894052:S027", "Triplet": [{"Aspect": "none", "Opinion": "有點可惜", "VA": "5.39#5.57"}, {"Aspect": "none", "Opinion": "有點可惜", "VA": "5.39#5.57"}]}
+{"ID": "6894608:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.40#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#5.88"}]}
+{"ID": "6895357:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.86#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "4.86#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "4.86#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "4.86#5.67"}]}
+{"ID": "6895992:S002", "Triplet": [{"Aspect": "none", "Opinion": "可能還好", "VA": "6.12#5.82"}, {"Aspect": "none", "Opinion": "可能還好", "VA": "6.12#5.82"}]}
+{"ID": "6896837:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.96#5.59"}, {"Aspect": "none", "Opinion": "none", "VA": "4.96#5.59"}]}
+{"ID": "6896883:S007", "Triplet": [{"Aspect": "none", "Opinion": "美中不足", "VA": "4.80#5.42"}]}
+{"ID": "6896902:S018", "Triplet": [{"Aspect": "none", "Opinion": "做得很輕", "VA": "5.92#5.88"}]}
+{"ID": "6897254:S024", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.73#5.66"}, {"Aspect": "none", "Opinion": "none", "VA": "5.73#5.66"}]}
+{"ID": "6897254:S034", "Triplet": [{"Aspect": "none", "Opinion": "貴了一些", "VA": "5.23#5.47"}, {"Aspect": "none", "Opinion": "貴了一些", "VA": "5.23#5.47"}, {"Aspect": "none", "Opinion": "貴了一些", "VA": "5.23#5.47"}, {"Aspect": "none", "Opinion": "貴了一些", "VA": "5.23#5.47"}]}
+{"ID": "6897526:S016", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.14#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.14#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.14#5.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.14#5.67"}]}
+{"ID": "6897901:S005", "Triplet": [{"Aspect": "i9-13900H的ROG", "Opinion": "none", "VA": "5.45#5.61"}, {"Aspect": "i9-13900H的ROG", "Opinion": "none", "VA": "5.45#5.61"}]}
+{"ID": "6898324:S004", "Triplet": [{"Aspect": "CP值", "Opinion": "很好", "VA": "6.72#6.19"}]}
+{"ID": "6900356:S009", "Triplet": [{"Aspect": "none", "Opinion": "很高相對也有挑過", "VA": "6.54#6.04"}, {"Aspect": "none", "Opinion": "很高相對也有挑過", "VA": "6.54#6.04"}]}
+{"ID": "6901945:S026", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.10#5.81"}]}
+{"ID": "6902146:S018", "Triplet": [{"Aspect": "none", "Opinion": "貴", "VA": "5.29#5.54"}]}
+{"ID": "6902502:S025", "Triplet": [{"Aspect": "MSI電競筆電", "Opinion": "很好用", "VA": "6.73#6.28"}]}
+{"ID": "6902603:S075", "Triplet": [{"Aspect": "上一代外觀", "Opinion": "很滿意", "VA": "6.40#6.24"}]}
+{"ID": "6903932:S015", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "5.65#5.40"}, {"Aspect": "none", "Opinion": "比較好", "VA": "5.65#5.40"}]}
+{"ID": "6905270:S041", "Triplet": [{"Aspect": "規格", "Opinion": "10000我都嫌貴", "VA": "5.28#5.79"}]}
+{"ID": "6906037:S041", "Triplet": [{"Aspect": "LGGRAM系列吊打續航", "Opinion": "比較好", "VA": "6.46#5.86"}, {"Aspect": "LGGRAM系列吊打續航", "Opinion": "比較好", "VA": "6.46#5.86"}]}
+{"ID": "6908008:S029", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.60#5.61"}, {"Aspect": "none", "Opinion": "none", "VA": "5.60#5.61"}, {"Aspect": "none", "Opinion": "none", "VA": "5.60#5.61"}]}
+{"ID": "6908008:S074", "Triplet": [{"Aspect": "價格", "Opinion": "蠻實惠", "VA": "6.05#5.66"}, {"Aspect": "價格", "Opinion": "蠻實惠", "VA": "6.05#5.66"}]}
+{"ID": "6908008:S090", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#5.96"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#5.96"}]}
+{"ID": "6908008:S115", "Triplet": [{"Aspect": "品質", "Opinion": "算不錯", "VA": "6.28#5.81"}]}
+{"ID": "6908008:S144", "Triplet": [{"Aspect": "Acer筆電", "Opinion": "很推薦", "VA": "6.46#6.35"}]}
+{"ID": "6909551:S014", "Triplet": [{"Aspect": "AMD7940H版本的TUF續航", "Opinion": "還不錯比較輕", "VA": "6.14#5.55"}, {"Aspect": "AMD7940H版本的TUF續航", "Opinion": "還不錯比較輕", "VA": "6.14#5.55"}, {"Aspect": "AMD7940H版本的TUF續航", "Opinion": "還不錯比較輕", "VA": "6.14#5.55"}, {"Aspect": "AMD7940H版本的TUF續航", "Opinion": "還不錯比較輕", "VA": "6.14#5.55"}]}
+{"ID": "6909755:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.96#5.68"}]}
+{"ID": "6911391:S055", "Triplet": [{"Aspect": "ROG的RGB燈光", "Opinion": "none", "VA": "5.64#5.98"}, {"Aspect": "ROG的RGB燈光", "Opinion": "none", "VA": "5.64#5.98"}]}
+{"ID": "6912329:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.92#5.81"}, {"Aspect": "none", "Opinion": "none", "VA": "5.92#5.81"}]}
+{"ID": "6912677:S005", "Triplet": [{"Aspect": "none", "Opinion": "好看", "VA": "5.76#5.73"}, {"Aspect": "none", "Opinion": "好看", "VA": "5.76#5.73"}]}
+{"ID": "6913256:S008", "Triplet": [{"Aspect": "GIGA筆電", "Opinion": "愈來越簡約", "VA": "6.65#6.18"}]}
+{"ID": "6913259:S005", "Triplet": [{"Aspect": "none", "Opinion": "便宜很多", "VA": "5.23#5.55"}, {"Aspect": "none", "Opinion": "便宜很多", "VA": "5.23#5.55"}]}
+{"ID": "6913340:S050", "Triplet": [{"Aspect": "MSIGE626QDApachePro", "Opinion": "還可以用不遲鈍", "VA": "5.78#5.56"}]}
+{"ID": "6915370:S003", "Triplet": [{"Aspect": "規格", "Opinion": "可以喜歡", "VA": "6.44#6.24"}]}
+{"ID": "6915462:S019", "Triplet": [{"Aspect": "規格", "Opinion": "越來越多元越來越好", "VA": "6.48#6.20"}, {"Aspect": "規格", "Opinion": "越來越多元越來越好", "VA": "6.48#6.20"}]}
+{"ID": "6915462:S048", "Triplet": [{"Aspect": "Hp商務筆電", "Opinion": "看起來還不錯", "VA": "6.29#5.54"}]}
+{"ID": "6915462:S084", "Triplet": [{"Aspect": "CP值", "Opinion": "大概就不愛", "VA": "5.46#5.61"}]}
+{"ID": "6916344:S009", "Triplet": [{"Aspect": "none", "Opinion": "比較好", "VA": "6.28#5.81"}, {"Aspect": "none", "Opinion": "比較好", "VA": "6.28#5.81"}]}
+{"ID": "6916774:S002", "Triplet": [{"Aspect": "none", "Opinion": "嚴重後悔", "VA": "5.42#5.83"}, {"Aspect": "none", "Opinion": "嚴重後悔", "VA": "5.42#5.83"}, {"Aspect": "none", "Opinion": "嚴重後悔", "VA": "5.42#5.83"}]}
+{"ID": "6917493:S008", "Triplet": [{"Aspect": "價格", "Opinion": "真的很快", "VA": "5.57#5.85"}]}
+{"ID": "6918097:S051", "Triplet": [{"Aspect": "效能", "Opinion": "令人驚艷", "VA": "6.01#6.10"}, {"Aspect": "效能", "Opinion": "令人驚艷", "VA": "6.01#6.10"}]}
+{"ID": "6918097:S087", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#6.19"}]}
+{"ID": "6918097:S089", "Triplet": [{"Aspect": "價格", "Opinion": "太貴令人卻步", "VA": "5.83#5.83"}, {"Aspect": "價格", "Opinion": "太貴令人卻步", "VA": "5.83#5.83"}]}
+{"ID": "6918097:S091", "Triplet": [{"Aspect": "規格價格", "Opinion": "頂頂到買不下手", "VA": "5.76#5.64"}, {"Aspect": "規格價格", "Opinion": "頂頂到買不下手", "VA": "5.76#5.64"}]}
+{"ID": "6918097:S092", "Triplet": [{"Aspect": "規格規格", "Opinion": "真讚", "VA": "5.81#5.96"}]}
+{"ID": "6918097:S233", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.71#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "5.71#5.88"}, {"Aspect": "none", "Opinion": "none", "VA": "5.71#5.88"}]}
+{"ID": "6918097:S242", "Triplet": [{"Aspect": "筆電螢幕", "Opinion": "好大好大", "VA": "6.34#6.26"}]}
+{"ID": "6918097:S275", "Triplet": [{"Aspect": "雷蛇筆電", "Opinion": "滿帥就是一個信仰", "VA": "5.26#5.77"}]}
+{"ID": "6918941:S002", "Triplet": [{"Aspect": "萬元以下的筆電規格", "Opinion": "非常的差", "VA": "5.30#5.56"}, {"Aspect": "萬元以下的筆電規格", "Opinion": "非常的差", "VA": "5.30#5.56"}]}
+{"ID": "6920254:S064", "Triplet": [{"Aspect": "價位", "Opinion": "還不錯", "VA": "5.80#5.30"}, {"Aspect": "價位", "Opinion": "還不錯", "VA": "5.80#5.30"}]}
+{"ID": "6920254:S103", "Triplet": [{"Aspect": "none", "Opinion": "浪費掉會是好選擇", "VA": "5.47#5.71"}]}
+{"ID": "6920254:S139", "Triplet": [{"Aspect": "none", "Opinion": "輕薄上漲不少", "VA": "6.01#5.47"}, {"Aspect": "none", "Opinion": "輕薄上漲不少", "VA": "6.01#5.47"}, {"Aspect": "none", "Opinion": "輕薄上漲不少", "VA": "6.01#5.47"}]}
+{"ID": "6920254:S148", "Triplet": [{"Aspect": "筆電", "Opinion": "很期待很棒", "VA": "6.67#6.55"}]}
+{"ID": "6920254:S221", "Triplet": [{"Aspect": "美型機外型外觀", "Opinion": "還可以很普通", "VA": "6.04#5.79"}, {"Aspect": "美型機外型外觀", "Opinion": "還可以很普通", "VA": "6.04#5.79"}]}
+{"ID": "6920254:S279", "Triplet": [{"Aspect": "ROG出品", "Opinion": "總是不會讓人失望要夠深", "VA": "5.15#5.53"}]}
+{"ID": "6920254:S330", "Triplet": [{"Aspect": "電競筆電", "Opinion": "不錯輕薄", "VA": "6.40#5.66"}]}
+{"ID": "6920254:S341", "Triplet": [{"Aspect": "筆電", "Opinion": "簡單俐落有點多餘", "VA": "5.03#5.43"}, {"Aspect": "筆電", "Opinion": "簡單俐落有點多餘", "VA": "5.03#5.43"}]}
+{"ID": "6922017:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.59#6.23"}, {"Aspect": "none", "Opinion": "none", "VA": "6.59#6.23"}]}
+{"ID": "6922802:S023", "Triplet": [{"Aspect": "筆電", "Opinion": "很可惜總是比沒有好", "VA": "5.03#5.66"}]}
+{"ID": "6922802:S037", "Triplet": [{"Aspect": "電競筆電外觀", "Opinion": "難得樸素有質感", "VA": "6.02#6.04"}, {"Aspect": "電競筆電外觀", "Opinion": "難得樸素有質感", "VA": "6.02#6.04"}]}
+{"ID": "6922886:S003", "Triplet": [{"Aspect": "none", "Opinion": "相對好點", "VA": "6.46#5.99"}]}
+{"ID": "6923035:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.99#5.50"}, {"Aspect": "none", "Opinion": "none", "VA": "4.99#5.50"}]}
+{"ID": "6923903:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.07#6.14"}, {"Aspect": "none", "Opinion": "none", "VA": "6.07#6.14"}, {"Aspect": "none", "Opinion": "none", "VA": "6.07#6.14"}, {"Aspect": "none", "Opinion": "none", "VA": "6.07#6.14"}]}
+{"ID": "6928519:S015", "Triplet": [{"Aspect": "ACER的塑膠料", "Opinion": "有夠爛", "VA": "4.71#5.57"}]}
+{"ID": "6928992:S002", "Triplet": [{"Aspect": "none", "Opinion": "堪稱史上最垃圾", "VA": "5.33#5.71"}]}
+{"ID": "6929230:S234", "Triplet": [{"Aspect": "價格", "Opinion": "沒有標的太高", "VA": "5.08#5.56"}, {"Aspect": "價格", "Opinion": "沒有標的太高", "VA": "5.08#5.56"}]}
+{"ID": "6929907:S002", "Triplet": [{"Aspect": "FA507NV價格", "Opinion": "沒差很多差很多", "VA": "5.70#5.63"}, {"Aspect": "FA507NV價格", "Opinion": "沒差很多差很多", "VA": "5.70#5.63"}]}
+{"ID": "6930659:S007", "Triplet": [{"Aspect": "雙螢幕", "Opinion": "很吸引", "VA": "6.68#6.51"}]}
+{"ID": "6930929:S004", "Triplet": [{"Aspect": "none", "Opinion": "很夠用", "VA": "5.31#5.83"}]}
+{"ID": "6931799:S023", "Triplet": [{"Aspect": "電競筆電", "Opinion": "好美", "VA": "5.60#5.64"}]}
+{"ID": "6931799:S063", "Triplet": [{"Aspect": "none", "Opinion": "跳的很快", "VA": "5.83#5.89"}, {"Aspect": "none", "Opinion": "跳的很快", "VA": "5.83#5.89"}]}
+{"ID": "6931799:S089", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.90#5.87"}, {"Aspect": "none", "Opinion": "none", "VA": "5.90#5.87"}]}
+{"ID": "6931799:S114", "Triplet": [{"Aspect": "規格", "Opinion": "真的很強", "VA": "6.66#6.51"}]}
+{"ID": "6932731:S001", "Triplet": [{"Aspect": "筆電效能", "Opinion": "none", "VA": "6.57#5.99"}]}
+{"ID": "6932879:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.09#6.00"}]}
+{"ID": "6932879:S065", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.21#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.21#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.21#5.63"}, {"Aspect": "none", "Opinion": "none", "VA": "5.21#5.63"}]}
+{"ID": "6935598:S084", "Triplet": [{"Aspect": "none", "Opinion": "可惜", "VA": "5.44#5.54"}, {"Aspect": "none", "Opinion": "可惜", "VA": "5.44#5.54"}, {"Aspect": "none", "Opinion": "可惜", "VA": "5.44#5.54"}]}
+{"ID": "6935598:S102", "Triplet": [{"Aspect": "西風之神外觀造型", "Opinion": "還是好看", "VA": "6.30#6.04"}]}
+{"ID": "6935598:S147", "Triplet": [{"Aspect": "ROGZephyrusG14(2024)電競筆電", "Opinion": "頗有看頭", "VA": "6.15#5.86"}]}
+{"ID": "6935598:S158", "Triplet": [{"Aspect": "ZephyrusG142024", "Opinion": "輕薄讚", "VA": "6.55#6.23"}]}
+{"ID": "6935598:S212", "Triplet": [{"Aspect": "筆電", "Opinion": "小巧還不錯", "VA": "6.44#5.81"}]}
+{"ID": "6935598:S308", "Triplet": [{"Aspect": "筆電線條動作", "Opinion": "很漂亮", "VA": "6.33#6.11"}, {"Aspect": "筆電線條動作", "Opinion": "很漂亮", "VA": "6.33#6.11"}]}
+{"ID": "6935931:S025", "Triplet": [{"Aspect": "ASUS的VIVOBOOK系列", "Opinion": "很夠用", "VA": "6.04#5.69"}]}
+{"ID": "6936541:S004", "Triplet": [{"Aspect": "OLED螢幕畫質", "Opinion": "none", "VA": "6.63#6.21"}, {"Aspect": "OLED螢幕畫質", "Opinion": "none", "VA": "6.63#6.21"}]}
+{"ID": "6936878:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.07#5.64"}, {"Aspect": "none", "Opinion": "none", "VA": "5.07#5.64"}]}
+{"ID": "6937974:S080", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.97#5.69"}]}
+{"ID": "6939284:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.94#5.52"}]}
+{"ID": "6940405:S055", "Triplet": [{"Aspect": "CP值", "Opinion": "不錯", "VA": "6.13#5.44"}]}
+{"ID": "6940405:S063", "Triplet": [{"Aspect": "外觀", "Opinion": "不錯", "VA": "6.14#5.50"}]}
+{"ID": "6940405:S076", "Triplet": [{"Aspect": "電腦蠻有型的MD", "Opinion": "none", "VA": "6.74#6.58"}]}
+{"ID": "6940405:S135", "Triplet": [{"Aspect": "外觀配置", "Opinion": "none", "VA": "5.65#5.75"}, {"Aspect": "外觀配置", "Opinion": "none", "VA": "5.65#5.75"}]}
+{"ID": "6940619:S015", "Triplet": [{"Aspect": "螢幕", "Opinion": "很大", "VA": "6.61#6.43"}]}
+{"ID": "6941871:S013", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.11#5.43"}]}
+{"ID": "6943067:S001", "Triplet": [{"Aspect": "HP的電競", "Opinion": "這麼好看", "VA": "5.49#5.62"}]}
+{"ID": "6943379:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.76#5.66"}, {"Aspect": "none", "Opinion": "none", "VA": "5.76#5.66"}]}
+{"ID": "6944430:S010", "Triplet": [{"Aspect": "技嘉AERO14的OLED螢幕", "Opinion": "小了點", "VA": "6.34#5.87"}, {"Aspect": "技嘉AERO14的OLED螢幕", "Opinion": "小了點", "VA": "6.34#5.87"}]}
+{"ID": "6944546:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.88#5.68"}, {"Aspect": "none", "Opinion": "none", "VA": "4.88#5.68"}, {"Aspect": "none", "Opinion": "none", "VA": "4.88#5.68"}]}
+{"ID": "6945690:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.69#5.79"}, {"Aspect": "none", "Opinion": "none", "VA": "5.69#5.79"}, {"Aspect": "none", "Opinion": "none", "VA": "5.69#5.79"}]}
+{"ID": "6946119:S010", "Triplet": [{"Aspect": "G14散熱", "Opinion": "none", "VA": "5.73#5.83"}]}
+{"ID": "6946915:S017", "Triplet": [{"Aspect": "MSICROSSHAIR17鍵帽的設計", "Opinion": "有誠意蠻酷", "VA": "6.52#6.19"}, {"Aspect": "MSICROSSHAIR17鍵帽的設計", "Opinion": "有誠意蠻酷", "VA": "6.52#6.19"}]}
+{"ID": "6946915:S027", "Triplet": [{"Aspect": "價格", "Opinion": "越來越棒", "VA": "6.58#6.27"}, {"Aspect": "價格", "Opinion": "越來越棒", "VA": "6.58#6.27"}]}
+{"ID": "6946915:S154", "Triplet": [{"Aspect": "外型", "Opinion": "真的有炫", "VA": "6.13#6.24"}, {"Aspect": "外型", "Opinion": "真的有炫", "VA": "6.13#6.24"}, {"Aspect": "外型", "Opinion": "真的有炫", "VA": "6.13#6.24"}]}
+{"ID": "6946915:S159", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#5.89"}]}
+{"ID": "6947172:S009", "Triplet": [{"Aspect": "電競筆電外觀G14外觀", "Opinion": "none", "VA": "5.92#5.75"}, {"Aspect": "電競筆電外觀G14外觀", "Opinion": "none", "VA": "5.92#5.75"}]}
+{"ID": "6947475:S004", "Triplet": [{"Aspect": "AMD的cpu", "Opinion": "不錯", "VA": "6.47#5.83"}]}
+{"ID": "6949617:S212", "Triplet": [{"Aspect": "none", "Opinion": "就贏了", "VA": "6.26#5.96"}, {"Aspect": "none", "Opinion": "就贏了", "VA": "6.26#5.96"}, {"Aspect": "none", "Opinion": "就贏了", "VA": "6.26#5.96"}]}
+{"ID": "6949617:S406", "Triplet": [{"Aspect": "規格", "Opinion": "很強", "VA": "6.10#5.90"}]}
+{"ID": "6949617:S476", "Triplet": [{"Aspect": "筆電", "Opinion": "強悍漂亮", "VA": "6.58#6.48"}]}
+{"ID": "6949617:S495", "Triplet": [{"Aspect": "效能筆電", "Opinion": "不錯", "VA": "6.55#5.90"}, {"Aspect": "效能筆電", "Opinion": "不錯", "VA": "6.55#5.90"}]}
+{"ID": "6949824:S003", "Triplet": [{"Aspect": "MSI微星17.3吋i7獨顯RTX電競筆電", "Opinion": "不錯", "VA": "6.40#5.78"}]}
+{"ID": "6950448:S011", "Triplet": [{"Aspect": "價格", "Opinion": "比較便宜", "VA": "5.91#5.79"}]}
+{"ID": "6952164:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.74#6.00"}]}
+{"ID": "6952865:S075", "Triplet": [{"Aspect": "商務筆電", "Opinion": "還不錯", "VA": "6.30#5.66"}]}
+{"ID": "6952865:S118", "Triplet": [{"Aspect": "ASUS的散熱", "Opinion": "none", "VA": "5.44#5.57"}, {"Aspect": "ASUS的散熱", "Opinion": "none", "VA": "5.44#5.57"}, {"Aspect": "ASUS的散熱", "Opinion": "none", "VA": "5.44#5.57"}]}
+{"ID": "6952865:S159", "Triplet": [{"Aspect": "外觀", "Opinion": "不錯", "VA": "6.31#5.66"}, {"Aspect": "外觀", "Opinion": "不錯", "VA": "6.31#5.66"}, {"Aspect": "外觀", "Opinion": "不錯", "VA": "6.31#5.66"}]}
+{"ID": "6954336:S002", "Triplet": [{"Aspect": "MSIi9RTX4060價格", "Opinion": "比你那台好上不少更便宜", "VA": "5.88#5.56"}, {"Aspect": "MSIi9RTX4060價格", "Opinion": "比你那台好上不少更便宜", "VA": "5.88#5.56"}]}
+{"ID": "6954336:S006", "Triplet": [{"Aspect": "none", "Opinion": "不錯", "VA": "6.37#5.80"}]}
+{"ID": "6954336:S013", "Triplet": [{"Aspect": "技嘉AORUS15", "Opinion": "不錯可以", "VA": "6.44#5.83"}, {"Aspect": "技嘉AORUS15", "Opinion": "不錯可以", "VA": "6.44#5.83"}]}
+{"ID": "6954711:S150", "Triplet": [{"Aspect": "筆電", "Opinion": "好大好重", "VA": "6.47#6.36"}]}
+{"ID": "6954711:S215", "Triplet": [{"Aspect": "手感筆電", "Opinion": "none", "VA": "5.96#5.96"}]}
+{"ID": "6954711:S365", "Triplet": [{"Aspect": "價格", "Opinion": "高檔確實高得驚人", "VA": "6.59#6.23"}, {"Aspect": "價格", "Opinion": "高檔確實高得驚人", "VA": "6.59#6.23"}]}
+{"ID": "6955594:S005", "Triplet": [{"Aspect": "none", "Opinion": "比較夠用", "VA": "6.38#5.84"}, {"Aspect": "none", "Opinion": "比較夠用", "VA": "6.38#5.84"}]}
+{"ID": "6956965:S047", "Triplet": [{"Aspect": "LenovoLOQ15IRX9的外型", "Opinion": "none", "VA": "6.18#5.71"}, {"Aspect": "LenovoLOQ15IRX9的外型", "Opinion": "none", "VA": "6.18#5.71"}, {"Aspect": "LenovoLOQ15IRX9的外型", "Opinion": "none", "VA": "6.18#5.71"}, {"Aspect": "LenovoLOQ15IRX9的外型", "Opinion": "none", "VA": "6.18#5.71"}]}
+{"ID": "6956965:S083", "Triplet": [{"Aspect": "none", "Opinion": "不錯", "VA": "6.20#5.51"}, {"Aspect": "none", "Opinion": "不錯", "VA": "6.20#5.51"}]}
+{"ID": "6956965:S108", "Triplet": [{"Aspect": "外型CP值", "Opinion": "還不錯看", "VA": "6.44#5.73"}, {"Aspect": "外型CP值", "Opinion": "還不錯看", "VA": "6.44#5.73"}]}
+{"ID": "6956965:S111", "Triplet": [{"Aspect": "CP值", "Opinion": "不錯", "VA": "6.34#5.72"}]}
+{"ID": "6956965:S125", "Triplet": [{"Aspect": "造型", "Opinion": "挺樸實", "VA": "6.18#5.61"}, {"Aspect": "造型", "Opinion": "挺樸實", "VA": "6.18#5.61"}]}
+{"ID": "6956965:S158", "Triplet": [{"Aspect": "none", "Opinion": "還算不錯", "VA": "6.34#5.80"}, {"Aspect": "none", "Opinion": "還算不錯", "VA": "6.34#5.80"}]}
+{"ID": "6956965:S167", "Triplet": [{"Aspect": "筆電外型", "Opinion": "還蠻好看", "VA": "6.63#6.37"}]}
+{"ID": "6956965:S217", "Triplet": [{"Aspect": "價格", "Opinion": "帶不錯", "VA": "6.14#5.68"}, {"Aspect": "價格", "Opinion": "帶不錯", "VA": "6.14#5.68"}]}
+{"ID": "6956965:S246", "Triplet": [{"Aspect": "聯想的筆電價格", "Opinion": "不錯", "VA": "5.60#5.34"}, {"Aspect": "聯想的筆電價格", "Opinion": "不錯", "VA": "5.60#5.34"}]}
+{"ID": "6956965:S267", "Triplet": [{"Aspect": "CP值", "Opinion": "頗高", "VA": "6.31#6.02"}]}
+{"ID": "6956965:S325", "Triplet": [{"Aspect": "LenovoCP值", "Opinion": "很高", "VA": "5.70#5.81"}, {"Aspect": "LenovoCP值", "Opinion": "很高", "VA": "5.70#5.81"}]}
+{"ID": "6956965:S344", "Triplet": [{"Aspect": "價格", "Opinion": "越來越高級越來越貴", "VA": "5.75#5.94"}, {"Aspect": "價格", "Opinion": "越來越高級越來越貴", "VA": "5.75#5.94"}]}
+{"ID": "6956965:S398", "Triplet": [{"Aspect": "Lenovo的筆電性價比", "Opinion": "不錯", "VA": "6.38#5.73"}]}
+{"ID": "6956965:S408", "Triplet": [{"Aspect": "性價比", "Opinion": "none", "VA": "6.17#5.57"}, {"Aspect": "性價比", "Opinion": "none", "VA": "6.17#5.57"}]}
+{"ID": "6957364:S013", "Triplet": [{"Aspect": "規格", "Opinion": "更高更低", "VA": "5.68#5.87"}, {"Aspect": "規格", "Opinion": "更高更低", "VA": "5.68#5.87"}]}
+{"ID": "6958125:S009", "Triplet": [{"Aspect": "規格價格", "Opinion": "none", "VA": "6.04#5.77"}, {"Aspect": "規格價格", "Opinion": "none", "VA": "6.04#5.77"}, {"Aspect": "規格價格", "Opinion": "none", "VA": "6.04#5.77"}]}
+{"ID": "6959192:S022", "Triplet": [{"Aspect": "螢幕翻轉功能", "Opinion": "很讚", "VA": "6.58#6.43"}]}
+{"ID": "6959367:S003", "Triplet": [{"Aspect": "CP值", "Opinion": "比較高", "VA": "5.63#5.52"}, {"Aspect": "CP值", "Opinion": "比較高", "VA": "5.63#5.52"}]}
+{"ID": "6959367:S005", "Triplet": [{"Aspect": "技嘉AORUS16XAKGcp值", "Opinion": "不錯", "VA": "6.48#5.76"}]}
+{"ID": "6960440:S003", "Triplet": [{"Aspect": "I5效能", "Opinion": "比較好蠻吃", "VA": "6.14#5.78"}]}
+{"ID": "6960644:S024", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.37#5.72"}, {"Aspect": "none", "Opinion": "none", "VA": "5.37#5.72"}]}
+{"ID": "6960644:S026", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#5.97"}]}
+{"ID": "6960644:S091", "Triplet": [{"Aspect": "LGgramPro2-in-1", "Opinion": "非常纖薄", "VA": "6.48#6.07"}]}
+{"ID": "6962993:S032", "Triplet": [{"Aspect": "筆電外型", "Opinion": "好美", "VA": "6.14#5.98"}]}
+{"ID": "6963448:S001", "Triplet": [{"Aspect": "筆電性能", "Opinion": "正常水準", "VA": "5.87#5.61"}, {"Aspect": "筆電性能", "Opinion": "正常水準", "VA": "5.87#5.61"}, {"Aspect": "筆電性能", "Opinion": "正常水準", "VA": "5.87#5.61"}, {"Aspect": "筆電性能", "Opinion": "正常水準", "VA": "5.87#5.61"}]}
+{"ID": "6964024:S002", "Triplet": [{"Aspect": "none", "Opinion": "夠用有點模糊", "VA": "5.53#5.59"}]}
+{"ID": "6964547:S004", "Triplet": [{"Aspect": "none", "Opinion": "不錯", "VA": "6.60#6.05"}, {"Aspect": "none", "Opinion": "不錯", "VA": "6.60#6.05"}]}
+{"ID": "6965152:S006", "Triplet": [{"Aspect": "none", "Opinion": "相對都好得多", "VA": "6.12#5.71"}, {"Aspect": "none", "Opinion": "相對都好得多", "VA": "6.12#5.71"}, {"Aspect": "none", "Opinion": "相對都好得多", "VA": "6.12#5.71"}, {"Aspect": "none", "Opinion": "相對都好得多", "VA": "6.12#5.71"}]}
+{"ID": "6966819:S026", "Triplet": [{"Aspect": "外表", "Opinion": "普普不錯", "VA": "6.40#5.84"}, {"Aspect": "外表", "Opinion": "普普不錯", "VA": "6.40#5.84"}]}
+{"ID": "6968897:S049", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.69#5.47"}, {"Aspect": "none", "Opinion": "none", "VA": "4.69#5.47"}, {"Aspect": "none", "Opinion": "none", "VA": "4.69#5.47"}]}
+{"ID": "6968972:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.05#5.74"}]}
+{"ID": "6969282:S004", "Triplet": [{"Aspect": "RTX4050的機器", "Opinion": "完全不推薦", "VA": "5.99#5.61"}]}
+{"ID": "6969860:S022", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.64#5.73"}]}
+{"ID": "6969860:S051", "Triplet": [{"Aspect": "ASUSExpertBookB5效能", "Opinion": "很不錯", "VA": "6.48#5.82"}]}
+{"ID": "6970009:S004", "Triplet": [{"Aspect": "none", "Opinion": "沒有到特別強", "VA": "5.93#5.70"}, {"Aspect": "none", "Opinion": "沒有到特別強", "VA": "5.93#5.70"}]}
+{"ID": "6972925:S007", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.07#5.65"}, {"Aspect": "none", "Opinion": "none", "VA": "5.07#5.65"}]}
+{"ID": "6973127:S026", "Triplet": [{"Aspect": "雙螢幕", "Opinion": "很方便", "VA": "5.95#5.82"}]}
+{"ID": "6973727:S019", "Triplet": [{"Aspect": "硬體規格", "Opinion": "有不少提升", "VA": "5.09#5.41"}]}
+{"ID": "6973880:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.58#5.58"}, {"Aspect": "none", "Opinion": "none", "VA": "5.58#5.58"}]}
+{"ID": "6974521:S001", "Triplet": [{"Aspect": "價錢ZUI", "Opinion": "確實不錯", "VA": "6.21#5.57"}, {"Aspect": "價錢ZUI", "Opinion": "確實不錯", "VA": "6.21#5.57"}]}
+{"ID": "6974521:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.82#5.62"}, {"Aspect": "none", "Opinion": "none", "VA": "4.82#5.62"}, {"Aspect": "none", "Opinion": "none", "VA": "4.82#5.62"}]}
+{"ID": "6975804:S001", "Triplet": [{"Aspect": "表現規格", "Opinion": "算蠻均衡", "VA": "5.97#5.75"}]}
+{"ID": "6979251:S003", "Triplet": [{"Aspect": "none", "Opinion": "很不錯", "VA": "6.39#5.90"}, {"Aspect": "none", "Opinion": "很不錯", "VA": "6.39#5.90"}, {"Aspect": "none", "Opinion": "很不錯", "VA": "6.39#5.90"}]}
+{"ID": "6979420:S010", "Triplet": [{"Aspect": "none", "Opinion": "便宜", "VA": "5.13#5.51"}]}
+{"ID": "6980871:S004", "Triplet": [{"Aspect": "B5402CBA", "Opinion": "none", "VA": "6.18#5.87"}, {"Aspect": "B5402CBA", "Opinion": "none", "VA": "6.18#5.87"}]}
+{"ID": "6981304:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.51#5.91"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#5.91"}]}
+{"ID": "6982240:S042", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.05#5.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.05#5.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.05#5.78"}]}
+{"ID": "6982386:S002", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "6.09#5.67"}]}
+{"ID": "6984542:S003", "Triplet": [{"Aspect": "散熱", "Opinion": "還好總是不準", "VA": "5.28#5.64"}]}
+{"ID": "6984720:S001", "Triplet": [{"Aspect": "擴充性", "Opinion": "none", "VA": "6.44#5.86"}, {"Aspect": "擴充性", "Opinion": "none", "VA": "6.44#5.86"}]}
+{"ID": "6985520:S004", "Triplet": [{"Aspect": "G733PZ的規格", "Opinion": "none", "VA": "6.57#5.97"}, {"Aspect": "G733PZ的規格", "Opinion": "none", "VA": "6.57#5.97"}]}
+{"ID": "6985642:S008", "Triplet": [{"Aspect": "效能", "Opinion": "真的看不到進步", "VA": "5.96#6.00"}, {"Aspect": "效能", "Opinion": "真的看不到進步", "VA": "5.96#6.00"}]}
+{"ID": "6985642:S050", "Triplet": [{"Aspect": "ARM版的Windows問題", "Opinion": "還很多", "VA": "6.25#6.17"}]}
+{"ID": "6985842:S010", "Triplet": [{"Aspect": "none", "Opinion": "完全沒差", "VA": "5.66#5.70"}, {"Aspect": "none", "Opinion": "完全沒差", "VA": "5.66#5.70"}]}
+{"ID": "6988577:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.29#5.65"}]}
+{"ID": "6990159:S007", "Triplet": [{"Aspect": "none", "Opinion": "很適合", "VA": "6.21#5.82"}, {"Aspect": "none", "Opinion": "很適合", "VA": "6.21#5.82"}]}
+{"ID": "6993255:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#5.98"}, {"Aspect": "none", "Opinion": "none", "VA": "6.34#5.98"}, {"Aspect": "none", "Opinion": "none", "VA": "6.34#5.98"}, {"Aspect": "none", "Opinion": "none", "VA": "6.34#5.98"}]}
+{"ID": "6994867:S006", "Triplet": [{"Aspect": "none", "Opinion": "最高", "VA": "6.11#5.71"}]}
+{"ID": "6996712:S017", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.31#5.80"}]}
+{"ID": "7002050:S022", "Triplet": [{"Aspect": "筆電效能", "Opinion": "不錯", "VA": "6.32#5.74"}, {"Aspect": "筆電效能", "Opinion": "不錯", "VA": "6.32#5.74"}]}
+{"ID": "7003609:S006", "Triplet": [{"Aspect": "G14", "Opinion": "不喜歡輕鬆好入手", "VA": "5.96#5.66"}]}
+{"ID": "7003813:S019", "Triplet": [{"Aspect": "AMDHX370版本的G16AMD版本的電競筆電", "Opinion": "none", "VA": "6.16#5.80"}, {"Aspect": "AMDHX370版本的G16AMD版本的電競筆電", "Opinion": "none", "VA": "6.16#5.80"}]}
+{"ID": "7004773:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.57#6.05"}]}
+{"ID": "7008450:S029", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.28#5.51"}, {"Aspect": "none", "Opinion": "none", "VA": "5.28#5.51"}]}
+{"ID": "7008450:S035", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}, {"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}, {"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}, {"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}, {"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}, {"Aspect": "none", "Opinion": "none", "VA": "4.84#5.48"}]}
+{"ID": "7009515:S002", "Triplet": [{"Aspect": "none", "Opinion": "大解析高", "VA": "4.97#5.58"}, {"Aspect": "none", "Opinion": "大解析高", "VA": "4.97#5.58"}]}
+{"ID": "7010970:S013", "Triplet": [{"Aspect": "銀白色外觀", "Opinion": "真的好看", "VA": "6.67#6.53"}]}
+{"ID": "7010970:S076", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.90#5.53"}]}
+{"ID": "7011737:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.93#5.68"}, {"Aspect": "none", "Opinion": "none", "VA": "5.93#5.68"}]}
+{"ID": "7011988:S013", "Triplet": [{"Aspect": "15.6吋的螢幕", "Opinion": "看起來較舒服", "VA": "6.04#6.07"}]}
+{"ID": "7012354:S005", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.57#5.97"}, {"Aspect": "none", "Opinion": "none", "VA": "5.57#5.97"}]}
+{"ID": "7012416:S055", "Triplet": [{"Aspect": "none", "Opinion": "更好", "VA": "5.87#5.62"}]}
+{"ID": "7012641:S002", "Triplet": [{"Aspect": "HX370效能", "Opinion": "比較好一點", "VA": "6.22#5.61"}]}
+{"ID": "7012994:S007", "Triplet": [{"Aspect": "技嘉筆電品質", "Opinion": "不錯", "VA": "6.47#5.78"}]}
+{"ID": "7013018:S003", "Triplet": [{"Aspect": "none", "Opinion": "更推薦比Vivobook高", "VA": "5.93#5.59"}, {"Aspect": "none", "Opinion": "更推薦比Vivobook高", "VA": "5.93#5.59"}]}
+{"ID": "7014871:S029", "Triplet": [{"Aspect": "螢幕", "Opinion": "太大了", "VA": "5.57#6.05"}]}
+{"ID": "7014871:S052", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.98#5.46"}, {"Aspect": "none", "Opinion": "none", "VA": "4.98#5.46"}, {"Aspect": "none", "Opinion": "none", "VA": "4.98#5.46"}, {"Aspect": "none", "Opinion": "none", "VA": "4.98#5.46"}]}
+{"ID": "7016343:S002", "Triplet": [{"Aspect": "TUFA14rogg14", "Opinion": "比較好", "VA": "6.41#5.91"}, {"Aspect": "TUFA14rogg14", "Opinion": "比較好", "VA": "6.41#5.91"}]}
+{"ID": "7016434:S020", "Triplet": [{"Aspect": "ASUSProArtPZ13", "Opinion": "適合攜帶在戶外使用", "VA": "6.61#6.02"}]}
+{"ID": "7016434:S021", "Triplet": [{"Aspect": "none", "Opinion": "蠻特殊的設計", "VA": "6.12#6.05"}]}
+{"ID": "7018297:S004", "Triplet": [{"Aspect": "LGgram16的CP值", "Opinion": "none", "VA": "5.93#5.67"}]}
+{"ID": "7019815:S008", "Triplet": [{"Aspect": "FA401WV實機", "Opinion": "可以看看蠻不錯", "VA": "6.48#5.77"}, {"Aspect": "FA401WV實機", "Opinion": "可以看看蠻不錯", "VA": "6.48#5.77"}]}
+{"ID": "7020250:S002", "Triplet": [{"Aspect": "none", "Opinion": "比一般的筆電好", "VA": "6.16#6.00"}, {"Aspect": "none", "Opinion": "比一般的筆電好", "VA": "6.16#6.00"}]}
+{"ID": "7021060:S032", "Triplet": [{"Aspect": "AMDCPU筆電", "Opinion": "真少見", "VA": "6.31#6.28"}]}
+{"ID": "7021545:S028", "Triplet": [{"Aspect": "none", "Opinion": "很不錯", "VA": "6.30#5.88"}, {"Aspect": "none", "Opinion": "很不錯", "VA": "6.30#5.88"}]}
+{"ID": "7021545:S054", "Triplet": [{"Aspect": "筆電續航力", "Opinion": "好輕", "VA": "6.46#6.23"}, {"Aspect": "筆電續航力", "Opinion": "好輕", "VA": "6.46#6.23"}]}
+{"ID": "7023563:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.40#5.85"}, {"Aspect": "none", "Opinion": "none", "VA": "5.40#5.85"}, {"Aspect": "none", "Opinion": "none", "VA": "5.40#5.85"}]}
+{"ID": "7024381:S002", "Triplet": [{"Aspect": "none", "Opinion": "好", "VA": "5.17#5.61"}, {"Aspect": "none", "Opinion": "好", "VA": "5.17#5.61"}]}
+{"ID": "7024638:S001", "Triplet": [{"Aspect": "none", "Opinion": "有問題", "VA": "5.12#5.58"}]}
+{"ID": "7024955:S020", "Triplet": [{"Aspect": "CP值螢幕色域", "Opinion": "太低不太行", "VA": "5.04#5.46"}, {"Aspect": "CP值螢幕色域", "Opinion": "太低不太行", "VA": "5.04#5.46"}]}
+{"ID": "7024955:S090", "Triplet": [{"Aspect": "外觀", "Opinion": "比較像辦公室款", "VA": "5.89#5.72"}]}
+{"ID": "7024955:S091", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#5.60"}]}
+{"ID": "7027819:S015", "Triplet": [{"Aspect": "筆電整體", "Opinion": "很不錯直接放棄", "VA": "6.26#5.80"}, {"Aspect": "筆電整體", "Opinion": "很不錯直接放棄", "VA": "6.26#5.80"}]}
+{"ID": "7029537:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.58#5.63"}]}
+{"ID": "7029907:S002", "Triplet": [{"Aspect": "ZenBookUX5406SA", "Opinion": "none", "VA": "6.06#5.65"}]}
+{"ID": "7029907:S004", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.77#5.74"}, {"Aspect": "none", "Opinion": "none", "VA": "5.77#5.74"}]}
+{"ID": "7031528:S026", "Triplet": [{"Aspect": "none", "Opinion": "不錯", "VA": "5.86#5.60"}]}
+{"ID": "7031768:S005", "Triplet": [{"Aspect": "none", "Opinion": "很便宜非常不錯", "VA": "6.26#5.80"}]}
+{"ID": "7031817:S005", "Triplet": [{"Aspect": "none", "Opinion": "很不錯", "VA": "6.56#5.88"}, {"Aspect": "none", "Opinion": "很不錯", "VA": "6.56#5.88"}]}
+{"ID": "7031873:S004", "Triplet": [{"Aspect": "acer的散熱", "Opinion": "算不錯", "VA": "5.58#5.53"}, {"Aspect": "acer的散熱", "Opinion": "算不錯", "VA": "5.58#5.53"}]}
+{"ID": "7036316:S020", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.10#5.70"}]}
+{"ID": "7036383:S014", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.66#5.98"}, {"Aspect": "none", "Opinion": "none", "VA": "5.66#5.98"}]}
+{"ID": "7036383:S067", "Triplet": [{"Aspect": "none", "Opinion": "多難用", "VA": "6.38#5.94"}, {"Aspect": "none", "Opinion": "多難用", "VA": "6.38#5.94"}]}
+{"ID": "7036730:S011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.84#5.77"}]}
+{"ID": "7037163:S009", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#5.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.26#5.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.26#5.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.26#5.87"}]}
+{"ID": "7038891:S016", "Triplet": [{"Aspect": "none", "Opinion": "無法擴充", "VA": "4.85#5.43"}, {"Aspect": "none", "Opinion": "無法擴充", "VA": "4.85#5.43"}, {"Aspect": "none", "Opinion": "無法擴充", "VA": "4.85#5.43"}, {"Aspect": "none", "Opinion": "無法擴充", "VA": "4.85#5.43"}]}
+{"ID": "7040874:S007", "Triplet": [{"Aspect": "記憶體", "Opinion": "none", "VA": "5.72#5.75"}]}
+{"ID": "7041208:S021", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.80#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "5.80#5.86"}, {"Aspect": "none", "Opinion": "none", "VA": "5.80#5.86"}]}
+{"ID": "7041208:S027", "Triplet": [{"Aspect": "處理器散熱", "Opinion": "夠力不太容易卡住", "VA": "4.98#5.48"}, {"Aspect": "處理器散熱", "Opinion": "夠力不太容易卡住", "VA": "4.98#5.48"}]}
+{"ID": "7041208:S029", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.18#6.10"}]}
+{"ID": "7041861:S003", "Triplet": [{"Aspect": "FA507NU", "Opinion": "好一點", "VA": "5.70#5.49"}]}
+{"ID": "7042633:S003", "Triplet": [{"Aspect": "none", "Opinion": "很不好不夠廣", "VA": "5.55#5.67"}, {"Aspect": "none", "Opinion": "很不好不夠廣", "VA": "5.55#5.67"}]}
+{"ID": "7042893:S004", "Triplet": [{"Aspect": "none", "Opinion": "比較漂亮", "VA": "6.08#5.86"}, {"Aspect": "none", "Opinion": "比較漂亮", "VA": "6.08#5.86"}, {"Aspect": "none", "Opinion": "比較漂亮", "VA": "6.08#5.86"}, {"Aspect": "none", "Opinion": "比較漂亮", "VA": "6.08#5.86"}]}
+{"ID": "7046674:S004", "Triplet": [{"Aspect": "none", "Opinion": "很好", "VA": "6.37#5.94"}]}
+{"ID": "7047655:S003", "Triplet": [{"Aspect": "none", "Opinion": "蠻不錯特別好", "VA": "6.43#5.81"}, {"Aspect": "none", "Opinion": "蠻不錯特別好", "VA": "6.43#5.81"}, {"Aspect": "none", "Opinion": "蠻不錯特別好", "VA": "6.43#5.81"}, {"Aspect": "none", "Opinion": "蠻不錯特別好", "VA": "6.43#5.81"}]}
+{"ID": "7048589:S021", "Triplet": [{"Aspect": "續航力", "Opinion": "比較長", "VA": "5.95#5.74"}]}
+{"ID": "7048589:S023", "Triplet": [{"Aspect": "微星", "Opinion": "真爛", "VA": "5.51#5.82"}, {"Aspect": "微星", "Opinion": "真爛", "VA": "5.51#5.82"}]}
+{"ID": "7048589:S073", "Triplet": [{"Aspect": "MSISummit13AI+EVOA2VM的360度轉軸", "Opinion": "好喜歡", "VA": "6.68#6.19"}]}
+{"ID": "7048649:S007", "Triplet": [{"Aspect": "none", "Opinion": "蠻大方", "VA": "6.51#6.23"}]}
+{"ID": "7048649:S010", "Triplet": [{"Aspect": "筆電外型", "Opinion": "好看", "VA": "6.49#5.88"}, {"Aspect": "筆電外型", "Opinion": "好看", "VA": "6.49#5.88"}]}
+{"ID": "7049030:S052", "Triplet": [{"Aspect": "價格效能", "Opinion": "令人印象深刻", "VA": "6.12#5.94"}, {"Aspect": "價格效能", "Opinion": "令人印象深刻", "VA": "6.12#5.94"}]}
+{"ID": "7049420:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.72#5.74"}, {"Aspect": "none", "Opinion": "none", "VA": "5.72#5.74"}]}
+{"ID": "7052843:S065", "Triplet": [{"Aspect": "Dell的設計", "Opinion": "很喜歡超美", "VA": "6.30#6.30"}, {"Aspect": "Dell的設計", "Opinion": "很喜歡超美", "VA": "6.30#6.30"}]}
+{"ID": "7053210:S004", "Triplet": [{"Aspect": "S5504", "Opinion": "夠用大用起來比較舒服", "VA": "6.43#5.81"}, {"Aspect": "S5504", "Opinion": "夠用大用起來比較舒服", "VA": "6.43#5.81"}]}
+{"ID": "7053258:S004", "Triplet": [{"Aspect": "散熱效果", "Opinion": "比較強", "VA": "6.54#6.09"}]}
+{"ID": "7053677:S017", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "6.32#5.93"}, {"Aspect": "none", "Opinion": "還不錯", "VA": "6.32#5.93"}, {"Aspect": "none", "Opinion": "還不錯", "VA": "6.32#5.93"}]}
+{"ID": "7053987:S018", "Triplet": [{"Aspect": "CP值", "Opinion": "稱不上高合理", "VA": "5.31#5.49"}, {"Aspect": "CP值", "Opinion": "稱不上高合理", "VA": "5.31#5.49"}]}
+{"ID": "7055934:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.87#5.54"}, {"Aspect": "none", "Opinion": "none", "VA": "5.87#5.54"}]}
+{"ID": "7057678:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.82#5.58"}, {"Aspect": "none", "Opinion": "none", "VA": "5.82#5.58"}]}
+{"ID": "7059292:S040", "Triplet": [{"Aspect": "none", "Opinion": "絕對是最大亮點", "VA": "5.42#5.62"}]}
+{"ID": "7060336:S033", "Triplet": [{"Aspect": "50顯卡價格", "Opinion": "不便宜", "VA": "5.11#5.37"}]}
+{"ID": "7060476:S006", "Triplet": [{"Aspect": "CP值", "Opinion": "不錯", "VA": "5.92#5.54"}]}
+{"ID": "7061968:S003", "Triplet": [{"Aspect": "none", "Opinion": "不低", "VA": "5.59#5.61"}, {"Aspect": "none", "Opinion": "不低", "VA": "5.59#5.61"}]}
+{"ID": "7063563:S003", "Triplet": [{"Aspect": "none", "Opinion": "越來越肥", "VA": "5.20#5.55"}, {"Aspect": "none", "Opinion": "越來越肥", "VA": "5.20#5.55"}, {"Aspect": "none", "Opinion": "越來越肥", "VA": "5.20#5.55"}, {"Aspect": "none", "Opinion": "越來越肥", "VA": "5.20#5.55"}]}
+{"ID": "7063770:S021", "Triplet": [{"Aspect": "規格", "Opinion": "很棒", "VA": "6.72#6.51"}, {"Aspect": "規格", "Opinion": "很棒", "VA": "6.72#6.51"}]}
+{"ID": "7069169:S009", "Triplet": [{"Aspect": "可攜式螢幕捲軸化", "Opinion": "很有趣比較實用", "VA": "5.70#5.87"}]}
+{"ID": "7069169:S020", "Triplet": [{"Aspect": "螢幕設計", "Opinion": "不錯", "VA": "6.20#5.70"}]}
+{"ID": "7069320:S038", "Triplet": [{"Aspect": "筆電", "Opinion": "很醜", "VA": "5.50#5.90"}, {"Aspect": "筆電", "Opinion": "很醜", "VA": "5.50#5.90"}]}
+{"ID": "7069509:S003", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.99#5.61"}, {"Aspect": "none", "Opinion": "none", "VA": "5.99#5.61"}]}
+{"ID": "7069536:S012", "Triplet": [{"Aspect": "LegionPro7i的外觀", "Opinion": "很喜歡", "VA": "6.68#6.50"}, {"Aspect": "LegionPro7i的外觀", "Opinion": "很喜歡", "VA": "6.68#6.50"}]}
+{"ID": "7072403:S001", "Triplet": [{"Aspect": "國慘雙A鍵盤", "Opinion": "會自動故障", "VA": "4.95#5.68"}]}
+{"ID": "7072403:S002", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "4.91#5.64"}]}
+{"ID": "7072751:S012", "Triplet": [{"Aspect": "ChromBook價格", "Opinion": "none", "VA": "5.55#5.40"}]}
+{"ID": "7072999:S008", "Triplet": [{"Aspect": "none", "Opinion": "有點偏貴", "VA": "5.12#5.48"}, {"Aspect": "none", "Opinion": "有點偏貴", "VA": "5.12#5.48"}, {"Aspect": "none", "Opinion": "有點偏貴", "VA": "5.12#5.48"}, {"Aspect": "none", "Opinion": "有點偏貴", "VA": "5.12#5.48"}]}
+{"ID": "7072999:S016", "Triplet": [{"Aspect": "AMD的FA507NVCP值", "Opinion": "none", "VA": "6.57#6.14"}, {"Aspect": "AMD的FA507NVCP值", "Opinion": "none", "VA": "6.57#6.14"}]}
+{"ID": "7073964:S009", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.44#5.83"}, {"Aspect": "none", "Opinion": "none", "VA": "5.44#5.83"}, {"Aspect": "none", "Opinion": "none", "VA": "5.44#5.83"}, {"Aspect": "none", "Opinion": "none", "VA": "5.44#5.83"}, {"Aspect": "none", "Opinion": "none", "VA": "5.44#5.83"}]}
+{"ID": "7074326:S024", "Triplet": [{"Aspect": "none", "Opinion": "很好", "VA": "6.73#6.16"}, {"Aspect": "none", "Opinion": "很好", "VA": "6.73#6.16"}]}
+{"ID": "7074781:S023", "Triplet": [{"Aspect": "效能", "Opinion": "太重", "VA": "4.92#5.54"}]}
+{"ID": "7076622:S002", "Triplet": [{"Aspect": "白色的FA401UU", "Opinion": "真的是很好看", "VA": "6.59#6.40"}, {"Aspect": "白色的FA401UU", "Opinion": "真的是很好看", "VA": "6.59#6.40"}, {"Aspect": "白色的FA401UU", "Opinion": "真的是很好看", "VA": "6.59#6.40"}]}
+{"ID": "7076622:S005", "Triplet": [{"Aspect": "none", "Opinion": "挺好看", "VA": "6.09#5.95"}, {"Aspect": "none", "Opinion": "挺好看", "VA": "6.09#5.95"}]}
+{"ID": "7076961:S020", "Triplet": [{"Aspect": "價格", "Opinion": "none", "VA": "5.90#5.86"}]}
+{"ID": "7078163:S010", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.52#6.19"}, {"Aspect": "none", "Opinion": "none", "VA": "6.52#6.19"}]}
+{"ID": "7078820:S008", "Triplet": [{"Aspect": "none", "Opinion": "比較夠用", "VA": "5.40#5.57"}]}
+{"ID": "7079851:S009", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.19#5.68"}]}
+{"ID": "7082211:S002", "Triplet": [{"Aspect": "轉軸散熱設計", "Opinion": "蠻實用", "VA": "5.80#5.66"}]}
+{"ID": "7082330:S006", "Triplet": [{"Aspect": "外觀", "Opinion": "none", "VA": "6.22#6.10"}, {"Aspect": "外觀", "Opinion": "none", "VA": "6.22#6.10"}]}
+{"ID": "7082330:S034", "Triplet": [{"Aspect": "外觀", "Opinion": "很期待", "VA": "5.86#5.92"}, {"Aspect": "外觀", "Opinion": "很期待", "VA": "5.86#5.92"}, {"Aspect": "外觀", "Opinion": "很期待", "VA": "5.86#5.92"}]}
+{"ID": "7082330:S132", "Triplet": [{"Aspect": "975克效能", "Opinion": "none", "VA": "5.82#5.96"}, {"Aspect": "975克效能", "Opinion": "none", "VA": "5.82#5.96"}]}
+{"ID": "7082330:S134", "Triplet": [{"Aspect": "外觀", "Opinion": "很素的一台", "VA": "6.32#6.27"}]}
+{"ID": "7083512:S002", "Triplet": [{"Aspect": "none", "Opinion": "比較差", "VA": "5.51#5.62"}]}
+{"ID": "7084079:S006", "Triplet": [{"Aspect": "none", "Opinion": "比較差跟臺灣差不多", "VA": "4.90#5.49"}]}
+{"ID": "7084267:S004", "Triplet": [{"Aspect": "文書筆電配備", "Opinion": "不錯", "VA": "5.99#5.57"}]}
+{"ID": "7085404:S008", "Triplet": [{"Aspect": "FA608WV質感", "Opinion": "none", "VA": "6.43#5.88"}, {"Aspect": "FA608WV質感", "Opinion": "none", "VA": "6.43#5.88"}, {"Aspect": "FA608WV質感", "Opinion": "none", "VA": "6.43#5.88"}]}
+{"ID": "7085840:S013", "Triplet": [{"Aspect": "none", "Opinion": "小了點", "VA": "5.54#5.61"}]}
+{"ID": "7086749:S037", "Triplet": [{"Aspect": "none", "Opinion": "爛到有剩很爛", "VA": "5.31#5.78"}]}
+{"ID": "7088583:S014", "Triplet": [{"Aspect": "none", "Opinion": "不便宜", "VA": "5.71#5.57"}]}
+{"ID": "7089275:S029", "Triplet": [{"Aspect": "YogaSlim/2in1系列", "Opinion": "越來越好看", "VA": "6.57#6.22"}]}
+{"ID": "7090741:S003", "Triplet": [{"Aspect": "續航", "Opinion": "真的挺吸引人", "VA": "6.59#6.53"}]}
+{"ID": "7092230:S014", "Triplet": [{"Aspect": "WindowsARM的VPN軟體", "Opinion": "有蠻多套可用", "VA": "5.54#5.53"}, {"Aspect": "WindowsARM的VPN軟體", "Opinion": "有蠻多套可用", "VA": "5.54#5.53"}]}
+{"ID": "7092259:S038", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.48#5.73"}, {"Aspect": "none", "Opinion": "none", "VA": "5.48#5.73"}]}
+{"ID": "7092609:S030", "Triplet": [{"Aspect": "none", "Opinion": "真的不錯", "VA": "6.44#5.81"}, {"Aspect": "none", "Opinion": "真的不錯", "VA": "6.44#5.81"}, {"Aspect": "none", "Opinion": "真的不錯", "VA": "6.44#5.81"}]}
+{"ID": "7093246:S016", "Triplet": [{"Aspect": "none", "Opinion": "爛到會自然死亡", "VA": "4.83#5.68"}, {"Aspect": "none", "Opinion": "爛到會自然死亡", "VA": "4.83#5.68"}]}
+{"ID": "7093489:S004", "Triplet": [{"Aspect": "蘋果的售後服務AppStore的應用程式豐富度", "Opinion": "豐富一大優勢", "VA": "6.53#6.11"}, {"Aspect": "蘋果的售後服務AppStore的應用程式豐富度", "Opinion": "豐富一大優勢", "VA": "6.53#6.11"}]}
+{"ID": "7094394:S060", "Triplet": [{"Aspect": "擴充性", "Opinion": "none", "VA": "5.75#5.81"}]}
+{"ID": "7095346:S081", "Triplet": [{"Aspect": "筆電", "Opinion": "不錯", "VA": "6.19#5.69"}]}
+{"ID": "7096305:S037", "Triplet": [{"Aspect": "筆電", "Opinion": "none", "VA": "6.43#6.11"}, {"Aspect": "筆電", "Opinion": "none", "VA": "6.43#6.11"}]}
+{"ID": "7096305:S169", "Triplet": [{"Aspect": "筆電", "Opinion": "很厲害很笨重", "VA": "5.61#5.90"}, {"Aspect": "筆電", "Opinion": "很厲害很笨重", "VA": "5.61#5.90"}]}
+{"ID": "7096305:S173", "Triplet": [{"Aspect": "none", "Opinion": "很不錯", "VA": "6.37#5.66"}]}
+{"ID": "7096305:S208", "Triplet": [{"Aspect": "筆電外型", "Opinion": "有創意", "VA": "6.57#6.20"}]}
+{"ID": "7096305:S246", "Triplet": [{"Aspect": "外觀", "Opinion": "很帥", "VA": "5.96#5.84"}]}
+{"ID": "7100143:S025", "Triplet": [{"Aspect": "筆電外型", "Opinion": "很好看", "VA": "6.60#6.21"}]}
+{"ID": "7101193:S054", "Triplet": [{"Aspect": "規格", "Opinion": "不錯", "VA": "6.32#5.62"}]}
+{"ID": "7101193:S063", "Triplet": [{"Aspect": "性能", "Opinion": "大概率不差", "VA": "5.22#5.43"}]}
+{"ID": "7101943:S025", "Triplet": [{"Aspect": "none", "Opinion": "重", "VA": "6.14#5.69"}, {"Aspect": "none", "Opinion": "重", "VA": "6.14#5.69"}, {"Aspect": "none", "Opinion": "重", "VA": "6.14#5.69"}]}
+{"ID": "7101943:S105", "Triplet": [{"Aspect": "價格", "Opinion": "還好", "VA": "6.04#5.86"}, {"Aspect": "價格", "Opinion": "還好", "VA": "6.04#5.86"}]}
+{"ID": "7101943:S116", "Triplet": [{"Aspect": "規格價錢", "Opinion": "頂不美麗", "VA": "5.40#5.55"}, {"Aspect": "規格價錢", "Opinion": "頂不美麗", "VA": "5.40#5.55"}]}
+{"ID": "7102537:S006", "Triplet": [{"Aspect": "none", "Opinion": "還不錯", "VA": "5.90#5.67"}]}
+{"ID": "7104393:S001", "Triplet": [{"Aspect": "鍵盤佈局", "Opinion": "很不習慣鐵了心", "VA": "5.26#5.83"}]}
+{"ID": "7104838:S005", "Triplet": [{"Aspect": "none", "Opinion": "沒很高", "VA": "6.06#5.87"}, {"Aspect": "none", "Opinion": "沒很高", "VA": "6.06#5.87"}]}
+{"ID": "7105523:S009", "Triplet": [{"Aspect": "AORUS16X搭I7+40602K165Hz螢幕色彩", "Opinion": "不錯", "VA": "6.50#5.75"}]}
+{"ID": "7105703:S009", "Triplet": [{"Aspect": "Lenovo的電腦", "Opinion": "不錯用", "VA": "6.51#5.87"}]}
+{"ID": "7105703:S129", "Triplet": [{"Aspect": "筆電", "Opinion": "很正很頂很貴", "VA": "6.40#6.24"}, {"Aspect": "筆電", "Opinion": "很正很頂很貴", "VA": "6.40#6.24"}]}
+{"ID": "7105703:S187", "Triplet": [{"Aspect": "聯想筆電質感", "Opinion": "明顯進步很多", "VA": "6.19#5.88"}]}
+{"ID": "7105703:S236", "Triplet": [{"Aspect": "筆電", "Opinion": "不錯越來越棒", "VA": "6.45#6.04"}]}
+{"ID": "7105703:S261", "Triplet": [{"Aspect": "筆電的設計", "Opinion": "越來越進步", "VA": "6.36#6.37"}]}
+{"ID": "7105703:S305", "Triplet": [{"Aspect": "外觀內部功能", "Opinion": "none", "VA": "6.29#5.59"}, {"Aspect": "外觀內部功能", "Opinion": "none", "VA": "6.29#5.59"}]}
+{"ID": "7105703:S330", "Triplet": [{"Aspect": "LenovoOLED", "Opinion": "很讚", "VA": "6.50#6.06"}, {"Aspect": "LenovoOLED", "Opinion": "很讚", "VA": "6.50#6.06"}]}
+{"ID": "7105703:S368", "Triplet": [{"Aspect": "##Lenovo的nb", "Opinion": "不錯用", "VA": "6.35#5.68"}]}
+{"ID": "7105703:S450", "Triplet": [{"Aspect": "差價", "Opinion": "none", "VA": "4.86#5.42"}, {"Aspect": "差價", "Opinion": "none", "VA": "4.86#5.42"}]}
+{"ID": "7105703:S511", "Triplet": [{"Aspect": "台灣聯想的服務", "Opinion": "越來越喜歡", "VA": "6.49#6.34"}]}
+{"ID": "7106682:S004", "Triplet": [{"Aspect": "筆電的CP值", "Opinion": "none", "VA": "6.49#6.09"}]}
+{"ID": "7106682:S014", "Triplet": [{"Aspect": "效能", "Opinion": "不錯", "VA": "6.24#5.57"}]}
+{"ID": "7109233:S006", "Triplet": [{"Aspect": "DPI的螢幕", "Opinion": "算很不錯", "VA": "6.57#6.16"}]}
+{"ID": "7109921:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.02#5.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#5.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#5.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.02#5.69"}]}
+{"ID": "7111630:S034", "Triplet": [{"Aspect": "CP值擴充性", "Opinion": "最高很足", "VA": "6.60#6.28"}, {"Aspect": "CP值擴充性", "Opinion": "最高很足", "VA": "6.60#6.28"}]}
+{"ID": "7111630:S042", "Triplet": [{"Aspect": "CP值", "Opinion": "none", "VA": "6.50#6.31"}]}
+{"ID": "7111630:S060", "Triplet": [{"Aspect": "電競筆電", "Opinion": "很盡興", "VA": "5.77#5.94"}]}
+{"ID": "7111630:S061", "Triplet": [{"Aspect": "價格", "Opinion": "真是十分強大", "VA": "5.93#6.21"}, {"Aspect": "價格", "Opinion": "真是十分強大", "VA": "5.93#6.21"}]}
+{"ID": "7111630:S076", "Triplet": [{"Aspect": "價格", "Opinion": "蠻實在", "VA": "6.22#6.01"}]}
+{"ID": "7112252:S001", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.62#5.60"}]}
+{"ID": "7112615:S011", "Triplet": [{"Aspect": "性能", "Opinion": "很強悍", "VA": "6.52#6.17"}]}
+{"ID": "7112615:S064", "Triplet": [{"Aspect": "外型", "Opinion": "none", "VA": "6.16#5.91"}]}
+{"ID": "7112814:S015", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.08#5.50"}, {"Aspect": "none", "Opinion": "none", "VA": "5.08#5.50"}]}
+{"ID": "7115047:S008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.25"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.25"}]}
+{"ID": "7116378:S042", "Triplet": [{"Aspect": "2025筆電C口", "Opinion": "更離譜", "VA": "5.01#5.68"}]}
+{"ID": "7117206:S166", "Triplet": [{"Aspect": "筆電規格", "Opinion": "大膽嶄露強項", "VA": "5.85#5.82"}, {"Aspect": "筆電規格", "Opinion": "大膽嶄露強項", "VA": "5.85#5.82"}]}
+{"ID": "7117206:S173", "Triplet": [{"Aspect": "ASUS的外型", "Opinion": "none", "VA": "6.25#5.59"}, {"Aspect": "ASUS的外型", "Opinion": "none", "VA": "6.25#5.59"}, {"Aspect": "ASUS的外型", "Opinion": "none", "VA": "6.25#5.59"}, {"Aspect": "ASUS的外型", "Opinion": "none", "VA": "6.25#5.59"}]}
+{"ID": "7117206:S224", "Triplet": [{"Aspect": "重量", "Opinion": "可以", "VA": "5.57#5.58"}]}
+{"ID": "7117427:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.85#5.56"}]}
+{"ID": "7120838:S077", "Triplet": [{"Aspect": "none", "Opinion": "還滿不錯", "VA": "6.33#5.81"}, {"Aspect": "none", "Opinion": "還滿不錯", "VA": "6.33#5.81"}, {"Aspect": "none", "Opinion": "還滿不錯", "VA": "6.33#5.81"}]}
+{"ID": "7120902:S037", "Triplet": [{"Aspect": "none", "Opinion": "比你付的錢還多", "VA": "6.11#5.87"}, {"Aspect": "none", "Opinion": "比你付的錢還多", "VA": "6.11#5.87"}]}
+{"ID": "7121170:S006", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.37#5.60"}]}
+{"ID": "7121834:S016", "Triplet": [{"Aspect": "筆電的顏色", "Opinion": "很漂亮", "VA": "6.45#6.37"}]}

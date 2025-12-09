@@ -1,0 +1,242 @@
+{"ID": "24578:18_996", "Triplet": [{"Aspect": "масло", "Opinion": "оливковое", "VA": "6.23#6.59"}]}
+{"ID": "24713:11_1003", "Triplet": [{"Aspect": "Еда", "Opinion": "понравилась", "VA": "6.16#6.55"}]}
+{"ID": "24713:13_1004", "Triplet": [{"Aspect": "Горячее", "Opinion": "не понравилось", "VA": "5.97#6.43"}]}
+{"ID": "24713:15_1005", "Triplet": [{"Aspect": "Свадьба еды", "Opinion": "none", "VA": "6.36#6.65"}]}
+{"ID": "24713:18_1006", "Triplet": [{"Aspect": "официанты", "Opinion": "none", "VA": "6.30#6.71"}]}
+{"ID": "24713:1_997", "Triplet": [{"Aspect": "Зал", "Opinion": "замечательный", "VA": "6.23#6.62"}]}
+{"ID": "24713:3_998", "Triplet": [{"Aspect": "меню", "Opinion": "среднее", "VA": "6.33#6.57"}]}
+{"ID": "24713:4_999", "Triplet": [{"Aspect": "кол-во закусок", "Opinion": "удивило небольшое", "VA": "6.19#6.52"}]}
+{"ID": "24713:6_1000", "Triplet": [{"Aspect": "Сырная тарелка", "Opinion": "поразила засохшим", "VA": "6.31#6.69"}, {"Aspect": "Сырная тарелка", "Opinion": "поразила засохшим", "VA": "6.31#6.69"}]}
+{"ID": "24713:7_1001", "Triplet": [{"Aspect": "Фрукты", "Opinion": "на последнем издыхании", "VA": "6.18#6.57"}]}
+{"ID": "24713:8_1002", "Triplet": [{"Aspect": "салаты", "Opinion": "пришла в ужас", "VA": "6.07#6.33"}]}
+{"ID": "24916:1_1007", "Triplet": [{"Aspect": "none", "Opinion": "понравился", "VA": "6.16#6.56"}, {"Aspect": "none", "Opinion": "понравился", "VA": "6.16#6.56"}]}
+{"ID": "24916:2_1008", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#6.77"}]}
+{"ID": "24916:3_1009", "Triplet": [{"Aspect": "девушка", "Opinion": "none", "VA": "6.42#6.74"}]}
+{"ID": "24916:5_1010", "Triplet": [{"Aspect": "Настроение", "Opinion": "испорчено не было", "VA": "6.49#6.71"}]}
+{"ID": "25507:10_1014", "Triplet": [{"Aspect": "Овощи свежие цыпленка", "Opinion": "none", "VA": "6.33#6.66"}]}
+{"ID": "25507:11_1015", "Triplet": [{"Aspect": "приправа", "Opinion": "none", "VA": "6.42#6.65"}]}
+{"ID": "25507:12_1016", "Triplet": [{"Aspect": "Чеснок", "Opinion": "как надо", "VA": "5.74#6.13"}]}
+{"ID": "25507:13_1017", "Triplet": [{"Aspect": "Соус", "Opinion": "не понравился", "VA": "6.36#6.74"}]}
+{"ID": "25507:14_1018", "Triplet": [{"Aspect": "none", "Opinion": "приятные", "VA": "6.47#6.87"}, {"Aspect": "none", "Opinion": "приятные", "VA": "6.47#6.87"}, {"Aspect": "none", "Opinion": "приятные", "VA": "6.47#6.87"}]}
+{"ID": "25507:2_1011", "Triplet": [{"Aspect": "кафе", "Opinion": "шокирована", "VA": "6.27#6.71"}]}
+{"ID": "25507:4_1012", "Triplet": [{"Aspect": "Официантку", "Opinion": "пришлось долго ждать", "VA": "6.28#6.74"}]}
+{"ID": "25507:8_1013", "Triplet": [{"Aspect": "Салат", "Opinion": "очень понравился", "VA": "6.48#6.87"}]}
+{"ID": "25709:13_1022", "Triplet": [{"Aspect": "Медальоны из говядины с запеченным картофелем", "Opinion": "прекрасны", "VA": "6.21#6.65"}]}
+{"ID": "25709:14_1023", "Triplet": [{"Aspect": "рыбы мясо", "Opinion": "none", "VA": "6.34#6.60"}]}
+{"ID": "25709:16_1024", "Triplet": [{"Aspect": "обслуживании", "Opinion": "постоянно находилось человека два", "VA": "6.23#6.64"}]}
+{"ID": "25709:19_1025", "Triplet": [{"Aspect": "заведения", "Opinion": "отличное", "VA": "5.96#6.37"}]}
+{"ID": "25709:5_1019", "Triplet": [{"Aspect": "девушки", "Opinion": "none", "VA": "6.41#6.66"}]}
+{"ID": "25709:8_1020", "Triplet": [{"Aspect": "диваны с россыпью подушек", "Opinion": "Мягкие", "VA": "6.24#6.26"}, {"Aspect": "диваны с россыпью подушек", "Opinion": "Мягкие", "VA": "6.24#6.26"}]}
+{"ID": "25709:9_1021", "Triplet": [{"Aspect": "none", "Opinion": "Довольно приятная", "VA": "6.15#6.31"}, {"Aspect": "none", "Opinion": "Довольно приятная", "VA": "6.15#6.31"}]}
+{"ID": "25753:2_1026", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.77"}]}
+{"ID": "25753:3_1027", "Triplet": [{"Aspect": "обслуживание", "Opinion": "none", "VA": "6.21#6.44"}]}
+{"ID": "25753:5_1028", "Triplet": [{"Aspect": "Еда", "Opinion": "очень вкусная", "VA": "6.37#6.74"}]}
+{"ID": "25753:6_1029", "Triplet": [{"Aspect": "Шашлык", "Opinion": "выше всяческих похвал", "VA": "6.14#6.60"}]}
+{"ID": "25753:7_1030", "Triplet": [{"Aspect": "none", "Opinion": "очень уютные", "VA": "6.25#6.57"}, {"Aspect": "none", "Opinion": "очень уютные", "VA": "6.25#6.57"}]}
+{"ID": "25861:1_1031", "Triplet": [{"Aspect": "none", "Opinion": "Красивый", "VA": "6.32#6.40"}]}
+{"ID": "25861:3_1032", "Triplet": [{"Aspect": "Порции паста", "Opinion": "небольшие вкусной", "VA": "6.32#6.58"}]}
+{"ID": "25861:4_1033", "Triplet": [{"Aspect": "Обслуживание", "Opinion": "не понравилось", "VA": "6.43#6.76"}]}
+{"ID": "25861:5_1034", "Triplet": [{"Aspect": "Моджо", "Opinion": "приятным местом", "VA": "6.33#6.71"}]}
+{"ID": "25960:0_1035", "Triplet": [{"Aspect": "классному местечку", "Opinion": "просто не могли нарадоваться", "VA": "6.02#6.30"}]}
+{"ID": "25960:10_1039", "Triplet": [{"Aspect": "место", "Opinion": "больше не радует", "VA": "5.72#6.32"}]}
+{"ID": "25960:2_1036", "Triplet": [{"Aspect": "Обслуживание", "Opinion": "отличное", "VA": "6.49#6.78"}, {"Aspect": "Обслуживание", "Opinion": "отличное", "VA": "6.49#6.78"}]}
+{"ID": "25960:6_1037", "Triplet": [{"Aspect": "Сервис", "Opinion": "упал резко", "VA": "5.77#6.29"}]}
+{"ID": "25960:8_1038", "Triplet": [{"Aspect": "еды", "Opinion": "none", "VA": "6.48#6.82"}, {"Aspect": "еды", "Opinion": "none", "VA": "6.48#6.82"}]}
+{"ID": "26022:1_1040", "Triplet": [{"Aspect": "Заведение", "Opinion": "очень приятное", "VA": "6.46#6.74"}]}
+{"ID": "26022:3_1041", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.51"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.51"}]}
+{"ID": "26022:4_1042", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}]}
+{"ID": "26022:5_1043", "Triplet": [{"Aspect": "Ценник заведении", "Opinion": "ресторанный довольно большие", "VA": "6.50#6.76"}]}
+{"ID": "26022:6_1044", "Triplet": [{"Aspect": "none", "Opinion": "понравилось очень большой выбор", "VA": "6.42#6.70"}]}
+{"ID": "26152:13_1048", "Triplet": [{"Aspect": "Персонал", "Opinion": "старается, надеюсь так будет продолжаться и дальше", "VA": "6.15#6.58"}]}
+{"ID": "26152:14_1049", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.08#6.51"}, {"Aspect": "none", "Opinion": "none", "VA": "6.08#6.51"}, {"Aspect": "none", "Opinion": "none", "VA": "6.08#6.51"}]}
+{"ID": "26152:15_1050", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.40#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#6.71"}]}
+{"ID": "26152:16_1051", "Triplet": [{"Aspect": "Салат от шеф-повара с курицей", "Opinion": "ничего лишнего", "VA": "6.47#6.68"}]}
+{"ID": "26152:17_1052", "Triplet": [{"Aspect": "Тирамису", "Opinion": "выше всяких похвал", "VA": "6.16#6.56"}]}
+{"ID": "26152:18_1053", "Triplet": [{"Aspect": "крем пропитка", "Opinion": "none", "VA": "5.96#6.05"}, {"Aspect": "крем пропитка", "Opinion": "none", "VA": "5.96#6.05"}]}
+{"ID": "26152:20_1054", "Triplet": [{"Aspect": "обслуживанием", "Opinion": "хорошим", "VA": "6.32#6.41"}, {"Aspect": "обслуживанием", "Opinion": "хорошим", "VA": "6.32#6.41"}, {"Aspect": "обслуживанием", "Opinion": "хорошим", "VA": "6.32#6.41"}]}
+{"ID": "26152:3_1045", "Triplet": [{"Aspect": "none", "Opinion": "уютной", "VA": "6.42#6.85"}, {"Aspect": "none", "Opinion": "уютной", "VA": "6.42#6.85"}]}
+{"ID": "26152:5_1046", "Triplet": [{"Aspect": "none", "Opinion": "добротная", "VA": "5.86#6.32"}, {"Aspect": "none", "Opinion": "добротная", "VA": "5.86#6.32"}]}
+{"ID": "26152:8_1047", "Triplet": [{"Aspect": "Сервис", "Opinion": "приветливо", "VA": "6.31#6.51"}]}
+{"ID": "26284:1_1055", "Triplet": [{"Aspect": "ресторан", "Opinion": "замечательный", "VA": "6.45#6.72"}]}
+{"ID": "26284:2_1056", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.29#6.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.65"}, {"Aspect": "none", "Opinion": "none", "VA": "6.29#6.65"}]}
+{"ID": "26284:3_1057", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.77"}]}
+{"ID": "26330:10_1065", "Triplet": [{"Aspect": "пивном баре", "Opinion": "замечательно", "VA": "6.11#6.52"}]}
+{"ID": "26330:11_1066", "Triplet": [{"Aspect": "Гроссенштрассе", "Opinion": "none", "VA": "5.59#6.24"}]}
+{"ID": "26330:1_1058", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.07#6.45"}, {"Aspect": "none", "Opinion": "none", "VA": "6.07#6.45"}, {"Aspect": "none", "Opinion": "none", "VA": "6.07#6.45"}]}
+{"ID": "26330:2_1059", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.36#6.71"}]}
+{"ID": "26330:4_1060", "Triplet": [{"Aspect": "обслуживающий персонал", "Opinion": "Приятно удивил", "VA": "6.15#6.16"}]}
+{"ID": "26330:5_1061", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.47#6.80"}]}
+{"ID": "26330:6_1062", "Triplet": [{"Aspect": "пиво", "Opinion": "какое", "VA": "5.89#6.15"}]}
+{"ID": "26330:8_1063", "Triplet": [{"Aspect": "бармен", "Opinion": "просто другом", "VA": "5.80#6.18"}]}
+{"ID": "26330:9_1064", "Triplet": [{"Aspect": "пиве пиво", "Opinion": "умело подобрал", "VA": "6.12#6.46"}]}
+{"ID": "26887:10_1068", "Triplet": [{"Aspect": "девушка", "Opinion": "Через пять минут подошла", "VA": "6.24#6.61"}]}
+{"ID": "26887:12_1069", "Triplet": [{"Aspect": "персонала", "Opinion": "none", "VA": "6.47#6.79"}, {"Aspect": "персонала", "Opinion": "none", "VA": "6.47#6.79"}]}
+{"ID": "26887:1_1067", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#6.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.20#6.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.20#6.69"}]}
+{"ID": "27040:3_1070", "Triplet": [{"Aspect": "none", "Opinion": "очень понравилось", "VA": "6.43#6.83"}]}
+{"ID": "27040:4_1071", "Triplet": [{"Aspect": "официант", "Opinion": "none", "VA": "6.36#6.71"}]}
+{"ID": "27040:5_1072", "Triplet": [{"Aspect": "Кальян", "Opinion": "супер", "VA": "5.77#6.28"}]}
+{"ID": "27040:6_1073", "Triplet": [{"Aspect": "none", "Opinion": "очень понравилось", "VA": "6.42#6.87"}, {"Aspect": "none", "Opinion": "очень понравилось", "VA": "6.42#6.87"}, {"Aspect": "none", "Opinion": "очень понравилось", "VA": "6.42#6.87"}]}
+{"ID": "27169:10_1079", "Triplet": [{"Aspect": "none", "Opinion": "Очень порадовал", "VA": "6.21#6.55"}, {"Aspect": "none", "Opinion": "Очень порадовал", "VA": "6.21#6.55"}, {"Aspect": "none", "Opinion": "Очень порадовал", "VA": "6.21#6.55"}]}
+{"ID": "27169:11_1080", "Triplet": [{"Aspect": "обслуживание", "Opinion": "none", "VA": "6.08#6.41"}]}
+{"ID": "27169:14_1081", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.84"}]}
+{"ID": "27169:15_1082", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.26#6.73"}, {"Aspect": "none", "Opinion": "none", "VA": "6.26#6.73"}, {"Aspect": "none", "Opinion": "none", "VA": "6.26#6.73"}]}
+{"ID": "27169:4_1074", "Triplet": [{"Aspect": "место", "Opinion": "замечательное", "VA": "6.33#6.74"}]}
+{"ID": "27169:6_1075", "Triplet": [{"Aspect": "none", "Opinion": "превзошли все ожидания", "VA": "6.09#6.47"}, {"Aspect": "none", "Opinion": "превзошли все ожидания", "VA": "6.09#6.47"}, {"Aspect": "none", "Opinion": "превзошли все ожидания", "VA": "6.09#6.47"}]}
+{"ID": "27169:7_1076", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.64"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.64"}]}
+{"ID": "27169:8_1077", "Triplet": [{"Aspect": "продукты", "Opinion": "свежие", "VA": "6.18#6.66"}]}
+{"ID": "27169:9_1078", "Triplet": [{"Aspect": "блюде отношение", "Opinion": "замечаешь неравнодушное", "VA": "6.08#6.44"}]}
+{"ID": "27375:0_1083", "Triplet": [{"Aspect": "ресторанчик", "Opinion": "уютный", "VA": "6.09#6.50"}]}
+{"ID": "27375:2_1084", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.34#6.66"}]}
+{"ID": "27375:3_1085", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.22#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.22#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.22#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.22#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.22#6.56"}]}
+{"ID": "27539:1_1086", "Triplet": [{"Aspect": "none", "Opinion": "Приятная", "VA": "6.49#6.69"}, {"Aspect": "none", "Opinion": "Приятная", "VA": "6.49#6.69"}]}
+{"ID": "27539:2_1087", "Triplet": [{"Aspect": "пекински с супом едой", "Opinion": "наслаждались", "VA": "6.44#6.76"}, {"Aspect": "пекински с супом едой", "Opinion": "наслаждались", "VA": "6.44#6.76"}]}
+{"ID": "27539:3_1088", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.79"}]}
+{"ID": "27539:4_1089", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.74"}]}
+{"ID": "27539:5_1090", "Triplet": [{"Aspect": "none", "Opinion": "того стоит", "VA": "6.44#6.73"}]}
+{"ID": "27569:10_1096", "Triplet": [{"Aspect": "десертов", "Opinion": "немного очень вкусные", "VA": "6.10#6.41"}]}
+{"ID": "27569:11_1097", "Triplet": [{"Aspect": "none", "Opinion": "лёгкий", "VA": "6.41#6.78"}]}
+{"ID": "27569:12_1098", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.70"}, {"Aspect": "none", "Opinion": "none", "VA": "6.46#6.70"}]}
+{"ID": "27569:13_1099", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.71"}]}
+{"ID": "27569:2_1091", "Triplet": [{"Aspect": "none", "Opinion": "очень понравилось", "VA": "6.53#6.73"}]}
+{"ID": "27569:6_1092", "Triplet": [{"Aspect": "еду", "Opinion": "очень вкусно", "VA": "6.40#6.58"}]}
+{"ID": "27569:7_1093", "Triplet": [{"Aspect": "зелень с овощами", "Opinion": "этогго добра", "VA": "6.26#6.72"}]}
+{"ID": "27569:8_1094", "Triplet": [{"Aspect": "none", "Opinion": "нравится", "VA": "6.10#6.45"}]}
+{"ID": "27569:9_1095", "Triplet": [{"Aspect": "чебуреки", "Opinion": "Очень вкусные", "VA": "6.17#6.25"}]}
+{"ID": "27620:0_1100", "Triplet": [{"Aspect": "интерьер", "Opinion": "none", "VA": "6.44#6.79"}]}
+{"ID": "27620:10_1103", "Triplet": [{"Aspect": "Еда", "Opinion": "не понравилась", "VA": "6.21#6.60"}]}
+{"ID": "27620:13_1104", "Triplet": [{"Aspect": "кофе", "Opinion": "Понравился", "VA": "5.95#6.27"}]}
+{"ID": "27620:14_1105", "Triplet": [{"Aspect": "Пирожных меню", "Opinion": "none", "VA": "6.03#6.41"}]}
+{"ID": "27620:1_1101", "Triplet": [{"Aspect": "обслуживание", "Opinion": "none", "VA": "6.43#6.71"}]}
+{"ID": "27620:4_1102", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.20#6.56"}]}
+{"ID": "27629:10_1111", "Triplet": [{"Aspect": "мебель", "Opinion": "очень не удобная", "VA": "6.01#6.28"}]}
+{"ID": "27629:11_1112", "Triplet": [{"Aspect": "заведение", "Opinion": "мы больше не пойдем", "VA": "5.87#6.35"}]}
+{"ID": "27629:4_1106", "Triplet": [{"Aspect": "Официантка", "Opinion": "none", "VA": "6.49#6.82"}]}
+{"ID": "27629:6_1107", "Triplet": [{"Aspect": "none", "Opinion": "не нашли не одного действительно вкусного", "VA": "6.36#6.68"}]}
+{"ID": "27629:7_1108", "Triplet": [{"Aspect": "Кухня", "Opinion": "претензионная", "VA": "6.46#6.73"}]}
+{"ID": "27629:8_1109", "Triplet": [{"Aspect": "обслуживание", "Opinion": "none", "VA": "6.15#6.69"}]}
+{"ID": "27629:9_1110", "Triplet": [{"Aspect": "интерьер", "Opinion": "положительного", "VA": "5.79#6.08"}]}
+{"ID": "27816:11_1118", "Triplet": [{"Aspect": "музыканты", "Opinion": "не дали скучать", "VA": "6.17#6.48"}]}
+{"ID": "27816:12_1119", "Triplet": [{"Aspect": "кальян", "Opinion": "Хороший", "VA": "6.28#6.37"}]}
+{"ID": "27816:1_1113", "Triplet": [{"Aspect": "ресторан", "Opinion": "Очень хороший", "VA": "6.05#6.14"}]}
+{"ID": "27816:2_1114", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.19#6.52"}, {"Aspect": "none", "Opinion": "none", "VA": "6.19#6.52"}]}
+{"ID": "27816:3_1115", "Triplet": [{"Aspect": "none", "Opinion": "Вкусный хороший", "VA": "5.97#6.13"}, {"Aspect": "none", "Opinion": "Вкусный хороший", "VA": "5.97#6.13"}]}
+{"ID": "27816:6_1116", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.08#6.39"}, {"Aspect": "none", "Opinion": "none", "VA": "6.08#6.39"}, {"Aspect": "none", "Opinion": "none", "VA": "6.08#6.39"}]}
+{"ID": "27816:7_1117", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.32#6.71"}]}
+{"ID": "27841:10_1127", "Triplet": [{"Aspect": "Обслуживание", "Opinion": "на 10", "VA": "6.44#6.68"}]}
+{"ID": "27841:11_1128", "Triplet": [{"Aspect": "местечко", "Opinion": "Отлично приятное", "VA": "6.30#6.37"}]}
+{"ID": "27841:1_1120", "Triplet": [{"Aspect": "обслуживающим персоналом", "Opinion": "очарована", "VA": "6.38#6.72"}]}
+{"ID": "27841:2_1121", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.21#6.53"}, {"Aspect": "none", "Opinion": "none", "VA": "6.21#6.53"}]}
+{"ID": "27841:4_1122", "Triplet": [{"Aspect": "пива", "Opinion": "none", "VA": "6.21#6.67"}]}
+{"ID": "27841:5_1123", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.27#6.56"}, {"Aspect": "none", "Opinion": "none", "VA": "6.27#6.56"}]}
+{"ID": "27841:6_1124", "Triplet": [{"Aspect": "none", "Opinion": "Очень понравились", "VA": "6.37#6.63"}, {"Aspect": "none", "Opinion": "Очень понравились", "VA": "6.37#6.63"}, {"Aspect": "none", "Opinion": "Очень понравились", "VA": "6.37#6.63"}]}
+{"ID": "27841:8_1125", "Triplet": [{"Aspect": "девушка-официантка", "Opinion": "приветливая", "VA": "6.47#6.63"}, {"Aspect": "девушка-официантка", "Opinion": "приветливая", "VA": "6.47#6.63"}]}
+{"ID": "27841:9_1126", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.71"}]}
+{"ID": "27925:3_1129", "Triplet": [{"Aspect": "Обслуживание", "Opinion": "хорошее отлично", "VA": "6.44#6.71"}, {"Aspect": "Обслуживание", "Opinion": "хорошее отлично", "VA": "6.44#6.71"}]}
+{"ID": "27925:4_1130", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.30#6.69"}]}
+{"ID": "27925:6_1131", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.71"}]}
+{"ID": "27925:7_1132", "Triplet": [{"Aspect": "живая музыка", "Opinion": "прекрасный", "VA": "6.40#6.82"}, {"Aspect": "живая музыка", "Opinion": "прекрасный", "VA": "6.40#6.82"}]}
+{"ID": "27925:8_1133", "Triplet": [{"Aspect": "ресторане", "Opinion": "безумно довольны", "VA": "6.20#6.64"}]}
+{"ID": "28083:10_1138", "Triplet": [{"Aspect": "девушка", "Opinion": "Очень приветливая", "VA": "6.00#6.17"}]}
+{"ID": "28083:4_1134", "Triplet": [{"Aspect": "none", "Opinion": "хорошее", "VA": "6.45#6.71"}, {"Aspect": "none", "Opinion": "хорошее", "VA": "6.45#6.71"}, {"Aspect": "none", "Opinion": "хорошее", "VA": "6.45#6.71"}]}
+{"ID": "28083:5_1135", "Triplet": [{"Aspect": "пиво", "Opinion": "вообще говорить нечего выше всех похвал", "VA": "6.33#6.61"}]}
+{"ID": "28083:8_1136", "Triplet": [{"Aspect": "Персонал", "Opinion": "вежливый", "VA": "6.55#6.78"}]}
+{"ID": "28083:9_1137", "Triplet": [{"Aspect": "девушка Мария", "Opinion": "none", "VA": "6.38#6.77"}]}
+{"ID": "28112:12_1143", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.23#6.56"}]}
+{"ID": "28112:13_1144", "Triplet": [{"Aspect": "проемы окон", "Opinion": "Большие немного голо", "VA": "6.37#6.58"}]}
+{"ID": "28112:14_1145", "Triplet": [{"Aspect": "Обслуживанию", "Opinion": "я бы поставил 4-ку", "VA": "6.25#6.64"}]}
+{"ID": "28112:15_1146", "Triplet": [{"Aspect": "официанты", "Opinion": "не профи", "VA": "6.42#6.78"}]}
+{"ID": "28112:20_1147", "Triplet": [{"Aspect": "музыка", "Opinion": "none", "VA": "6.40#6.75"}]}
+{"ID": "28112:5_1140", "Triplet": [{"Aspect": "Порции", "Opinion": "большие", "VA": "6.45#6.75"}]}
+{"ID": "28112:6_1141", "Triplet": [{"Aspect": "Качество мяса", "Opinion": "превосходно", "VA": "6.00#6.46"}]}
+{"ID": "28112:8_1142", "Triplet": [{"Aspect": "еде", "Opinion": "5 по", "VA": "5.62#5.94"}]}
+{"ID": "28258:10_1153", "Triplet": [{"Aspect": "Суп паста", "Opinion": "вкусный", "VA": "6.39#6.69"}, {"Aspect": "Суп паста", "Opinion": "вкусный", "VA": "6.39#6.69"}]}
+{"ID": "28258:11_1154", "Triplet": [{"Aspect": "none", "Opinion": "мягкое", "VA": "5.87#6.08"}]}
+{"ID": "28258:12_1155", "Triplet": [{"Aspect": "Пастой", "Opinion": "очень довольна", "VA": "6.00#6.35"}]}
+{"ID": "28258:16_1156", "Triplet": [{"Aspect": "ресторан", "Opinion": "Будем приезжать", "VA": "5.66#5.83"}]}
+{"ID": "28258:17_1157", "Triplet": [{"Aspect": "none", "Opinion": "Спасибо хорошие", "VA": "6.38#6.56"}, {"Aspect": "none", "Opinion": "Спасибо хорошие", "VA": "6.38#6.56"}]}
+{"ID": "28258:1_1148", "Triplet": [{"Aspect": "парковщик", "Opinion": "none", "VA": "6.51#6.77"}]}
+{"ID": "28258:2_1149", "Triplet": [{"Aspect": "none", "Opinion": "нравится", "VA": "6.59#6.73"}, {"Aspect": "none", "Opinion": "нравится", "VA": "6.59#6.73"}]}
+{"ID": "28258:4_1150", "Triplet": [{"Aspect": "девушка", "Opinion": "приятная", "VA": "6.13#6.43"}]}
+{"ID": "28258:7_1151", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.84"}]}
+{"ID": "28258:8_1152", "Triplet": [{"Aspect": "none", "Opinion": "интересный", "VA": "6.43#6.66"}]}
+{"ID": "28275:2_1158", "Triplet": [{"Aspect": "официантки", "Opinion": "Очень вежливые", "VA": "6.38#6.58"}]}
+{"ID": "28275:4_1159", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.11#6.20"}, {"Aspect": "none", "Opinion": "none", "VA": "6.11#6.20"}]}
+{"ID": "28275:6_1160", "Triplet": [{"Aspect": "Девушка", "Opinion": "внимательна", "VA": "6.53#6.76"}]}
+{"ID": "28275:8_1161", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.75#6.14"}, {"Aspect": "none", "Opinion": "none", "VA": "5.75#6.14"}]}
+{"ID": "28275:9_1162", "Triplet": [{"Aspect": "none", "Opinion": "никаких претензий", "VA": "6.39#6.69"}]}
+{"ID": "28585:10_1166", "Triplet": [{"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}, {"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}, {"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}, {"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}, {"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}, {"Aspect": "none", "Opinion": "потрясающая", "VA": "6.31#6.67"}]}
+{"ID": "28585:2_1163", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.28#6.60"}]}
+{"ID": "28585:5_1164", "Triplet": [{"Aspect": "вид меню", "Opinion": "чудесный", "VA": "6.31#6.41"}]}
+{"ID": "28585:6_1165", "Triplet": [{"Aspect": "Блюд", "Opinion": "не много", "VA": "6.26#6.72"}]}
+{"ID": "28612:0_1167", "Triplet": [{"Aspect": "Ресторан", "Opinion": "замечательный", "VA": "6.34#6.68"}]}
+{"ID": "28612:1_1168", "Triplet": [{"Aspect": "персонал", "Opinion": "none", "VA": "6.53#6.72"}]}
+{"ID": "28612:2_1169", "Triplet": [{"Aspect": "блюд", "Opinion": "Большой выбор отлично", "VA": "6.46#6.54"}]}
+{"ID": "28612:3_1170", "Triplet": [{"Aspect": "Порции", "Opinion": "большие", "VA": "6.40#6.71"}]}
+{"ID": "28612:4_1171", "Triplet": [{"Aspect": "обстановка", "Opinion": "none", "VA": "6.15#6.48"}, {"Aspect": "обстановка", "Opinion": "none", "VA": "6.15#6.48"}]}
+{"ID": "28612:5_1172", "Triplet": [{"Aspect": "интерьер", "Opinion": "Потрясающий", "VA": "6.31#6.58"}]}
+{"ID": "28710:10_1177", "Triplet": [{"Aspect": "Официанты", "Opinion": "очень внимательные", "VA": "6.45#6.76"}]}
+{"ID": "28710:11_1178", "Triplet": [{"Aspect": "ресторан", "Opinion": "отличный", "VA": "6.44#6.73"}]}
+{"ID": "28710:4_1173", "Triplet": [{"Aspect": "респект шеф-повару", "Opinion": "none", "VA": "6.41#6.75"}]}
+{"ID": "28710:6_1174", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.74"}]}
+{"ID": "28710:9_1176", "Triplet": [{"Aspect": "Персонал", "Opinion": "none", "VA": "6.50#6.77"}, {"Aspect": "Персонал", "Opinion": "none", "VA": "6.50#6.77"}]}
+{"ID": "28745:1_1179", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.62"}]}
+{"ID": "28745:2_1180", "Triplet": [{"Aspect": "none", "Opinion": "хороший", "VA": "6.53#6.86"}, {"Aspect": "none", "Opinion": "хороший", "VA": "6.53#6.86"}]}
+{"ID": "28745:4_1181", "Triplet": [{"Aspect": "вечер", "Opinion": "замечательно", "VA": "6.20#6.63"}]}
+{"ID": "29298:0_1182", "Triplet": [{"Aspect": "none", "Opinion": "очень нравится", "VA": "6.29#6.70"}, {"Aspect": "none", "Opinion": "очень нравится", "VA": "6.29#6.70"}, {"Aspect": "none", "Opinion": "очень нравится", "VA": "6.29#6.70"}, {"Aspect": "none", "Opinion": "очень нравится", "VA": "6.29#6.70"}]}
+{"ID": "29298:3_1183", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.61"}]}
+{"ID": "29298:4_1184", "Triplet": [{"Aspect": "заведение", "Opinion": "none", "VA": "6.49#6.75"}]}
+{"ID": "29298:5_1185", "Triplet": [{"Aspect": "ресторан", "Opinion": "рекомендую не пожалеете", "VA": "6.17#6.42"}]}
+{"ID": "29321:11_1192", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.68"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.68"}]}
+{"ID": "29321:12_1193", "Triplet": [{"Aspect": "обслуживание", "Opinion": "только 6", "VA": "5.51#6.03"}]}
+{"ID": "29321:3_1186", "Triplet": [{"Aspect": "Второй этаж рай", "Opinion": "none", "VA": "6.23#6.51"}]}
+{"ID": "29321:4_1187", "Triplet": [{"Aspect": "интерьер", "Opinion": "нежный", "VA": "6.15#6.37"}]}
+{"ID": "29321:6_1188", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.36#6.82"}]}
+{"ID": "29321:7_1189", "Triplet": [{"Aspect": "вино", "Opinion": "показалось дорого", "VA": "6.30#6.71"}]}
+{"ID": "29321:8_1190", "Triplet": [{"Aspect": "кухня", "Opinion": "none", "VA": "6.14#6.66"}]}
+{"ID": "29321:9_1191", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.81"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#6.81"}]}
+{"ID": "29350:1_1194", "Triplet": [{"Aspect": "none", "Opinion": "очень вкусная", "VA": "6.43#6.90"}, {"Aspect": "none", "Opinion": "очень вкусная", "VA": "6.43#6.90"}, {"Aspect": "none", "Opinion": "очень вкусная", "VA": "6.43#6.90"}, {"Aspect": "none", "Opinion": "очень вкусная", "VA": "6.43#6.90"}, {"Aspect": "none", "Opinion": "очень вкусная", "VA": "6.43#6.90"}]}
+{"ID": "29350:2_1195", "Triplet": [{"Aspect": "Слегка", "Opinion": "none", "VA": "6.24#6.67"}, {"Aspect": "Слегка", "Opinion": "none", "VA": "6.24#6.67"}]}
+{"ID": "29350:3_1196", "Triplet": [{"Aspect": "Сервис", "Opinion": "очень хороший", "VA": "6.47#6.80"}, {"Aspect": "Сервис", "Opinion": "очень хороший", "VA": "6.47#6.80"}, {"Aspect": "Сервис", "Opinion": "очень хороший", "VA": "6.47#6.80"}]}
+{"ID": "29350:4_1197", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.80"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.80"}]}
+{"ID": "29383:11_1204", "Triplet": [{"Aspect": "пиво с колбасками", "Opinion": "Можно зайти попить", "VA": "5.93#6.29"}, {"Aspect": "пиво с колбасками", "Opinion": "Можно зайти попить", "VA": "5.93#6.29"}]}
+{"ID": "29383:3_1198", "Triplet": [{"Aspect": "Интерьер завидения", "Opinion": "оставляет желать лучшего нормально", "VA": "6.14#6.50"}]}
+{"ID": "29383:4_1199", "Triplet": [{"Aspect": "none", "Opinion": "Ужасно", "VA": "6.29#6.36"}]}
+{"ID": "29383:6_1200", "Triplet": [{"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}, {"Aspect": "none", "Opinion": "Очень понравился", "VA": "6.14#6.48"}]}
+{"ID": "29383:7_1201", "Triplet": [{"Aspect": "Горячее нагриль", "Opinion": "неплохое", "VA": "6.41#6.68"}]}
+{"ID": "29383:8_1202", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#6.68"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.68"}]}
+{"ID": "29383:9_1203", "Triplet": [{"Aspect": "Девушка офицантка вид", "Opinion": "очень замученый", "VA": "6.50#6.78"}]}
+{"ID": "29395:0_1205", "Triplet": [{"Aspect": "Ресторан", "Opinion": "очень хороший", "VA": "6.22#6.59"}]}
+{"ID": "29395:11_1210", "Triplet": [{"Aspect": "ресторан", "Opinion": "ищите", "VA": "6.28#6.70"}]}
+{"ID": "29395:2_1206", "Triplet": [{"Aspect": "обслуживание", "Opinion": "none", "VA": "6.11#6.42"}, {"Aspect": "обслуживание", "Opinion": "none", "VA": "6.11#6.42"}]}
+{"ID": "29395:4_1207", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.28#6.56"}]}
+{"ID": "29395:6_1208", "Triplet": [{"Aspect": "едой", "Opinion": "none", "VA": "6.49#6.68"}]}
+{"ID": "29395:7_1209", "Triplet": [{"Aspect": "музыка", "Opinion": "спокойная", "VA": "6.24#6.66"}]}
+{"ID": "30148:10_1215", "Triplet": [{"Aspect": "десерт", "Opinion": "none", "VA": "6.30#6.64"}, {"Aspect": "десерт", "Opinion": "none", "VA": "6.30#6.64"}]}
+{"ID": "30148:4_1211", "Triplet": [{"Aspect": "Паста", "Opinion": "неплохи", "VA": "6.27#6.64"}, {"Aspect": "Паста", "Opinion": "неплохи", "VA": "6.27#6.64"}]}
+{"ID": "30148:6_1212", "Triplet": [{"Aspect": "официанта", "Opinion": "none", "VA": "6.40#6.69"}]}
+{"ID": "30148:8_1213", "Triplet": [{"Aspect": "сервисом", "Opinion": "не повезло", "VA": "6.15#6.40"}]}
+{"ID": "30148:9_1214", "Triplet": [{"Aspect": "Супчики", "Opinion": "вкусные", "VA": "5.93#6.34"}]}
+{"ID": "30201:0_1216", "Triplet": [{"Aspect": "заведение карта со скидкой", "Opinion": "none", "VA": "6.31#6.67"}]}
+{"ID": "30201:1_1217", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}]}
+{"ID": "30201:2_1218", "Triplet": [{"Aspect": "Официантки", "Opinion": "none", "VA": "6.33#6.79"}, {"Aspect": "Официантки", "Opinion": "none", "VA": "6.33#6.79"}]}
+{"ID": "30201:4_1219", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.23#6.73"}]}
+{"ID": "30201:6_1220", "Triplet": [{"Aspect": "васаби", "Opinion": "измениться снова в лучшую сторону", "VA": "6.14#6.53"}]}
+{"ID": "30368:11_1227", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.30#6.69"}]}
+{"ID": "30368:12_1228", "Triplet": [{"Aspect": "обстановка", "Opinion": "хорошая", "VA": "5.94#6.11"}]}
+{"ID": "30368:3_1221", "Triplet": [{"Aspect": "девушка официантка", "Opinion": "милая", "VA": "6.31#6.64"}, {"Aspect": "девушка официантка", "Opinion": "милая", "VA": "6.31#6.64"}]}
+{"ID": "30368:4_1222", "Triplet": [{"Aspect": "none", "Opinion": "очень интересный выбор", "VA": "6.38#6.83"}]}
+{"ID": "30368:5_1223", "Triplet": [{"Aspect": "пивной ряд", "Opinion": "none", "VA": "6.34#6.57"}]}
+{"ID": "30368:6_1224", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.67"}, {"Aspect": "none", "Opinion": "none", "VA": "6.32#6.67"}]}
+{"ID": "30368:7_1225", "Triplet": [{"Aspect": "закуски", "Opinion": "совсем не банальные", "VA": "6.31#6.61"}]}
+{"ID": "30368:8_1226", "Triplet": [{"Aspect": "горячих блюд", "Opinion": "посоветовать", "VA": "6.19#6.48"}, {"Aspect": "горячих блюд", "Opinion": "посоветовать", "VA": "6.19#6.48"}, {"Aspect": "горячих блюд", "Opinion": "посоветовать", "VA": "6.19#6.48"}]}
+{"ID": "30744:3_1229", "Triplet": [{"Aspect": "none", "Opinion": "понравился", "VA": "6.29#6.63"}, {"Aspect": "none", "Opinion": "понравился", "VA": "6.29#6.63"}]}
+{"ID": "30744:4_1230", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.92#6.26"}, {"Aspect": "none", "Opinion": "none", "VA": "5.92#6.26"}]}
+{"ID": "30744:8_1231", "Triplet": [{"Aspect": "музыка", "Opinion": "none", "VA": "6.33#6.54"}]}
+{"ID": "31004:13_1235", "Triplet": [{"Aspect": "салат из зелени и овощей", "Opinion": "none", "VA": "6.45#6.72"}]}
+{"ID": "31004:14_1236", "Triplet": [{"Aspect": "кухне", "Opinion": "средние", "VA": "6.25#6.59"}]}
+{"ID": "31004:7_1232", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#6.81"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.81"}]}
+{"ID": "31004:8_1233", "Triplet": [{"Aspect": "блюда", "Opinion": "none", "VA": "6.28#6.71"}]}
+{"ID": "31004:9_1234", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.83"}]}
+{"ID": "31071:0_1237", "Triplet": [{"Aspect": "заведение", "Opinion": "Нормальное", "VA": "6.50#6.68"}]}
+{"ID": "31071:1_1238", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#6.69"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.69"}]}
+{"ID": "31071:3_1239", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.37#6.78"}]}

@@ -1,0 +1,239 @@
+{"ID": "24713:11_1003", "Triplet": [{"Aspect": "Ашау", "Opinion": "ошады", "VA": "6.23#6.56"}]}
+{"ID": "24713:13_1004", "Triplet": [{"Aspect": "Кайнар ризык", "Opinion": "ошамады", "VA": "6.34#6.67"}]}
+{"ID": "24713:15_1005", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.88"}]}
+{"ID": "24713:18_1006", "Triplet": [{"Aspect": "официантлар", "Opinion": "none", "VA": "6.45#6.90"}]}
+{"ID": "24713:3_998", "Triplet": [{"Aspect": "менюның", "Opinion": "none", "VA": "6.37#6.76"}]}
+{"ID": "24713:4_999", "Triplet": [{"Aspect": "кабымлыклар", "Opinion": "гаҗәпләндерде", "VA": "6.36#6.83"}]}
+{"ID": "24713:6_1000", "Triplet": [{"Aspect": "корыган сыр", "Opinion": "шаккатырды", "VA": "6.42#6.76"}, {"Aspect": "корыган сыр", "Opinion": "шаккатырды", "VA": "6.42#6.76"}]}
+{"ID": "24713:7_1001", "Triplet": [{"Aspect": "Җимешләр", "Opinion": "соңгы сулышын ала иделәр", "VA": "6.36#6.72"}]}
+{"ID": "24713:8_1002", "Triplet": [{"Aspect": "Салатларны", "Opinion": "none", "VA": "6.41#6.74"}]}
+{"ID": "24916:1_1007", "Triplet": [{"Aspect": "Интерьер аш-су", "Opinion": "ошады", "VA": "6.38#6.72"}, {"Aspect": "Интерьер аш-су", "Opinion": "ошады", "VA": "6.38#6.72"}]}
+{"ID": "24916:2_1008", "Triplet": [{"Aspect": "хезмәт күрсәтү", "Opinion": "none", "VA": "6.47#6.87"}]}
+{"ID": "24916:3_1009", "Triplet": [{"Aspect": "кыз", "Opinion": "none", "VA": "6.47#6.86"}]}
+{"ID": "24916:5_1010", "Triplet": [{"Aspect": "Кәеф", "Opinion": "none", "VA": "6.46#6.82"}]}
+{"ID": "25507:10_1014", "Triplet": [{"Aspect": "Яшелчәләр", "Opinion": "none", "VA": "6.53#6.87"}]}
+{"ID": "25507:11_1015", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.91"}]}
+{"ID": "25507:12_1016", "Triplet": [{"Aspect": "Сарымсак", "Opinion": "none", "VA": "6.30#6.70"}]}
+{"ID": "25507:13_1017", "Triplet": [{"Aspect": "Соус ипи", "Opinion": "none", "VA": "6.47#6.91"}]}
+{"ID": "25507:14_1018", "Triplet": [{"Aspect": "none", "Opinion": "бик матур", "VA": "6.52#6.95"}, {"Aspect": "none", "Opinion": "бик матур", "VA": "6.52#6.95"}, {"Aspect": "none", "Opinion": "бик матур", "VA": "6.52#6.95"}]}
+{"ID": "25507:2_1011", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.34#6.81"}]}
+{"ID": "25507:4_1012", "Triplet": [{"Aspect": "Официантканы", "Opinion": "none", "VA": "6.39#6.83"}]}
+{"ID": "25507:8_1013", "Triplet": [{"Aspect": "Салатны", "Opinion": "бик ошады", "VA": "6.25#6.69"}]}
+{"ID": "25709:14_1023", "Triplet": [{"Aspect": "none", "Opinion": "Яхшы", "VA": "6.50#6.84"}]}
+{"ID": "25709:16_1024", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.85"}]}
+{"ID": "25709:19_1025", "Triplet": [{"Aspect": "оешмадан", "Opinion": "бик яхшы", "VA": "6.34#6.88"}]}
+{"ID": "25709:5_1019", "Triplet": [{"Aspect": "кызлар", "Opinion": "none", "VA": "6.39#6.81"}]}
+{"ID": "25709:8_1020", "Triplet": [{"Aspect": "диваннар", "Opinion": "сибелгән йомшак", "VA": "6.44#6.76"}, {"Aspect": "диваннар", "Opinion": "сибелгән йомшак", "VA": "6.44#6.76"}]}
+{"ID": "25709:9_1021", "Triplet": [{"Aspect": "музыка", "Opinion": "none", "VA": "6.47#6.85"}, {"Aspect": "музыка", "Opinion": "none", "VA": "6.47#6.85"}]}
+{"ID": "25753:2_1026", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.82"}]}
+{"ID": "25753:3_1027", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "бик ошады", "VA": "6.51#6.82"}]}
+{"ID": "25753:5_1028", "Triplet": [{"Aspect": "Ризык", "Opinion": "бик тәмле", "VA": "6.16#6.60"}]}
+{"ID": "25753:6_1029", "Triplet": [{"Aspect": "Шашлык", "Opinion": "һәртөрле мактаудан өстен", "VA": "6.34#6.71"}]}
+{"ID": "25753:7_1030", "Triplet": [{"Aspect": "интерьер", "Opinion": "бик уңайлы", "VA": "6.39#6.71"}, {"Aspect": "интерьер", "Opinion": "бик уңайлы", "VA": "6.39#6.71"}]}
+{"ID": "25861:1_1031", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.57#6.84"}]}
+{"ID": "25861:3_1032", "Triplet": [{"Aspect": "Порцияләр паста", "Opinion": "зур түгел бик тәмле", "VA": "6.39#6.78"}, {"Aspect": "Порцияләр паста", "Opinion": "зур түгел бик тәмле", "VA": "6.39#6.78"}]}
+{"ID": "25861:4_1033", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "ошамады", "VA": "6.52#6.85"}]}
+{"ID": "25861:5_1034", "Triplet": [{"Aspect": "Моджоны урын", "Opinion": "күңелле", "VA": "6.44#6.87"}]}
+{"ID": "25960:0_1035", "Triplet": [{"Aspect": "урынга", "Opinion": "none", "VA": "6.31#6.75"}]}
+{"ID": "25960:10_1039", "Triplet": [{"Aspect": "урын", "Opinion": "бүтән сөендерми", "VA": "6.42#6.89"}]}
+{"ID": "25960:2_1036", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "бик яхшы", "VA": "6.46#6.83"}, {"Aspect": "Хезмәт күрсәтү", "Opinion": "бик яхшы", "VA": "6.46#6.83"}]}
+{"ID": "25960:6_1037", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "кинәт түбәнгә төште", "VA": "6.34#6.71"}]}
+{"ID": "25960:8_1038", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.46#6.89"}]}
+{"ID": "26022:1_1040", "Triplet": [{"Aspect": "Урын", "Opinion": "бик күңелле", "VA": "6.52#6.90"}]}
+{"ID": "26022:3_1041", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.32#6.60"}, {"Aspect": "none", "Opinion": "none", "VA": "6.32#6.60"}]}
+{"ID": "26022:4_1042", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.39#6.78"}]}
+{"ID": "26022:5_1043", "Triplet": [{"Aspect": "роллларның", "Opinion": "шактый зур булуы", "VA": "6.44#6.89"}]}
+{"ID": "26022:6_1044", "Triplet": [{"Aspect": "none", "Opinion": "ошады", "VA": "6.37#6.82"}]}
+{"ID": "26152:13_1048", "Triplet": [{"Aspect": "Персонал", "Opinion": "тырыша", "VA": "6.46#6.85"}]}
+{"ID": "26152:14_1049", "Triplet": [{"Aspect": "none", "Opinion": "бик шәп", "VA": "6.51#6.76"}, {"Aspect": "none", "Opinion": "бик шәп", "VA": "6.51#6.76"}, {"Aspect": "none", "Opinion": "бик шәп", "VA": "6.51#6.76"}]}
+{"ID": "26152:15_1050", "Triplet": [{"Aspect": "соус", "Opinion": "none", "VA": "6.41#6.63"}, {"Aspect": "соус", "Opinion": "none", "VA": "6.41#6.63"}, {"Aspect": "соус", "Opinion": "none", "VA": "6.41#6.63"}]}
+{"ID": "26152:16_1051", "Triplet": [{"Aspect": "Шеф-повардан тавыклы салат", "Opinion": "none", "VA": "6.61#6.92"}]}
+{"ID": "26152:17_1052", "Triplet": [{"Aspect": "Тирамису", "Opinion": "мактаудан өстен", "VA": "6.42#6.72"}]}
+{"ID": "26152:18_1053", "Triplet": [{"Aspect": "none", "Opinion": "Бик нәфис", "VA": "6.34#6.72"}, {"Aspect": "none", "Opinion": "Бик нәфис", "VA": "6.34#6.72"}]}
+{"ID": "26152:20_1054", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.85"}]}
+{"ID": "26152:3_1045", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.87"}]}
+{"ID": "26152:5_1046", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "none", "VA": "6.49#6.83"}]}
+{"ID": "26152:8_1047", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "none", "VA": "6.51#6.80"}]}
+{"ID": "26284:1_1055", "Triplet": [{"Aspect": "ресторанга", "Opinion": "none", "VA": "6.41#6.87"}]}
+{"ID": "26284:2_1056", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.85"}]}
+{"ID": "26284:3_1057", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.87"}]}
+{"ID": "26330:10_1065", "Triplet": [{"Aspect": "сыра", "Opinion": "бик шәп", "VA": "6.18#6.67"}]}
+{"ID": "26330:11_1066", "Triplet": [{"Aspect": "Гроссенштрассе", "Opinion": "none", "VA": "6.00#6.45"}]}
+{"ID": "26330:1_1058", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.68"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#6.68"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#6.68"}]}
+{"ID": "26330:2_1059", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.78"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.78"}]}
+{"ID": "26330:4_1060", "Triplet": [{"Aspect": "Хезмәт күрсәтүче персонал", "Opinion": "шатландырды", "VA": "6.21#6.59"}]}
+{"ID": "26330:5_1061", "Triplet": [{"Aspect": "кыз", "Opinion": "none", "VA": "6.43#6.81"}]}
+{"ID": "26330:6_1062", "Triplet": [{"Aspect": "сыра", "Opinion": "none", "VA": "6.14#6.69"}]}
+{"ID": "26330:8_1063", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.27#6.70"}]}
+{"ID": "26330:9_1064", "Triplet": [{"Aspect": "Сыра сыра", "Opinion": "none", "VA": "6.36#6.81"}]}
+{"ID": "26887:10_1068", "Triplet": [{"Aspect": "кыз", "Opinion": "none", "VA": "6.37#6.83"}]}
+{"ID": "26887:12_1069", "Triplet": [{"Aspect": "персоналның", "Opinion": "йомшаклыгы", "VA": "6.47#6.84"}, {"Aspect": "персоналның", "Opinion": "йомшаклыгы", "VA": "6.47#6.84"}]}
+{"ID": "26887:1_1067", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.85"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.85"}]}
+{"ID": "27040:3_1070", "Triplet": [{"Aspect": "хезмәт күрсәтү", "Opinion": "бик ошады", "VA": "6.38#6.79"}]}
+{"ID": "27040:4_1071", "Triplet": [{"Aspect": "официант", "Opinion": "none", "VA": "6.39#6.83"}]}
+{"ID": "27040:5_1072", "Triplet": [{"Aspect": "Кальян-супер", "Opinion": "none", "VA": "6.05#6.52"}]}
+{"ID": "27040:6_1073", "Triplet": [{"Aspect": "none", "Opinion": "бик ошады", "VA": "6.43#6.84"}, {"Aspect": "none", "Opinion": "бик ошады", "VA": "6.43#6.84"}, {"Aspect": "none", "Opinion": "бик ошады", "VA": "6.43#6.84"}]}
+{"ID": "27169:10_1079", "Triplet": [{"Aspect": "Персонал", "Opinion": "бик сөендерде", "VA": "6.49#6.67"}, {"Aspect": "Персонал", "Opinion": "бик сөендерде", "VA": "6.49#6.67"}, {"Aspect": "Персонал", "Opinion": "бик сөендерде", "VA": "6.49#6.67"}]}
+{"ID": "27169:11_1080", "Triplet": [{"Aspect": "хезмәт күрсәтүне", "Opinion": "none", "VA": "6.39#6.85"}]}
+{"ID": "27169:14_1081", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.83"}]}
+{"ID": "27169:15_1082", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.77"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.77"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.77"}]}
+{"ID": "27169:4_1074", "Triplet": [{"Aspect": "урында", "Opinion": "искиткеч", "VA": "6.35#6.80"}]}
+{"ID": "27169:6_1075", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.71"}, {"Aspect": "none", "Opinion": "none", "VA": "6.41#6.71"}]}
+{"ID": "27169:7_1076", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.54#6.87"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.87"}]}
+{"ID": "27169:8_1077", "Triplet": [{"Aspect": "none", "Opinion": "яңа икәне шунда ук күренә иде", "VA": "6.27#6.70"}]}
+{"ID": "27169:9_1078", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.41#6.84"}]}
+{"ID": "27375:0_1083", "Triplet": [{"Aspect": "ресторанга", "Opinion": "уңайлы", "VA": "6.41#6.86"}]}
+{"ID": "27375:2_1084", "Triplet": [{"Aspect": "none", "Opinion": "Тәмле ачык йөзле", "VA": "6.43#6.84"}, {"Aspect": "none", "Opinion": "Тәмле ачык йөзле", "VA": "6.43#6.84"}]}
+{"ID": "27375:3_1085", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.72"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.72"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.72"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.72"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.72"}]}
+{"ID": "27539:1_1086", "Triplet": [{"Aspect": "мохит тере музыка", "Opinion": "Күңелле", "VA": "6.35#6.68"}, {"Aspect": "мохит тере музыка", "Opinion": "Күңелле", "VA": "6.35#6.68"}]}
+{"ID": "27539:2_1087", "Triplet": [{"Aspect": "Пекинча", "Opinion": "none", "VA": "6.46#6.84"}, {"Aspect": "Пекинча", "Opinion": "none", "VA": "6.46#6.84"}]}
+{"ID": "27539:3_1088", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.86#6.27"}, {"Aspect": "none", "Opinion": "none", "VA": "5.86#6.27"}, {"Aspect": "none", "Opinion": "none", "VA": "5.86#6.27"}]}
+{"ID": "27539:4_1089", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.79"}]}
+{"ID": "27539:5_1090", "Triplet": [{"Aspect": "none", "Opinion": "яхшы", "VA": "6.41#6.85"}]}
+{"ID": "27569:10_1096", "Triplet": [{"Aspect": "десертлар", "Opinion": "күп түгел бик тәмле", "VA": "6.43#6.84"}]}
+{"ID": "27569:11_1097", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.52#6.94"}]}
+{"ID": "27569:12_1098", "Triplet": [{"Aspect": "Музыка", "Opinion": "көчле тавышлы түгел", "VA": "6.50#6.84"}, {"Aspect": "Музыка", "Opinion": "көчле тавышлы түгел", "VA": "6.50#6.84"}]}
+{"ID": "27569:13_1099", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.91"}]}
+{"ID": "27569:2_1091", "Triplet": [{"Aspect": "none", "Opinion": "бик ошады", "VA": "6.52#6.92"}]}
+{"ID": "27569:6_1092", "Triplet": [{"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.53#6.83"}]}
+{"ID": "27569:7_1093", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.37#6.78"}]}
+{"ID": "27569:8_1094", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.58#6.81"}]}
+{"ID": "27569:9_1095", "Triplet": [{"Aspect": "чебуреклар", "Opinion": "Бик тәмле", "VA": "6.10#6.55"}]}
+{"ID": "27620:0_1100", "Triplet": [{"Aspect": "ресторан интерьер", "Opinion": "none", "VA": "6.41#6.89"}]}
+{"ID": "27620:10_1103", "Triplet": [{"Aspect": "Ашау", "Opinion": "ошамады", "VA": "6.32#6.64"}]}
+{"ID": "27620:13_1104", "Triplet": [{"Aspect": "Каһвә", "Opinion": "ошады", "VA": "6.34#6.73"}]}
+{"ID": "27620:14_1105", "Triplet": [{"Aspect": "пирожныйлар", "Opinion": "none", "VA": "6.44#6.82"}]}
+{"ID": "27620:1_1101", "Triplet": [{"Aspect": "хезмәт күрсәтү", "Opinion": "none", "VA": "6.43#6.83"}]}
+{"ID": "27620:4_1102", "Triplet": [{"Aspect": "официант", "Opinion": "none", "VA": "6.47#6.88"}]}
+{"ID": "27629:10_1111", "Triplet": [{"Aspect": "җиһазлар", "Opinion": "бик уңайлы түгел", "VA": "6.40#6.87"}]}
+{"ID": "27629:11_1112", "Triplet": [{"Aspect": "оешмага", "Opinion": "бармаячакбыз", "VA": "6.34#6.79"}]}
+{"ID": "27629:4_1106", "Triplet": [{"Aspect": "Официантка", "Opinion": "none", "VA": "6.48#6.86"}]}
+{"ID": "27629:6_1107", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.39#6.85"}]}
+{"ID": "27629:7_1108", "Triplet": [{"Aspect": "Аш-су", "Opinion": "дәгъвалы", "VA": "6.45#6.84"}]}
+{"ID": "27629:8_1109", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.86"}]}
+{"ID": "27629:9_1110", "Triplet": [{"Aspect": "интерьер", "Opinion": "Уңай яктан", "VA": "6.29#6.69"}]}
+{"ID": "27816:11_1118", "Triplet": [{"Aspect": "музыкантлар", "Opinion": "яңа елдагы кебек үк югары дәрәҗәдә күңелсезләнергә ирек бирмәде", "VA": "6.39#6.88"}]}
+{"ID": "27816:12_1119", "Triplet": [{"Aspect": "кальян", "Opinion": "яхшы", "VA": "6.41#6.75"}]}
+{"ID": "27816:1_1113", "Triplet": [{"Aspect": "ресторан", "Opinion": "Бик яхшы", "VA": "6.26#6.63"}]}
+{"ID": "27816:2_1114", "Triplet": [{"Aspect": "none", "Opinion": "Бик яхшы", "VA": "6.51#6.84"}, {"Aspect": "none", "Opinion": "Бик яхшы", "VA": "6.51#6.84"}]}
+{"ID": "27816:3_1115", "Triplet": [{"Aspect": "шашлык", "Opinion": "Тәмле Яхшы", "VA": "6.51#6.70"}, {"Aspect": "шашлык", "Opinion": "Тәмле Яхшы", "VA": "6.51#6.70"}]}
+{"ID": "27816:6_1116", "Triplet": [{"Aspect": "мохит", "Opinion": "none", "VA": "6.42#6.81"}, {"Aspect": "мохит", "Opinion": "none", "VA": "6.42#6.81"}, {"Aspect": "мохит", "Opinion": "none", "VA": "6.42#6.81"}]}
+{"ID": "27816:7_1117", "Triplet": [{"Aspect": "тере музыка", "Opinion": "Кызыклы күңел югары дәрәҗәдәге", "VA": "6.34#6.72"}, {"Aspect": "тере музыка", "Opinion": "Кызыклы күңел югары дәрәҗәдәге", "VA": "6.34#6.72"}]}
+{"ID": "27841:10_1127", "Triplet": [{"Aspect": "хезмәт күрсәтү", "Opinion": "10лыга", "VA": "6.52#6.84"}]}
+{"ID": "27841:11_1128", "Triplet": [{"Aspect": "урын", "Opinion": "күңелле", "VA": "6.40#6.78"}]}
+{"ID": "27841:1_1120", "Triplet": [{"Aspect": "Хезмәт күрсәтүче персоналга", "Opinion": "none", "VA": "6.48#6.90"}]}
+{"ID": "27841:2_1121", "Triplet": [{"Aspect": "Каһвә тортиклар", "Opinion": "тәмле шәп", "VA": "6.41#6.70"}, {"Aspect": "Каһвә тортиклар", "Opinion": "тәмле шәп", "VA": "6.41#6.70"}]}
+{"ID": "27841:4_1122", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.49#6.92"}]}
+{"ID": "27841:5_1123", "Triplet": [{"Aspect": "none", "Opinion": "ошаган", "VA": "6.52#6.91"}, {"Aspect": "none", "Opinion": "ошаган", "VA": "6.52#6.91"}, {"Aspect": "none", "Opinion": "ошаган", "VA": "6.52#6.91"}]}
+{"ID": "27841:6_1124", "Triplet": [{"Aspect": "none", "Opinion": "бик ошады", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "бик ошады", "VA": "6.49#6.83"}, {"Aspect": "none", "Opinion": "бик ошады", "VA": "6.49#6.83"}]}
+{"ID": "27841:8_1125", "Triplet": [{"Aspect": "none", "Opinion": "ачык йөзле", "VA": "6.46#6.91"}, {"Aspect": "none", "Opinion": "ачык йөзле", "VA": "6.46#6.91"}]}
+{"ID": "27841:9_1126", "Triplet": [{"Aspect": "none", "Opinion": "начар түгел", "VA": "6.47#6.84"}]}
+{"ID": "27925:3_1129", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "яхшы метрдотель", "VA": "6.46#6.83"}, {"Aspect": "Хезмәт күрсәтү", "Opinion": "яхшы метрдотель", "VA": "6.46#6.83"}]}
+{"ID": "27925:4_1130", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.38#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.38#6.84"}]}
+{"ID": "27925:6_1131", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.81#6.23"}, {"Aspect": "none", "Opinion": "none", "VA": "5.81#6.23"}]}
+{"ID": "27925:7_1132", "Triplet": [{"Aspect": "тере музыка", "Opinion": "none", "VA": "6.36#6.86"}, {"Aspect": "тере музыка", "Opinion": "none", "VA": "6.36#6.86"}]}
+{"ID": "27925:8_1133", "Triplet": [{"Aspect": "none", "Opinion": "бик канәгать", "VA": "6.34#6.80"}]}
+{"ID": "28083:10_1138", "Triplet": [{"Aspect": "кыз", "Opinion": "Бик ачык чырайлы", "VA": "6.12#6.58"}]}
+{"ID": "28083:4_1134", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.48#6.91"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.91"}, {"Aspect": "none", "Opinion": "none", "VA": "6.48#6.91"}]}
+{"ID": "28083:5_1135", "Triplet": [{"Aspect": "Сыра", "Opinion": "гомумән сөйләп торасы юк күбрәк мактауга лаек", "VA": "6.37#6.81"}]}
+{"ID": "28083:8_1136", "Triplet": [{"Aspect": "Персонал", "Opinion": "әдәпле", "VA": "6.48#6.87"}]}
+{"ID": "28083:9_1137", "Triplet": [{"Aspect": "кыз", "Opinion": "none", "VA": "6.42#6.84"}]}
+{"ID": "28112:12_1143", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.86"}]}
+{"ID": "28112:13_1144", "Triplet": [{"Aspect": "уемнары", "Opinion": "none", "VA": "6.40#6.76"}]}
+{"ID": "28112:14_1145", "Triplet": [{"Aspect": "Хезмәт күрсәтүгә", "Opinion": "мин 4ле куяр идем", "VA": "6.35#6.71"}]}
+{"ID": "28112:15_1146", "Triplet": [{"Aspect": "none", "Opinion": "яхшы", "VA": "6.37#6.82"}]}
+{"ID": "28112:20_1147", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.51#6.85"}]}
+{"ID": "28112:5_1140", "Triplet": [{"Aspect": "Порцияләр", "Opinion": "none", "VA": "6.48#6.83"}]}
+{"ID": "28112:6_1141", "Triplet": [{"Aspect": "Итнең сыйфаты", "Opinion": "бик яхшы", "VA": "6.40#6.74"}]}
+{"ID": "28112:8_1142", "Triplet": [{"Aspect": "none", "Opinion": "ашау буенча 5", "VA": "6.22#6.52"}]}
+{"ID": "28258:10_1153", "Triplet": [{"Aspect": "Аш паста", "Opinion": "тәмле", "VA": "6.40#6.82"}, {"Aspect": "Аш паста", "Opinion": "тәмле", "VA": "6.40#6.82"}]}
+{"ID": "28258:11_1154", "Triplet": [{"Aspect": "Соус", "Opinion": "йомшак", "VA": "6.48#6.80"}, {"Aspect": "Соус", "Opinion": "йомшак", "VA": "6.48#6.80"}]}
+{"ID": "28258:12_1155", "Triplet": [{"Aspect": "Пастадан", "Opinion": "бик канәгать", "VA": "6.25#6.55"}]}
+{"ID": "28258:16_1156", "Triplet": [{"Aspect": "ресторанга", "Opinion": "кабат киләчәкбез", "VA": "6.35#6.83"}]}
+{"ID": "28258:17_1157", "Triplet": [{"Aspect": "none", "Opinion": "Яхшы", "VA": "6.41#6.83"}, {"Aspect": "none", "Opinion": "Яхшы", "VA": "6.41#6.83"}]}
+{"ID": "28258:1_1148", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.35#6.82"}]}
+{"ID": "28258:2_1149", "Triplet": [{"Aspect": "интерьеры", "Opinion": "ошый", "VA": "6.39#6.75"}, {"Aspect": "интерьеры", "Opinion": "ошый", "VA": "6.39#6.75"}]}
+{"ID": "28258:4_1150", "Triplet": [{"Aspect": "кыз", "Opinion": "ягымлы", "VA": "6.41#6.80"}]}
+{"ID": "28258:7_1151", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.59#6.91"}]}
+{"ID": "28258:8_1152", "Triplet": [{"Aspect": "Меню", "Opinion": "кызыклы", "VA": "6.29#6.67"}]}
+{"ID": "28275:2_1158", "Triplet": [{"Aspect": "ишек официанткалар", "Opinion": "бик әдәпле", "VA": "6.36#6.72"}]}
+{"ID": "28275:4_1159", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.47#6.75"}, {"Aspect": "none", "Opinion": "none", "VA": "6.47#6.75"}]}
+{"ID": "28275:6_1160", "Triplet": [{"Aspect": "кыз", "Opinion": "none", "VA": "6.52#6.85"}]}
+{"ID": "28275:8_1161", "Triplet": [{"Aspect": "none", "Opinion": "Искиткеч тәмле", "VA": "6.42#6.72"}, {"Aspect": "none", "Opinion": "Искиткеч тәмле", "VA": "6.42#6.72"}]}
+{"ID": "28275:9_1162", "Triplet": [{"Aspect": "none", "Opinion": "бернинди дәгъвалар юк", "VA": "6.47#6.84"}]}
+{"ID": "28585:10_1166", "Triplet": [{"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}, {"Aspect": "none", "Opinion": "искиткеч", "VA": "6.44#6.75"}]}
+{"ID": "28585:2_1163", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.90"}]}
+{"ID": "28585:5_1164", "Triplet": [{"Aspect": "none", "Opinion": "искиткеч", "VA": "6.48#6.69"}]}
+{"ID": "28585:6_1165", "Triplet": [{"Aspect": "Менюда ашамлыклар", "Opinion": "күп түгел", "VA": "6.43#6.84"}, {"Aspect": "Менюда ашамлыклар", "Opinion": "күп түгел", "VA": "6.43#6.84"}]}
+{"ID": "28612:0_1167", "Triplet": [{"Aspect": "Ресторан", "Opinion": "бик шәп", "VA": "6.00#6.48"}]}
+{"ID": "28612:1_1168", "Triplet": [{"Aspect": "персонал", "Opinion": "Бик күңелле", "VA": "6.51#6.87"}]}
+{"ID": "28612:2_1169", "Triplet": [{"Aspect": "Ашамлыклар", "Opinion": "бик күп", "VA": "6.55#6.89"}]}
+{"ID": "28612:3_1170", "Triplet": [{"Aspect": "Порцияләр", "Opinion": "none", "VA": "6.43#6.82"}]}
+{"ID": "28612:4_1171", "Triplet": [{"Aspect": "музыка мохит", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "музыка мохит", "Opinion": "none", "VA": "6.51#6.79"}]}
+{"ID": "28612:5_1172", "Triplet": [{"Aspect": "интерьер", "Opinion": "Искиткеч", "VA": "6.44#6.80"}]}
+{"ID": "28710:10_1177", "Triplet": [{"Aspect": "Официантлар", "Opinion": "бик игътибарлы", "VA": "6.39#6.87"}]}
+{"ID": "28710:11_1178", "Triplet": [{"Aspect": "ресторан", "Opinion": "бик шәп", "VA": "6.43#6.86"}]}
+{"ID": "28710:4_1173", "Triplet": [{"Aspect": "шеф-поварга", "Opinion": "искиткеч", "VA": "6.33#6.83"}]}
+{"ID": "28710:6_1174", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.54#6.84"}]}
+{"ID": "28710:7_1175", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.81"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.81"}]}
+{"ID": "28710:9_1176", "Triplet": [{"Aspect": "Персонал", "Opinion": "none", "VA": "6.42#6.88"}, {"Aspect": "Персонал", "Opinion": "none", "VA": "6.42#6.88"}]}
+{"ID": "28745:1_1179", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.76"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.76"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.76"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.76"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.76"}]}
+{"ID": "28745:2_1180", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "яхшы", "VA": "6.47#6.73"}, {"Aspect": "Хезмәт күрсәтү", "Opinion": "яхшы", "VA": "6.47#6.73"}]}
+{"ID": "28745:4_1181", "Triplet": [{"Aspect": "none", "Opinion": "бик яхшы", "VA": "6.40#6.85"}]}
+{"ID": "29298:0_1182", "Triplet": [{"Aspect": "none", "Opinion": "бик ошый", "VA": "6.39#6.80"}, {"Aspect": "none", "Opinion": "бик ошый", "VA": "6.39#6.80"}, {"Aspect": "none", "Opinion": "бик ошый", "VA": "6.39#6.80"}, {"Aspect": "none", "Opinion": "бик ошый", "VA": "6.39#6.80"}]}
+{"ID": "29298:3_1183", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}, {"Aspect": "none", "Opinion": "none", "VA": "6.43#6.66"}]}
+{"ID": "29298:4_1184", "Triplet": [{"Aspect": "бина", "Opinion": "none", "VA": "6.33#6.70"}]}
+{"ID": "29298:5_1185", "Triplet": [{"Aspect": "ресторанга", "Opinion": "үкенмәссез", "VA": "6.31#6.85"}]}
+{"ID": "29321:11_1192", "Triplet": [{"Aspect": "хезмәт күрсәтүдән", "Opinion": "none", "VA": "6.53#6.95"}, {"Aspect": "хезмәт күрсәтүдән", "Opinion": "none", "VA": "6.53#6.95"}]}
+{"ID": "29321:12_1193", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "6 гына", "VA": "6.33#6.66"}]}
+{"ID": "29321:3_1186", "Triplet": [{"Aspect": "Икенче кат җәннәт", "Opinion": "none", "VA": "6.29#6.64"}]}
+{"ID": "29321:4_1187", "Triplet": [{"Aspect": "интерьер", "Opinion": "Бик матур", "VA": "6.55#6.90"}]}
+{"ID": "29321:6_1188", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.84"}]}
+{"ID": "29321:7_1189", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.90"}]}
+{"ID": "29321:8_1190", "Triplet": [{"Aspect": "аш-су", "Opinion": "none", "VA": "6.30#6.75"}]}
+{"ID": "29321:9_1191", "Triplet": [{"Aspect": "Хезмәт күрсәтүгә", "Opinion": "әллә ни дәгъвалар юк", "VA": "6.48#6.90"}]}
+{"ID": "29350:1_1194", "Triplet": [{"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.41#6.78"}, {"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.41#6.78"}, {"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.41#6.78"}, {"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.41#6.78"}, {"Aspect": "none", "Opinion": "бик тәмле", "VA": "6.41#6.78"}]}
+{"ID": "29350:2_1195", "Triplet": [{"Aspect": "супер күренешләр", "Opinion": "уңайлы түгел", "VA": "6.50#6.89"}, {"Aspect": "супер күренешләр", "Opinion": "уңайлы түгел", "VA": "6.50#6.89"}]}
+{"ID": "29350:3_1196", "Triplet": [{"Aspect": "Хезмәт күрсәтү", "Opinion": "none", "VA": "6.56#6.86"}, {"Aspect": "Хезмәт күрсәтү", "Opinion": "none", "VA": "6.56#6.86"}, {"Aspect": "Хезмәт күрсәтү", "Opinion": "none", "VA": "6.56#6.86"}]}
+{"ID": "29350:4_1197", "Triplet": [{"Aspect": "none", "Opinion": "бик әдәпле", "VA": "6.46#6.85"}, {"Aspect": "none", "Opinion": "бик әдәпле", "VA": "6.46#6.85"}]}
+{"ID": "29383:11_1204", "Triplet": [{"Aspect": "сыра", "Opinion": "none", "VA": "6.34#6.74"}, {"Aspect": "сыра", "Opinion": "none", "VA": "6.34#6.74"}]}
+{"ID": "29383:3_1198", "Triplet": [{"Aspect": "Интерьер", "Opinion": "яхшыны", "VA": "6.41#6.87"}]}
+{"ID": "29383:4_1199", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.50#6.86"}]}
+{"ID": "29383:6_1200", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.79"}]}
+{"ID": "29383:7_1201", "Triplet": [{"Aspect": "Кайнар ризык", "Opinion": "начар түгел", "VA": "6.48#6.89"}]}
+{"ID": "29383:8_1202", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.40#6.80"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#6.80"}]}
+{"ID": "29383:9_1203", "Triplet": [{"Aspect": "Офицант кыз", "Opinion": "none", "VA": "6.50#6.92"}]}
+{"ID": "29395:0_1205", "Triplet": [{"Aspect": "Ресторан", "Opinion": "бик әйбәт", "VA": "6.08#6.56"}]}
+{"ID": "29395:2_1206", "Triplet": [{"Aspect": "Аш-су хезмәт күрсәтү", "Opinion": "искиткеч", "VA": "6.40#6.60"}, {"Aspect": "Аш-су хезмәт күрсәтү", "Opinion": "искиткеч", "VA": "6.40#6.60"}]}
+{"ID": "29395:4_1207", "Triplet": [{"Aspect": "none", "Opinion": "иң тәмле", "VA": "6.45#6.86"}]}
+{"ID": "29395:6_1208", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.51#6.95"}]}
+{"ID": "29395:7_1209", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.84"}]}
+{"ID": "30148:10_1215", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.44#6.86"}, {"Aspect": "none", "Opinion": "none", "VA": "6.44#6.86"}]}
+{"ID": "30148:4_1211", "Triplet": [{"Aspect": "Паста", "Opinion": "начар булмады", "VA": "6.41#6.73"}, {"Aspect": "Паста", "Opinion": "начар булмады", "VA": "6.41#6.73"}]}
+{"ID": "30148:6_1212", "Triplet": [{"Aspect": "Официантның", "Opinion": "none", "VA": "6.49#6.91"}]}
+{"ID": "30148:8_1213", "Triplet": [{"Aspect": "хезмәт күрсәтү", "Opinion": "Ямьле", "VA": "6.45#6.79"}]}
+{"ID": "30148:9_1214", "Triplet": [{"Aspect": "Ашлары", "Opinion": "тәмле", "VA": "6.46#6.79"}]}
+{"ID": "30201:0_1216", "Triplet": [{"Aspect": "оешмага", "Opinion": "none", "VA": "6.48#6.89"}]}
+{"ID": "30201:1_1217", "Triplet": [{"Aspect": "none", "Opinion": "яхшы искитмәле түгел", "VA": "6.49#6.89"}, {"Aspect": "none", "Opinion": "яхшы искитмәле түгел", "VA": "6.49#6.89"}, {"Aspect": "none", "Opinion": "яхшы искитмәле түгел", "VA": "6.49#6.89"}]}
+{"ID": "30201:2_1218", "Triplet": [{"Aspect": "Официанткалар", "Opinion": "none", "VA": "6.40#6.85"}, {"Aspect": "Официанткалар", "Opinion": "none", "VA": "6.40#6.85"}]}
+{"ID": "30201:4_1219", "Triplet": [{"Aspect": "Сала торган сыраны", "Opinion": "күбексез генә түгел", "VA": "6.48#6.90"}, {"Aspect": "Сала торган сыраны", "Opinion": "күбексез генә түгел", "VA": "6.48#6.90"}]}
+{"ID": "30201:6_1220", "Triplet": [{"Aspect": "Васаби", "Opinion": "none", "VA": "6.41#6.79"}]}
+{"ID": "30368:11_1227", "Triplet": [{"Aspect": "none", "Opinion": "шактый күңелле", "VA": "6.48#6.77"}]}
+{"ID": "30368:12_1228", "Triplet": [{"Aspect": "мохит", "Opinion": "яхшы", "VA": "6.32#6.67"}]}
+{"ID": "30368:3_1221", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.40#6.77"}, {"Aspect": "none", "Opinion": "none", "VA": "6.40#6.77"}]}
+{"ID": "30368:4_1222", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.47#6.92"}]}
+{"ID": "30368:5_1223", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.53#6.90"}]}
+{"ID": "30368:6_1224", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.81"}]}
+{"ID": "30368:7_1225", "Triplet": [{"Aspect": "кабымлыклар", "Opinion": "none", "VA": "6.43#6.77"}]}
+{"ID": "30368:8_1226", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.51#6.81"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.81"}, {"Aspect": "none", "Opinion": "none", "VA": "6.51#6.81"}]}
+{"ID": "30744:3_1229", "Triplet": [{"Aspect": "Гриль", "Opinion": "ошады", "VA": "6.42#6.80"}, {"Aspect": "Гриль", "Opinion": "ошады", "VA": "6.42#6.80"}]}
+{"ID": "30744:4_1230", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.46#6.73"}, {"Aspect": "none", "Opinion": "none", "VA": "6.46#6.73"}]}
+{"ID": "30744:8_1231", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.47#6.80"}]}
+{"ID": "31004:13_1235", "Triplet": [{"Aspect": "none", "Opinion": "иң ашарга яраклысы", "VA": "6.54#6.92"}]}
+{"ID": "31004:14_1236", "Triplet": [{"Aspect": "аш-су", "Opinion": "none", "VA": "6.51#6.89"}]}
+{"ID": "31004:7_1232", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.89"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.89"}]}
+{"ID": "31004:8_1233", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.83"}]}
+{"ID": "31004:9_1234", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.42#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.42#6.84"}]}
+{"ID": "31071:0_1237", "Triplet": [{"Aspect": "бина", "Opinion": "Нормаль", "VA": "6.48#6.79"}]}
+{"ID": "31071:1_1238", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "6.45#6.84"}, {"Aspect": "none", "Opinion": "none", "VA": "6.45#6.84"}]}
+{"ID": "31071:3_1239", "Triplet": [{"Aspect": "none", "Opinion": "none", "VA": "5.75#6.13"}, {"Aspect": "none", "Opinion": "none", "VA": "5.75#6.13"}]}

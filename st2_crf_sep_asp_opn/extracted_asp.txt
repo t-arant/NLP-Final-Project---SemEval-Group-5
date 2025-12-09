@@ -1,0 +1,65 @@
+extracted	actual	text
+computer | 	computer | 	nice computer for responsible grade school child .
+NULL | 	ssd drive ` ` | 	the ` ` ssd drive ` ` is not user replaceable .
+NULL | 	NULL | 	it opens programs immediately .
+NULL | 	laptop | 	most of my love for this laptop is based on the operating system but since you get that with every chromebook , i ' ll tell you what i like and dislike about the physical laptop only .
+trackpad | 	trackpad | 	trackpad is nice and quiet and responsive .
+chromebook | 	system | 	this chromebook is great system that is lightweight , has excellent battery life , and offers a fantastic keyboard .
+NULL | 	mac | 	my first mac is awesome !
+touch screen | 	touch screen | 	- the touch screen isn ' t as accurate as i wish , for cases like tapping tiny things around the edges .
+laptop | 	hardware | 	i like the laptop for it ' s hardware , and it ' s working properly .
+NULL | 	cpu | 	the cpu runs super fast and doesn ' t start utilizing its full potential until you start doing things like installation of applications , but the memory usage sits around 40 - 50 % the most of the time .
+laptop | 	laptop | 	very good laptop
+NULL | 	keyboard | 	even the touchpad and keyboard perform as well as the very best chromebooks currently available .
+NULL | 	NULL | 	occasionally it will get sort of slow and then i ' ll go to settings and clear the image cache and that takes care of it .
+layout | 	keyboard | 	the keyboard traction is clicky and the layout is spaced out well enough for a terrific typing experience .
+chromebook | 	chromebook | 	i have had my chromebook for 4 years still works great for internet , netflix , adult education classes .
+asus support | 	asus support | 	unable to contact asus support for help .
+NULL | 	device | 	this is a great device if your main goal is to check email , surf the internet listen to music or watch videos .
+computer | 	quad core computer | 	superb value for money and powerful performance from this quad core computer .
+NULL | 	mac | 	i love the mac .
+NULL | 	chrome computer | 	it is the nicest chrome computer i have ever owned .
+NULL | 	trackpad | 	the aluminum construction is every bit as nice as my 12 ` ` macbook , the keyboard is excellent and has better travel / feedback and the trackpad is the best i ' ve used on any asus portable .
+NULL | 	NULL | 	i bought this for my daughter for school and she loves it .
+screen speakers | 	speakers | 	the screen is beautiful , and the speakers are very nice .
+aluminum body | 	aluminum body | 	the aluminum body looks great , but feels cheap and thin .
+NULL | 	NULL | 	it gets used everyday for work all day long and some light gaming in the evening .
+product battery | 	battery runtime | 	product is sturdy , lightweight , fast , and the battery runtime was as advertised !
+NULL | 	processing power | 	the 1tb included drive is pretty slow , but battery life and processing power is pretty great .
+laptop ssd | 	laptop | 	for $ 499 the laptop is a bargain , but you should only buy if you you plan to add an ssd in the near future .
+NULL | 	NULL | 	bought this last year on july .
+acer support | 	support | 	what really did it was when i tried contacting acer support i was simply told ` ` try a restart ` ` and then ` ` call google , we can ' t help you ` ` .
+ram | 	ram | 	easily upgrade to storage and ram .
+laptop | 	apple | 	my laptop is affected by the staingate issue and apple denied responsibility , saying that it ' s a cosmetic problem caused by improper cleaning , yet there are thousands of reports on this .
+NULL | 	laptop ' s construction | 	this laptop ' s construction is cheap and flimsy , the battery is not removable and the back case is nearly impossible to take off without damaging it .
+wifi adapter | 	wifi | 	using wifi the signal seems to drop , not sure if the wifi adapter needs an update but there are issues .
+laptop | 	laptop | 	laptop was new , in perfect condition and works like a charm .
+NULL | 	play store | 	some apps don ' t work but the play store is still in beta right now
+touch pad | 	screen | 	nice screen and keyboard , touch pad is great .
+NULL | 	audio | 	edit : reinstalled the driver now the audio is better on earphones .
+NULL | 	NULL | 	whether i ' m playing games or video editing , or web design , it doesn ' t hesitate .
+NULL | 	NULL | 	it worked beautifully and smoothly .
+NULL | 	hardware | 	they put a lot of thought and work into making sure that the hardware and software work real well together .
+NULL | 	8th gen i5 | 	purchased this mid november , because of the 8th gen i5 , and other good specs for the great price .
+customer service | 	amazon ' s | 	makes a huge difference in the customer service you ' ll get , and amazon ' s is outstanding !
+mbp task | 	chrome | 	the one drawback is that it uses more energy than most apps on the mbp ( especially word , not so much with excel or ppt ) , so i ' ve been using google docs / drive in safari ( chrome is also an energy hog ) if i ' m away from a power source and the task is light enough .
+NULL | 	wi - fi | 	mouse and wi - fi never functioned correctly .
+NULL | 	version | 	this version has been my least favorite version i ' ve had for the following reasons listed bellow the pros .
+NULL | 	processor | 	this new generation macbook has a fast processor , great retina display , 13 inch high resolution screen , great compatibility and many more .
+NULL | 	internet | 	i really like the laptop and how fast it is and all the specs but , the internet started dropping only in this laptop .
+NULL | 	NULL | 	the quality is terrible ( both versions ) for such a pricey product .
+laptop | 	laptop | 	i used this laptop for 2 months without upgrading it .
+samsung chromebook | 	brand | 	this is my third samsung chromebook and i will continue to use this brand .
+computer | 	computer | 	obviously great computer
+laptop battery life | 	battery life | 	i love my laptop but the battery life is the worst i ' ve ever had on a laptop .
+chromebook | 	chromebook | 	if you ' re mainly on youtube or reading stuff online , this chromebook functions well for that purpose .
+track pad | 	track pad | 	- track pad is accurate
+battery life | 	battery life | 	battery life is good .
+laptop | 	laptop | 	this laptop has all the necessary ports .
+stock aluminum case | 	stock aluminum case | 	while the stock aluminum case is darn solid enough , it can take scratches easily from things like keys or cable connectors tossed in a bag with it .
+NULL | 	it | 	except , you know , when it decided to become unusable .
+computer | 	computer | 	i now feel like this could be my main computer for work and fun .
+machine | 	machine | 	a thoroughly disappointing machine .
+NULL | 	battery | 	this battery lasts for 5 + hours on some of the most taxing apps my phone can run .
+NULL | 	shuts down | 	it boots up in 10 seconds and shuts down in 2 to 3 seconds .
+NULL | 	battery | 	also can not just ` ` add ` ` memory ddms : only one socket means you must remove the 8gb and purchace a 16gb ( ~ $ 180 further investment ) ; battery not gon na last several hrs , looking at ~ 2 - 4 .
