@@ -40,17 +40,33 @@ BATCH_SIZE = 32
 # Takes in DataFrame, splits based on ID label of train, dev, or test
 # returns split data in 3 DataFrames
 def data_t_t_split(dataset):
-    train_mask = dataset['ID'].str.contains("train", case=False, na=False)
-    train_df = dataset[train_mask].copy().reset_index(drop=True)
+    # Check if this is English data (has train/dev/test in IDs)
+    if dataset['ID'].str.contains("train", case=False, na=False).any():
+        # English data - use existing split
+        train_mask = dataset['ID'].str.contains("train", case=False, na=False)
+        train_df = dataset[train_mask].copy().reset_index(drop=True)
 
-    dev_mask = dataset['ID'].str.contains("dev", case=False, na=False)
-    dev_df = dataset[dev_mask].copy().reset_index(drop=True)
+        dev_mask = dataset['ID'].str.contains("dev", case=False, na=False)
+        dev_df = dataset[dev_mask].copy().reset_index(drop=True)
 
-    test_mask = dataset['ID'].str.contains("test", case=False, na=False)
-    test_df = dataset[test_mask].copy().reset_index(drop=True)
-
+        test_mask = dataset['ID'].str.contains("test", case=False, na=False)
+        test_df = dataset[test_mask].copy().reset_index(drop=True)
+    else:
+        # Non-English data (Russian, Tatar, etc.) - split manually
+        print("No train/dev/test labels found - splitting manually (70/10/20)")
+        from sklearn.model_selection import train_test_split
+        
+        # 70% train, 10% dev, 20% test
+        train_dev, test_df = train_test_split(dataset, test_size=0.2, random_state=42)
+        train_df, dev_df = train_test_split(train_dev, test_size=0.125, random_state=42)  # 0.125 of 0.8 = 0.1
+        
+        # Reset indices
+        train_df = train_df.reset_index(drop=True)
+        dev_df = dev_df.reset_index(drop=True)
+        test_df = test_df.reset_index(drop=True)
+    
+    print(f"Split sizes: Train={len(train_df)}, Dev={len(dev_df)}, Test={len(test_df)}")
     return train_df, dev_df, test_df
-
 
 def main():
 
@@ -85,8 +101,8 @@ def main():
     print(train_df.head())
     print(f"### dev_df")
     print(dev_df.head())
-    print("Train Loc 1")
-    print(train_df.iloc[3])
+    #print("Train Loc 1")
+    #print(train_df.iloc[3])
 
     # Define Tokenizer 
     tokenizer = AutoTokenizer.from_pretrained("distilbert-base-multilingual-cased")
@@ -111,7 +127,7 @@ def main():
         activation = 'none' #activation
 
         # sets desired epochs for training 
-        epochs_reg = 10
+        epochs_reg = 4
         r_epochs = epochs_reg
         
         # Generates unique trial ID
@@ -196,7 +212,7 @@ def main():
         #model = model.to(device)
 
         # Load saved model with architecture parameters
-        checkpoint = torch.load("best_model_val_0.8871.pth")
+        checkpoint = torch.load("best_model_val_0.4811.pth")
         
         # Recreate model with the same architecture used during training
         model = RegressorModel(

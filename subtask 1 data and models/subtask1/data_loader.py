@@ -2,10 +2,11 @@
 # This file contains helper functions assocated with loading data for the project 
 
 import json
+from numpy import true_divide
 import pandas as pd
 
 # this is the colab path to the dataset
-DATASET = "/content/NLP-Final-Project---SemEval-Group-5/subtask 1 data and models/subtask1_data/st1_eng_laptop.json"
+DATASET = "/content/NLP-Final-Project---SemEval-Group-5/subtask1_data_gen/subtask_1_zho_rest.json"
 
 model_name = "distilbert-base-multilingual-cased" # chage your transformer model
 
@@ -13,7 +14,7 @@ model_name = "distilbert-base-multilingual-cased" # chage your transformer model
 # Input: file path 
 # Output DataFrame
 def load_local_json_to_df(file_name):
-     df = pd.read_json(file_name, orient="records")
+     df = pd.read_json(file_name, orient="records", lines=True)
      return df 
 
 # This function takes in the Gold Labels dataframe, and produces a JSONL of Gold Label Data. Data is saved in file. 

@@ -1,816 +1,1445 @@
-{"ID": "laptop_quad_test_1", "Aspect_VA": [{"Aspect": "unit", "VA": "3.38#7.12"}]}
-{"ID": "laptop_quad_test_10", "Aspect_VA": [{"Aspect": "touchscreen chromebook", "VA": "7.67#7.33"}]}
-{"ID": "laptop_quad_test_100", "Aspect_VA": [{"Aspect": "back lit keyboard", "VA": "6.75#6.88"}]}
-{"ID": "laptop_quad_test_101", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_102", "Aspect_VA": [{"Aspect": "screen", "VA": "7.25#7.12"}]}
-{"ID": "laptop_quad_test_103", "Aspect_VA": [{"Aspect": "boots up", "VA": "7.67#7.83"}, {"Aspect": "NULL", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_104", "Aspect_VA": [{"Aspect": "google and partners", "VA": "7.67#7.33"}]}
-{"ID": "laptop_quad_test_105", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.50"}]}
-{"ID": "laptop_quad_test_106", "Aspect_VA": [{"Aspect": "touch pad", "VA": "5.50#5.25"}]}
-{"ID": "laptop_quad_test_107", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.20"}]}
-{"ID": "laptop_quad_test_108", "Aspect_VA": [{"Aspect": "samsung chromebook", "VA": "7.00#6.50"}]}
-{"ID": "laptop_quad_test_109", "Aspect_VA": [{"Aspect": "product", "VA": "7.12#7.75"}]}
-{"ID": "laptop_quad_test_11", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.12#6.12"}]}
-{"ID": "laptop_quad_test_110", "Aspect_VA": [{"Aspect": "screen hinge", "VA": "7.88#8.00"}]}
-{"ID": "laptop_quad_test_111", "Aspect_VA": [{"Aspect": "size", "VA": "7.62#7.25"}, {"Aspect": "NULL", "VA": "7.62#7.25"}]}
-{"ID": "laptop_quad_test_112", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_113", "Aspect_VA": [{"Aspect": "battery life", "VA": "6.50#6.67"}]}
-{"ID": "laptop_quad_test_114", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.00#7.10"}]}
-{"ID": "laptop_quad_test_115", "Aspect_VA": [{"Aspect": "android tablets", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_116", "Aspect_VA": [{"Aspect": "NULL", "VA": "8.38#8.25"}]}
-{"ID": "laptop_quad_test_117", "Aspect_VA": [{"Aspect": "powers up", "VA": "5.00#5.00"}, {"Aspect": "battery life", "VA": "7.50#7.50"}, {"Aspect": "keyboard", "VA": "5.00#5.00"}, {"Aspect": "NULL", "VA": "7.83#8.00"}]}
-{"ID": "laptop_quad_test_118", "Aspect_VA": [{"Aspect": "NULL", "VA": "8.12#8.12"}]}
-{"ID": "laptop_quad_test_119", "Aspect_VA": [{"Aspect": "samsung chromebook", "VA": "5.75#5.38"}, {"Aspect": "brand", "VA": "5.75#5.38"}]}
-{"ID": "laptop_quad_test_12", "Aspect_VA": [{"Aspect": "touch pad", "VA": "3.17#6.17"}]}
-{"ID": "laptop_quad_test_120", "Aspect_VA": [{"Aspect": "tablet", "VA": "5.00#5.25"}]}
-{"ID": "laptop_quad_test_121", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.38#5.38"}]}
-{"ID": "laptop_quad_test_122", "Aspect_VA": [{"Aspect": "book", "VA": "7.38#7.25"}]}
-{"ID": "laptop_quad_test_123", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.40#6.30"}]}
-{"ID": "laptop_quad_test_124", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_125", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.75"}]}
-{"ID": "laptop_quad_test_126", "Aspect_VA": [{"Aspect": "os", "VA": "6.62#6.50"}]}
-{"ID": "laptop_quad_test_127", "Aspect_VA": [{"Aspect": "product", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_128", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.17#7.33"}, {"Aspect": "tablet", "VA": "7.33#7.50"}]}
-{"ID": "laptop_quad_test_129", "Aspect_VA": [{"Aspect": "chormebook", "VA": "5.25#5.12"}]}
-{"ID": "laptop_quad_test_13", "Aspect_VA": [{"Aspect": "keys", "VA": "2.00#8.00"}]}
-{"ID": "laptop_quad_test_130", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.50"}]}
-{"ID": "laptop_quad_test_131", "Aspect_VA": [{"Aspect": "notebook", "VA": "6.12#6.50"}]}
-{"ID": "laptop_quad_test_132", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_133", "Aspect_VA": [{"Aspect": "chromebook", "VA": "8.17#8.17"}]}
-{"ID": "laptop_quad_test_134", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.67#7.50"}]}
-{"ID": "laptop_quad_test_135", "Aspect_VA": [{"Aspect": "navigation", "VA": "7.00#6.88"}]}
-{"ID": "laptop_quad_test_136", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.17"}]}
-{"ID": "laptop_quad_test_137", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_138", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.67#7.33"}]}
-{"ID": "laptop_quad_test_139", "Aspect_VA": [{"Aspect": "speaker", "VA": "4.83#5.17"}]}
-{"ID": "laptop_quad_test_14", "Aspect_VA": [{"Aspect": "device", "VA": "3.62#6.00"}]}
-{"ID": "laptop_quad_test_140", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.12#6.88"}]}
-{"ID": "laptop_quad_test_141", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_142", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.33"}]}
-{"ID": "laptop_quad_test_143", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.50"}]}
-{"ID": "laptop_quad_test_144", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.88#8.00"}]}
-{"ID": "laptop_quad_test_145", "Aspect_VA": [{"Aspect": "battery life", "VA": "5.25#5.25"}, {"Aspect": "samsung", "VA": "5.25#5.25"}, {"Aspect": "display", "VA": "5.25#5.25"}, {"Aspect": "software", "VA": "5.25#5.25"}]}
-{"ID": "laptop_quad_test_146", "Aspect_VA": [{"Aspect": "display", "VA": "7.67#7.67"}, {"Aspect": "setup", "VA": "7.67#7.67"}, {"Aspect": "NULL", "VA": "7.83#7.83"}]}
-{"ID": "laptop_quad_test_147", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.38#6.12"}]}
-{"ID": "laptop_quad_test_148", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.83#7.17"}]}
-{"ID": "laptop_quad_test_149", "Aspect_VA": [{"Aspect": "keyboard", "VA": "5.83#6.33"}]}
-{"ID": "laptop_quad_test_15", "Aspect_VA": [{"Aspect": "track pad", "VA": "4.12#5.62"}]}
-{"ID": "laptop_quad_test_150", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.62#8.00"}]}
-{"ID": "laptop_quad_test_151", "Aspect_VA": [{"Aspect": "delivery", "VA": "3.88#5.75"}, {"Aspect": "usps", "VA": "3.50#6.12"}]}
-{"ID": "laptop_quad_test_152", "Aspect_VA": [{"Aspect": "amd a12 processor", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_153", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.12#6.12"}]}
-{"ID": "laptop_quad_test_154", "Aspect_VA": [{"Aspect": "computer", "VA": "8.38#8.25"}]}
-{"ID": "laptop_quad_test_155", "Aspect_VA": [{"Aspect": "computer", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_156", "Aspect_VA": [{"Aspect": "computer", "VA": "7.50#7.38"}]}
-{"ID": "laptop_quad_test_157", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#8.33"}]}
-{"ID": "laptop_quad_test_158", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.30#6.40"}]}
-{"ID": "laptop_quad_test_159", "Aspect_VA": [{"Aspect": "battery", "VA": "7.33#7.33"}, {"Aspect": "NULL", "VA": "8.00#8.17"}]}
-{"ID": "laptop_quad_test_16", "Aspect_VA": [{"Aspect": "os", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_160", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.00#6.62"}]}
-{"ID": "laptop_quad_test_161", "Aspect_VA": [{"Aspect": "graphics", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_162", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_163", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_164", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.62"}]}
-{"ID": "laptop_quad_test_165", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.30#7.20"}]}
-{"ID": "laptop_quad_test_166", "Aspect_VA": [{"Aspect": "battery", "VA": "5.30#5.60"}]}
-{"ID": "laptop_quad_test_167", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.50"}, {"Aspect": "battery", "VA": "7.00#7.17"}, {"Aspect": "screen", "VA": "6.67#7.00"}]}
-{"ID": "laptop_quad_test_168", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_169", "Aspect_VA": [{"Aspect": "processor", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_17", "Aspect_VA": [{"Aspect": "hdmi", "VA": "4.83#4.83"}]}
-{"ID": "laptop_quad_test_170", "Aspect_VA": [{"Aspect": "graphics", "VA": "7.00#6.75"}]}
-{"ID": "laptop_quad_test_171", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#7.67"}]}
-{"ID": "laptop_quad_test_172", "Aspect_VA": [{"Aspect": "first person shooters", "VA": "6.90#6.80"}]}
-{"ID": "laptop_quad_test_173", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.50#5.62"}]}
-{"ID": "laptop_quad_test_174", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.83#6.50"}]}
-{"ID": "laptop_quad_test_175", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.50#5.17"}]}
-{"ID": "laptop_quad_test_176", "Aspect_VA": [{"Aspect": "lappy", "VA": "6.83#7.00"}]}
-{"ID": "laptop_quad_test_177", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.33"}]}
-{"ID": "laptop_quad_test_178", "Aspect_VA": [{"Aspect": "computer", "VA": "8.00#7.88"}, {"Aspect": "battery life", "VA": "2.50#7.00"}]}
-{"ID": "laptop_quad_test_179", "Aspect_VA": [{"Aspect": "screen", "VA": "4.50#5.00"}]}
-{"ID": "laptop_quad_test_18", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.75#5.25"}]}
-{"ID": "laptop_quad_test_180", "Aspect_VA": [{"Aspect": "processor", "VA": "7.75#8.00"}]}
-{"ID": "laptop_quad_test_181", "Aspect_VA": [{"Aspect": "laptop", "VA": "5.50#5.25"}]}
-{"ID": "laptop_quad_test_182", "Aspect_VA": [{"Aspect": "battery", "VA": "3.40#6.40"}]}
-{"ID": "laptop_quad_test_183", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.75#8.00"}]}
-{"ID": "laptop_quad_test_184", "Aspect_VA": [{"Aspect": "dvd player", "VA": "7.12#6.88"}]}
-{"ID": "laptop_quad_test_185", "Aspect_VA": [{"Aspect": "ports", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_186", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.67#7.50"}]}
-{"ID": "laptop_quad_test_187", "Aspect_VA": [{"Aspect": "computer", "VA": "7.62#7.62"}]}
-{"ID": "laptop_quad_test_188", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#7.67"}]}
-{"ID": "laptop_quad_test_189", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.38#7.38"}]}
-{"ID": "laptop_quad_test_19", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_190", "Aspect_VA": [{"Aspect": "cpu", "VA": "6.62#6.75"}]}
-{"ID": "laptop_quad_test_191", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.38#5.25"}]}
-{"ID": "laptop_quad_test_192", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.62"}]}
-{"ID": "laptop_quad_test_193", "Aspect_VA": [{"Aspect": "graphics", "VA": "5.88#5.50"}]}
-{"ID": "laptop_quad_test_194", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_195", "Aspect_VA": [{"Aspect": "processor", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_196", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.67#8.00"}]}
-{"ID": "laptop_quad_test_197", "Aspect_VA": [{"Aspect": "computer", "VA": "7.83#7.50"}, {"Aspect": "laptop", "VA": "7.83#7.50"}]}
-{"ID": "laptop_quad_test_198", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_199", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.62#6.50"}]}
-{"ID": "laptop_quad_test_2", "Aspect_VA": [{"Aspect": "acer 11", "VA": "3.75#5.75"}]}
-{"ID": "laptop_quad_test_20", "Aspect_VA": [{"Aspect": "acer", "VA": "3.17#5.83"}]}
-{"ID": "laptop_quad_test_200", "Aspect_VA": [{"Aspect": "computer", "VA": "7.75#7.62"}]}
-{"ID": "laptop_quad_test_201", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.12#7.00"}]}
-{"ID": "laptop_quad_test_202", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.25#4.88"}]}
-{"ID": "laptop_quad_test_203", "Aspect_VA": [{"Aspect": "battery life", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_204", "Aspect_VA": [{"Aspect": "battery life", "VA": "3.12#6.75"}]}
-{"ID": "laptop_quad_test_205", "Aspect_VA": [{"Aspect": "design", "VA": "7.17#7.50"}]}
-{"ID": "laptop_quad_test_206", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.50"}]}
-{"ID": "laptop_quad_test_207", "Aspect_VA": [{"Aspect": "computer", "VA": "7.00#7.33"}]}
-{"ID": "laptop_quad_test_208", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_209", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_21", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.12#5.12"}]}
-{"ID": "laptop_quad_test_210", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_211", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.25"}]}
-{"ID": "laptop_quad_test_212", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.67#7.50"}]}
-{"ID": "laptop_quad_test_213", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.83#5.83"}, {"Aspect": "battery", "VA": "2.33#5.67"}]}
-{"ID": "laptop_quad_test_214", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.00#6.00"}]}
-{"ID": "laptop_quad_test_215", "Aspect_VA": [{"Aspect": "computer", "VA": "7.25#7.25"}, {"Aspect": "setup", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_216", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.30#7.20"}]}
-{"ID": "laptop_quad_test_217", "Aspect_VA": [{"Aspect": "graphics", "VA": "6.62#6.75"}]}
-{"ID": "laptop_quad_test_218", "Aspect_VA": [{"Aspect": "warranty", "VA": "4.20#5.60"}]}
-{"ID": "laptop_quad_test_219", "Aspect_VA": [{"Aspect": "touch screen", "VA": "4.12#4.75"}]}
-{"ID": "laptop_quad_test_22", "Aspect_VA": [{"Aspect": "sound", "VA": "6.00#6.00"}]}
-{"ID": "laptop_quad_test_220", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.50#6.75"}, {"Aspect": "phantom touches", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_221", "Aspect_VA": [{"Aspect": "pixel", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_222", "Aspect_VA": [{"Aspect": "screen", "VA": "7.62#7.88"}]}
-{"ID": "laptop_quad_test_223", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.90#6.20"}]}
-{"ID": "laptop_quad_test_224", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#7.00"}]}
-{"ID": "laptop_quad_test_225", "Aspect_VA": [{"Aspect": "hardware", "VA": "2.38#7.88"}]}
-{"ID": "laptop_quad_test_226", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.12#4.88"}]}
-{"ID": "laptop_quad_test_227", "Aspect_VA": [{"Aspect": "touch screen", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_228", "Aspect_VA": [{"Aspect": "backspace key", "VA": "4.38#5.25"}]}
-{"ID": "laptop_quad_test_229", "Aspect_VA": [{"Aspect": "screen", "VA": "3.38#5.62"}]}
-{"ID": "laptop_quad_test_23", "Aspect_VA": [{"Aspect": "power adapter", "VA": "3.50#5.88"}]}
-{"ID": "laptop_quad_test_230", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.38#5.38"}]}
-{"ID": "laptop_quad_test_231", "Aspect_VA": [{"Aspect": "device", "VA": "3.67#6.33"}]}
-{"ID": "laptop_quad_test_232", "Aspect_VA": [{"Aspect": "screen", "VA": "7.67#7.67"}, {"Aspect": "profile", "VA": "6.83#7.00"}, {"Aspect": "stylus", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_233", "Aspect_VA": [{"Aspect": "verified purchase", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_234", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#7.12"}]}
-{"ID": "laptop_quad_test_235", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_236", "Aspect_VA": [{"Aspect": "screen", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_237", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.62#5.00"}, {"Aspect": "apps", "VA": "3.38#5.25"}]}
-{"ID": "laptop_quad_test_238", "Aspect_VA": [{"Aspect": "battery life", "VA": "5.75#5.75"}]}
-{"ID": "laptop_quad_test_239", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.50#4.88"}]}
-{"ID": "laptop_quad_test_24", "Aspect_VA": [{"Aspect": "wi - fi", "VA": "4.12#5.62"}]}
-{"ID": "laptop_quad_test_240", "Aspect_VA": [{"Aspect": "android app support", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_241", "Aspect_VA": [{"Aspect": "android app", "VA": "2.00#7.62"}]}
-{"ID": "laptop_quad_test_242", "Aspect_VA": [{"Aspect": "battery life", "VA": "5.25#5.50"}]}
-{"ID": "laptop_quad_test_243", "Aspect_VA": [{"Aspect": "amazon", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_244", "Aspect_VA": [{"Aspect": "battery", "VA": "7.00#7.00"}, {"Aspect": "display", "VA": "7.67#7.50"}, {"Aspect": "keyboard", "VA": "7.67#7.50"}]}
-{"ID": "laptop_quad_test_245", "Aspect_VA": [{"Aspect": "tablet", "VA": "4.50#5.17"}]}
-{"ID": "laptop_quad_test_246", "Aspect_VA": [{"Aspect": "chromeos", "VA": "4.62#5.12"}, {"Aspect": "samsung", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_247", "Aspect_VA": [{"Aspect": "computer", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_248", "Aspect_VA": [{"Aspect": "keyboard", "VA": "2.75#7.00"}]}
-{"ID": "laptop_quad_test_249", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_25", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.38#5.88"}]}
-{"ID": "laptop_quad_test_250", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.50"}]}
-{"ID": "laptop_quad_test_251", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.70#6.70"}]}
-{"ID": "laptop_quad_test_252", "Aspect_VA": [{"Aspect": "acer", "VA": "4.67#5.17"}]}
-{"ID": "laptop_quad_test_253", "Aspect_VA": [{"Aspect": "trackpad", "VA": "6.67#6.67"}]}
-{"ID": "laptop_quad_test_254", "Aspect_VA": [{"Aspect": "battery life", "VA": "6.50#6.50"}]}
-{"ID": "laptop_quad_test_255", "Aspect_VA": [{"Aspect": "aluminum shell", "VA": "6.62#6.50"}, {"Aspect": "keyboard", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_256", "Aspect_VA": [{"Aspect": "card reader / writer", "VA": "5.00#5.50"}]}
-{"ID": "laptop_quad_test_257", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.70"}]}
-{"ID": "laptop_quad_test_258", "Aspect_VA": [{"Aspect": "it", "VA": "7.38#7.38"}]}
-{"ID": "laptop_quad_test_259", "Aspect_VA": [{"Aspect": "battery life", "VA": "8.00#8.17"}]}
-{"ID": "laptop_quad_test_26", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.00#5.67"}]}
-{"ID": "laptop_quad_test_260", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.38#6.62"}]}
-{"ID": "laptop_quad_test_261", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_262", "Aspect_VA": [{"Aspect": "chrome os", "VA": "5.12#5.12"}]}
-{"ID": "laptop_quad_test_263", "Aspect_VA": [{"Aspect": "devise", "VA": "4.38#5.38"}]}
-{"ID": "laptop_quad_test_264", "Aspect_VA": [{"Aspect": "chromebook", "VA": "5.12#4.62"}]}
-{"ID": "laptop_quad_test_265", "Aspect_VA": [{"Aspect": "hdmi and usb ports", "VA": "2.60#5.62"}]}
-{"ID": "laptop_quad_test_266", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.83#7.67"}]}
-{"ID": "laptop_quad_test_267", "Aspect_VA": [{"Aspect": "quad - core celeron n3160", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_268", "Aspect_VA": [{"Aspect": "design", "VA": "7.88#7.38"}]}
-{"ID": "laptop_quad_test_269", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#7.83"}]}
-{"ID": "laptop_quad_test_27", "Aspect_VA": [{"Aspect": "product", "VA": "7.50#7.33"}, {"Aspect": "customer support", "VA": "3.00#6.67"}]}
-{"ID": "laptop_quad_test_270", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.88#7.00"}]}
-{"ID": "laptop_quad_test_271", "Aspect_VA": [{"Aspect": "chromeos", "VA": "6.83#6.83"}]}
-{"ID": "laptop_quad_test_272", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.33#6.00"}, {"Aspect": "machine", "VA": "8.00#7.67"}]}
-{"ID": "laptop_quad_test_273", "Aspect_VA": [{"Aspect": "machine", "VA": "7.33#7.50"}]}
-{"ID": "laptop_quad_test_274", "Aspect_VA": [{"Aspect": "model", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_275", "Aspect_VA": [{"Aspect": "trackpad", "VA": "5.50#6.38"}]}
-{"ID": "laptop_quad_test_276", "Aspect_VA": [{"Aspect": "battery", "VA": "6.62#6.75"}]}
-{"ID": "laptop_quad_test_277", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.50#7.00"}]}
-{"ID": "laptop_quad_test_278", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.00#6.10"}]}
-{"ID": "laptop_quad_test_279", "Aspect_VA": [{"Aspect": "battery", "VA": "6.75#6.88"}]}
-{"ID": "laptop_quad_test_28", "Aspect_VA": [{"Aspect": "support", "VA": "4.25#5.50"}]}
-{"ID": "laptop_quad_test_280", "Aspect_VA": [{"Aspect": "celeron processor", "VA": "2.67#7.67"}]}
-{"ID": "laptop_quad_test_281", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.50#6.70"}]}
-{"ID": "laptop_quad_test_282", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.80#6.80"}]}
-{"ID": "laptop_quad_test_283", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.30#6.60"}]}
-{"ID": "laptop_quad_test_284", "Aspect_VA": [{"Aspect": "graphic", "VA": "6.00#5.75"}]}
-{"ID": "laptop_quad_test_285", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.50#5.33"}]}
-{"ID": "laptop_quad_test_286", "Aspect_VA": [{"Aspect": "solid state drive", "VA": "5.62#5.25"}]}
-{"ID": "laptop_quad_test_287", "Aspect_VA": [{"Aspect": "speakers", "VA": "7.17#7.33"}]}
-{"ID": "laptop_quad_test_288", "Aspect_VA": [{"Aspect": "dvd drive", "VA": "4.38#5.00"}]}
-{"ID": "laptop_quad_test_289", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.38"}]}
-{"ID": "laptop_quad_test_29", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.00#7.75"}]}
-{"ID": "laptop_quad_test_290", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_291", "Aspect_VA": [{"Aspect": "screen", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_292", "Aspect_VA": [{"Aspect": "os x", "VA": "7.62#8.00"}, {"Aspect": "display", "VA": "7.75#8.12"}]}
-{"ID": "laptop_quad_test_293", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.62#5.50"}]}
-{"ID": "laptop_quad_test_294", "Aspect_VA": [{"Aspect": "computer", "VA": "8.00#7.83"}]}
-{"ID": "laptop_quad_test_295", "Aspect_VA": [{"Aspect": "os x yosemite", "VA": "8.00#8.00"}, {"Aspect": "os", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_296", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.75#7.62"}, {"Aspect": "package", "VA": "7.00#7.00"}]}
-{"ID": "laptop_quad_test_297", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_298", "Aspect_VA": [{"Aspect": "computer", "VA": "8.00#7.83"}]}
-{"ID": "laptop_quad_test_299", "Aspect_VA": [{"Aspect": "backlighting", "VA": "7.17#7.50"}, {"Aspect": "mbp", "VA": "7.67#8.00"}]}
-{"ID": "laptop_quad_test_3", "Aspect_VA": [{"Aspect": "ssd drive", "VA": "4.50#4.50"}]}
-{"ID": "laptop_quad_test_30", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.62#6.38"}]}
-{"ID": "laptop_quad_test_300", "Aspect_VA": [{"Aspect": "thunderbolt ports", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_301", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_302", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.75#7.38"}]}
-{"ID": "laptop_quad_test_303", "Aspect_VA": [{"Aspect": "machine", "VA": "8.00#8.50"}]}
-{"ID": "laptop_quad_test_304", "Aspect_VA": [{"Aspect": "durability", "VA": "6.75#6.88"}, {"Aspect": "NULL", "VA": "7.62#7.62"}, {"Aspect": "portability", "VA": "7.88#8.00"}]}
-{"ID": "laptop_quad_test_305", "Aspect_VA": [{"Aspect": "response", "VA": "8.17#8.17"}]}
-{"ID": "laptop_quad_test_306", "Aspect_VA": [{"Aspect": "battery life", "VA": "8.00#8.12"}]}
-{"ID": "laptop_quad_test_307", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.00#7.17"}]}
-{"ID": "laptop_quad_test_308", "Aspect_VA": [{"Aspect": "ports", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_309", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.25#7.50"}]}
-{"ID": "laptop_quad_test_31", "Aspect_VA": [{"Aspect": "screen", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_310", "Aspect_VA": [{"Aspect": "model", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_311", "Aspect_VA": [{"Aspect": "shipping", "VA": "6.67#6.67"}, {"Aspect": "product", "VA": "6.50#6.50"}]}
-{"ID": "laptop_quad_test_312", "Aspect_VA": [{"Aspect": "display", "VA": "8.00#8.00"}, {"Aspect": "track pad", "VA": "8.00#8.17"}]}
-{"ID": "laptop_quad_test_313", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.75"}]}
-{"ID": "laptop_quad_test_314", "Aspect_VA": [{"Aspect": "macbook", "VA": "7.10#6.90"}]}
-{"ID": "laptop_quad_test_315", "Aspect_VA": [{"Aspect": "product", "VA": "7.17#7.33"}]}
-{"ID": "laptop_quad_test_316", "Aspect_VA": [{"Aspect": "computer", "VA": "7.88#7.75"}]}
-{"ID": "laptop_quad_test_317", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.25"}, {"Aspect": "hardware", "VA": "7.38#7.12"}, {"Aspect": "software", "VA": "7.38#7.12"}]}
-{"ID": "laptop_quad_test_318", "Aspect_VA": [{"Aspect": "computer", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_319", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#8.00"}, {"Aspect": "NULL", "VA": "8.00#8.00"}, {"Aspect": "running speed", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_32", "Aspect_VA": [{"Aspect": "charging adapter", "VA": "4.25#4.88"}]}
-{"ID": "laptop_quad_test_320", "Aspect_VA": [{"Aspect": "battery life", "VA": "4.25#5.62"}]}
-{"ID": "laptop_quad_test_321", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_322", "Aspect_VA": [{"Aspect": "computer", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_323", "Aspect_VA": [{"Aspect": "shipping", "VA": "7.50#7.62"}, {"Aspect": "seller", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_324", "Aspect_VA": [{"Aspect": "mac", "VA": "7.00#7.33"}, {"Aspect": "chip", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_325", "Aspect_VA": [{"Aspect": "design", "VA": "7.62#7.62"}, {"Aspect": "track pad", "VA": "7.75#8.00"}]}
-{"ID": "laptop_quad_test_326", "Aspect_VA": [{"Aspect": "mac book", "VA": "7.00#7.50"}, {"Aspect": "internals", "VA": "2.50#6.25"}]}
-{"ID": "laptop_quad_test_327", "Aspect_VA": [{"Aspect": "this computer", "VA": "8.00#7.67"}]}
-{"ID": "laptop_quad_test_328", "Aspect_VA": [{"Aspect": "trackpad", "VA": "8.25#8.25"}]}
-{"ID": "laptop_quad_test_329", "Aspect_VA": [{"Aspect": "retina display", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_33", "Aspect_VA": [{"Aspect": "computer", "VA": "4.50#4.50"}]}
-{"ID": "laptop_quad_test_330", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.88#7.88"}]}
-{"ID": "laptop_quad_test_331", "Aspect_VA": [{"Aspect": "programs", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_332", "Aspect_VA": [{"Aspect": "battery life", "VA": "2.50#7.50"}]}
-{"ID": "laptop_quad_test_333", "Aspect_VA": [{"Aspect": "macbook", "VA": "8.00#7.62"}]}
-{"ID": "laptop_quad_test_334", "Aspect_VA": [{"Aspect": "macbook", "VA": "7.50#6.83"}]}
-{"ID": "laptop_quad_test_335", "Aspect_VA": [{"Aspect": "ss hard drive", "VA": "6.12#5.62"}]}
-{"ID": "laptop_quad_test_336", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.50#6.30"}]}
-{"ID": "laptop_quad_test_337", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_338", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.75#7.50"}, {"Aspect": "customer service", "VA": "7.75#7.50"}]}
-{"ID": "laptop_quad_test_339", "Aspect_VA": [{"Aspect": "macbook", "VA": "7.12#7.38"}]}
-{"ID": "laptop_quad_test_34", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#7.12"}]}
-{"ID": "laptop_quad_test_340", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#8.17"}, {"Aspect": "charger", "VA": "4.17#4.17"}]}
-{"ID": "laptop_quad_test_341", "Aspect_VA": [{"Aspect": "machine", "VA": "8.00#8.33"}]}
-{"ID": "laptop_quad_test_342", "Aspect_VA": [{"Aspect": "apple products", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_343", "Aspect_VA": [{"Aspect": "computer", "VA": "7.50#7.62"}, {"Aspect": "battery life", "VA": "7.88#8.12"}]}
-{"ID": "laptop_quad_test_344", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.75"}]}
-{"ID": "laptop_quad_test_345", "Aspect_VA": [{"Aspect": "computer", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_346", "Aspect_VA": [{"Aspect": "computer", "VA": "6.50#6.25"}]}
-{"ID": "laptop_quad_test_347", "Aspect_VA": [{"Aspect": "prodcut", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_348", "Aspect_VA": [{"Aspect": "2016 model", "VA": "3.00#6.50"}]}
-{"ID": "laptop_quad_test_349", "Aspect_VA": [{"Aspect": "shipping", "VA": "7.17#7.17"}, {"Aspect": "product", "VA": "5.33#5.33"}]}
-{"ID": "laptop_quad_test_35", "Aspect_VA": [{"Aspect": "screen", "VA": "4.75#5.25"}]}
-{"ID": "laptop_quad_test_350", "Aspect_VA": [{"Aspect": "apple updates", "VA": "6.75#6.25"}]}
-{"ID": "laptop_quad_test_351", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.33#7.67"}]}
-{"ID": "laptop_quad_test_352", "Aspect_VA": [{"Aspect": "computer", "VA": "7.88#8.12"}]}
-{"ID": "laptop_quad_test_353", "Aspect_VA": [{"Aspect": "machine", "VA": "6.38#6.25"}]}
-{"ID": "laptop_quad_test_354", "Aspect_VA": [{"Aspect": "system", "VA": "4.33#6.00"}, {"Aspect": "chrome os because", "VA": "4.83#5.17"}]}
-{"ID": "laptop_quad_test_355", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.20#6.90"}]}
-{"ID": "laptop_quad_test_356", "Aspect_VA": [{"Aspect": "screen", "VA": "5.75#5.50"}]}
-{"ID": "laptop_quad_test_357", "Aspect_VA": [{"Aspect": "battery", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_358", "Aspect_VA": [{"Aspect": "speakers", "VA": "4.50#6.00"}, {"Aspect": "chrome os", "VA": "4.50#6.00"}]}
-{"ID": "laptop_quad_test_359", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.25#5.12"}]}
-{"ID": "laptop_quad_test_36", "Aspect_VA": [{"Aspect": "battery", "VA": "4.62#5.25"}]}
-{"ID": "laptop_quad_test_360", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.00#5.00"}, {"Aspect": "keyboard", "VA": "5.50#5.50"}]}
-{"ID": "laptop_quad_test_361", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_362", "Aspect_VA": [{"Aspect": "windows 7 laptop", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_363", "Aspect_VA": [{"Aspect": "google drive online storage", "VA": "6.50#6.30"}]}
-{"ID": "laptop_quad_test_364", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "6.83#7.17"}, {"Aspect": "keyboard", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_365", "Aspect_VA": [{"Aspect": "internet access", "VA": "4.88#5.50"}]}
-{"ID": "laptop_quad_test_366", "Aspect_VA": [{"Aspect": "screenwriting app", "VA": "7.33#7.00"}]}
-{"ID": "laptop_quad_test_367", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.50#7.50"}]}
-{"ID": "laptop_quad_test_368", "Aspect_VA": [{"Aspect": "studio desktop", "VA": "6.25#6.25"}]}
-{"ID": "laptop_quad_test_369", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.83#5.33"}]}
-{"ID": "laptop_quad_test_37", "Aspect_VA": [{"Aspect": "fan", "VA": "2.62#7.12"}, {"Aspect": "sound", "VA": "2.62#7.12"}]}
-{"ID": "laptop_quad_test_370", "Aspect_VA": [{"Aspect": "model", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_371", "Aspect_VA": [{"Aspect": "fan - less device", "VA": "7.00#6.62"}]}
-{"ID": "laptop_quad_test_372", "Aspect_VA": [{"Aspect": "chromebook", "VA": "4.00#6.00"}]}
-{"ID": "laptop_quad_test_373", "Aspect_VA": [{"Aspect": "return policy", "VA": "7.50#7.25"}]}
-{"ID": "laptop_quad_test_374", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#7.12"}]}
-{"ID": "laptop_quad_test_375", "Aspect_VA": [{"Aspect": "android apps", "VA": "6.67#6.67"}]}
-{"ID": "laptop_quad_test_376", "Aspect_VA": [{"Aspect": "laptop", "VA": "2.60#7.30"}, {"Aspect": "screen", "VA": "2.40#7.50"}, {"Aspect": "air vent", "VA": "3.10#6.90"}]}
-{"ID": "laptop_quad_test_377", "Aspect_VA": [{"Aspect": "computer", "VA": "4.67#5.67"}]}
-{"ID": "laptop_quad_test_378", "Aspect_VA": [{"Aspect": "seller", "VA": "3.67#6.33"}, {"Aspect": "mac ' s os", "VA": "4.33#5.17"}, {"Aspect": "services", "VA": "3.83#6.17"}]}
-{"ID": "laptop_quad_test_379", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#6.88"}, {"Aspect": "battery", "VA": "6.00#5.75"}]}
-{"ID": "laptop_quad_test_38", "Aspect_VA": [{"Aspect": "nano edge display", "VA": "7.12#7.25"}]}
-{"ID": "laptop_quad_test_380", "Aspect_VA": [{"Aspect": "macbook pro", "VA": "3.70#6.00"}, {"Aspect": "power button", "VA": "3.70#6.00"}, {"Aspect": "keyboard", "VA": "3.60#6.20"}, {"Aspect": "trackpad", "VA": "3.60#6.20"}]}
-{"ID": "laptop_quad_test_381", "Aspect_VA": [{"Aspect": "seller", "VA": "2.70#6.25"}]}
-{"ID": "laptop_quad_test_382", "Aspect_VA": [{"Aspect": "laptop", "VA": "2.62#7.00"}]}
-{"ID": "laptop_quad_test_383", "Aspect_VA": [{"Aspect": "charger", "VA": "6.90#6.80"}]}
-{"ID": "laptop_quad_test_384", "Aspect_VA": [{"Aspect": "apple", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_385", "Aspect_VA": [{"Aspect": "computer", "VA": "7.38#7.50"}, {"Aspect": "macbook", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_386", "Aspect_VA": [{"Aspect": "anti - reflective coating", "VA": "3.40#6.40"}, {"Aspect": "apple ' s warranty", "VA": "3.40#6.40"}]}
-{"ID": "laptop_quad_test_387", "Aspect_VA": [{"Aspect": "macbook pro", "VA": "6.88#6.75"}]}
-{"ID": "laptop_quad_test_388", "Aspect_VA": [{"Aspect": "usb ports", "VA": "5.12#5.00"}, {"Aspect": "thunderbolt ports", "VA": "5.12#5.00"}]}
-{"ID": "laptop_quad_test_389", "Aspect_VA": [{"Aspect": "ssd drive ` `", "VA": "3.83#5.83"}]}
-{"ID": "laptop_quad_test_39", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.83#6.83"}]}
-{"ID": "laptop_quad_test_390", "Aspect_VA": [{"Aspect": "charger", "VA": "3.00#6.25"}]}
-{"ID": "laptop_quad_test_391", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_392", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.88#7.88"}, {"Aspect": "trackpad", "VA": "7.88#7.88"}]}
-{"ID": "laptop_quad_test_393", "Aspect_VA": [{"Aspect": "battery life", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_394", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.30#6.70"}]}
-{"ID": "laptop_quad_test_395", "Aspect_VA": [{"Aspect": "amazon", "VA": "4.62#4.62"}, {"Aspect": "laptops", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_396", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.67#5.33"}]}
-{"ID": "laptop_quad_test_397", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.83#8.00"}]}
-{"ID": "laptop_quad_test_398", "Aspect_VA": [{"Aspect": "apple", "VA": "3.10#6.30"}]}
-{"ID": "laptop_quad_test_399", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_4", "Aspect_VA": [{"Aspect": "computer", "VA": "3.67#6.00"}]}
-{"ID": "laptop_quad_test_40", "Aspect_VA": [{"Aspect": "audio", "VA": "3.30#6.70"}]}
-{"ID": "laptop_quad_test_400", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.12#7.62"}]}
-{"ID": "laptop_quad_test_401", "Aspect_VA": [{"Aspect": "apple", "VA": "1.33#8.67"}]}
-{"ID": "laptop_quad_test_402", "Aspect_VA": [{"Aspect": "notebook", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_403", "Aspect_VA": [{"Aspect": "warranty", "VA": "4.62#5.25"}]}
-{"ID": "laptop_quad_test_404", "Aspect_VA": [{"Aspect": "asus", "VA": "2.00#8.25"}]}
-{"ID": "laptop_quad_test_405", "Aspect_VA": [{"Aspect": "device", "VA": "6.10#5.90"}]}
-{"ID": "laptop_quad_test_406", "Aspect_VA": [{"Aspect": "1080p", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_407", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_408", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "7.00#7.33"}]}
-{"ID": "laptop_quad_test_409", "Aspect_VA": [{"Aspect": "chrome apps", "VA": "4.88#5.38"}]}
-{"ID": "laptop_quad_test_41", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.75#6.00"}]}
-{"ID": "laptop_quad_test_410", "Aspect_VA": [{"Aspect": "screen", "VA": "4.80#6.40"}]}
-{"ID": "laptop_quad_test_411", "Aspect_VA": [{"Aspect": "screen ratio", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_412", "Aspect_VA": [{"Aspect": "unit", "VA": "4.00#5.75"}]}
-{"ID": "laptop_quad_test_413", "Aspect_VA": [{"Aspect": "device", "VA": "7.75#7.25"}]}
-{"ID": "laptop_quad_test_414", "Aspect_VA": [{"Aspect": "ui", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_415", "Aspect_VA": [{"Aspect": "ui elements", "VA": "4.17#5.67"}]}
-{"ID": "laptop_quad_test_416", "Aspect_VA": [{"Aspect": "app", "VA": "5.00#5.00"}, {"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_417", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.83#8.00"}]}
-{"ID": "laptop_quad_test_418", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.12#5.12"}]}
-{"ID": "laptop_quad_test_419", "Aspect_VA": [{"Aspect": "asus chromebook", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_42", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.50#6.20"}]}
-{"ID": "laptop_quad_test_420", "Aspect_VA": [{"Aspect": "chromebook", "VA": "3.25#4.25"}]}
-{"ID": "laptop_quad_test_421", "Aspect_VA": [{"Aspect": "tablet", "VA": "3.62#6.62"}]}
-{"ID": "laptop_quad_test_422", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.33#5.83"}]}
-{"ID": "laptop_quad_test_423", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.83#8.00"}]}
-{"ID": "laptop_quad_test_424", "Aspect_VA": [{"Aspect": "product", "VA": "8.00#8.00"}, {"Aspect": "build quality", "VA": "8.00#8.00"}, {"Aspect": "screen resolution", "VA": "8.00#8.00"}, {"Aspect": "keyboard", "VA": "8.00#8.00"}, {"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_425", "Aspect_VA": [{"Aspect": "power _ supply issue", "VA": "3.75#5.25"}]}
-{"ID": "laptop_quad_test_426", "Aspect_VA": [{"Aspect": "device", "VA": "3.00#7.17"}]}
-{"ID": "laptop_quad_test_427", "Aspect_VA": [{"Aspect": "os", "VA": "3.20#5.00"}]}
-{"ID": "laptop_quad_test_428", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_429", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.50#7.38"}]}
-{"ID": "laptop_quad_test_43", "Aspect_VA": [{"Aspect": "backlit keyboard", "VA": "4.00#5.75"}]}
-{"ID": "laptop_quad_test_430", "Aspect_VA": [{"Aspect": "asus customer service people", "VA": "2.83#7.17"}]}
-{"ID": "laptop_quad_test_431", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#7.00"}]}
-{"ID": "laptop_quad_test_432", "Aspect_VA": [{"Aspect": "companies", "VA": "4.38#5.12"}]}
-{"ID": "laptop_quad_test_433", "Aspect_VA": [{"Aspect": "asus customer service", "VA": "3.67#6.50"}]}
-{"ID": "laptop_quad_test_434", "Aspect_VA": [{"Aspect": "customer service", "VA": "1.83#8.17"}]}
-{"ID": "laptop_quad_test_435", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_436", "Aspect_VA": [{"Aspect": "product", "VA": "2.38#7.38"}]}
-{"ID": "laptop_quad_test_437", "Aspect_VA": [{"Aspect": "asus", "VA": "4.75#4.75"}]}
-{"ID": "laptop_quad_test_438", "Aspect_VA": [{"Aspect": "product", "VA": "8.17#8.17"}]}
-{"ID": "laptop_quad_test_439", "Aspect_VA": [{"Aspect": "battery", "VA": "4.50#5.00"}]}
-{"ID": "laptop_quad_test_44", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.70#5.30"}]}
-{"ID": "laptop_quad_test_440", "Aspect_VA": [{"Aspect": "chromebook", "VA": "8.12#8.12"}]}
-{"ID": "laptop_quad_test_441", "Aspect_VA": [{"Aspect": "tablet mode", "VA": "3.67#6.00"}]}
-{"ID": "laptop_quad_test_442", "Aspect_VA": [{"Aspect": "tablet / computer", "VA": "5.90#6.40"}]}
-{"ID": "laptop_quad_test_443", "Aspect_VA": [{"Aspect": "google docs", "VA": "6.75#7.00"}]}
-{"ID": "laptop_quad_test_444", "Aspect_VA": [{"Aspect": "chromebook", "VA": "5.88#4.62"}]}
-{"ID": "laptop_quad_test_445", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.00#8.25"}]}
-{"ID": "laptop_quad_test_446", "Aspect_VA": [{"Aspect": "tpm", "VA": "4.50#5.50"}, {"Aspect": "computer", "VA": "3.67#6.83"}]}
-{"ID": "laptop_quad_test_447", "Aspect_VA": [{"Aspect": "product", "VA": "7.50#7.50"}, {"Aspect": "battery runtime", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_448", "Aspect_VA": [{"Aspect": "touchpad", "VA": "3.83#6.33"}]}
-{"ID": "laptop_quad_test_449", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.50#7.33"}, {"Aspect": "screen quality", "VA": "5.00#5.50"}]}
-{"ID": "laptop_quad_test_45", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.00#6.25"}, {"Aspect": "mouse pad", "VA": "6.25#6.50"}, {"Aspect": "NULL", "VA": "4.00#6.25"}]}
-{"ID": "laptop_quad_test_450", "Aspect_VA": [{"Aspect": "asus product", "VA": "2.25#7.50"}]}
-{"ID": "laptop_quad_test_451", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.50#5.50"}]}
-{"ID": "laptop_quad_test_452", "Aspect_VA": [{"Aspect": "amazon", "VA": "4.12#4.62"}, {"Aspect": "asus", "VA": "4.12#4.62"}]}
-{"ID": "laptop_quad_test_453", "Aspect_VA": [{"Aspect": "crap", "VA": "4.25#4.75"}]}
-{"ID": "laptop_quad_test_454", "Aspect_VA": [{"Aspect": "chrome extensions", "VA": "3.50#5.50"}]}
-{"ID": "laptop_quad_test_455", "Aspect_VA": [{"Aspect": "speakers", "VA": "2.88#5.50"}]}
-{"ID": "laptop_quad_test_456", "Aspect_VA": [{"Aspect": "battery life", "VA": "2.88#6.25"}]}
-{"ID": "laptop_quad_test_457", "Aspect_VA": [{"Aspect": "screen", "VA": "2.83#6.00"}]}
-{"ID": "laptop_quad_test_458", "Aspect_VA": [{"Aspect": "intel m3 processor", "VA": "8.00#8.25"}, {"Aspect": "google play store", "VA": "7.25#7.50"}, {"Aspect": "android apps", "VA": "6.00#6.00"}]}
-{"ID": "laptop_quad_test_459", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_46", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_460", "Aspect_VA": [{"Aspect": "product", "VA": "7.00#6.83"}]}
-{"ID": "laptop_quad_test_461", "Aspect_VA": [{"Aspect": "chromebooks", "VA": "6.67#6.50"}]}
-{"ID": "laptop_quad_test_462", "Aspect_VA": [{"Aspect": "machine", "VA": "7.33#7.50"}]}
-{"ID": "laptop_quad_test_463", "Aspect_VA": [{"Aspect": "battery", "VA": "4.38#5.38"}]}
-{"ID": "laptop_quad_test_464", "Aspect_VA": [{"Aspect": "file system", "VA": "2.50#7.00"}]}
-{"ID": "laptop_quad_test_465", "Aspect_VA": [{"Aspect": "display panel on", "VA": "4.12#6.00"}]}
-{"ID": "laptop_quad_test_466", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.17#5.00"}]}
-{"ID": "laptop_quad_test_467", "Aspect_VA": [{"Aspect": "machine", "VA": "7.33#7.33"}, {"Aspect": "hardware", "VA": "7.50#7.50"}, {"Aspect": "chrome os", "VA": "4.33#5.50"}, {"Aspect": "cloud applications", "VA": "4.17#5.33"}]}
-{"ID": "laptop_quad_test_468", "Aspect_VA": [{"Aspect": "chrome os", "VA": "4.25#5.00"}]}
-{"ID": "laptop_quad_test_469", "Aspect_VA": [{"Aspect": "screen hinge", "VA": "3.50#6.38"}]}
-{"ID": "laptop_quad_test_47", "Aspect_VA": [{"Aspect": "keypad", "VA": "2.70#7.20"}]}
-{"ID": "laptop_quad_test_470", "Aspect_VA": [{"Aspect": "screen", "VA": "5.83#5.50"}]}
-{"ID": "laptop_quad_test_471", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.62#7.62"}]}
-{"ID": "laptop_quad_test_472", "Aspect_VA": [{"Aspect": "customer support", "VA": "4.25#5.00"}, {"Aspect": "google", "VA": "4.25#5.00"}]}
-{"ID": "laptop_quad_test_473", "Aspect_VA": [{"Aspect": "product", "VA": "2.60#5.70"}]}
-{"ID": "laptop_quad_test_474", "Aspect_VA": [{"Aspect": "tech support", "VA": "2.80#5.30"}]}
-{"ID": "laptop_quad_test_475", "Aspect_VA": [{"Aspect": "chromebook", "VA": "3.62#6.12"}]}
-{"ID": "laptop_quad_test_476", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.25#5.25"}]}
-{"ID": "laptop_quad_test_477", "Aspect_VA": [{"Aspect": "microphone", "VA": "4.50#5.25"}, {"Aspect": "speaker", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_478", "Aspect_VA": [{"Aspect": "tablet mode", "VA": "1.83#7.50"}, {"Aspect": "os", "VA": "1.83#7.50"}, {"Aspect": "applications", "VA": "1.83#7.50"}]}
-{"ID": "laptop_quad_test_479", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.62#5.25"}]}
-{"ID": "laptop_quad_test_48", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.75#6.62"}]}
-{"ID": "laptop_quad_test_480", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.83#6.83"}]}
-{"ID": "laptop_quad_test_481", "Aspect_VA": [{"Aspect": "chrombooks", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_482", "Aspect_VA": [{"Aspect": "trackpad", "VA": "3.38#6.38"}]}
-{"ID": "laptop_quad_test_483", "Aspect_VA": [{"Aspect": "top metal monitor casing", "VA": "4.88#5.38"}]}
-{"ID": "laptop_quad_test_484", "Aspect_VA": [{"Aspect": "metal screen casing", "VA": "3.83#5.33"}]}
-{"ID": "laptop_quad_test_485", "Aspect_VA": [{"Aspect": "usb port", "VA": "4.38#5.50"}]}
-{"ID": "laptop_quad_test_486", "Aspect_VA": [{"Aspect": "chromebook", "VA": "4.12#4.75"}, {"Aspect": "customer service", "VA": "3.25#5.62"}]}
-{"ID": "laptop_quad_test_487", "Aspect_VA": [{"Aspect": "screen", "VA": "3.75#5.88"}]}
-{"ID": "laptop_quad_test_488", "Aspect_VA": [{"Aspect": "chromium os", "VA": "3.75#5.50"}, {"Aspect": "windows pc", "VA": "3.50#5.50"}]}
-{"ID": "laptop_quad_test_489", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.62#7.50"}]}
-{"ID": "laptop_quad_test_49", "Aspect_VA": [{"Aspect": "product", "VA": "3.10#6.10"}]}
-{"ID": "laptop_quad_test_490", "Aspect_VA": [{"Aspect": "touchpad", "VA": "3.30#4.50"}]}
-{"ID": "laptop_quad_test_491", "Aspect_VA": [{"Aspect": "trackpad", "VA": "3.25#6.50"}]}
-{"ID": "laptop_quad_test_492", "Aspect_VA": [{"Aspect": "screen", "VA": "4.00#5.38"}]}
-{"ID": "laptop_quad_test_493", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.00#7.00"}]}
-{"ID": "laptop_quad_test_494", "Aspect_VA": [{"Aspect": "unit", "VA": "3.50#5.83"}]}
-{"ID": "laptop_quad_test_495", "Aspect_VA": [{"Aspect": "thermaltake auto laptop cooling pad", "VA": "5.88#5.62"}]}
-{"ID": "laptop_quad_test_496", "Aspect_VA": [{"Aspect": "trackpad", "VA": "6.17#6.00"}]}
-{"ID": "laptop_quad_test_497", "Aspect_VA": [{"Aspect": "wireless card", "VA": "3.50#4.33"}]}
-{"ID": "laptop_quad_test_498", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.75#5.12"}]}
-{"ID": "laptop_quad_test_499", "Aspect_VA": [{"Aspect": "hardware", "VA": "2.75#7.12"}]}
-{"ID": "laptop_quad_test_5", "Aspect_VA": [{"Aspect": "chrome os", "VA": "6.10#6.00"}]}
-{"ID": "laptop_quad_test_50", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_500", "Aspect_VA": [{"Aspect": "machine", "VA": "5.33#5.17"}]}
-{"ID": "laptop_quad_test_501", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.25#5.70"}]}
-{"ID": "laptop_quad_test_502", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_503", "Aspect_VA": [{"Aspect": "display", "VA": "1.67#7.83"}, {"Aspect": "disk", "VA": "1.67#7.83"}, {"Aspect": "some driver", "VA": "1.67#7.83"}, {"Aspect": "laptop", "VA": "1.67#7.83"}]}
-{"ID": "laptop_quad_test_504", "Aspect_VA": [{"Aspect": "machine", "VA": "5.75#5.50"}]}
-{"ID": "laptop_quad_test_505", "Aspect_VA": [{"Aspect": "system", "VA": "3.83#6.00"}]}
-{"ID": "laptop_quad_test_506", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.50#7.33"}]}
-{"ID": "laptop_quad_test_507", "Aspect_VA": [{"Aspect": "sound", "VA": "2.62#7.50"}]}
-{"ID": "laptop_quad_test_508", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.90#6.80"}]}
-{"ID": "laptop_quad_test_509", "Aspect_VA": [{"Aspect": "product", "VA": "7.38#7.25"}]}
-{"ID": "laptop_quad_test_51", "Aspect_VA": [{"Aspect": "processor", "VA": "6.50#6.75"}, {"Aspect": "hybrid storage units", "VA": "6.75#7.00"}, {"Aspect": "web cam", "VA": "3.00#8.00"}, {"Aspect": "keyboard", "VA": "3.50#6.50"}, {"Aspect": "caps lock", "VA": "3.50#6.50"}, {"Aspect": "num lock", "VA": "3.50#6.50"}]}
-{"ID": "laptop_quad_test_510", "Aspect_VA": [{"Aspect": "msi", "VA": "6.33#6.50"}]}
-{"ID": "laptop_quad_test_511", "Aspect_VA": [{"Aspect": "battery", "VA": "4.25#4.75"}]}
-{"ID": "laptop_quad_test_512", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.38#5.50"}]}
-{"ID": "laptop_quad_test_513", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.12"}]}
-{"ID": "laptop_quad_test_514", "Aspect_VA": [{"Aspect": "laptop", "VA": "2.38#7.38"}]}
-{"ID": "laptop_quad_test_515", "Aspect_VA": [{"Aspect": "tech support", "VA": "3.20#6.60"}]}
-{"ID": "laptop_quad_test_516", "Aspect_VA": [{"Aspect": "laptop", "VA": "2.10#6.00"}]}
-{"ID": "laptop_quad_test_517", "Aspect_VA": [{"Aspect": "computer", "VA": "2.10#6.50"}]}
-{"ID": "laptop_quad_test_518", "Aspect_VA": [{"Aspect": "second laptop", "VA": "2.38#4.67"}]}
-{"ID": "laptop_quad_test_519", "Aspect_VA": [{"Aspect": "hardware", "VA": "4.50#5.12"}, {"Aspect": "laptop", "VA": "4.50#5.12"}]}
-{"ID": "laptop_quad_test_52", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.70#6.70"}]}
-{"ID": "laptop_quad_test_520", "Aspect_VA": [{"Aspect": "design", "VA": "3.00#6.67"}, {"Aspect": "tech support", "VA": "2.33#7.00"}]}
-{"ID": "laptop_quad_test_521", "Aspect_VA": [{"Aspect": "computer", "VA": "8.25#8.38"}]}
-{"ID": "laptop_quad_test_522", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.50#7.67"}, {"Aspect": "msi headset", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_523", "Aspect_VA": [{"Aspect": "msi", "VA": "3.62#4.62"}, {"Aspect": "laptop", "VA": "3.62#4.62"}]}
-{"ID": "laptop_quad_test_524", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.17#7.83"}]}
-{"ID": "laptop_quad_test_525", "Aspect_VA": [{"Aspect": "support page", "VA": "3.33#6.33"}, {"Aspect": "support people", "VA": "3.17#6.67"}]}
-{"ID": "laptop_quad_test_526", "Aspect_VA": [{"Aspect": "optane drive", "VA": "3.30#6.70"}]}
-{"ID": "laptop_quad_test_527", "Aspect_VA": [{"Aspect": "product", "VA": "5.00#4.75"}]}
-{"ID": "laptop_quad_test_528", "Aspect_VA": [{"Aspect": "customer tech support", "VA": "4.62#5.38"}, {"Aspect": "msi", "VA": "4.75#5.50"}]}
-{"ID": "laptop_quad_test_529", "Aspect_VA": [{"Aspect": "NULL", "VA": "1.67#8.00"}]}
-{"ID": "laptop_quad_test_53", "Aspect_VA": [{"Aspect": "backlight", "VA": "3.70#6.10"}]}
-{"ID": "laptop_quad_test_530", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.38#5.25"}]}
-{"ID": "laptop_quad_test_531", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.75#7.62"}]}
-{"ID": "laptop_quad_test_532", "Aspect_VA": [{"Aspect": "msi product", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_533", "Aspect_VA": [{"Aspect": "laptop", "VA": "3.62#6.12"}]}
-{"ID": "laptop_quad_test_534", "Aspect_VA": [{"Aspect": "laptop", "VA": "2.00#7.88"}]}
-{"ID": "laptop_quad_test_535", "Aspect_VA": [{"Aspect": "product", "VA": "3.30#5.60"}]}
-{"ID": "laptop_quad_test_536", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_537", "Aspect_VA": [{"Aspect": "NULL", "VA": "1.50#8.50"}]}
-{"ID": "laptop_quad_test_538", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.67#7.00"}, {"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_539", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_54", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_540", "Aspect_VA": [{"Aspect": "screen", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_541", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.33#7.17"}]}
-{"ID": "laptop_quad_test_542", "Aspect_VA": [{"Aspect": "bootup", "VA": "7.17#6.83"}, {"Aspect": "optane memory", "VA": "7.33#7.00"}]}
-{"ID": "laptop_quad_test_543", "Aspect_VA": [{"Aspect": "charge", "VA": "4.83#4.83"}]}
-{"ID": "laptop_quad_test_544", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.12#4.62"}]}
-{"ID": "laptop_quad_test_545", "Aspect_VA": [{"Aspect": "hard drive", "VA": "3.75#6.38"}]}
-{"ID": "laptop_quad_test_546", "Aspect_VA": [{"Aspect": "ips matte fhd panel", "VA": "7.00#6.88"}]}
-{"ID": "laptop_quad_test_547", "Aspect_VA": [{"Aspect": "laptop", "VA": "5.83#5.50"}]}
-{"ID": "laptop_quad_test_548", "Aspect_VA": [{"Aspect": "ethernet port", "VA": "4.38#5.38"}]}
-{"ID": "laptop_quad_test_549", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.38#5.25"}]}
-{"ID": "laptop_quad_test_55", "Aspect_VA": [{"Aspect": "warranty stuff", "VA": "4.12#4.62"}]}
-{"ID": "laptop_quad_test_550", "Aspect_VA": [{"Aspect": "power", "VA": "5.80#5.90"}]}
-{"ID": "laptop_quad_test_551", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_552", "Aspect_VA": [{"Aspect": "weight", "VA": "7.67#8.00"}, {"Aspect": "NULL", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_553", "Aspect_VA": [{"Aspect": "delete and power button", "VA": "2.83#7.17"}]}
-{"ID": "laptop_quad_test_554", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#6.67"}]}
-{"ID": "laptop_quad_test_555", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.25#7.50"}]}
-{"ID": "laptop_quad_test_556", "Aspect_VA": [{"Aspect": "windows 10", "VA": "7.20#7.00"}, {"Aspect": "display", "VA": "7.10#7.00"}, {"Aspect": "card slot", "VA": "7.10#6.90"}]}
-{"ID": "laptop_quad_test_557", "Aspect_VA": [{"Aspect": "computer", "VA": "7.50#7.75"}]}
-{"ID": "laptop_quad_test_558", "Aspect_VA": [{"Aspect": "flip", "VA": "7.17#7.17"}, {"Aspect": "build quality", "VA": "7.17#7.00"}]}
-{"ID": "laptop_quad_test_559", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.33"}]}
-{"ID": "laptop_quad_test_56", "Aspect_VA": [{"Aspect": "ram", "VA": "7.00#6.88"}]}
-{"ID": "laptop_quad_test_560", "Aspect_VA": [{"Aspect": "stuff", "VA": "7.00#6.50"}]}
-{"ID": "laptop_quad_test_561", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.67#8.67"}]}
-{"ID": "laptop_quad_test_562", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_563", "Aspect_VA": [{"Aspect": "hardware", "VA": "8.00#8.25"}, {"Aspect": "windows 10", "VA": "3.50#6.25"}]}
-{"ID": "laptop_quad_test_564", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.25#4.75"}]}
-{"ID": "laptop_quad_test_565", "Aspect_VA": [{"Aspect": "computer", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_566", "Aspect_VA": [{"Aspect": "fingerprint reader", "VA": "5.12#5.12"}]}
-{"ID": "laptop_quad_test_567", "Aspect_VA": [{"Aspect": "sound", "VA": "6.25#6.50"}, {"Aspect": "external speakers", "VA": "6.75#6.88"}]}
-{"ID": "laptop_quad_test_568", "Aspect_VA": [{"Aspect": "machine", "VA": "3.75#5.38"}, {"Aspect": "boots up", "VA": "3.62#5.50"}]}
-{"ID": "laptop_quad_test_569", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.88#7.00"}]}
-{"ID": "laptop_quad_test_57", "Aspect_VA": [{"Aspect": "hard drive", "VA": "7.17#7.50"}]}
-{"ID": "laptop_quad_test_570", "Aspect_VA": [{"Aspect": "15 inch screen", "VA": "6.50#6.25"}]}
-{"ID": "laptop_quad_test_571", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.88#6.12"}]}
-{"ID": "laptop_quad_test_572", "Aspect_VA": [{"Aspect": "touchpad", "VA": "6.25#6.25"}]}
-{"ID": "laptop_quad_test_573", "Aspect_VA": [{"Aspect": "speakers", "VA": "5.50#5.33"}]}
-{"ID": "laptop_quad_test_574", "Aspect_VA": [{"Aspect": "screen", "VA": "6.67#6.67"}, {"Aspect": "ram", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_575", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.38#6.25"}]}
-{"ID": "laptop_quad_test_576", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.67#6.83"}]}
-{"ID": "laptop_quad_test_577", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.88#8.00"}]}
-{"ID": "laptop_quad_test_578", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.38#4.88"}]}
-{"ID": "laptop_quad_test_579", "Aspect_VA": [{"Aspect": "laptop", "VA": "5.88#6.00"}]}
-{"ID": "laptop_quad_test_58", "Aspect_VA": [{"Aspect": "touchpad", "VA": "4.38#5.38"}]}
-{"ID": "laptop_quad_test_580", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.38#6.38"}]}
-{"ID": "laptop_quad_test_581", "Aspect_VA": [{"Aspect": "ssd", "VA": "4.38#4.88"}]}
-{"ID": "laptop_quad_test_582", "Aspect_VA": [{"Aspect": "support for amazon", "VA": "7.12#7.12"}, {"Aspect": "amazon customer service", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_583", "Aspect_VA": [{"Aspect": "return procedure", "VA": "2.83#7.17"}]}
-{"ID": "laptop_quad_test_584", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_585", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.75#8.00"}]}
-{"ID": "laptop_quad_test_586", "Aspect_VA": [{"Aspect": "acer product", "VA": "4.00#4.88"}]}
-{"ID": "laptop_quad_test_587", "Aspect_VA": [{"Aspect": "build quality", "VA": "5.70#6.10"}]}
-{"ID": "laptop_quad_test_588", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.38#7.50"}]}
-{"ID": "laptop_quad_test_589", "Aspect_VA": [{"Aspect": "keyboard", "VA": "8.17#8.17"}, {"Aspect": "touchpad", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_59", "Aspect_VA": [{"Aspect": "computer", "VA": "6.50#6.00"}]}
-{"ID": "laptop_quad_test_590", "Aspect_VA": [{"Aspect": "screen", "VA": "3.50#4.12"}]}
-{"ID": "laptop_quad_test_591", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#6.62"}]}
-{"ID": "laptop_quad_test_592", "Aspect_VA": [{"Aspect": "acer", "VA": "4.12#5.38"}]}
-{"ID": "laptop_quad_test_593", "Aspect_VA": [{"Aspect": "acer aspire", "VA": "6.50#6.33"}]}
-{"ID": "laptop_quad_test_594", "Aspect_VA": [{"Aspect": "keyboard", "VA": "3.60#6.20"}]}
-{"ID": "laptop_quad_test_595", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_596", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.88"}]}
-{"ID": "laptop_quad_test_597", "Aspect_VA": [{"Aspect": "computer", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_598", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.62#6.75"}]}
-{"ID": "laptop_quad_test_599", "Aspect_VA": [{"Aspect": "battery", "VA": "4.88#4.88"}]}
-{"ID": "laptop_quad_test_6", "Aspect_VA": [{"Aspect": "chrome", "VA": "4.62#5.38"}]}
-{"ID": "laptop_quad_test_60", "Aspect_VA": [{"Aspect": "computer", "VA": "4.12#5.50"}, {"Aspect": "NULL", "VA": "4.12#5.50"}]}
-{"ID": "laptop_quad_test_600", "Aspect_VA": [{"Aspect": "screen", "VA": "4.25#5.50"}]}
-{"ID": "laptop_quad_test_601", "Aspect_VA": [{"Aspect": "computer", "VA": "6.17#6.33"}, {"Aspect": "speakers", "VA": "4.67#5.33"}]}
-{"ID": "laptop_quad_test_602", "Aspect_VA": [{"Aspect": "computer", "VA": "6.00#5.75"}, {"Aspect": "hdmi port", "VA": "3.50#5.75"}]}
-{"ID": "laptop_quad_test_603", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.00#4.75"}]}
-{"ID": "laptop_quad_test_604", "Aspect_VA": [{"Aspect": "laptop", "VA": "4.38#5.50"}]}
-{"ID": "laptop_quad_test_605", "Aspect_VA": [{"Aspect": "battery", "VA": "5.75#5.50"}]}
-{"ID": "laptop_quad_test_606", "Aspect_VA": [{"Aspect": "speakers", "VA": "6.00#5.88"}]}
-{"ID": "laptop_quad_test_607", "Aspect_VA": [{"Aspect": "keyboard", "VA": "3.25#6.75"}]}
-{"ID": "laptop_quad_test_608", "Aspect_VA": [{"Aspect": "laptop", "VA": "5.67#6.33"}]}
-{"ID": "laptop_quad_test_609", "Aspect_VA": [{"Aspect": "mx150 gaphics card", "VA": "3.33#6.83"}]}
-{"ID": "laptop_quad_test_61", "Aspect_VA": [{"Aspect": "asus warranty", "VA": "3.40#6.20"}]}
-{"ID": "laptop_quad_test_610", "Aspect_VA": [{"Aspect": "touch pad", "VA": "4.33#5.17"}]}
-{"ID": "laptop_quad_test_611", "Aspect_VA": [{"Aspect": "board", "VA": "2.75#7.12"}]}
-{"ID": "laptop_quad_test_612", "Aspect_VA": [{"Aspect": "laptop", "VA": "3.00#6.75"}]}
-{"ID": "laptop_quad_test_613", "Aspect_VA": [{"Aspect": "power management", "VA": "3.00#7.12"}]}
-{"ID": "laptop_quad_test_614", "Aspect_VA": [{"Aspect": "e 15", "VA": "2.62#7.62"}]}
-{"ID": "laptop_quad_test_615", "Aspect_VA": [{"Aspect": "trackpad", "VA": "3.25#5.75"}]}
-{"ID": "laptop_quad_test_616", "Aspect_VA": [{"Aspect": "screen", "VA": "3.25#6.62"}]}
-{"ID": "laptop_quad_test_617", "Aspect_VA": [{"Aspect": "keypad", "VA": "3.88#6.12"}]}
-{"ID": "laptop_quad_test_618", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.70#6.60"}]}
-{"ID": "laptop_quad_test_619", "Aspect_VA": [{"Aspect": "machine", "VA": "2.75#5.50"}]}
-{"ID": "laptop_quad_test_62", "Aspect_VA": [{"Aspect": "display", "VA": "2.90#6.40"}]}
-{"ID": "laptop_quad_test_620", "Aspect_VA": [{"Aspect": "computer", "VA": "7.83#8.00"}, {"Aspect": "ssd", "VA": "8.00#8.17"}, {"Aspect": "processor", "VA": "8.17#8.33"}]}
-{"ID": "laptop_quad_test_621", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.67#5.33"}, {"Aspect": "track pad", "VA": "4.67#5.33"}]}
-{"ID": "laptop_quad_test_622", "Aspect_VA": [{"Aspect": "keyboard", "VA": "3.83#6.33"}]}
-{"ID": "laptop_quad_test_623", "Aspect_VA": [{"Aspect": "wifi", "VA": "3.40#6.40"}, {"Aspect": "screen", "VA": "3.40#6.40"}]}
-{"ID": "laptop_quad_test_624", "Aspect_VA": [{"Aspect": "speakers", "VA": "1.75#8.50"}]}
-{"ID": "laptop_quad_test_625", "Aspect_VA": [{"Aspect": "8th generation core i5 cpu", "VA": "5.00#5.38"}]}
-{"ID": "laptop_quad_test_626", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.00#6.00"}]}
-{"ID": "laptop_quad_test_627", "Aspect_VA": [{"Aspect": "backlight", "VA": "4.62#5.25"}, {"Aspect": "keyboard", "VA": "4.62#5.25"}]}
-{"ID": "laptop_quad_test_628", "Aspect_VA": [{"Aspect": "key", "VA": "3.50#6.83"}]}
-{"ID": "laptop_quad_test_629", "Aspect_VA": [{"Aspect": "hdd", "VA": "3.62#5.62"}, {"Aspect": "laptop", "VA": "3.38#5.75"}]}
-{"ID": "laptop_quad_test_63", "Aspect_VA": [{"Aspect": "asus customer support", "VA": "4.25#4.75"}]}
-{"ID": "laptop_quad_test_630", "Aspect_VA": [{"Aspect": "case", "VA": "4.50#5.17"}, {"Aspect": "laptop", "VA": "4.50#5.17"}]}
-{"ID": "laptop_quad_test_631", "Aspect_VA": [{"Aspect": "backlight", "VA": "3.88#5.50"}, {"Aspect": "keys", "VA": "3.75#5.62"}]}
-{"ID": "laptop_quad_test_632", "Aspect_VA": [{"Aspect": "keyboard", "VA": "3.67#6.33"}]}
-{"ID": "laptop_quad_test_633", "Aspect_VA": [{"Aspect": "fingerprint reader", "VA": "4.88#5.12"}]}
-{"ID": "laptop_quad_test_634", "Aspect_VA": [{"Aspect": "asus vivobook f510ua", "VA": "5.50#5.25"}]}
-{"ID": "laptop_quad_test_635", "Aspect_VA": [{"Aspect": "screen", "VA": "3.30#6.90"}]}
-{"ID": "laptop_quad_test_636", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.75#5.12"}]}
-{"ID": "laptop_quad_test_637", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_638", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.50#5.00"}]}
-{"ID": "laptop_quad_test_639", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.30#6.10"}]}
-{"ID": "laptop_quad_test_64", "Aspect_VA": [{"Aspect": "NULL", "VA": "1.88#8.38"}]}
-{"ID": "laptop_quad_test_640", "Aspect_VA": [{"Aspect": "wifi", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_641", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.00#5.75"}]}
-{"ID": "laptop_quad_test_642", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_643", "Aspect_VA": [{"Aspect": "track pad", "VA": "3.50#6.10"}]}
-{"ID": "laptop_quad_test_644", "Aspect_VA": [{"Aspect": "laptop", "VA": "1.88#8.25"}]}
-{"ID": "laptop_quad_test_645", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.33#6.50"}]}
-{"ID": "laptop_quad_test_646", "Aspect_VA": [{"Aspect": "asus product", "VA": "4.50#5.25"}]}
-{"ID": "laptop_quad_test_647", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.17#7.17"}]}
-{"ID": "laptop_quad_test_648", "Aspect_VA": [{"Aspect": "screen", "VA": "6.50#6.83"}]}
-{"ID": "laptop_quad_test_649", "Aspect_VA": [{"Aspect": "keyboard", "VA": "1.83#8.00"}]}
-{"ID": "laptop_quad_test_65", "Aspect_VA": [{"Aspect": "asus laptop", "VA": "4.17#5.50"}, {"Aspect": "touchpad", "VA": "3.50#6.50"}]}
-{"ID": "laptop_quad_test_650", "Aspect_VA": [{"Aspect": "asus", "VA": "4.25#5.25"}]}
-{"ID": "laptop_quad_test_651", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.50#5.50"}]}
-{"ID": "laptop_quad_test_652", "Aspect_VA": [{"Aspect": "boot up", "VA": "3.00#6.83"}]}
-{"ID": "laptop_quad_test_653", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.38#6.25"}]}
-{"ID": "laptop_quad_test_654", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#7.00"}]}
-{"ID": "laptop_quad_test_655", "Aspect_VA": [{"Aspect": "computer", "VA": "4.00#5.62"}]}
-{"ID": "laptop_quad_test_656", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.25#5.12"}]}
-{"ID": "laptop_quad_test_657", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.00#7.25"}]}
-{"ID": "laptop_quad_test_658", "Aspect_VA": [{"Aspect": "fingerprint scanner", "VA": "4.50#5.12"}]}
-{"ID": "laptop_quad_test_659", "Aspect_VA": [{"Aspect": "screen", "VA": "4.25#5.50"}]}
-{"ID": "laptop_quad_test_66", "Aspect_VA": [{"Aspect": "screen", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_660", "Aspect_VA": [{"Aspect": "finger print scanner", "VA": "4.12#5.25"}]}
-{"ID": "laptop_quad_test_661", "Aspect_VA": [{"Aspect": "spec", "VA": "7.75#7.50"}, {"Aspect": "hardware", "VA": "7.75#7.50"}, {"Aspect": "hard drive", "VA": "4.50#4.50"}]}
-{"ID": "laptop_quad_test_662", "Aspect_VA": [{"Aspect": "touch pad", "VA": "3.83#6.67"}]}
-{"ID": "laptop_quad_test_663", "Aspect_VA": [{"Aspect": "production quality", "VA": "6.10#6.10"}]}
-{"ID": "laptop_quad_test_664", "Aspect_VA": [{"Aspect": "user interfaces", "VA": "6.17#6.00"}]}
-{"ID": "laptop_quad_test_665", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.75#8.25"}]}
-{"ID": "laptop_quad_test_666", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.38#7.25"}, {"Aspect": "android apps", "VA": "7.50#7.38"}]}
-{"ID": "laptop_quad_test_667", "Aspect_VA": [{"Aspect": "mouse", "VA": "6.50#6.33"}, {"Aspect": "trackpad settings", "VA": "6.67#6.50"}, {"Aspect": "power management options", "VA": "6.83#6.67"}]}
-{"ID": "laptop_quad_test_668", "Aspect_VA": [{"Aspect": "google play store", "VA": "7.75#7.75"}, {"Aspect": "apps", "VA": "7.75#7.75"}]}
-{"ID": "laptop_quad_test_669", "Aspect_VA": [{"Aspect": "linux configs", "VA": "7.67#7.50"}, {"Aspect": "environments", "VA": "7.83#7.67"}]}
-{"ID": "laptop_quad_test_67", "Aspect_VA": [{"Aspect": "customer support", "VA": "3.67#6.00"}]}
-{"ID": "laptop_quad_test_670", "Aspect_VA": [{"Aspect": "machine", "VA": "7.17#7.50"}, {"Aspect": "NULL", "VA": "7.33#7.83"}, {"Aspect": "computer", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_671", "Aspect_VA": [{"Aspect": "screen protector", "VA": "7.00#7.00"}, {"Aspect": "NULL", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_672", "Aspect_VA": [{"Aspect": "c302", "VA": "7.17#7.17"}, {"Aspect": "intel core m3 processor", "VA": "7.33#7.33"}]}
-{"ID": "laptop_quad_test_673", "Aspect_VA": [{"Aspect": "apps", "VA": "7.38#7.25"}, {"Aspect": "microsoft word", "VA": "7.38#7.25"}, {"Aspect": "excel", "VA": "7.38#7.25"}]}
-{"ID": "laptop_quad_test_674", "Aspect_VA": [{"Aspect": "android youtube app", "VA": "3.50#6.00"}]}
-{"ID": "laptop_quad_test_675", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.33"}]}
-{"ID": "laptop_quad_test_676", "Aspect_VA": [{"Aspect": "c302", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_677", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.12#6.75"}]}
-{"ID": "laptop_quad_test_678", "Aspect_VA": [{"Aspect": "battery", "VA": "7.88#7.75"}, {"Aspect": "battery life", "VA": "7.88#7.88"}]}
-{"ID": "laptop_quad_test_679", "Aspect_VA": [{"Aspect": "backlight", "VA": "7.50#7.17"}]}
-{"ID": "laptop_quad_test_68", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.38#4.50"}]}
-{"ID": "laptop_quad_test_680", "Aspect_VA": [{"Aspect": "surface", "VA": "7.38#7.62"}]}
-{"ID": "laptop_quad_test_681", "Aspect_VA": [{"Aspect": "multi - touch input", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_682", "Aspect_VA": [{"Aspect": "build quality", "VA": "7.67#7.67"}, {"Aspect": "NULL", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_683", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.83#6.83"}]}
-{"ID": "laptop_quad_test_684", "Aspect_VA": [{"Aspect": "starts up", "VA": "5.62#5.38"}]}
-{"ID": "laptop_quad_test_685", "Aspect_VA": [{"Aspect": "speakers", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_686", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.50#7.38"}]}
-{"ID": "laptop_quad_test_687", "Aspect_VA": [{"Aspect": "screen", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_688", "Aspect_VA": [{"Aspect": "screen", "VA": "6.67#6.50"}]}
-{"ID": "laptop_quad_test_689", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.38#7.38"}]}
-{"ID": "laptop_quad_test_69", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.50"}, {"Aspect": "item", "VA": "6.62#6.50"}]}
-{"ID": "laptop_quad_test_690", "Aspect_VA": [{"Aspect": "chromebook", "VA": "8.00#8.33"}]}
-{"ID": "laptop_quad_test_691", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.75#7.75"}, {"Aspect": "screen", "VA": "7.50#7.50"}, {"Aspect": "memory", "VA": "5.25#5.25"}, {"Aspect": "drive space", "VA": "5.25#5.25"}]}
-{"ID": "laptop_quad_test_692", "Aspect_VA": [{"Aspect": "design", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_693", "Aspect_VA": [{"Aspect": "NULL", "VA": "8.00#7.75"}]}
-{"ID": "laptop_quad_test_694", "Aspect_VA": [{"Aspect": "display", "VA": "8.00#7.50"}, {"Aspect": "touch", "VA": "8.00#7.50"}]}
-{"ID": "laptop_quad_test_695", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.38#7.38"}]}
-{"ID": "laptop_quad_test_696", "Aspect_VA": [{"Aspect": "screen", "VA": "7.17#7.33"}, {"Aspect": "touchscreen", "VA": "7.17#7.50"}]}
-{"ID": "laptop_quad_test_697", "Aspect_VA": [{"Aspect": "battery", "VA": "3.00#6.70"}]}
-{"ID": "laptop_quad_test_698", "Aspect_VA": [{"Aspect": "machine", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_699", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#8.17"}]}
-{"ID": "laptop_quad_test_7", "Aspect_VA": [{"Aspect": "NULL", "VA": "2.00#6.12"}]}
-{"ID": "laptop_quad_test_70", "Aspect_VA": [{"Aspect": "work machine", "VA": "6.38#6.38"}]}
-{"ID": "laptop_quad_test_700", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_701", "Aspect_VA": [{"Aspect": "trackpad", "VA": "3.83#6.17"}]}
-{"ID": "laptop_quad_test_702", "Aspect_VA": [{"Aspect": "touch screen", "VA": "4.33#5.00"}]}
-{"ID": "laptop_quad_test_703", "Aspect_VA": [{"Aspect": "screen", "VA": "3.33#6.50"}]}
-{"ID": "laptop_quad_test_704", "Aspect_VA": [{"Aspect": "asus", "VA": "7.83#7.83"}]}
-{"ID": "laptop_quad_test_705", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_706", "Aspect_VA": [{"Aspect": "tablet", "VA": "6.62#6.75"}]}
-{"ID": "laptop_quad_test_707", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.38#7.50"}]}
-{"ID": "laptop_quad_test_708", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.75"}]}
-{"ID": "laptop_quad_test_709", "Aspect_VA": [{"Aspect": "display", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_71", "Aspect_VA": [{"Aspect": "computer", "VA": "3.20#6.80"}]}
-{"ID": "laptop_quad_test_710", "Aspect_VA": [{"Aspect": "ports", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_711", "Aspect_VA": [{"Aspect": "screen", "VA": "5.00#5.00"}, {"Aspect": "build quality", "VA": "8.00#8.50"}]}
-{"ID": "laptop_quad_test_712", "Aspect_VA": [{"Aspect": "c302", "VA": "8.00#8.00"}, {"Aspect": "chrome os", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_713", "Aspect_VA": [{"Aspect": "screen", "VA": "8.00#8.12"}]}
-{"ID": "laptop_quad_test_714", "Aspect_VA": [{"Aspect": "mousepad", "VA": "7.67#7.50"}]}
-{"ID": "laptop_quad_test_715", "Aspect_VA": [{"Aspect": "battery performance", "VA": "5.25#5.75"}]}
-{"ID": "laptop_quad_test_716", "Aspect_VA": [{"Aspect": "sound", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_717", "Aspect_VA": [{"Aspect": "backlit", "VA": "7.17#7.17"}, {"Aspect": "keyboard", "VA": "7.33#7.33"}]}
-{"ID": "laptop_quad_test_718", "Aspect_VA": [{"Aspect": "trackpad", "VA": "8.38#8.50"}, {"Aspect": "touchscreen", "VA": "8.38#8.50"}]}
-{"ID": "laptop_quad_test_719", "Aspect_VA": [{"Aspect": "speaker sound", "VA": "5.75#5.62"}]}
-{"ID": "laptop_quad_test_72", "Aspect_VA": [{"Aspect": "boots up", "VA": "3.83#5.83"}, {"Aspect": "shuts down", "VA": "3.83#5.83"}]}
-{"ID": "laptop_quad_test_720", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.83#7.83"}]}
-{"ID": "laptop_quad_test_721", "Aspect_VA": [{"Aspect": "usb - c ports", "VA": "6.88#7.00"}]}
-{"ID": "laptop_quad_test_722", "Aspect_VA": [{"Aspect": "speakers", "VA": "6.83#6.83"}, {"Aspect": "NULL", "VA": "7.00#7.00"}]}
-{"ID": "laptop_quad_test_723", "Aspect_VA": [{"Aspect": "device", "VA": "7.33#7.33"}]}
-{"ID": "laptop_quad_test_724", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "7.83#8.00"}]}
-{"ID": "laptop_quad_test_725", "Aspect_VA": [{"Aspect": "battery life", "VA": "4.75#5.38"}]}
-{"ID": "laptop_quad_test_726", "Aspect_VA": [{"Aspect": "chromebook", "VA": "8.00#7.83"}]}
-{"ID": "laptop_quad_test_727", "Aspect_VA": [{"Aspect": "battery charge", "VA": "5.00#5.38"}]}
-{"ID": "laptop_quad_test_728", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.83#6.83"}]}
-{"ID": "laptop_quad_test_729", "Aspect_VA": [{"Aspect": "android apps", "VA": "7.12#6.88"}]}
-{"ID": "laptop_quad_test_73", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_730", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_731", "Aspect_VA": [{"Aspect": "device", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_732", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_733", "Aspect_VA": [{"Aspect": "edges of the bezel", "VA": "4.25#7.12"}]}
-{"ID": "laptop_quad_test_734", "Aspect_VA": [{"Aspect": "laptop", "VA": "5.75#5.62"}]}
-{"ID": "laptop_quad_test_735", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.67#6.33"}]}
-{"ID": "laptop_quad_test_736", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.83"}]}
-{"ID": "laptop_quad_test_737", "Aspect_VA": [{"Aspect": "battery life", "VA": "5.62#5.50"}]}
-{"ID": "laptop_quad_test_738", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.62#7.75"}]}
-{"ID": "laptop_quad_test_739", "Aspect_VA": [{"Aspect": "screen", "VA": "6.33#6.00"}, {"Aspect": "system", "VA": "6.33#5.83"}]}
-{"ID": "laptop_quad_test_74", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_740", "Aspect_VA": [{"Aspect": "chromebook", "VA": "5.25#5.25"}]}
-{"ID": "laptop_quad_test_741", "Aspect_VA": [{"Aspect": "battery", "VA": "7.75#7.75"}]}
-{"ID": "laptop_quad_test_742", "Aspect_VA": [{"Aspect": "it", "VA": "6.20#6.10"}]}
-{"ID": "laptop_quad_test_743", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.50#5.25"}]}
-{"ID": "laptop_quad_test_744", "Aspect_VA": [{"Aspect": "computer", "VA": "5.75#5.50"}]}
-{"ID": "laptop_quad_test_745", "Aspect_VA": [{"Aspect": "asus flip 302", "VA": "5.88#5.75"}]}
-{"ID": "laptop_quad_test_746", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.00#7.00"}, {"Aspect": "keyboard", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_747", "Aspect_VA": [{"Aspect": "plugs", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_748", "Aspect_VA": [{"Aspect": "headphones", "VA": "3.17#6.67"}]}
-{"ID": "laptop_quad_test_749", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.33#7.50"}, {"Aspect": "tablet", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_75", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.90#6.30"}]}
-{"ID": "laptop_quad_test_750", "Aspect_VA": [{"Aspect": "machine", "VA": "7.00#6.83"}]}
-{"ID": "laptop_quad_test_751", "Aspect_VA": [{"Aspect": "size", "VA": "7.33#7.67"}]}
-{"ID": "laptop_quad_test_752", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.50#7.00"}]}
-{"ID": "laptop_quad_test_753", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_754", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_755", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#7.17"}]}
-{"ID": "laptop_quad_test_756", "Aspect_VA": [{"Aspect": "picture quality", "VA": "6.38#6.25"}, {"Aspect": "book", "VA": "6.75#6.88"}]}
-{"ID": "laptop_quad_test_757", "Aspect_VA": [{"Aspect": "asus c302", "VA": "6.00#6.50"}]}
-{"ID": "laptop_quad_test_758", "Aspect_VA": [{"Aspect": "keyboard", "VA": "3.62#5.12"}]}
-{"ID": "laptop_quad_test_759", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "7.25#7.50"}]}
-{"ID": "laptop_quad_test_76", "Aspect_VA": [{"Aspect": "ports", "VA": "6.75#7.00"}]}
-{"ID": "laptop_quad_test_760", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.88#6.75"}]}
-{"ID": "laptop_quad_test_761", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.25#7.25"}]}
-{"ID": "laptop_quad_test_762", "Aspect_VA": [{"Aspect": "sound", "VA": "4.12#6.38"}, {"Aspect": "aux speaker / headphone", "VA": "3.88#6.25"}]}
-{"ID": "laptop_quad_test_763", "Aspect_VA": [{"Aspect": "spacebar", "VA": "4.62#5.12"}]}
-{"ID": "laptop_quad_test_764", "Aspect_VA": [{"Aspect": "computer", "VA": "7.00#6.88"}]}
-{"ID": "laptop_quad_test_765", "Aspect_VA": [{"Aspect": "battery life", "VA": "8.33#8.50"}]}
-{"ID": "laptop_quad_test_766", "Aspect_VA": [{"Aspect": "purchase", "VA": "7.12#7.12"}]}
-{"ID": "laptop_quad_test_767", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.38#7.50"}, {"Aspect": "computers", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_768", "Aspect_VA": [{"Aspect": "asus chromebook flip 302ca", "VA": "7.75#7.75"}]}
-{"ID": "laptop_quad_test_769", "Aspect_VA": [{"Aspect": "screen resolution", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_77", "Aspect_VA": [{"Aspect": "dvd drive", "VA": "5.75#5.50"}]}
-{"ID": "laptop_quad_test_770", "Aspect_VA": [{"Aspect": "touch pad", "VA": "7.50#8.00"}]}
-{"ID": "laptop_quad_test_771", "Aspect_VA": [{"Aspect": "screen brightness", "VA": "5.00#5.00"}, {"Aspect": "keyboard backlight", "VA": "5.00#5.00"}]}
-{"ID": "laptop_quad_test_772", "Aspect_VA": [{"Aspect": "purchase", "VA": "7.67#7.67"}, {"Aspect": "chromebook", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_773", "Aspect_VA": [{"Aspect": "touchscreen", "VA": "7.38#7.38"}]}
-{"ID": "laptop_quad_test_774", "Aspect_VA": [{"Aspect": "keyboard", "VA": "7.50#7.67"}, {"Aspect": "screen", "VA": "7.67#8.00"}]}
-{"ID": "laptop_quad_test_775", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.50#7.50"}, {"Aspect": "battery", "VA": "3.50#6.50"}]}
-{"ID": "laptop_quad_test_776", "Aspect_VA": [{"Aspect": "chromebook", "VA": "8.12#8.25"}]}
-{"ID": "laptop_quad_test_777", "Aspect_VA": [{"Aspect": "360 flip", "VA": "7.33#7.33"}]}
-{"ID": "laptop_quad_test_778", "Aspect_VA": [{"Aspect": "chromebook", "VA": "6.90#6.90"}]}
-{"ID": "laptop_quad_test_779", "Aspect_VA": [{"Aspect": "computer", "VA": "7.33#7.00"}]}
-{"ID": "laptop_quad_test_78", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.50#5.12"}]}
-{"ID": "laptop_quad_test_780", "Aspect_VA": [{"Aspect": "usb - c", "VA": "6.62#6.62"}]}
-{"ID": "laptop_quad_test_781", "Aspect_VA": [{"Aspect": "chromebook", "VA": "3.83#5.50"}]}
-{"ID": "laptop_quad_test_782", "Aspect_VA": [{"Aspect": "NULL", "VA": "8.00#7.88"}]}
-{"ID": "laptop_quad_test_783", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.88#6.75"}]}
-{"ID": "laptop_quad_test_784", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_785", "Aspect_VA": [{"Aspect": "wifi connectivity", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_786", "Aspect_VA": [{"Aspect": "screen", "VA": "3.50#6.25"}, {"Aspect": "speakers", "VA": "3.38#6.62"}]}
-{"ID": "laptop_quad_test_787", "Aspect_VA": [{"Aspect": "c302ca - dh54", "VA": "5.75#5.62"}]}
-{"ID": "laptop_quad_test_788", "Aspect_VA": [{"Aspect": "graphics", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_789", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.20#6.20"}]}
-{"ID": "laptop_quad_test_79", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.62#4.62"}]}
-{"ID": "laptop_quad_test_790", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.83#5.33"}]}
-{"ID": "laptop_quad_test_791", "Aspect_VA": [{"Aspect": "microsoft office", "VA": "3.62#6.75"}]}
-{"ID": "laptop_quad_test_792", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.00#5.88"}]}
-{"ID": "laptop_quad_test_793", "Aspect_VA": [{"Aspect": "product", "VA": "6.38#6.25"}]}
-{"ID": "laptop_quad_test_794", "Aspect_VA": [{"Aspect": "screen resolution", "VA": "7.33#7.33"}]}
-{"ID": "laptop_quad_test_795", "Aspect_VA": [{"Aspect": "NULL", "VA": "8.33#8.17"}]}
-{"ID": "laptop_quad_test_796", "Aspect_VA": [{"Aspect": "backlight", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_797", "Aspect_VA": [{"Aspect": "speaker", "VA": "6.75#6.75"}]}
-{"ID": "laptop_quad_test_798", "Aspect_VA": [{"Aspect": "google docs", "VA": "8.00#7.75"}]}
-{"ID": "laptop_quad_test_799", "Aspect_VA": [{"Aspect": "screen", "VA": "6.75#7.12"}, {"Aspect": "keyboard", "VA": "7.38#7.50"}, {"Aspect": "form factor", "VA": "7.50#7.62"}]}
-{"ID": "laptop_quad_test_8", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.25#5.25"}]}
-{"ID": "laptop_quad_test_80", "Aspect_VA": [{"Aspect": "i5 mobile processor", "VA": "6.62#6.50"}]}
-{"ID": "laptop_quad_test_800", "Aspect_VA": [{"Aspect": "tablet mode", "VA": "7.50#7.38"}]}
-{"ID": "laptop_quad_test_801", "Aspect_VA": [{"Aspect": "computer", "VA": "5.00#6.50"}, {"Aspect": "360 rotation", "VA": "6.83#7.00"}, {"Aspect": "touch screen", "VA": "7.00#7.17"}]}
-{"ID": "laptop_quad_test_802", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.83#8.17"}]}
-{"ID": "laptop_quad_test_803", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.17#7.00"}]}
-{"ID": "laptop_quad_test_804", "Aspect_VA": [{"Aspect": "laptop form", "VA": "4.38#4.25"}]}
-{"ID": "laptop_quad_test_805", "Aspect_VA": [{"Aspect": "chromebook", "VA": "7.62#7.75"}, {"Aspect": "laptops", "VA": "6.50#6.50"}]}
-{"ID": "laptop_quad_test_806", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.67#7.83"}, {"Aspect": "NULL", "VA": "7.67#7.83"}]}
-{"ID": "laptop_quad_test_807", "Aspect_VA": [{"Aspect": "usb - c ports", "VA": "7.50#7.12"}]}
-{"ID": "laptop_quad_test_808", "Aspect_VA": [{"Aspect": "keyboard", "VA": "6.70#6.70"}]}
-{"ID": "laptop_quad_test_809", "Aspect_VA": [{"Aspect": "laptop", "VA": "7.83#7.50"}, {"Aspect": "keyboard", "VA": "7.83#7.50"}, {"Aspect": "screen resolution", "VA": "7.83#7.50"}]}
-{"ID": "laptop_quad_test_81", "Aspect_VA": [{"Aspect": "ddr4 ram", "VA": "7.67#7.67"}]}
-{"ID": "laptop_quad_test_810", "Aspect_VA": [{"Aspect": "battery", "VA": "7.88#8.00"}]}
-{"ID": "laptop_quad_test_811", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.67#8.00"}, {"Aspect": "battery", "VA": "6.83#7.00"}]}
-{"ID": "laptop_quad_test_812", "Aspect_VA": [{"Aspect": "machine", "VA": "7.17#7.17"}]}
-{"ID": "laptop_quad_test_813", "Aspect_VA": [{"Aspect": "switch", "VA": "7.83#7.83"}]}
-{"ID": "laptop_quad_test_814", "Aspect_VA": [{"Aspect": "backlit keyboard", "VA": "7.88#7.88"}]}
-{"ID": "laptop_quad_test_815", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.17#5.67"}]}
-{"ID": "laptop_quad_test_816", "Aspect_VA": [{"Aspect": "screen display", "VA": "7.50#7.83"}, {"Aspect": "graphics", "VA": "8.00#8.33"}]}
-{"ID": "laptop_quad_test_82", "Aspect_VA": [{"Aspect": "battery life", "VA": "7.25#7.38"}]}
-{"ID": "laptop_quad_test_83", "Aspect_VA": [{"Aspect": "unit", "VA": "7.30#7.10"}]}
-{"ID": "laptop_quad_test_84", "Aspect_VA": [{"Aspect": "laptop", "VA": "8.00#7.67"}]}
-{"ID": "laptop_quad_test_85", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.20#6.30"}]}
-{"ID": "laptop_quad_test_86", "Aspect_VA": [{"Aspect": "keyboard backlight", "VA": "3.00#6.62"}]}
-{"ID": "laptop_quad_test_87", "Aspect_VA": [{"Aspect": "ram", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_88", "Aspect_VA": [{"Aspect": "touchpad", "VA": "7.12#7.00"}, {"Aspect": "keyboard", "VA": "7.25#7.12"}]}
-{"ID": "laptop_quad_test_89", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.83#5.50"}]}
-{"ID": "laptop_quad_test_9", "Aspect_VA": [{"Aspect": "keyboard", "VA": "4.62#5.50"}]}
-{"ID": "laptop_quad_test_90", "Aspect_VA": [{"Aspect": "feature", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_91", "Aspect_VA": [{"Aspect": "ram", "VA": "5.88#5.62"}]}
-{"ID": "laptop_quad_test_92", "Aspect_VA": [{"Aspect": "mx150", "VA": "5.90#5.80"}]}
-{"ID": "laptop_quad_test_93", "Aspect_VA": [{"Aspect": "solid state drive", "VA": "7.50#7.50"}]}
-{"ID": "laptop_quad_test_94", "Aspect_VA": [{"Aspect": "laptop", "VA": "6.12#6.00"}]}
-{"ID": "laptop_quad_test_95", "Aspect_VA": [{"Aspect": "boots up", "VA": "8.00#8.00"}]}
-{"ID": "laptop_quad_test_96", "Aspect_VA": [{"Aspect": "system", "VA": "8.12#8.12"}]}
-{"ID": "laptop_quad_test_97", "Aspect_VA": [{"Aspect": "mastercam", "VA": "7.00#6.88"}]}
-{"ID": "laptop_quad_test_98", "Aspect_VA": [{"Aspect": "amazon", "VA": "7.50#7.67"}]}
-{"ID": "laptop_quad_test_99", "Aspect_VA": [{"Aspect": "screen", "VA": "6.25#6.38"}]}
+{"ID": "R0000:S013", "Aspect_VA": [{"Aspect": "花月嵐的座位", "VA": "5.62#4.88"}]}
+{"ID": "R0000:S019", "Aspect_VA": [{"Aspect": "辣韭菜", "VA": "4.25#4.75"}]}
+{"ID": "R0000:S023", "Aspect_VA": [{"Aspect": "拉麵", "VA": "6.00#5.25"}]}
+{"ID": "R0000:S026", "Aspect_VA": [{"Aspect": "價格", "VA": "4.62#5.12"}]}
+{"ID": "R0000:S028", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.33"}]}
+{"ID": "R0001:S010", "Aspect_VA": [{"Aspect": "雅閣XO醬", "VA": "6.50#6.25"}]}
+{"ID": "R0001:S016", "Aspect_VA": [{"Aspect": "乳豬", "VA": "6.50#6.25"}]}
+{"ID": "R0002:S005", "Aspect_VA": [{"Aspect": "味道", "VA": "6.00#5.25"}]}
+{"ID": "R0007:S014", "Aspect_VA": [{"Aspect": "豪飽餐系列", "VA": "6.75#6.50"}]}
+{"ID": "R0007:S022", "Aspect_VA": [{"Aspect": "泰式奶茶", "VA": "6.00#5.33"}]}
+{"ID": "R0007:S025", "Aspect_VA": [{"Aspect": "泰之初", "VA": "6.83#5.83"}]}
+{"ID": "R0011:S007", "Aspect_VA": [{"Aspect": "糖葫蘆店", "VA": "6.88#6.88"}]}
+{"ID": "R0011:S018", "Aspect_VA": [{"Aspect": "價格", "VA": "7.00#7.00"}]}
+{"ID": "R0012:S022", "Aspect_VA": [{"Aspect": "番茄乾", "VA": "6.38#6.00"}]}
+{"ID": "R0012:S039", "Aspect_VA": [{"Aspect": "麵條", "VA": "4.30#5.00"}]}
+{"ID": "R0013:S023", "Aspect_VA": [{"Aspect": "炸豬排", "VA": "6.50#5.50"}]}
+{"ID": "R0015:S025", "Aspect_VA": [{"Aspect": "草莓", "VA": "6.17#5.83"}]}
+{"ID": "R0015:S034", "Aspect_VA": [{"Aspect": "草莓", "VA": "6.38#5.75"}]}
+{"ID": "R0017:S013", "Aspect_VA": [{"Aspect": "座位數", "VA": "6.67#6.33"}]}
+{"ID": "R0017:S030", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.25#5.88"}]}
+{"ID": "R0017:S037", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.12#5.38"}]}
+{"ID": "R0019:S007", "Aspect_VA": [{"Aspect": "馬頭魚的外皮", "VA": "6.67#6.00"}]}
+{"ID": "R0019:S010", "Aspect_VA": [{"Aspect": "紅喉的肉質", "VA": "6.12#5.12"}]}
+{"ID": "R0019:S014", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.00#5.50"}]}
+{"ID": "R0020:S010", "Aspect_VA": [{"Aspect": "味道", "VA": "4.88#5.00"}, {"Aspect": "肉質", "VA": "6.88#6.00"}]}
+{"ID": "R0021:S012", "Aspect_VA": [{"Aspect": "魚皮", "VA": "6.33#6.00"}]}
+{"ID": "R0024:S032", "Aspect_VA": [{"Aspect": "五味花生的滋味", "VA": "7.25#7.12"}]}
+{"ID": "R0025:S005", "Aspect_VA": [{"Aspect": "位子", "VA": "4.25#4.62"}]}
+{"ID": "R0025:S017", "Aspect_VA": [{"Aspect": "排骨", "VA": "5.50#5.00"}]}
+{"ID": "R0025:S024", "Aspect_VA": [{"Aspect": "炸豆腐", "VA": "6.25#6.38"}]}
+{"ID": "R0025:S025", "Aspect_VA": [{"Aspect": "炸豆腐", "VA": "6.75#6.00"}]}
+{"ID": "R0026:S006", "Aspect_VA": [{"Aspect": "店家", "VA": "6.75#6.50"}]}
+{"ID": "R0026:S009", "Aspect_VA": [{"Aspect": "口味", "VA": "5.33#5.17"}]}
+{"ID": "R0026:S010", "Aspect_VA": [{"Aspect": "肉桂吉拿棒", "VA": "7.00#6.90"}]}
+{"ID": "R0026:S011", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#5.83"}]}
+{"ID": "R0028:S006", "Aspect_VA": [{"Aspect": "麵包外層", "VA": "6.50#6.00"}]}
+{"ID": "R0030:S022", "Aspect_VA": [{"Aspect": "油蔥酥", "VA": "4.00#4.83"}]}
+{"ID": "R0031:S016", "Aspect_VA": [{"Aspect": "松阪豬", "VA": "6.83#6.83"}]}
+{"ID": "R0031:S018", "Aspect_VA": [{"Aspect": "份量", "VA": "5.50#5.00"}]}
+{"ID": "R0032:S040", "Aspect_VA": [{"Aspect": "CP值", "VA": "6.50#6.25"}]}
+{"ID": "R0034:S005", "Aspect_VA": [{"Aspect": "口感", "VA": "6.50#6.67"}]}
+{"ID": "R0034:S018", "Aspect_VA": [{"Aspect": "小菜種類", "VA": "5.67#5.33"}]}
+{"ID": "R0036:S005", "Aspect_VA": [{"Aspect": "日本和牛", "VA": "6.25#5.50"}]}
+{"ID": "R0037:S010", "Aspect_VA": [{"Aspect": "拉麵", "VA": "3.80#5.20"}]}
+{"ID": "R0037:S079", "Aspect_VA": [{"Aspect": "叉燒", "VA": "6.50#6.33"}]}
+{"ID": "R0038:S030", "Aspect_VA": [{"Aspect": "河粉", "VA": "4.00#6.00"}]}
+{"ID": "R0039:S035", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.12#6.62"}]}
+{"ID": "R0039:S049", "Aspect_VA": [{"Aspect": "小菜的量", "VA": "7.00#6.50"}]}
+{"ID": "R0039:S066", "Aspect_VA": [{"Aspect": "炸豬排炒飯", "VA": "6.50#6.00"}]}
+{"ID": "R0039:S068", "Aspect_VA": [{"Aspect": "餐廳", "VA": "7.38#6.62"}]}
+{"ID": "R0046:S009", "Aspect_VA": [{"Aspect": "章魚燒", "VA": "6.25#5.88"}]}
+{"ID": "R0056:S048", "Aspect_VA": [{"Aspect": "環境", "VA": "5.75#5.25"}]}
+{"ID": "R0056:S053", "Aspect_VA": [{"Aspect": "咖啡香味", "VA": "6.33#6.33"}]}
+{"ID": "R0056:S066", "Aspect_VA": [{"Aspect": "甜點", "VA": "4.25#5.25"}]}
+{"ID": "R0056:S068", "Aspect_VA": [{"Aspect": "咖啡價位", "VA": "5.50#5.00"}]}
+{"ID": "R0057:S061", "Aspect_VA": [{"Aspect": "鮮蝦雲吞湯的味道", "VA": "5.62#5.38"}]}
+{"ID": "R0057:S080", "Aspect_VA": [{"Aspect": "醬油", "VA": "6.38#6.25"}]}
+{"ID": "R0057:S095", "Aspect_VA": [{"Aspect": "細河粉", "VA": "3.75#5.25"}]}
+{"ID": "R0057:S117", "Aspect_VA": [{"Aspect": "份量", "VA": "5.75#5.00"}, {"Aspect": "味道", "VA": "6.00#5.75"}]}
+{"ID": "R0061:S040", "Aspect_VA": [{"Aspect": "唐揚炸雞", "VA": "4.12#4.75"}]}
+{"ID": "R0063:S009", "Aspect_VA": [{"Aspect": "湯底", "VA": "6.50#6.62"}, {"Aspect": "肉品", "VA": "6.62#6.12"}]}
+{"ID": "R0063:S013", "Aspect_VA": [{"Aspect": "環境", "VA": "6.00#5.25"}]}
+{"ID": "R0063:S025", "Aspect_VA": [{"Aspect": "麻辣鍋", "VA": "6.20#5.90"}]}
+{"ID": "R0063:S027", "Aspect_VA": [{"Aspect": "麻辣鍋", "VA": "7.50#7.83"}]}
+{"ID": "R0063:S034", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.25#6.00"}]}
+{"ID": "R0066:S007", "Aspect_VA": [{"Aspect": "翻桌率", "VA": "5.83#5.33"}]}
+{"ID": "R0066:S026", "Aspect_VA": [{"Aspect": "蜜煮芋頭口感", "VA": "3.00#6.75"}]}
+{"ID": "R0066:S046", "Aspect_VA": [{"Aspect": "花藏雪", "VA": "6.25#5.62"}]}
+{"ID": "R0068:S020", "Aspect_VA": [{"Aspect": "份量", "VA": "6.50#5.00"}, {"Aspect": "口感", "VA": "6.50#6.50"}]}
+{"ID": "R0069:S015", "Aspect_VA": [{"Aspect": "健康餐", "VA": "6.33#6.33"}]}
+{"ID": "R0069:S016", "Aspect_VA": [{"Aspect": "份量", "VA": "4.50#5.00"}]}
+{"ID": "R0070:S003", "Aspect_VA": [{"Aspect": "價格", "VA": "4.50#5.17"}]}
+{"ID": "R0070:S012", "Aspect_VA": [{"Aspect": "停車", "VA": "2.33#7.17"}]}
+{"ID": "R0076:S006", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.00#5.83"}]}
+{"ID": "R0076:S021", "Aspect_VA": [{"Aspect": "牛筋", "VA": "6.50#6.25"}]}
+{"ID": "R0076:S044", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#5.83"}]}
+{"ID": "R0077:S043", "Aspect_VA": [{"Aspect": "紫米燕麥烤奶", "VA": "6.62#6.12"}]}
+{"ID": "R0078:S010", "Aspect_VA": [{"Aspect": "佛卡夏", "VA": "5.67#5.50"}]}
+{"ID": "R0078:S027", "Aspect_VA": [{"Aspect": "雞翅", "VA": "7.17#7.00"}]}
+{"ID": "R0078:S034", "Aspect_VA": [{"Aspect": "臘肉", "VA": "6.00#5.38"}]}
+{"ID": "R0084:S119", "Aspect_VA": [{"Aspect": "上菜節奏", "VA": "6.25#6.25"}]}
+{"ID": "R0088:S012", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.75#5.25"}, {"Aspect": "味", "VA": "5.75#4.75"}]}
+{"ID": "R0090:S012", "Aspect_VA": [{"Aspect": "臭豆腐外皮", "VA": "6.62#6.88"}]}
+{"ID": "R0090:S021", "Aspect_VA": [{"Aspect": "臭豆腐", "VA": "7.12#6.88"}]}
+{"ID": "R0093:S028", "Aspect_VA": [{"Aspect": "炸鱈魚白子", "VA": "8.25#7.50"}]}
+{"ID": "R0099:S007", "Aspect_VA": [{"Aspect": "裝潢", "VA": "5.00#6.67"}]}
+{"ID": "R0099:S020", "Aspect_VA": [{"Aspect": "服務員", "VA": "6.12#6.00"}]}
+{"ID": "R0099:S063", "Aspect_VA": [{"Aspect": "椰奶雞的香味", "VA": "6.50#5.88"}]}
+{"ID": "R0099:S070", "Aspect_VA": [{"Aspect": "服務人員", "VA": "6.38#5.88"}]}
+{"ID": "R0099:S106", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.50#6.38"}]}
+{"ID": "R0099:S121", "Aspect_VA": [{"Aspect": "裝潢", "VA": "6.50#6.33"}]}
+{"ID": "R0100:S023", "Aspect_VA": [{"Aspect": "豬排", "VA": "3.50#5.00"}]}
+{"ID": "R0105:S038", "Aspect_VA": [{"Aspect": "布丁", "VA": "7.38#7.62"}]}
+{"ID": "R0106:S022", "Aspect_VA": [{"Aspect": "花甲鍋", "VA": "4.50#5.00"}]}
+{"ID": "R0107:S053", "Aspect_VA": [{"Aspect": "麵條口感", "VA": "6.17#6.33"}]}
+{"ID": "R0108:S006", "Aspect_VA": [{"Aspect": "水果", "VA": "6.50#6.50"}]}
+{"ID": "R0108:S033", "Aspect_VA": [{"Aspect": "小卷", "VA": "6.25#6.12"}]}
+{"ID": "R0109:S010", "Aspect_VA": [{"Aspect": "簡餐", "VA": "5.50#5.00"}]}
+{"ID": "R0111:S011", "Aspect_VA": [{"Aspect": "味道", "VA": "6.75#6.38"}]}
+{"ID": "R0112:S009", "Aspect_VA": [{"Aspect": "口感", "VA": "5.50#4.50"}]}
+{"ID": "R0112:S010", "Aspect_VA": [{"Aspect": "菱角", "VA": "6.50#6.00"}]}
+{"ID": "R0117:S006", "Aspect_VA": [{"Aspect": "豬腳飯", "VA": "6.50#6.50"}]}
+{"ID": "R0117:S013", "Aspect_VA": [{"Aspect": "滷汁", "VA": "4.50#4.75"}]}
+{"ID": "R0117:S023", "Aspect_VA": [{"Aspect": "豬頭皮", "VA": "6.00#5.12"}]}
+{"ID": "R0119:S021", "Aspect_VA": [{"Aspect": "茶泡飯的味道", "VA": "6.17#6.33"}]}
+{"ID": "R0120:S022", "Aspect_VA": [{"Aspect": "煎餅的口感", "VA": "5.62#5.12"}]}
+{"ID": "R0121:S011", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.00#5.17"}]}
+{"ID": "R0121:S025", "Aspect_VA": [{"Aspect": "日本和牛", "VA": "4.33#5.33"}]}
+{"ID": "R0121:S030", "Aspect_VA": [{"Aspect": "布朗尼", "VA": "5.00#4.62"}]}
+{"ID": "R0122:S006", "Aspect_VA": [{"Aspect": "蚵嗲", "VA": "5.17#4.83"}]}
+{"ID": "R0122:S017", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.00#5.62"}]}
+{"ID": "R0122:S033", "Aspect_VA": [{"Aspect": "口感", "VA": "6.25#6.12"}]}
+{"ID": "R0123:S004", "Aspect_VA": [{"Aspect": "蛋白", "VA": "6.75#6.38"}]}
+{"ID": "R0127:S002", "Aspect_VA": [{"Aspect": "空間", "VA": "5.88#5.38"}]}
+{"ID": "R0127:S011", "Aspect_VA": [{"Aspect": "飲料甜度", "VA": "5.50#5.00"}]}
+{"ID": "R0128:S035", "Aspect_VA": [{"Aspect": "料", "VA": "6.33#5.67"}]}
+{"ID": "R0130:S012", "Aspect_VA": [{"Aspect": "交通", "VA": "6.62#6.25"}]}
+{"ID": "R0130:S125", "Aspect_VA": [{"Aspect": "冷泡茶", "VA": "6.33#6.17"}]}
+{"ID": "R0134:S005", "Aspect_VA": [{"Aspect": "麵包", "VA": "6.50#6.00"}]}
+{"ID": "R0136:S005", "Aspect_VA": [{"Aspect": "抹茶聖代", "VA": "6.38#6.00"}]}
+{"ID": "R0136:S006", "Aspect_VA": [{"Aspect": "價格", "VA": "5.75#6.00"}]}
+{"ID": "R0136:S033", "Aspect_VA": [{"Aspect": "抹茶拿鐵", "VA": "4.62#4.38"}]}
+{"ID": "R0138:S049", "Aspect_VA": [{"Aspect": "用餐環境", "VA": "5.88#5.00"}]}
+{"ID": "R0141:S021", "Aspect_VA": [{"Aspect": "芥末味噌", "VA": "7.17#7.17"}]}
+{"ID": "R0141:S033", "Aspect_VA": [{"Aspect": "肉", "VA": "3.75#5.38"}]}
+{"ID": "R0142:S007", "Aspect_VA": [{"Aspect": "環境", "VA": "6.50#5.00"}]}
+{"ID": "R0142:S018", "Aspect_VA": [{"Aspect": "皮", "VA": "6.50#5.50"}]}
+{"ID": "R0142:S041", "Aspect_VA": [{"Aspect": "鴨皮", "VA": "6.38#5.75"}]}
+{"ID": "R0142:S054", "Aspect_VA": [{"Aspect": "鴨腿肉", "VA": "6.75#6.12"}]}
+{"ID": "R0142:S056", "Aspect_VA": [{"Aspect": "切片的烤鴨", "VA": "4.00#5.17"}]}
+{"ID": "R0142:S081", "Aspect_VA": [{"Aspect": "料", "VA": "6.50#6.75"}]}
+{"ID": "R0143:S043", "Aspect_VA": [{"Aspect": "滷肉", "VA": "4.25#5.62"}]}
+{"ID": "R0143:S062", "Aspect_VA": [{"Aspect": "筍絲", "VA": "6.12#5.75"}]}
+{"ID": "R0145:S030", "Aspect_VA": [{"Aspect": "價格", "VA": "5.75#5.00"}]}
+{"ID": "R0146:S020", "Aspect_VA": [{"Aspect": "口感", "VA": "4.25#5.88"}]}
+{"ID": "R0147:S019", "Aspect_VA": [{"Aspect": "豬排鐵板麵份量", "VA": "6.25#6.00"}]}
+{"ID": "R0147:S024", "Aspect_VA": [{"Aspect": "麵", "VA": "6.00#5.25"}]}
+{"ID": "R0150:S003", "Aspect_VA": [{"Aspect": "份量", "VA": "4.50#4.88"}]}
+{"ID": "R0152:S053", "Aspect_VA": [{"Aspect": "價格", "VA": "5.50#5.00"}]}
+{"ID": "R0152:S054", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.25#5.50"}]}
+{"ID": "R0153:S016", "Aspect_VA": [{"Aspect": "味道", "VA": "3.50#4.75"}]}
+{"ID": "R0153:S018", "Aspect_VA": [{"Aspect": "飯", "VA": "3.67#6.17"}]}
+{"ID": "R0153:S025", "Aspect_VA": [{"Aspect": "土魠魚", "VA": "6.00#5.33"}]}
+{"ID": "R0153:S034", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.38#5.12"}]}
+{"ID": "R0154:S058", "Aspect_VA": [{"Aspect": "火烤鐵板豬肉", "VA": "6.38#6.12"}]}
+{"ID": "R0155:S074", "Aspect_VA": [{"Aspect": "牛筋", "VA": "6.17#6.00"}]}
+{"ID": "R0159:S014", "Aspect_VA": [{"Aspect": "豆漿味道", "VA": "5.80#5.20"}]}
+{"ID": "R0159:S015", "Aspect_VA": [{"Aspect": "燒餅油條", "VA": "4.00#4.50"}]}
+{"ID": "R0160:S028", "Aspect_VA": [{"Aspect": "炸鵪鶉蛋", "VA": "6.88#7.25"}]}
+{"ID": "R0160:S066", "Aspect_VA": [{"Aspect": "配料", "VA": "6.17#6.00"}]}
+{"ID": "R0162:S018", "Aspect_VA": [{"Aspect": "空間", "VA": "6.12#5.50"}]}
+{"ID": "R0162:S098", "Aspect_VA": [{"Aspect": "甜點", "VA": "5.75#5.38"}]}
+{"ID": "R0163:S036", "Aspect_VA": [{"Aspect": "雞油香氣", "VA": "6.50#6.17"}]}
+{"ID": "R0163:S037", "Aspect_VA": [{"Aspect": "雞肉口感", "VA": "6.00#5.00"}]}
+{"ID": "R0165:S005", "Aspect_VA": [{"Aspect": "豚骨湯底", "VA": "7.38#7.12"}]}
+{"ID": "R0167:S040", "Aspect_VA": [{"Aspect": "臭豆腐", "VA": "5.83#5.33"}]}
+{"ID": "R0168:S013", "Aspect_VA": [{"Aspect": "四季青茶", "VA": "7.12#6.88"}]}
+{"ID": "R0174:S014", "Aspect_VA": [{"Aspect": "大拉皮", "VA": "6.50#6.33"}]}
+{"ID": "R0176:S032", "Aspect_VA": [{"Aspect": "漢堡麵包表層", "VA": "5.88#5.38"}]}
+{"ID": "R0183:S056", "Aspect_VA": [{"Aspect": "味道", "VA": "6.25#5.62"}]}
+{"ID": "R0187:S010", "Aspect_VA": [{"Aspect": "辣炒魷魚", "VA": "6.62#6.38"}]}
+{"ID": "R0188:S009", "Aspect_VA": [{"Aspect": "環境", "VA": "6.50#6.50"}]}
+{"ID": "R0188:S061", "Aspect_VA": [{"Aspect": "蔬菜", "VA": "6.00#5.50"}]}
+{"ID": "R0188:S063", "Aspect_VA": [{"Aspect": "凱撒沙拉醬", "VA": "6.75#6.38"}]}
+{"ID": "R0188:S101", "Aspect_VA": [{"Aspect": "餡料種類", "VA": "6.20#6.50"}]}
+{"ID": "R0189:S011", "Aspect_VA": [{"Aspect": "豬肉片", "VA": "6.00#5.00"}]}
+{"ID": "R0189:S032", "Aspect_VA": [{"Aspect": "越南點滴咖啡", "VA": "6.67#6.83"}]}
+{"ID": "R0193:S006", "Aspect_VA": [{"Aspect": "兒童餐", "VA": "7.00#7.33"}]}
+{"ID": "R0198:S034", "Aspect_VA": [{"Aspect": "肉品", "VA": "6.00#5.33"}]}
+{"ID": "R0200:S060", "Aspect_VA": [{"Aspect": "布丁", "VA": "6.25#6.00"}]}
+{"ID": "R0200:S069", "Aspect_VA": [{"Aspect": "牛腱肉", "VA": "6.50#6.33"}]}
+{"ID": "R0200:S071", "Aspect_VA": [{"Aspect": "漫熟焦糖布丁", "VA": "6.88#7.00"}]}
+{"ID": "R0202:S044", "Aspect_VA": [{"Aspect": "醬汁", "VA": "6.20#5.70"}]}
+{"ID": "R0202:S061", "Aspect_VA": [{"Aspect": "方度乳酪蛋糕", "VA": "6.50#6.33"}]}
+{"ID": "R0203:S011", "Aspect_VA": [{"Aspect": "甜點", "VA": "6.62#6.88"}]}
+{"ID": "R0203:S031", "Aspect_VA": [{"Aspect": "紫蘇葡萄鑽石冰口感", "VA": "5.75#5.25"}]}
+{"ID": "R0203:S037", "Aspect_VA": [{"Aspect": "店家態度", "VA": "6.00#5.17"}]}
+{"ID": "R0207:S061", "Aspect_VA": [{"Aspect": "芋頭塊", "VA": "6.12#5.50"}]}
+{"ID": "R0207:S063", "Aspect_VA": [{"Aspect": "茶凍", "VA": "7.00#6.50"}]}
+{"ID": "R0207:S070", "Aspect_VA": [{"Aspect": "餐廳", "VA": "7.00#6.75"}]}
+{"ID": "R0210:S024", "Aspect_VA": [{"Aspect": "皮蛋", "VA": "6.50#6.17"}]}
+{"ID": "R0210:S048", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.00#5.83"}]}
+{"ID": "R0211:S001", "Aspect_VA": [{"Aspect": "價格", "VA": "4.17#5.00"}]}
+{"ID": "R0215:S025", "Aspect_VA": [{"Aspect": "鹽水意麵", "VA": "6.00#5.50"}]}
+{"ID": "R0220:S017", "Aspect_VA": [{"Aspect": "泡芙", "VA": "6.00#5.67"}]}
+{"ID": "R0235:S099", "Aspect_VA": [{"Aspect": "鴨肉", "VA": "6.17#5.50"}]}
+{"ID": "R0241:S090", "Aspect_VA": [{"Aspect": "咖啡", "VA": "5.33#5.33"}]}
+{"ID": "R0241:S095", "Aspect_VA": [{"Aspect": "布朗尼", "VA": "4.83#4.83"}]}
+{"ID": "R0261:S018", "Aspect_VA": [{"Aspect": "味道", "VA": "7.00#6.67"}]}
+{"ID": "R0261:S027", "Aspect_VA": [{"Aspect": "奶油捲", "VA": "7.00#7.00"}]}
+{"ID": "R0261:S042", "Aspect_VA": [{"Aspect": "菠蘿", "VA": "6.17#5.50"}]}
+{"ID": "R0262:S007", "Aspect_VA": [{"Aspect": "價格", "VA": "5.25#5.25"}]}
+{"ID": "R0263:S021", "Aspect_VA": [{"Aspect": "蛋香", "VA": "6.50#6.17"}]}
+{"ID": "R0269:S054", "Aspect_VA": [{"Aspect": "CP值", "VA": "6.12#5.38"}]}
+{"ID": "R0270:S019", "Aspect_VA": [{"Aspect": "醬料", "VA": "3.25#5.25"}]}
+{"ID": "R0271:S005", "Aspect_VA": [{"Aspect": "日和製冰部", "VA": "6.50#5.50"}, {"Aspect": "價格", "VA": "5.50#5.00"}]}
+{"ID": "R0272:S102", "Aspect_VA": [{"Aspect": "醬汁", "VA": "5.83#5.00"}]}
+{"ID": "R0278:S084", "Aspect_VA": [{"Aspect": "翼板牛", "VA": "5.62#5.25"}]}
+{"ID": "R0278:S086", "Aspect_VA": [{"Aspect": "羊雪花騷味", "VA": "4.33#5.00"}]}
+{"ID": "R0281:S021", "Aspect_VA": [{"Aspect": "滷味", "VA": "2.12#6.12"}]}
+{"ID": "R0283:S003", "Aspect_VA": [{"Aspect": "肉粿", "VA": "4.00#5.00"}]}
+{"ID": "R0284:S034", "Aspect_VA": [{"Aspect": "味道", "VA": "4.17#5.00"}]}
+{"ID": "R0285:S023", "Aspect_VA": [{"Aspect": "服務", "VA": "6.12#5.38"}]}
+{"ID": "R0285:S030", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.00#5.67"}]}
+{"ID": "R0285:S032", "Aspect_VA": [{"Aspect": "口感", "VA": "6.00#5.25"}]}
+{"ID": "R0285:S035", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.25#6.00"}]}
+{"ID": "R0287:S008", "Aspect_VA": [{"Aspect": "蘿蔔糕", "VA": "6.62#6.25"}]}
+{"ID": "R0289:S009", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.00#5.62"}]}
+{"ID": "R0289:S017", "Aspect_VA": [{"Aspect": "口感", "VA": "6.50#6.12"}]}
+{"ID": "R0289:S034", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.67#5.50"}]}
+{"ID": "R0290:S040", "Aspect_VA": [{"Aspect": "腐乳高麗菜", "VA": "5.83#5.50"}]}
+{"ID": "R0290:S044", "Aspect_VA": [{"Aspect": "高麗菜", "VA": "5.38#5.12"}]}
+{"ID": "R0290:S067", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#6.75"}]}
+{"ID": "R0290:S084", "Aspect_VA": [{"Aspect": "牛肉份量", "VA": "4.50#4.67"}]}
+{"ID": "R0290:S096", "Aspect_VA": [{"Aspect": "芹菜", "VA": "5.83#5.17"}]}
+{"ID": "R0290:S107", "Aspect_VA": [{"Aspect": "調味", "VA": "5.50#5.12"}]}
+{"ID": "R0293:S003", "Aspect_VA": [{"Aspect": "魚湯", "VA": "6.38#6.00"}]}
+{"ID": "R0293:S031", "Aspect_VA": [{"Aspect": "口感", "VA": "6.33#5.00"}, {"Aspect": "味道", "VA": "6.33#5.00"}]}
+{"ID": "R0294:S194", "Aspect_VA": [{"Aspect": "酒餚", "VA": "7.00#6.67"}]}
+{"ID": "R0295:S015", "Aspect_VA": [{"Aspect": "口味", "VA": "4.00#5.17"}]}
+{"ID": "R0295:S020", "Aspect_VA": [{"Aspect": "溏心蛋", "VA": "4.50#5.25"}]}
+{"ID": "R0295:S037", "Aspect_VA": [{"Aspect": "配菜", "VA": "5.00#5.00"}]}
+{"ID": "R0296:S006", "Aspect_VA": [{"Aspect": "菜色", "VA": "4.62#4.75"}]}
+{"ID": "R0296:S021", "Aspect_VA": [{"Aspect": "火雞肉的份量", "VA": "5.88#5.25"}]}
+{"ID": "R0296:S023", "Aspect_VA": [{"Aspect": "白飯", "VA": "4.25#4.88"}]}
+{"ID": "R0297:S011", "Aspect_VA": [{"Aspect": "價格", "VA": "6.38#5.88"}]}
+{"ID": "R0297:S014", "Aspect_VA": [{"Aspect": "口感", "VA": "6.33#6.50"}]}
+{"ID": "R0300:S006", "Aspect_VA": [{"Aspect": "餅皮", "VA": "6.25#5.75"}]}
+{"ID": "R0300:S007", "Aspect_VA": [{"Aspect": "餅皮厚薄", "VA": "6.33#5.50"}]}
+{"ID": "R0303:S016", "Aspect_VA": [{"Aspect": "空間", "VA": "5.67#5.00"}]}
+{"ID": "R0303:S049", "Aspect_VA": [{"Aspect": "蛋花口感", "VA": "6.12#5.62"}]}
+{"ID": "R0303:S050", "Aspect_VA": [{"Aspect": "紫菜", "VA": "6.50#6.10"}]}
+{"ID": "R0305:S019", "Aspect_VA": [{"Aspect": "配料", "VA": "6.50#6.12"}]}
+{"ID": "R0305:S020", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.33#6.33"}]}
+{"ID": "R0306:S019", "Aspect_VA": [{"Aspect": "蛋黃酥", "VA": "6.17#5.67"}]}
+{"ID": "R0306:S022", "Aspect_VA": [{"Aspect": "蛋黃", "VA": "4.00#5.38"}]}
+{"ID": "R0306:S027", "Aspect_VA": [{"Aspect": "甜度", "VA": "5.50#5.00"}]}
+{"ID": "R0306:S050", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#5.50"}]}
+{"ID": "R0306:S051", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.75#5.38"}]}
+{"ID": "R0306:S056", "Aspect_VA": [{"Aspect": "小月餅", "VA": "6.33#5.17"}]}
+{"ID": "R0309:S004", "Aspect_VA": [{"Aspect": "唐揚雞", "VA": "6.17#5.50"}]}
+{"ID": "R0310:S009", "Aspect_VA": [{"Aspect": "鴨白湯底", "VA": "7.00#7.00"}]}
+{"ID": "R0315:S026", "Aspect_VA": [{"Aspect": "炭香味", "VA": "6.50#6.00"}]}
+{"ID": "R0316:S006", "Aspect_VA": [{"Aspect": "咖哩", "VA": "5.88#5.50"}]}
+{"ID": "R0316:S012", "Aspect_VA": [{"Aspect": "炸豬排", "VA": "6.38#6.00"}]}
+{"ID": "R0318:S065", "Aspect_VA": [{"Aspect": "口感", "VA": "6.50#6.33"}]}
+{"ID": "R0327:S036", "Aspect_VA": [{"Aspect": "品項", "VA": "5.38#5.00"}]}
+{"ID": "R0327:S064", "Aspect_VA": [{"Aspect": "味道", "VA": "4.62#5.62"}]}
+{"ID": "R0327:S089", "Aspect_VA": [{"Aspect": "味道", "VA": "6.50#6.50"}]}
+{"ID": "R0327:S092", "Aspect_VA": [{"Aspect": "湯", "VA": "5.88#5.00"}]}
+{"ID": "R0329:S002", "Aspect_VA": [{"Aspect": "濃厚雞白湯拉麵", "VA": "5.83#5.33"}]}
+{"ID": "R0330:S018", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.25#5.75"}]}
+{"ID": "R0332:S001", "Aspect_VA": [{"Aspect": "店", "VA": "6.30#5.80"}]}
+{"ID": "R0332:S010", "Aspect_VA": [{"Aspect": "立良棒鴛鴦", "VA": "6.50#6.25"}]}
+{"ID": "R0335:S020", "Aspect_VA": [{"Aspect": "肉", "VA": "6.50#6.12"}]}
+{"ID": "R0337:S003", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.67#6.33"}]}
+{"ID": "R0339:S025", "Aspect_VA": [{"Aspect": "口感", "VA": "6.25#5.88"}]}
+{"ID": "R0339:S026", "Aspect_VA": [{"Aspect": "魚肉", "VA": "5.75#5.38"}]}
+{"ID": "R0339:S029", "Aspect_VA": [{"Aspect": "炸慈菇", "VA": "6.50#6.17"}]}
+{"ID": "R0339:S040", "Aspect_VA": [{"Aspect": "香氣", "VA": "6.62#6.62"}]}
+{"ID": "R0339:S079", "Aspect_VA": [{"Aspect": "湯麵", "VA": "5.75#5.12"}]}
+{"ID": "R0342:S040", "Aspect_VA": [{"Aspect": "酸菜", "VA": "6.33#5.83"}]}
+{"ID": "R0342:S044", "Aspect_VA": [{"Aspect": "米血", "VA": "6.75#6.62"}]}
+{"ID": "R0342:S047", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.25#6.00"}]}
+{"ID": "R0349:S046", "Aspect_VA": [{"Aspect": "濕度", "VA": "6.00#5.33"}]}
+{"ID": "R0349:S061", "Aspect_VA": [{"Aspect": "香氣", "VA": "6.33#6.33"}]}
+{"ID": "R0349:S078", "Aspect_VA": [{"Aspect": "鴨血", "VA": "6.50#6.00"}]}
+{"ID": "R0349:S132", "Aspect_VA": [{"Aspect": "價格", "VA": "6.25#5.38"}]}
+{"ID": "R0351:S051", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.00#5.62"}]}
+{"ID": "R0351:S052", "Aspect_VA": [{"Aspect": "河豚", "VA": "6.00#5.17"}]}
+{"ID": "R0351:S106", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.25#5.62"}]}
+{"ID": "R0351:S113", "Aspect_VA": [{"Aspect": "湯汁", "VA": "6.33#6.17"}]}
+{"ID": "R0351:S126", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.50#6.50"}]}
+{"ID": "R0351:S136", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.25#5.75"}]}
+{"ID": "R0355:S006", "Aspect_VA": [{"Aspect": "水果茶", "VA": "6.50#6.50"}]}
+{"ID": "R0355:S009", "Aspect_VA": [{"Aspect": "雅淳水果茶", "VA": "6.33#5.50"}]}
+{"ID": "R0356:S009", "Aspect_VA": [{"Aspect": "座位", "VA": "6.00#5.33"}]}
+{"ID": "R0356:S040", "Aspect_VA": [{"Aspect": "料理", "VA": "7.00#7.00"}]}
+{"ID": "R0359:S023", "Aspect_VA": [{"Aspect": "油煙", "VA": "4.00#5.62"}]}
+{"ID": "R0359:S026", "Aspect_VA": [{"Aspect": "氣氛", "VA": "5.88#5.62"}]}
+{"ID": "R0359:S063", "Aspect_VA": [{"Aspect": "環境", "VA": "6.12#5.50"}]}
+{"ID": "R0361:S002", "Aspect_VA": [{"Aspect": "粥", "VA": "6.50#6.75"}]}
+{"ID": "R0364:S046", "Aspect_VA": [{"Aspect": "老醋", "VA": "6.50#6.50"}]}
+{"ID": "R0364:S060", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.88#6.12"}]}
+{"ID": "R0364:S067", "Aspect_VA": [{"Aspect": "肉料", "VA": "6.12#5.25"}]}
+{"ID": "R0364:S089", "Aspect_VA": [{"Aspect": "油脂", "VA": "6.50#6.33"}]}
+{"ID": "R0364:S090", "Aspect_VA": [{"Aspect": "熟度", "VA": "5.75#5.38"}]}
+{"ID": "R0369:S029", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#6.50"}]}
+{"ID": "R0369:S059", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.12#5.62"}]}
+{"ID": "R0369:S080", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#6.75"}]}
+{"ID": "R0375:S039", "Aspect_VA": [{"Aspect": "炊飯", "VA": "6.50#6.50"}]}
+{"ID": "R0378:S017", "Aspect_VA": [{"Aspect": "滋味", "VA": "4.67#5.17"}]}
+{"ID": "R0378:S048", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.20#5.80"}]}
+{"ID": "R0380:S079", "Aspect_VA": [{"Aspect": "口感", "VA": "5.88#5.38"}]}
+{"ID": "R0380:S083", "Aspect_VA": [{"Aspect": "味噌", "VA": "6.25#5.88"}]}
+{"ID": "R0380:S100", "Aspect_VA": [{"Aspect": "麵的份量", "VA": "6.00#5.25"}]}
+{"ID": "R0380:S114", "Aspect_VA": [{"Aspect": "肉汁汁液", "VA": "6.75#6.62"}]}
+{"ID": "R0380:S118", "Aspect_VA": [{"Aspect": "烤雞肉串", "VA": "6.83#7.00"}]}
+{"ID": "R0380:S130", "Aspect_VA": [{"Aspect": "五黑家的用餐體驗", "VA": "7.50#6.80"}]}
+{"ID": "R0381:S040", "Aspect_VA": [{"Aspect": "雞骨高湯", "VA": "6.30#6.00"}]}
+{"ID": "R0381:S044", "Aspect_VA": [{"Aspect": "柴魚涼拌洋蔥", "VA": "5.88#5.25"}]}
+{"ID": "R0381:S077", "Aspect_VA": [{"Aspect": "蜜餞堅果油醋沙拉", "VA": "7.00#6.50"}]}
+{"ID": "R0381:S089", "Aspect_VA": [{"Aspect": "明太子鮮魚米餅口感", "VA": "6.50#6.67"}]}
+{"ID": "R0382:S032", "Aspect_VA": [{"Aspect": "鯖魚壽司", "VA": "6.17#5.17"}]}
+{"ID": "R0386:S008", "Aspect_VA": [{"Aspect": "叉燒", "VA": "6.00#5.50"}]}
+{"ID": "R0389:S038", "Aspect_VA": [{"Aspect": "調味", "VA": "6.17#6.00"}]}
+{"ID": "R0390:S015", "Aspect_VA": [{"Aspect": "口感", "VA": "6.83#6.67"}]}
+{"ID": "R0390:S017", "Aspect_VA": [{"Aspect": "味道", "VA": "6.12#5.38"}]}
+{"ID": "R0393:S027", "Aspect_VA": [{"Aspect": "悶肉", "VA": "7.25#7.50"}]}
+{"ID": "R0393:S031", "Aspect_VA": [{"Aspect": "悶肉", "VA": "6.00#5.88"}]}
+{"ID": "R0394:S039", "Aspect_VA": [{"Aspect": "Espresso", "VA": "6.00#5.62"}]}
+{"ID": "R0394:S061", "Aspect_VA": [{"Aspect": "環境", "VA": "5.00#5.00"}]}
+{"ID": "R0398:S018", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.00#5.50"}]}
+{"ID": "R0398:S019", "Aspect_VA": [{"Aspect": "口感", "VA": "6.12#5.25"}]}
+{"ID": "R0403:S009", "Aspect_VA": [{"Aspect": "價格", "VA": "6.50#6.67"}]}
+{"ID": "R0403:S018", "Aspect_VA": [{"Aspect": "手工麵條", "VA": "6.75#6.50"}]}
+{"ID": "R0405:S050", "Aspect_VA": [{"Aspect": "滋味", "VA": "6.33#5.83"}]}
+{"ID": "R0405:S071", "Aspect_VA": [{"Aspect": "珍珠", "VA": "6.38#5.75"}]}
+{"ID": "R0407:S004", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.00#5.75"}]}
+{"ID": "R0407:S009", "Aspect_VA": [{"Aspect": "牛肉湯的料", "VA": "6.00#6.00"}]}
+{"ID": "R0408:S007", "Aspect_VA": [{"Aspect": "用餐空間", "VA": "4.75#4.88"}]}
+{"ID": "R0419:S015", "Aspect_VA": [{"Aspect": "比目魚", "VA": "6.20#5.40"}]}
+{"ID": "R0419:S019", "Aspect_VA": [{"Aspect": "軟殼蟹花壽司", "VA": "6.62#6.38"}]}
+{"ID": "R0419:S023", "Aspect_VA": [{"Aspect": "鐵板原味和牛", "VA": "7.38#7.25"}]}
+{"ID": "R0421:S004", "Aspect_VA": [{"Aspect": "地點", "VA": "5.83#5.00"}]}
+{"ID": "R0421:S026", "Aspect_VA": [{"Aspect": "胡桃", "VA": "6.50#6.38"}]}
+{"ID": "R0422:S010", "Aspect_VA": [{"Aspect": "裝潢", "VA": "5.88#5.50"}]}
+{"ID": "R0422:S012", "Aspect_VA": [{"Aspect": "菜單的選擇", "VA": "6.50#5.38"}]}
+{"ID": "R0431:S032", "Aspect_VA": [{"Aspect": "蚵仔", "VA": "6.50#6.12"}]}
+{"ID": "R0432:S012", "Aspect_VA": [{"Aspect": "羊肉拉麵", "VA": "5.75#5.00"}]}
+{"ID": "R0432:S019", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.00#5.33"}]}
+{"ID": "R0434:S012", "Aspect_VA": [{"Aspect": "外觀", "VA": "5.88#5.50"}]}
+{"ID": "R0434:S015", "Aspect_VA": [{"Aspect": "座位數", "VA": "5.75#5.12"}]}
+{"ID": "R0434:S023", "Aspect_VA": [{"Aspect": "口感", "VA": "6.67#6.00"}]}
+{"ID": "R0434:S037", "Aspect_VA": [{"Aspect": "燒臘飯", "VA": "6.25#5.62"}]}
+{"ID": "R0434:S045", "Aspect_VA": [{"Aspect": "服務", "VA": "6.25#5.88"}]}
+{"ID": "R0435:S023", "Aspect_VA": [{"Aspect": "環境", "VA": "5.50#5.12"}]}
+{"ID": "R0435:S103", "Aspect_VA": [{"Aspect": "味道", "VA": "6.25#6.00"}]}
+{"ID": "R0438:S005", "Aspect_VA": [{"Aspect": "牛肉燥飯", "VA": "6.50#6.75"}]}
+{"ID": "R0438:S044", "Aspect_VA": [{"Aspect": "芥藍牛肉味道", "VA": "5.75#5.75"}]}
+{"ID": "R0440:S025", "Aspect_VA": [{"Aspect": "餐廳桌數", "VA": "4.67#4.83"}]}
+{"ID": "R0441:S016", "Aspect_VA": [{"Aspect": "早餐選擇", "VA": "4.67#5.00"}]}
+{"ID": "R0444:S045", "Aspect_VA": [{"Aspect": "福勝亭服務品質", "VA": "6.00#5.25"}]}
+{"ID": "R0452:S032", "Aspect_VA": [{"Aspect": "牛小排的肉質", "VA": "7.12#7.00"}]}
+{"ID": "R0452:S036", "Aspect_VA": [{"Aspect": "CP值", "VA": "6.88#6.62"}]}
+{"ID": "R0453:S035", "Aspect_VA": [{"Aspect": "水餃口味", "VA": "6.00#5.50"}]}
+{"ID": "R0453:S040", "Aspect_VA": [{"Aspect": "用餐", "VA": "6.12#5.50"}]}
+{"ID": "R0454:S044", "Aspect_VA": [{"Aspect": "奶酪", "VA": "6.17#5.67"}, {"Aspect": "甜度", "VA": "6.00#5.83"}]}
+{"ID": "R0456:S032", "Aspect_VA": [{"Aspect": "鮭魚握壽司", "VA": "6.83#6.83"}]}
+{"ID": "R0456:S037", "Aspect_VA": [{"Aspect": "口感", "VA": "6.38#5.88"}]}
+{"ID": "R0461:S069", "Aspect_VA": [{"Aspect": "包餡花生湯圓", "VA": "6.67#7.00"}]}
+{"ID": "R0464:S055", "Aspect_VA": [{"Aspect": "米飯", "VA": "7.50#7.83"}]}
+{"ID": "R0464:S059", "Aspect_VA": [{"Aspect": "筋膜", "VA": "6.12#5.75"}]}
+{"ID": "R0464:S068", "Aspect_VA": [{"Aspect": "蛤蜊", "VA": "6.50#6.25"}]}
+{"ID": "R0465:S029", "Aspect_VA": [{"Aspect": "醬拌飯", "VA": "7.25#7.12"}]}
+{"ID": "R0466:S011", "Aspect_VA": [{"Aspect": "肉", "VA": "5.75#5.25"}]}
+{"ID": "R0466:S032", "Aspect_VA": [{"Aspect": "CP值", "VA": "5.25#5.00"}]}
+{"ID": "R0467:S016", "Aspect_VA": [{"Aspect": "鹹豬肉", "VA": "6.90#7.00"}]}
+{"ID": "R0467:S017", "Aspect_VA": [{"Aspect": "麵體", "VA": "4.00#5.25"}]}
+{"ID": "R0467:S018", "Aspect_VA": [{"Aspect": "麵體", "VA": "3.62#6.12"}]}
+{"ID": "R0467:S023", "Aspect_VA": [{"Aspect": "口感", "VA": "7.17#7.17"}]}
+{"ID": "R0467:S026", "Aspect_VA": [{"Aspect": "炸湯圓", "VA": "4.00#5.00"}]}
+{"ID": "R0467:S032", "Aspect_VA": [{"Aspect": "裝潢", "VA": "6.00#5.17"}]}
+{"ID": "R0469:S013", "Aspect_VA": [{"Aspect": "地瓜餅", "VA": "6.62#6.88"}]}
+{"ID": "R0469:S014", "Aspect_VA": [{"Aspect": "地瓜餅", "VA": "5.83#5.17"}]}
+{"ID": "R0469:S017", "Aspect_VA": [{"Aspect": "點心", "VA": "5.75#5.50"}]}
+{"ID": "R0469:S021", "Aspect_VA": [{"Aspect": "肉餅", "VA": "4.62#5.38"}]}
+{"ID": "R0470:S016", "Aspect_VA": [{"Aspect": "鴨皮", "VA": "6.62#6.00"}]}
+{"ID": "R0470:S017", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.25"}]}
+{"ID": "R0471:S002", "Aspect_VA": [{"Aspect": "品項", "VA": "6.50#5.88"}]}
+{"ID": "R0471:S017", "Aspect_VA": [{"Aspect": "氛圍", "VA": "5.62#6.00"}]}
+{"ID": "R0471:S038", "Aspect_VA": [{"Aspect": "粉漿蛋餅", "VA": "6.12#5.50"}]}
+{"ID": "R0472:S028", "Aspect_VA": [{"Aspect": "5貫組合", "VA": "4.00#5.12"}]}
+{"ID": "R0472:S045", "Aspect_VA": [{"Aspect": "口感", "VA": "6.75#6.50"}]}
+{"ID": "R0472:S049", "Aspect_VA": [{"Aspect": "合點壽司", "VA": "6.25#6.50"}]}
+{"ID": "R0472:S073", "Aspect_VA": [{"Aspect": "餐點品質", "VA": "5.88#5.38"}]}
+{"ID": "R0475:S004", "Aspect_VA": [{"Aspect": "店面", "VA": "6.38#6.38"}]}
+{"ID": "R0475:S005", "Aspect_VA": [{"Aspect": "菜單", "VA": "6.00#5.17"}]}
+{"ID": "R0477:S004", "Aspect_VA": [{"Aspect": "排骨", "VA": "6.50#5.00"}]}
+{"ID": "R0478:S012", "Aspect_VA": [{"Aspect": "醬汁", "VA": "6.50#6.50"}]}
+{"ID": "R0481:S006", "Aspect_VA": [{"Aspect": "裝潢", "VA": "5.83#5.83"}]}
+{"ID": "R0481:S019", "Aspect_VA": [{"Aspect": "麵包皮", "VA": "6.50#6.50"}]}
+{"ID": "R0481:S022", "Aspect_VA": [{"Aspect": "起司蛋餅份量", "VA": "4.30#4.50"}]}
+{"ID": "R0482:S019", "Aspect_VA": [{"Aspect": "用餐空間", "VA": "6.75#6.62"}]}
+{"ID": "R0482:S034", "Aspect_VA": [{"Aspect": "蔬菜盤的種類", "VA": "6.50#6.00"}]}
+{"ID": "R0484:S003", "Aspect_VA": [{"Aspect": "牛舌餅", "VA": "6.00#5.50"}]}
+{"ID": "R0487:S050", "Aspect_VA": [{"Aspect": "生腸", "VA": "4.00#4.83"}]}
+{"ID": "R0488:S031", "Aspect_VA": [{"Aspect": "獅子頭", "VA": "6.30#6.00"}]}
+{"ID": "R0488:S059", "Aspect_VA": [{"Aspect": "薑絲", "VA": "4.00#6.00"}]}
+{"ID": "R0551:S033", "Aspect_VA": [{"Aspect": "雞肉", "VA": "3.50#4.67"}]}
+{"ID": "R0553:S073", "Aspect_VA": [{"Aspect": "生菜", "VA": "7.00#6.50"}]}
+{"ID": "R0561:S022", "Aspect_VA": [{"Aspect": "沙拉", "VA": "4.80#4.80"}]}
+{"ID": "R0561:S031", "Aspect_VA": [{"Aspect": "烤鱒魚", "VA": "6.00#5.25"}]}
+{"ID": "R0561:S044", "Aspect_VA": [{"Aspect": "餐點", "VA": "5.88#5.38"}]}
+{"ID": "R0566:S012", "Aspect_VA": [{"Aspect": "肉", "VA": "6.50#6.17"}]}
+{"ID": "R0570:S010", "Aspect_VA": [{"Aspect": "空間", "VA": "6.50#5.50"}]}
+{"ID": "R0574:S013", "Aspect_VA": [{"Aspect": "環境", "VA": "6.25#5.75"}]}
+{"ID": "R0574:S045", "Aspect_VA": [{"Aspect": "滷味", "VA": "6.33#6.67"}]}
+{"ID": "R0574:S051", "Aspect_VA": [{"Aspect": "份量", "VA": "6.88#6.38"}]}
+{"ID": "R0574:S057", "Aspect_VA": [{"Aspect": "餐點的份量", "VA": "6.33#6.50"}, {"Aspect": "餐點", "VA": "6.33#6.17"}]}
+{"ID": "R0574:S058", "Aspect_VA": [{"Aspect": "價格", "VA": "5.60#5.00"}]}
+{"ID": "R0578:S003", "Aspect_VA": [{"Aspect": "草莓", "VA": "7.00#7.00"}]}
+{"ID": "R0582:S040", "Aspect_VA": [{"Aspect": "份量", "VA": "6.50#6.00"}]}
+{"ID": "R0582:S045", "Aspect_VA": [{"Aspect": "青椒", "VA": "6.33#5.17"}]}
+{"ID": "R0582:S046", "Aspect_VA": [{"Aspect": "青椒", "VA": "6.00#5.17"}]}
+{"ID": "R0582:S051", "Aspect_VA": [{"Aspect": "地瓜", "VA": "6.00#5.17"}, {"Aspect": "粉", "VA": "3.67#4.67"}]}
+{"ID": "R0584:S017", "Aspect_VA": [{"Aspect": "桂花的香氣", "VA": "6.25#5.88"}]}
+{"ID": "R0584:S028", "Aspect_VA": [{"Aspect": "生腸", "VA": "6.12#5.50"}]}
+{"ID": "R0584:S057", "Aspect_VA": [{"Aspect": "鳳爪", "VA": "5.75#5.00"}]}
+{"ID": "R0584:S067", "Aspect_VA": [{"Aspect": "鴨粥", "VA": "2.83#7.17"}]}
+{"ID": "R0584:S089", "Aspect_VA": [{"Aspect": "蛋香", "VA": "7.00#6.75"}]}
+{"ID": "R0586:S022", "Aspect_VA": [{"Aspect": "酸菜魚", "VA": "6.17#5.83"}]}
+{"ID": "R0587:S022", "Aspect_VA": [{"Aspect": "羊肉片", "VA": "6.67#5.83"}]}
+{"ID": "R0592:S009", "Aspect_VA": [{"Aspect": "鍋氣", "VA": "4.50#4.50"}]}
+{"ID": "R0593:S039", "Aspect_VA": [{"Aspect": "麵包鬆餅", "VA": "5.75#5.62"}]}
+{"ID": "R0604:S001", "Aspect_VA": [{"Aspect": "裝潢", "VA": "6.00#5.33"}]}
+{"ID": "R0604:S040", "Aspect_VA": [{"Aspect": "桂花的味道", "VA": "4.50#5.00"}]}
+{"ID": "R0613:S060", "Aspect_VA": [{"Aspect": "私嚐", "VA": "7.75#7.75"}]}
+{"ID": "R0614:S019", "Aspect_VA": [{"Aspect": "蝦味", "VA": "7.25#6.50"}]}
+{"ID": "R0615:S004", "Aspect_VA": [{"Aspect": "價格", "VA": "5.67#5.17"}]}
+{"ID": "R0615:S016", "Aspect_VA": [{"Aspect": "炒麵", "VA": "6.75#6.50"}]}
+{"ID": "R0615:S018", "Aspect_VA": [{"Aspect": "肉燥", "VA": "6.50#5.75"}]}
+{"ID": "R0615:S019", "Aspect_VA": [{"Aspect": "蛋餅", "VA": "4.88#5.12"}]}
+{"ID": "R0615:S023", "Aspect_VA": [{"Aspect": "肉羹", "VA": "7.25#7.25"}]}
+{"ID": "R0618:S020", "Aspect_VA": [{"Aspect": "椪糖", "VA": "6.67#5.83"}]}
+{"ID": "R0618:S024", "Aspect_VA": [{"Aspect": "飲品價格", "VA": "6.38#5.50"}]}
+{"ID": "R0620:S007", "Aspect_VA": [{"Aspect": "香腸", "VA": "5.33#5.50"}, {"Aspect": "油豆腐", "VA": "6.17#5.17"}, {"Aspect": "高麗菜", "VA": "6.33#5.17"}]}
+{"ID": "R0620:S021", "Aspect_VA": [{"Aspect": "雞肉肉質", "VA": "5.00#5.00"}]}
+{"ID": "R0620:S023", "Aspect_VA": [{"Aspect": "雞肉", "VA": "3.38#5.00"}]}
+{"ID": "R0623:S009", "Aspect_VA": [{"Aspect": "咖哩", "VA": "8.00#8.25"}]}
+{"ID": "R0636:S020", "Aspect_VA": [{"Aspect": "蛋", "VA": "6.38#5.62"}]}
+{"ID": "R0649:S004", "Aspect_VA": [{"Aspect": "無敵星星飯", "VA": "6.75#6.50"}]}
+{"ID": "R0650:S040", "Aspect_VA": [{"Aspect": "馬鈴薯", "VA": "6.75#5.75"}]}
+{"ID": "R0650:S041", "Aspect_VA": [{"Aspect": "BBQ香雞翅", "VA": "5.00#5.00"}]}
+{"ID": "R0650:S042", "Aspect_VA": [{"Aspect": "雞翅", "VA": "4.50#5.00"}]}
+{"ID": "R0651:S001", "Aspect_VA": [{"Aspect": "九華樓烤鴨的CP值", "VA": "6.38#6.12"}]}
+{"ID": "R0652:S027", "Aspect_VA": [{"Aspect": "CP值", "VA": "7.00#7.25"}]}
+{"ID": "R0653:S018", "Aspect_VA": [{"Aspect": "開胃小點", "VA": "6.67#6.50"}]}
+{"ID": "R0659:S006", "Aspect_VA": [{"Aspect": "臭豆腐的口感", "VA": "7.25#6.75"}]}
+{"ID": "R0660:S020", "Aspect_VA": [{"Aspect": "過貓", "VA": "6.50#6.75"}]}
+{"ID": "R0660:S027", "Aspect_VA": [{"Aspect": "味噌湯", "VA": "6.25#5.38"}]}
+{"ID": "R0660:S044", "Aspect_VA": [{"Aspect": "喜知次的脂肪", "VA": "6.67#6.50"}]}
+{"ID": "R0660:S046", "Aspect_VA": [{"Aspect": "價格", "VA": "6.12#5.00"}]}
+{"ID": "R0660:S052", "Aspect_VA": [{"Aspect": "外皮", "VA": "6.50#5.33"}]}
+{"ID": "R0660:S062", "Aspect_VA": [{"Aspect": "鰤魚", "VA": "6.30#6.00"}]}
+{"ID": "R0660:S072", "Aspect_VA": [{"Aspect": "老闆娘", "VA": "6.50#6.25"}]}
+{"ID": "R0668:S004", "Aspect_VA": [{"Aspect": "摩摩喳喳", "VA": "6.17#6.00"}]}
+{"ID": "R0668:S064", "Aspect_VA": [{"Aspect": "月亮蝦餅", "VA": "5.00#5.00"}]}
+{"ID": "R0668:S069", "Aspect_VA": [{"Aspect": "綠咖哩雞", "VA": "7.38#7.25"}]}
+{"ID": "R0669:S016", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.00#5.17"}]}
+{"ID": "R0670:S022", "Aspect_VA": [{"Aspect": "味道", "VA": "4.33#5.50"}]}
+{"ID": "R0671:S009", "Aspect_VA": [{"Aspect": "小黃瓜", "VA": "6.00#5.33"}]}
+{"ID": "R0672:S027", "Aspect_VA": [{"Aspect": "櫻桃鴨腿", "VA": "6.25#5.62"}]}
+{"ID": "R0672:S029", "Aspect_VA": [{"Aspect": "櫻桃鴨腿", "VA": "6.17#6.33"}]}
+{"ID": "R0673:S015", "Aspect_VA": [{"Aspect": "口感", "VA": "6.62#6.50"}]}
+{"ID": "R0675:S041", "Aspect_VA": [{"Aspect": "手工麵包", "VA": "6.38#5.75"}]}
+{"ID": "R0675:S076", "Aspect_VA": [{"Aspect": "義大利麵的價格", "VA": "6.12#5.88"}]}
+{"ID": "R0675:S077", "Aspect_VA": [{"Aspect": "蛤蠣", "VA": "6.00#5.17"}]}
+{"ID": "R0678:S012", "Aspect_VA": [{"Aspect": "培根蛋餅", "VA": "4.00#5.50"}]}
+{"ID": "R0680:S011", "Aspect_VA": [{"Aspect": "菲力牛排的肉質", "VA": "4.83#4.83"}]}
+{"ID": "R0683:S002", "Aspect_VA": [{"Aspect": "焦糖布丁口感", "VA": "5.88#5.62"}]}
+{"ID": "R0685:S017", "Aspect_VA": [{"Aspect": "鴨血", "VA": "4.67#5.67"}]}
+{"ID": "R0686:S004", "Aspect_VA": [{"Aspect": "調酒", "VA": "6.25#6.00"}, {"Aspect": "甜點", "VA": "7.00#6.75"}]}
+{"ID": "R0687:S018", "Aspect_VA": [{"Aspect": "麵", "VA": "6.00#5.17"}]}
+{"ID": "R0687:S027", "Aspect_VA": [{"Aspect": "價錢", "VA": "6.25#5.75"}]}
+{"ID": "R0688:S032", "Aspect_VA": [{"Aspect": "葡萄的甜味", "VA": "6.00#5.50"}]}
+{"ID": "R0688:S034", "Aspect_VA": [{"Aspect": "無花果味道", "VA": "6.50#5.83"}]}
+{"ID": "R0689:S021", "Aspect_VA": [{"Aspect": "品項選擇", "VA": "5.83#6.33"}]}
+{"ID": "R0694:S017", "Aspect_VA": [{"Aspect": "味道", "VA": "5.83#5.33"}]}
+{"ID": "R0694:S071", "Aspect_VA": [{"Aspect": "魚肉", "VA": "6.25#6.50"}]}
+{"ID": "R0695:S019", "Aspect_VA": [{"Aspect": "酸辣湯", "VA": "6.50#6.00"}]}
+{"ID": "R0696:S006", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.00#5.62"}]}
+{"ID": "R0698:S028", "Aspect_VA": [{"Aspect": "雙層乳酪", "VA": "5.88#5.25"}]}
+{"ID": "R0699:S021", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.12#5.12"}]}
+{"ID": "R0699:S024", "Aspect_VA": [{"Aspect": "牛腩湯", "VA": "6.17#5.33"}]}
+{"ID": "R0703:S011", "Aspect_VA": [{"Aspect": "意麵", "VA": "5.50#5.50"}]}
+{"ID": "R0705:S025", "Aspect_VA": [{"Aspect": "腸類", "VA": "6.75#6.25"}]}
+{"ID": "R0705:S033", "Aspect_VA": [{"Aspect": "米苔目的口感", "VA": "6.00#5.50"}]}
+{"ID": "R0707:S091", "Aspect_VA": [{"Aspect": "水針", "VA": "7.25#7.12"}]}
+{"ID": "R0712:S027", "Aspect_VA": [{"Aspect": "烤肥腸", "VA": "6.33#5.50"}]}
+{"ID": "R0712:S029", "Aspect_VA": [{"Aspect": "甜不辣", "VA": "5.17#5.33"}]}
+{"ID": "R0713:S028", "Aspect_VA": [{"Aspect": "香菇", "VA": "6.17#5.50"}]}
+{"ID": "R0714:S017", "Aspect_VA": [{"Aspect": "服務態度", "VA": "5.83#5.33"}]}
+{"ID": "R0714:S053", "Aspect_VA": [{"Aspect": "蔥抓餅", "VA": "6.00#5.50"}]}
+{"ID": "R0717:S009", "Aspect_VA": [{"Aspect": "米腸口感", "VA": "6.50#6.00"}]}
+{"ID": "R0717:S023", "Aspect_VA": [{"Aspect": "米腸", "VA": "5.88#5.25"}]}
+{"ID": "R0722:S017", "Aspect_VA": [{"Aspect": "花生醬", "VA": "6.33#5.50"}]}
+{"ID": "R0726:S022", "Aspect_VA": [{"Aspect": "蒲燒鰻魚", "VA": "6.50#5.50"}]}
+{"ID": "R0731:S006", "Aspect_VA": [{"Aspect": "味道", "VA": "6.83#6.83"}]}
+{"ID": "R0731:S017", "Aspect_VA": [{"Aspect": "外層", "VA": "6.00#5.50"}]}
+{"ID": "R0731:S020", "Aspect_VA": [{"Aspect": "炒麵", "VA": "6.38#6.25"}]}
+{"ID": "R0738:S010", "Aspect_VA": [{"Aspect": "花生捲冰淇淋", "VA": "6.50#6.50"}]}
+{"ID": "R0747:S036", "Aspect_VA": [{"Aspect": "口感", "VA": "3.83#5.50"}]}
+{"ID": "R0751:S021", "Aspect_VA": [{"Aspect": "口味", "VA": "5.88#5.25"}]}
+{"ID": "R0752:S019", "Aspect_VA": [{"Aspect": "調味", "VA": "5.67#5.00"}]}
+{"ID": "R0766:S013", "Aspect_VA": [{"Aspect": "涼菜三拼", "VA": "4.25#4.12"}]}
+{"ID": "R0766:S022", "Aspect_VA": [{"Aspect": "口味", "VA": "6.38#5.88"}]}
+{"ID": "R0766:S026", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.12#5.38"}]}
+{"ID": "R0766:S031", "Aspect_VA": [{"Aspect": "炭焙烏龍", "VA": "5.00#4.75"}]}
+{"ID": "R0771:S036", "Aspect_VA": [{"Aspect": "卡士達醬", "VA": "6.25#5.75"}]}
+{"ID": "R0772:S028", "Aspect_VA": [{"Aspect": "田螺", "VA": "5.88#5.75"}]}
+{"ID": "R0774:S056", "Aspect_VA": [{"Aspect": "價格", "VA": "3.83#4.50"}]}
+{"ID": "R0780:S037", "Aspect_VA": [{"Aspect": "雞汁", "VA": "6.00#6.33"}]}
+{"ID": "R0783:S011", "Aspect_VA": [{"Aspect": "鴨血", "VA": "6.00#5.17"}]}
+{"ID": "R0787:S049", "Aspect_VA": [{"Aspect": "馬鈴薯泥口感", "VA": "6.50#6.50"}]}
+{"ID": "R0787:S066", "Aspect_VA": [{"Aspect": "餅皮", "VA": "6.17#6.00"}]}
+{"ID": "R0795:S009", "Aspect_VA": [{"Aspect": "米飯口感", "VA": "4.17#4.67"}]}
+{"ID": "R0797:S055", "Aspect_VA": [{"Aspect": "口感", "VA": "6.50#6.33"}]}
+{"ID": "R0797:S059", "Aspect_VA": [{"Aspect": "口味", "VA": "6.00#5.80"}]}
+{"ID": "R0799:S010", "Aspect_VA": [{"Aspect": "黑糖拿鐵", "VA": "5.00#4.80"}]}
+{"ID": "R0799:S015", "Aspect_VA": [{"Aspect": "甜度", "VA": "5.17#5.00"}]}
+{"ID": "R0803:S052", "Aspect_VA": [{"Aspect": "汆燙鮮蚵", "VA": "6.33#5.33"}]}
+{"ID": "R0803:S064", "Aspect_VA": [{"Aspect": "甜味", "VA": "6.50#6.50"}]}
+{"ID": "R0805:S027", "Aspect_VA": [{"Aspect": "口感", "VA": "6.00#5.33"}]}
+{"ID": "R0805:S031", "Aspect_VA": [{"Aspect": "乾式熟成帶骨肋眼牛排", "VA": "6.25#6.00"}]}
+{"ID": "R0806:S061", "Aspect_VA": [{"Aspect": "島根米", "VA": "6.38#6.75"}]}
+{"ID": "R0806:S129", "Aspect_VA": [{"Aspect": "竹筍", "VA": "6.12#5.38"}]}
+{"ID": "R0807:S011", "Aspect_VA": [{"Aspect": "麵包", "VA": "6.50#6.83"}]}
+{"ID": "R0807:S029", "Aspect_VA": [{"Aspect": "培根", "VA": "6.20#5.70"}]}
+{"ID": "R0807:S031", "Aspect_VA": [{"Aspect": "麵包體", "VA": "6.00#5.50"}]}
+{"ID": "R0807:S032", "Aspect_VA": [{"Aspect": "麵包", "VA": "6.75#6.75"}]}
+{"ID": "R0807:S046", "Aspect_VA": [{"Aspect": "菠蘿麵包", "VA": "6.90#6.50"}]}
+{"ID": "R0809:S028", "Aspect_VA": [{"Aspect": "口味", "VA": "5.88#5.62"}]}
+{"ID": "R0809:S036", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.25#5.62"}]}
+{"ID": "R0809:S044", "Aspect_VA": [{"Aspect": "蝦仁蒸燒賣", "VA": "6.30#6.00"}]}
+{"ID": "R0809:S046", "Aspect_VA": [{"Aspect": "品質", "VA": "6.00#5.67"}, {"Aspect": "口味", "VA": "6.00#5.67"}]}
+{"ID": "R0812:S003", "Aspect_VA": [{"Aspect": "剝皮辣椒雞鍋", "VA": "6.67#6.67"}]}
+{"ID": "R0813:S018", "Aspect_VA": [{"Aspect": "湯類選擇", "VA": "5.75#5.12"}]}
+{"ID": "R0813:S039", "Aspect_VA": [{"Aspect": "口感", "VA": "6.25#5.62"}]}
+{"ID": "R0814:S007", "Aspect_VA": [{"Aspect": "梅干扣肉", "VA": "6.38#6.00"}]}
+{"ID": "R0814:S009", "Aspect_VA": [{"Aspect": "梅干肉肥肉", "VA": "6.00#5.17"}]}
+{"ID": "R0814:S010", "Aspect_VA": [{"Aspect": "味道", "VA": "6.50#5.62"}]}
+{"ID": "R0814:S018", "Aspect_VA": [{"Aspect": "越光米", "VA": "6.83#6.33"}]}
+{"ID": "R0814:S019", "Aspect_VA": [{"Aspect": "麵體嚼勁", "VA": "6.25#5.62"}]}
+{"ID": "R0816:S010", "Aspect_VA": [{"Aspect": "炸雞外皮", "VA": "6.38#5.50"}]}
+{"ID": "R0817:S010", "Aspect_VA": [{"Aspect": "蛋糕", "VA": "5.62#5.00"}]}
+{"ID": "R0817:S017", "Aspect_VA": [{"Aspect": "蛋糕體", "VA": "5.33#6.17"}]}
+{"ID": "R0819:S048", "Aspect_VA": [{"Aspect": "鮮奶茶", "VA": "6.25#5.88"}]}
+{"ID": "R0819:S055", "Aspect_VA": [{"Aspect": "粉角", "VA": "6.00#5.83"}]}
+{"ID": "R0821:S001", "Aspect_VA": [{"Aspect": "藍帶豬排漢堡", "VA": "6.67#7.00"}]}
+{"ID": "R0823:S011", "Aspect_VA": [{"Aspect": "荔枝紅茶", "VA": "6.12#5.50"}]}
+{"ID": "R0823:S016", "Aspect_VA": [{"Aspect": "烤麩", "VA": "4.50#5.25"}]}
+{"ID": "R0823:S030", "Aspect_VA": [{"Aspect": "排骨口味", "VA": "6.62#6.50"}]}
+{"ID": "R0826:S013", "Aspect_VA": [{"Aspect": "本港蝦醬炸透抽", "VA": "6.30#6.10"}]}
+{"ID": "R0826:S015", "Aspect_VA": [{"Aspect": "本港蝦醬炸透抽口感", "VA": "6.00#5.17"}]}
+{"ID": "R0827:S020", "Aspect_VA": [{"Aspect": "啤酒", "VA": "6.12#5.25"}]}
+{"ID": "R0828:S006", "Aspect_VA": [{"Aspect": "炒麵", "VA": "5.88#5.50"}]}
+{"ID": "R0828:S018", "Aspect_VA": [{"Aspect": "肉燥", "VA": "5.88#5.25"}]}
+{"ID": "R0832:S019", "Aspect_VA": [{"Aspect": "調味", "VA": "4.12#5.00"}]}
+{"ID": "R0833:S047", "Aspect_VA": [{"Aspect": "炙燒握壽司", "VA": "6.25#5.50"}]}
+{"ID": "R0833:S063", "Aspect_VA": [{"Aspect": "脆皮豬五花", "VA": "6.50#7.50"}]}
+{"ID": "R0833:S082", "Aspect_VA": [{"Aspect": "蛋糕類外觀", "VA": "4.00#5.00"}]}
+{"ID": "R0837:S015", "Aspect_VA": [{"Aspect": "辣椒", "VA": "6.83#6.50"}]}
+{"ID": "R0840:S050", "Aspect_VA": [{"Aspect": "豆味", "VA": "6.50#5.00"}, {"Aspect": "豆皮份量", "VA": "6.50#5.00"}]}
+{"ID": "R0840:S072", "Aspect_VA": [{"Aspect": "雞皮", "VA": "6.00#5.00"}]}
+{"ID": "R0840:S091", "Aspect_VA": [{"Aspect": "馬鈴薯", "VA": "5.88#5.38"}]}
+{"ID": "R0842:S032", "Aspect_VA": [{"Aspect": "玉子燒口味", "VA": "4.67#4.17"}]}
+{"ID": "R0843:S015", "Aspect_VA": [{"Aspect": "內餡", "VA": "5.88#5.50"}]}
+{"ID": "R0843:S027", "Aspect_VA": [{"Aspect": "炸醬麵麵條", "VA": "5.75#5.38"}]}
+{"ID": "R0843:S033", "Aspect_VA": [{"Aspect": "豬肉的香氣", "VA": "4.50#4.62"}]}
+{"ID": "R0843:S036", "Aspect_VA": [{"Aspect": "紅豆餡", "VA": "4.83#4.83"}]}
+{"ID": "R0844:S003", "Aspect_VA": [{"Aspect": "口感", "VA": "6.20#5.80"}]}
+{"ID": "R0845:S025", "Aspect_VA": [{"Aspect": "蛋", "VA": "6.00#6.00"}]}
+{"ID": "R0849:S059", "Aspect_VA": [{"Aspect": "份量", "VA": "6.12#5.62"}]}
+{"ID": "R0849:S087", "Aspect_VA": [{"Aspect": "洋蔥", "VA": "6.67#6.67"}]}
+{"ID": "R0849:S127", "Aspect_VA": [{"Aspect": "梅酒", "VA": "6.12#5.50"}]}
+{"ID": "R0850:S104", "Aspect_VA": [{"Aspect": "酒感", "VA": "5.62#5.00"}]}
+{"ID": "R0857:S025", "Aspect_VA": [{"Aspect": "豆乾肉絲", "VA": "4.50#5.00"}]}
+{"ID": "R0862:S020", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.17#5.67"}]}
+{"ID": "R0871:S009", "Aspect_VA": [{"Aspect": "肥肉", "VA": "6.25#6.25"}, {"Aspect": "控肉", "VA": "7.25#7.25"}]}
+{"ID": "R0878:S015", "Aspect_VA": [{"Aspect": "檸檬醬", "VA": "5.67#5.50"}]}
+{"ID": "R0879:S033", "Aspect_VA": [{"Aspect": "肉", "VA": "3.67#4.33"}]}
+{"ID": "R0880:S098", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.25#6.50"}, {"Aspect": "味道", "VA": "4.25#5.00"}]}
+{"ID": "R0880:S134", "Aspect_VA": [{"Aspect": "月見牛壽喜燒", "VA": "3.75#6.25"}]}
+{"ID": "R0880:S139", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.25#5.75"}]}
+{"ID": "R0880:S173", "Aspect_VA": [{"Aspect": "地瓜外層", "VA": "6.75#6.75"}]}
+{"ID": "R0880:S184", "Aspect_VA": [{"Aspect": "鳳爪肉", "VA": "5.88#5.62"}]}
+{"ID": "R0885:S008", "Aspect_VA": [{"Aspect": "麻油香", "VA": "4.00#4.75"}]}
+{"ID": "R0895:S055", "Aspect_VA": [{"Aspect": "布丁", "VA": "5.83#5.50"}]}
+{"ID": "R0901:S030", "Aspect_VA": [{"Aspect": "透抽", "VA": "6.17#5.50"}]}
+{"ID": "R0901:S043", "Aspect_VA": [{"Aspect": "份量", "VA": "6.00#5.25"}]}
+{"ID": "R0907:S014", "Aspect_VA": [{"Aspect": "披薩餅皮", "VA": "5.75#5.50"}]}
+{"ID": "R0910:S029", "Aspect_VA": [{"Aspect": "MUSA泰國料理價格", "VA": "5.50#5.25"}]}
+{"ID": "R0912:S036", "Aspect_VA": [{"Aspect": "可麗露的尺寸", "VA": "4.50#5.25"}]}
+{"ID": "R0912:S047", "Aspect_VA": [{"Aspect": "飲品甜點的風味", "VA": "5.00#5.00"}]}
+{"ID": "R0913:S036", "Aspect_VA": [{"Aspect": "白蘿蔔", "VA": "6.12#5.62"}]}
+{"ID": "R0914:S041", "Aspect_VA": [{"Aspect": "外皮", "VA": "6.00#5.33"}]}
+{"ID": "R0919:S011", "Aspect_VA": [{"Aspect": "開心果的核果味", "VA": "6.12#5.38"}]}
+{"ID": "R0921:S022", "Aspect_VA": [{"Aspect": "蛋餅", "VA": "4.17#5.00"}]}
+{"ID": "R0923:S095", "Aspect_VA": [{"Aspect": "蝦仁", "VA": "6.00#5.00"}]}
+{"ID": "R0923:S096", "Aspect_VA": [{"Aspect": "絲瓜蝦仁湯包", "VA": "6.25#5.88"}]}
+{"ID": "R0933:S025", "Aspect_VA": [{"Aspect": "焦糖巴斯克", "VA": "6.50#6.67"}]}
+{"ID": "R0934:S018", "Aspect_VA": [{"Aspect": "地瓜餡", "VA": "6.62#6.00"}]}
+{"ID": "R0935:S026", "Aspect_VA": [{"Aspect": "口感", "VA": "6.17#5.33"}]}
+{"ID": "R0935:S048", "Aspect_VA": [{"Aspect": "滋味", "VA": "6.50#6.67"}, {"Aspect": "香炒洋菇", "VA": "6.00#5.00"}]}
+{"ID": "R0935:S060", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.25#5.25"}]}
+{"ID": "R0935:S078", "Aspect_VA": [{"Aspect": "巧克力杏仁蛋糕", "VA": "7.25#7.12"}]}
+{"ID": "R0935:S079", "Aspect_VA": [{"Aspect": "可可香氣", "VA": "5.88#5.00"}]}
+{"ID": "R0937:S062", "Aspect_VA": [{"Aspect": "地瓜餅乾", "VA": "6.25#5.62"}]}
+{"ID": "R0939:S005", "Aspect_VA": [{"Aspect": "味道", "VA": "5.88#5.62"}]}
+{"ID": "R0944:S007", "Aspect_VA": [{"Aspect": "芥末脆薯", "VA": "6.67#6.33"}]}
+{"ID": "R0959:S070", "Aspect_VA": [{"Aspect": "香酥蟹肉天婦羅", "VA": "6.00#6.00"}]}
+{"ID": "R0966:S033", "Aspect_VA": [{"Aspect": "鳳爪", "VA": "6.17#5.83"}]}
+{"ID": "R0969:S023", "Aspect_VA": [{"Aspect": "甜度", "VA": "5.38#5.38"}]}
+{"ID": "R0970:S133", "Aspect_VA": [{"Aspect": "那片帕瑪森起司脆片", "VA": "6.62#5.88"}]}
+{"ID": "R0976:S036", "Aspect_VA": [{"Aspect": "肉片", "VA": "6.50#6.00"}]}
+{"ID": "R0982:S002", "Aspect_VA": [{"Aspect": "口感", "VA": "6.25#5.88"}]}
+{"ID": "R0985:S018", "Aspect_VA": [{"Aspect": "牛肉捲餅份量", "VA": "6.25#5.75"}]}
+{"ID": "R0987:S029", "Aspect_VA": [{"Aspect": "雞腿排", "VA": "6.75#6.12"}]}
+{"ID": "R0991:S031", "Aspect_VA": [{"Aspect": "太刀魚", "VA": "5.75#5.50"}]}
+{"ID": "R0997:S007", "Aspect_VA": [{"Aspect": "越式煎蛋", "VA": "7.00#7.25"}]}
+{"ID": "R1004:S129", "Aspect_VA": [{"Aspect": "雞肉油脂", "VA": "6.75#6.50"}]}
+{"ID": "R1004:S159", "Aspect_VA": [{"Aspect": "蛋撻的酥皮", "VA": "6.75#6.38"}]}
+{"ID": "R1015:S004", "Aspect_VA": [{"Aspect": "串燒碳烤種類", "VA": "6.33#6.50"}]}
+{"ID": "R1018:S069", "Aspect_VA": [{"Aspect": "牛肉味", "VA": "6.50#5.50"}]}
+{"ID": "R1018:S093", "Aspect_VA": [{"Aspect": "青梅醋飲", "VA": "6.67#6.33"}]}
+{"ID": "R1019:S019", "Aspect_VA": [{"Aspect": "茶", "VA": "5.75#5.25"}]}
+{"ID": "R1019:S028", "Aspect_VA": [{"Aspect": "甜蝦", "VA": "7.00#7.00"}]}
+{"ID": "R1022:S026", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.00#5.38"}]}
+{"ID": "R1022:S031", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.00#5.50"}]}
+{"ID": "R1024:S011", "Aspect_VA": [{"Aspect": "麵包", "VA": "5.83#4.83"}]}
+{"ID": "R1027:S012", "Aspect_VA": [{"Aspect": "春捲", "VA": "7.00#6.50"}]}
+{"ID": "R1028:S061", "Aspect_VA": [{"Aspect": "美國雪花牛排肉質", "VA": "6.00#5.12"}]}
+{"ID": "R1035:S035", "Aspect_VA": [{"Aspect": "口感", "VA": "3.75#4.88"}]}
+{"ID": "R1153:S001", "Aspect_VA": [{"Aspect": "火鍋料", "VA": "7.00#6.62"}]}
+{"ID": "R1154:S008", "Aspect_VA": [{"Aspect": "生煎包", "VA": "6.12#5.62"}]}
+{"ID": "R1154:S012", "Aspect_VA": [{"Aspect": "上海生煎包", "VA": "4.00#5.38"}]}
+{"ID": "R1154:S020", "Aspect_VA": [{"Aspect": "表皮", "VA": "4.33#5.00"}]}
+{"ID": "R1159:S003", "Aspect_VA": [{"Aspect": "服務", "VA": "6.67#6.33"}]}
+{"ID": "R1159:S034", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.00#5.62"}]}
+{"ID": "R1159:S054", "Aspect_VA": [{"Aspect": "泡菜", "VA": "6.50#6.38"}]}
+{"ID": "R1159:S061", "Aspect_VA": [{"Aspect": "牛肉", "VA": "7.33#6.83"}]}
+{"ID": "R1159:S073", "Aspect_VA": [{"Aspect": "壽司的醋飯", "VA": "6.00#5.17"}]}
+{"ID": "R1159:S091", "Aspect_VA": [{"Aspect": "炸蟹肉丸", "VA": "6.50#6.50"}]}
+{"ID": "R1162:S003", "Aspect_VA": [{"Aspect": "肉盤份量", "VA": "6.62#6.00"}]}
+{"ID": "R1166:S006", "Aspect_VA": [{"Aspect": "鍋物", "VA": "5.88#5.25"}]}
+{"ID": "R1166:S060", "Aspect_VA": [{"Aspect": "老油條", "VA": "5.67#5.33"}]}
+{"ID": "R1166:S077", "Aspect_VA": [{"Aspect": "花枝漿", "VA": "6.12#5.12"}]}
+{"ID": "R1173:S033", "Aspect_VA": [{"Aspect": "桌子", "VA": "4.75#5.00"}]}
+{"ID": "R1173:S043", "Aspect_VA": [{"Aspect": "冰淇淋", "VA": "6.00#5.00"}]}
+{"ID": "R1174:S014", "Aspect_VA": [{"Aspect": "冰摩卡", "VA": "6.00#6.00"}]}
+{"ID": "R1174:S049", "Aspect_VA": [{"Aspect": "無咖啡因飲料", "VA": "6.83#7.50"}]}
+{"ID": "R1175:S013", "Aspect_VA": [{"Aspect": "店內環境", "VA": "6.00#5.00"}]}
+{"ID": "R1175:S074", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.33#6.00"}]}
+{"ID": "R1176:S031", "Aspect_VA": [{"Aspect": "豆干", "VA": "6.00#5.62"}]}
+{"ID": "R1177:S024", "Aspect_VA": [{"Aspect": "魚肉", "VA": "6.12#5.50"}]}
+{"ID": "R1177:S041", "Aspect_VA": [{"Aspect": "調味", "VA": "4.20#5.40"}]}
+{"ID": "R1183:S009", "Aspect_VA": [{"Aspect": "義大利麵披薩燉飯", "VA": "6.33#5.33"}]}
+{"ID": "R1183:S034", "Aspect_VA": [{"Aspect": "海鮮", "VA": "7.00#7.17"}]}
+{"ID": "R1184:S008", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.38#6.25"}]}
+{"ID": "R1184:S012", "Aspect_VA": [{"Aspect": "麻油雞的湯頭", "VA": "6.75#6.50"}]}
+{"ID": "R1186:S009", "Aspect_VA": [{"Aspect": "三色豆花", "VA": "7.00#7.25"}]}
+{"ID": "R1188:S014", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.17#6.17"}]}
+{"ID": "R1188:S019", "Aspect_VA": [{"Aspect": "叉燒", "VA": "6.00#5.12"}]}
+{"ID": "R1189:S038", "Aspect_VA": [{"Aspect": "海鮮丼飯", "VA": "6.38#5.88"}]}
+{"ID": "R1189:S040", "Aspect_VA": [{"Aspect": "生魚片", "VA": "5.75#5.00"}]}
+{"ID": "R1189:S058", "Aspect_VA": [{"Aspect": "干貝握壽司", "VA": "6.00#6.00"}]}
+{"ID": "R1191:S026", "Aspect_VA": [{"Aspect": "餐廳座位數", "VA": "4.17#4.67"}]}
+{"ID": "R1192:S016", "Aspect_VA": [{"Aspect": "味噌湯份量", "VA": "5.62#5.62"}]}
+{"ID": "R1194:S013", "Aspect_VA": [{"Aspect": "珍珠", "VA": "5.75#5.25"}]}
+{"ID": "R1195:S032", "Aspect_VA": [{"Aspect": "外皮", "VA": "6.12#5.38"}]}
+{"ID": "R1201:S016", "Aspect_VA": [{"Aspect": "麵", "VA": "6.50#6.00"}]}
+{"ID": "R1202:S009", "Aspect_VA": [{"Aspect": "快炒類的料理", "VA": "6.62#6.12"}]}
+{"ID": "R1204:S003", "Aspect_VA": [{"Aspect": "老獅擔仔麵", "VA": "5.67#5.17"}]}
+{"ID": "R1207:S031", "Aspect_VA": [{"Aspect": "地瓜球", "VA": "5.88#5.00"}]}
+{"ID": "R1208:S052", "Aspect_VA": [{"Aspect": "奶油味", "VA": "6.00#5.25"}]}
+{"ID": "R1208:S059", "Aspect_VA": [{"Aspect": "布里歐許香氣", "VA": "5.50#5.25"}]}
+{"ID": "R1208:S060", "Aspect_VA": [{"Aspect": "布里歐許口感", "VA": "3.88#5.00"}]}
+{"ID": "R1208:S088", "Aspect_VA": [{"Aspect": "酒味", "VA": "6.17#6.67"}]}
+{"ID": "R1208:S090", "Aspect_VA": [{"Aspect": "馬斯卡朋乳酪的香氣", "VA": "3.33#6.50"}]}
+{"ID": "R1214:S043", "Aspect_VA": [{"Aspect": "油蔥酥", "VA": "6.50#6.62"}]}
+{"ID": "R1215:S057", "Aspect_VA": [{"Aspect": "蒜香", "VA": "6.25#5.25"}]}
+{"ID": "R1215:S059", "Aspect_VA": [{"Aspect": "涼麵", "VA": "5.88#5.62"}]}
+{"ID": "R1218:S001", "Aspect_VA": [{"Aspect": "泡麵", "VA": "6.60#6.20"}]}
+{"ID": "R1220:S035", "Aspect_VA": [{"Aspect": "米粒的口感", "VA": "6.75#6.00"}]}
+{"ID": "R1221:S002", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.12#5.25"}]}
+{"ID": "R1222:S012", "Aspect_VA": [{"Aspect": "臭豆腐炒飯", "VA": "6.00#5.25"}]}
+{"ID": "R1222:S021", "Aspect_VA": [{"Aspect": "臭豆腐味道", "VA": "6.00#5.00"}]}
+{"ID": "R1223:S009", "Aspect_VA": [{"Aspect": "自製蘋果醬", "VA": "5.62#5.25"}]}
+{"ID": "R1223:S031", "Aspect_VA": [{"Aspect": "沙拉蛋內餡", "VA": "5.88#5.25"}]}
+{"ID": "R1227:S028", "Aspect_VA": [{"Aspect": "玉子燒", "VA": "7.00#6.50"}]}
+{"ID": "R1227:S048", "Aspect_VA": [{"Aspect": "雞皮捲日本大蔥", "VA": "7.12#6.88"}]}
+{"ID": "R1233:S023", "Aspect_VA": [{"Aspect": "肉量", "VA": "6.38#6.12"}]}
+{"ID": "R1233:S037", "Aspect_VA": [{"Aspect": "湯", "VA": "6.00#5.62"}]}
+{"ID": "R1236:S005", "Aspect_VA": [{"Aspect": "海鮮", "VA": "6.50#6.17"}]}
+{"ID": "R1241:S210", "Aspect_VA": [{"Aspect": "韓式涼麵", "VA": "5.50#5.25"}]}
+{"ID": "R1242:S015", "Aspect_VA": [{"Aspect": "價格", "VA": "6.38#6.50"}]}
+{"ID": "R1243:S032", "Aspect_VA": [{"Aspect": "凱吉思", "VA": "6.67#5.83"}]}
+{"ID": "R1252:S028", "Aspect_VA": [{"Aspect": "配料", "VA": "5.80#5.20"}]}
+{"ID": "R1255:S014", "Aspect_VA": [{"Aspect": "服務", "VA": "6.50#5.75"}, {"Aspect": "湯", "VA": "6.75#6.50"}]}
+{"ID": "R1256:S052", "Aspect_VA": [{"Aspect": "番茄炒蛋", "VA": "5.38#5.88"}]}
+{"ID": "R1357:S010", "Aspect_VA": [{"Aspect": "中東手工口袋餅", "VA": "3.83#4.50"}]}
+{"ID": "R1359:S023", "Aspect_VA": [{"Aspect": "菜盤種類", "VA": "6.25#5.62"}]}
+{"ID": "R1359:S041", "Aspect_VA": [{"Aspect": "泰式奶茶冰淇淋", "VA": "6.33#6.33"}]}
+{"ID": "R1360:S043", "Aspect_VA": [{"Aspect": "味道", "VA": "3.88#4.62"}]}
+{"ID": "R1368:S002", "Aspect_VA": [{"Aspect": "裝潢", "VA": "5.75#5.00"}]}
+{"ID": "R1371:S035", "Aspect_VA": [{"Aspect": "古早味招牌肉粥", "VA": "6.12#6.12"}]}
+{"ID": "R1383:S082", "Aspect_VA": [{"Aspect": "整體", "VA": "5.88#5.38"}]}
+{"ID": "R1383:S103", "Aspect_VA": [{"Aspect": "冰淇淋", "VA": "5.75#5.12"}]}
+{"ID": "R1384:S100", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.75#5.50"}]}
+{"ID": "R1384:S107", "Aspect_VA": [{"Aspect": "河豚皮", "VA": "5.50#5.25"}]}
+{"ID": "R1384:S117", "Aspect_VA": [{"Aspect": "飯", "VA": "6.25#6.25"}]}
+{"ID": "R1385:S023", "Aspect_VA": [{"Aspect": "鐵板麵的口感", "VA": "6.75#6.25"}]}
+{"ID": "R1395:S029", "Aspect_VA": [{"Aspect": "上菜速度", "VA": "5.83#5.50"}]}
+{"ID": "R1395:S071", "Aspect_VA": [{"Aspect": "蛤蜊", "VA": "6.83#7.00"}]}
+{"ID": "R1396:S013", "Aspect_VA": [{"Aspect": "烤布蕾味道", "VA": "6.00#5.38"}, {"Aspect": "甜味", "VA": "5.38#4.88"}]}
+{"ID": "R1408:S025", "Aspect_VA": [{"Aspect": "味道", "VA": "6.17#5.83"}]}
+{"ID": "R1409:S027", "Aspect_VA": [{"Aspect": "品項選擇", "VA": "5.75#5.25"}]}
+{"ID": "R1409:S045", "Aspect_VA": [{"Aspect": "滷肉飯", "VA": "5.67#5.00"}, {"Aspect": "膠質感", "VA": "5.83#5.17"}]}
+{"ID": "R1409:S057", "Aspect_VA": [{"Aspect": "雞肉", "VA": "6.25#5.00"}]}
+{"ID": "R1409:S087", "Aspect_VA": [{"Aspect": "水蓮", "VA": "6.60#6.60"}]}
+{"ID": "R1413:S073", "Aspect_VA": [{"Aspect": "水芙蓉南大店的評分", "VA": "4.75#5.25"}]}
+{"ID": "R1420:S040", "Aspect_VA": [{"Aspect": "臭豆腐", "VA": "4.25#5.50"}]}
+{"ID": "R1422:S010", "Aspect_VA": [{"Aspect": "酸辣湯", "VA": "6.12#5.50"}]}
+{"ID": "R1428:S016", "Aspect_VA": [{"Aspect": "松露味", "VA": "6.00#5.62"}]}
+{"ID": "R1434:S002", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.88#6.50"}]}
+{"ID": "R1434:S008", "Aspect_VA": [{"Aspect": "餐廳", "VA": "6.00#5.75"}]}
+{"ID": "R1438:S002", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.00#5.62"}]}
+{"ID": "R1439:S009", "Aspect_VA": [{"Aspect": "餐點味道", "VA": "2.50#7.00"}]}
+{"ID": "R1439:S010", "Aspect_VA": [{"Aspect": "酸辣甜鹹的平衡感", "VA": "3.12#5.75"}]}
+{"ID": "R1439:S011", "Aspect_VA": [{"Aspect": "東南亞料理", "VA": "6.00#6.00"}]}
+{"ID": "R1439:S037", "Aspect_VA": [{"Aspect": "甜點", "VA": "6.88#6.88"}]}
+{"ID": "R1439:S044", "Aspect_VA": [{"Aspect": "檸檬塔", "VA": "6.12#5.38"}]}
+{"ID": "R1440:S008", "Aspect_VA": [{"Aspect": "菜色風味", "VA": "4.00#4.90"}]}
+{"ID": "R1442:S007", "Aspect_VA": [{"Aspect": "配料", "VA": "6.00#5.50"}]}
+{"ID": "R1445:S014", "Aspect_VA": [{"Aspect": "生魚片", "VA": "5.88#5.88"}]}
+{"ID": "R1451:S005", "Aspect_VA": [{"Aspect": "調味", "VA": "5.88#5.50"}]}
+{"ID": "R1451:S008", "Aspect_VA": [{"Aspect": "香煎鱸魚佐松露炒蛋", "VA": "6.38#6.00"}]}
+{"ID": "R1452:S001", "Aspect_VA": [{"Aspect": "服務", "VA": "6.62#6.38"}]}
+{"ID": "R1453:S001", "Aspect_VA": [{"Aspect": "嫩雞", "VA": "6.50#6.00"}]}
+{"ID": "R1457:S013", "Aspect_VA": [{"Aspect": "明太子麵包", "VA": "7.30#7.00"}]}
+{"ID": "R1458:S002", "Aspect_VA": [{"Aspect": "漢堡排", "VA": "6.00#5.38"}]}
+{"ID": "R1458:S005", "Aspect_VA": [{"Aspect": "水果青茶冰沙", "VA": "5.80#5.30"}]}
+{"ID": "R1459:S009", "Aspect_VA": [{"Aspect": "甜點", "VA": "5.88#5.50"}]}
+{"ID": "R1462:S026", "Aspect_VA": [{"Aspect": "餐點", "VA": "5.75#5.50"}]}
+{"ID": "R1463:S003", "Aspect_VA": [{"Aspect": "餐點口味", "VA": "6.00#5.17"}]}
+{"ID": "R1467:S020", "Aspect_VA": [{"Aspect": "酥炸老墨鹹蛋魷魚", "VA": "6.25#5.50"}]}
+{"ID": "R1473:S002", "Aspect_VA": [{"Aspect": "炸雞胸肉塊表現", "VA": "5.75#5.50"}]}
+{"ID": "R1474:S001", "Aspect_VA": [{"Aspect": "雙人套餐份量", "VA": "6.12#5.75"}]}
+{"ID": "R1475:S007", "Aspect_VA": [{"Aspect": "餐點價格", "VA": "4.00#4.33"}]}
+{"ID": "R1477:S002", "Aspect_VA": [{"Aspect": "冰咖啡", "VA": "2.75#6.25"}]}
+{"ID": "R1480:S011", "Aspect_VA": [{"Aspect": "雞肉", "VA": "5.62#5.50"}]}
+{"ID": "R1480:S013", "Aspect_VA": [{"Aspect": "餐點品質", "VA": "5.83#5.00"}]}
+{"ID": "R1482:S002", "Aspect_VA": [{"Aspect": "湯", "VA": "4.00#4.83"}]}
+{"ID": "R1482:S019", "Aspect_VA": [{"Aspect": "冰淇淋布朗尼", "VA": "7.17#6.50"}]}
+{"ID": "R1483:S002", "Aspect_VA": [{"Aspect": "食物", "VA": "6.00#5.50"}]}
+{"ID": "R1483:S014", "Aspect_VA": [{"Aspect": "蛤蜊數量", "VA": "4.30#4.50"}]}
+{"ID": "R1484:S006", "Aspect_VA": [{"Aspect": "烙餅", "VA": "6.83#6.67"}]}
+{"ID": "R1485:S005", "Aspect_VA": [{"Aspect": "無花果", "VA": "6.50#6.67"}]}
+{"ID": "R1485:S007", "Aspect_VA": [{"Aspect": "地瓜藜麥", "VA": "6.25#6.00"}]}
+{"ID": "R1489:S009", "Aspect_VA": [{"Aspect": "紅蟳粥膏", "VA": "6.62#6.12"}]}
+{"ID": "R1489:S014", "Aspect_VA": [{"Aspect": "空心菜炒牛肉", "VA": "5.67#5.50"}]}
+{"ID": "R1489:S015", "Aspect_VA": [{"Aspect": "沙蝦", "VA": "6.17#5.67"}]}
+{"ID": "R1489:S017", "Aspect_VA": [{"Aspect": "餐廳現場接待態度", "VA": "3.25#5.12"}]}
+{"ID": "R1492:S000", "Aspect_VA": [{"Aspect": "粥", "VA": "7.00#7.00"}]}
+{"ID": "R1493:S007", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.38#6.12"}]}
+{"ID": "R1493:S011", "Aspect_VA": [{"Aspect": "粥", "VA": "6.50#6.33"}]}
+{"ID": "R1494:S000", "Aspect_VA": [{"Aspect": "餐廳員工的服務", "VA": "5.88#5.38"}]}
+{"ID": "R1495:S003", "Aspect_VA": [{"Aspect": "土雞粥", "VA": "5.88#5.25"}]}
+{"ID": "R1497:S009", "Aspect_VA": [{"Aspect": "肉質", "VA": "5.88#5.38"}]}
+{"ID": "R1502:S004", "Aspect_VA": [{"Aspect": "金沙豆腐", "VA": "6.83#6.33"}]}
+{"ID": "R1504:S009", "Aspect_VA": [{"Aspect": "粥的味道", "VA": "6.30#6.00"}]}
+{"ID": "R1504:S014", "Aspect_VA": [{"Aspect": "蝦子", "VA": "6.50#6.50"}]}
+{"ID": "R1506:S011", "Aspect_VA": [{"Aspect": "紅蟳粥蟹腿粥", "VA": "6.83#7.00"}]}
+{"ID": "R1506:S019", "Aspect_VA": [{"Aspect": "菜色花樣", "VA": "6.50#6.17"}]}
+{"ID": "R1507:S008", "Aspect_VA": [{"Aspect": "燉飯", "VA": "6.17#5.83"}]}
+{"ID": "R1509:S019", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.75#6.50"}]}
+{"ID": "R1509:S021", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.12#5.62"}]}
+{"ID": "R1509:S022", "Aspect_VA": [{"Aspect": "飯", "VA": "6.17#6.00"}]}
+{"ID": "R1509:S025", "Aspect_VA": [{"Aspect": "蝦頭", "VA": "6.75#6.38"}]}
+{"ID": "R1510:S004", "Aspect_VA": [{"Aspect": "伊比利豬", "VA": "6.25#6.00"}]}
+{"ID": "R1512:S021", "Aspect_VA": [{"Aspect": "竹筍燉飯口感", "VA": "6.00#5.38"}]}
+{"ID": "R1518:S001", "Aspect_VA": [{"Aspect": "店內氣氛", "VA": "6.12#5.50"}]}
+{"ID": "R1521:S010", "Aspect_VA": [{"Aspect": "桑葚汁", "VA": "5.88#5.50"}]}
+{"ID": "R1522:S002", "Aspect_VA": [{"Aspect": "澎湖斑節蝦", "VA": "6.88#7.12"}]}
+{"ID": "R1524:S008", "Aspect_VA": [{"Aspect": "鯖魚下巴", "VA": "6.33#5.83"}]}
+{"ID": "R1524:S051", "Aspect_VA": [{"Aspect": "餐點的品質", "VA": "3.83#5.50"}]}
+{"ID": "R1525:S001", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.00#5.75"}]}
+{"ID": "R1527:S017", "Aspect_VA": [{"Aspect": "魚肉", "VA": "6.17#5.33"}]}
+{"ID": "R1530:S009", "Aspect_VA": [{"Aspect": "餐廳服務品質", "VA": "3.25#5.38"}]}
+{"ID": "R1539:S003", "Aspect_VA": [{"Aspect": "普羅旺斯燉菜", "VA": "6.75#6.12"}]}
+{"ID": "R1539:S006", "Aspect_VA": [{"Aspect": "沾醬", "VA": "5.83#5.83"}]}
+{"ID": "R1539:S014", "Aspect_VA": [{"Aspect": "烤飯糰", "VA": "5.75#5.00"}]}
+{"ID": "R1539:S026", "Aspect_VA": [{"Aspect": "前菜", "VA": "6.33#6.00"}]}
+{"ID": "R1540:S003", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.88#6.38"}]}
+{"ID": "R1542:S005", "Aspect_VA": [{"Aspect": "土雞肉", "VA": "4.12#4.50"}]}
+{"ID": "R1545:S011", "Aspect_VA": [{"Aspect": "生菜", "VA": "5.88#5.38"}]}
+{"ID": "R1545:S022", "Aspect_VA": [{"Aspect": "食材味道", "VA": "6.38#5.88"}]}
+{"ID": "R1547:S003", "Aspect_VA": [{"Aspect": "龍蝦", "VA": "4.12#4.75"}]}
+{"ID": "R1549:S009", "Aspect_VA": [{"Aspect": "大草蝦尺寸", "VA": "3.75#5.75"}]}
+{"ID": "R1549:S013", "Aspect_VA": [{"Aspect": "大草蝦", "VA": "5.70#5.30"}]}
+{"ID": "R1550:S011", "Aspect_VA": [{"Aspect": "烤田螺水準", "VA": "6.33#6.00"}]}
+{"ID": "R1550:S017", "Aspect_VA": [{"Aspect": "茉香綠茶", "VA": "4.62#5.12"}]}
+{"ID": "R1550:S018", "Aspect_VA": [{"Aspect": "茉香綠茶", "VA": "3.62#5.50"}]}
+{"ID": "R1551:S003", "Aspect_VA": [{"Aspect": "海鮮", "VA": "6.67#6.00"}]}
+{"ID": "R1552:S010", "Aspect_VA": [{"Aspect": "海鮮料", "VA": "6.00#5.17"}, {"Aspect": "披薩起司", "VA": "6.00#5.17"}]}
+{"ID": "R1555:S010", "Aspect_VA": [{"Aspect": "奇異果汁", "VA": "3.75#5.38"}]}
+{"ID": "R1557:S002", "Aspect_VA": [{"Aspect": "披薩", "VA": "4.75#5.50"}]}
+{"ID": "R1557:S005", "Aspect_VA": [{"Aspect": "薯條", "VA": "6.00#5.50"}]}
+{"ID": "R1557:S006", "Aspect_VA": [{"Aspect": "餐點品質", "VA": "5.75#5.62"}]}
+{"ID": "R1558:S002", "Aspect_VA": [{"Aspect": "服務人員", "VA": "6.00#5.38"}]}
+{"ID": "R1559:S004", "Aspect_VA": [{"Aspect": "帆立貝義大利麵味道", "VA": "4.17#5.00"}]}
+{"ID": "R1561:S004", "Aspect_VA": [{"Aspect": "上菜速度", "VA": "6.25#5.62"}]}
+{"ID": "R1561:S013", "Aspect_VA": [{"Aspect": "雞肉", "VA": "5.88#5.25"}]}
+{"ID": "R1562:S008", "Aspect_VA": [{"Aspect": "牛排口感", "VA": "6.88#7.12"}]}
+{"ID": "R1562:S009", "Aspect_VA": [{"Aspect": "牛排口感", "VA": "6.25#5.62"}]}
+{"ID": "R1562:S010", "Aspect_VA": [{"Aspect": "飲料", "VA": "5.70#5.30"}]}
+{"ID": "R1564:S003", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.50#6.62"}]}
+{"ID": "R1565:S007", "Aspect_VA": [{"Aspect": "餐廳氣氛", "VA": "5.50#5.17"}]}
+{"ID": "R1566:S000", "Aspect_VA": [{"Aspect": "出餐速度", "VA": "6.12#6.25"}]}
+{"ID": "R1567:S002", "Aspect_VA": [{"Aspect": "明太子起士披薩", "VA": "5.67#5.50"}]}
+{"ID": "R1567:S004", "Aspect_VA": [{"Aspect": "鮮奶茶", "VA": "5.50#5.00"}]}
+{"ID": "R1567:S008", "Aspect_VA": [{"Aspect": "皮", "VA": "6.17#5.83"}]}
+{"ID": "R1568:S001", "Aspect_VA": [{"Aspect": "食材", "VA": "5.88#5.25"}]}
+{"ID": "R1570:S017", "Aspect_VA": [{"Aspect": "服務人員的服務", "VA": "6.50#6.25"}]}
+{"ID": "R1574:S004", "Aspect_VA": [{"Aspect": "紅蟳米糕味道", "VA": "4.67#4.33"}]}
+{"ID": "R1576:S010", "Aspect_VA": [{"Aspect": "奶酪口感", "VA": "6.17#5.83"}]}
+{"ID": "R1588:S004", "Aspect_VA": [{"Aspect": "牛小排份量", "VA": "6.00#5.38"}]}
+{"ID": "R1588:S010", "Aspect_VA": [{"Aspect": "烤櫛瓜調味", "VA": "6.00#5.50"}]}
+{"ID": "R1589:S014", "Aspect_VA": [{"Aspect": "泡菜烏龍麵份量", "VA": "6.17#6.17"}]}
+{"ID": "R1591:S008", "Aspect_VA": [{"Aspect": "烤魷魚的味道", "VA": "5.62#5.12"}]}
+{"ID": "R1592:S017", "Aspect_VA": [{"Aspect": "烤串", "VA": "6.67#6.33"}]}
+{"ID": "R1593:S002", "Aspect_VA": [{"Aspect": "雞肉串肉質", "VA": "3.83#6.50"}]}
+{"ID": "R1593:S004", "Aspect_VA": [{"Aspect": "海鮮丼", "VA": "3.20#5.10"}]}
+{"ID": "R1594:S000", "Aspect_VA": [{"Aspect": "招牌丼飯", "VA": "4.75#5.00"}]}
+{"ID": "R1598:S001", "Aspect_VA": [{"Aspect": "醋飯口味", "VA": "3.90#5.40"}]}
+{"ID": "R1598:S003", "Aspect_VA": [{"Aspect": "配菜口味", "VA": "3.38#5.38"}]}
+{"ID": "R1610:S010", "Aspect_VA": [{"Aspect": "佛跳牆用料", "VA": "6.50#6.12"}]}
+{"ID": "R1612:S002", "Aspect_VA": [{"Aspect": "太平町玫瑰蝦", "VA": "7.00#7.00"}]}
+{"ID": "R1612:S022", "Aspect_VA": [{"Aspect": "牛臉頰肉", "VA": "6.62#6.38"}]}
+{"ID": "R1612:S024", "Aspect_VA": [{"Aspect": "鳳梨金棗芋泥口味", "VA": "6.00#5.17"}]}
+{"ID": "R1615:S002", "Aspect_VA": [{"Aspect": "菜色", "VA": "6.12#5.88"}]}
+{"ID": "R1617:S069", "Aspect_VA": [{"Aspect": "口感", "VA": "6.25#6.00"}]}
+{"ID": "R1618:S020", "Aspect_VA": [{"Aspect": "炒水蓮調味", "VA": "4.75#5.00"}]}
+{"ID": "R1621:S006", "Aspect_VA": [{"Aspect": "赤鯮", "VA": "4.25#4.75"}]}
+{"ID": "R1621:S009", "Aspect_VA": [{"Aspect": "螺肉蒜", "VA": "6.38#6.25"}]}
+{"ID": "R1622:S015", "Aspect_VA": [{"Aspect": "口感", "VA": "5.75#5.38"}]}
+{"ID": "R1624:S008", "Aspect_VA": [{"Aspect": "菜色表現", "VA": "5.67#5.50"}]}
+{"ID": "R1624:S017", "Aspect_VA": [{"Aspect": "佛跳牆湯底", "VA": "6.00#5.25"}]}
+{"ID": "R1628:S007", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.12#5.50"}]}
+{"ID": "R1628:S012", "Aspect_VA": [{"Aspect": "餐點的印象", "VA": "3.67#6.33"}]}
+{"ID": "R1629:S008", "Aspect_VA": [{"Aspect": "餐點價錢", "VA": "4.12#5.50"}]}
+{"ID": "R1630:S009", "Aspect_VA": [{"Aspect": "餐廳廁所", "VA": "5.75#5.25"}]}
+{"ID": "R1631:S004", "Aspect_VA": [{"Aspect": "漢堡肉", "VA": "3.33#5.83"}]}
+{"ID": "R1631:S006", "Aspect_VA": [{"Aspect": "漢堡", "VA": "4.12#5.50"}]}
+{"ID": "R1631:S007", "Aspect_VA": [{"Aspect": "熱壓吐司", "VA": "6.38#5.88"}]}
+{"ID": "R1632:S012", "Aspect_VA": [{"Aspect": "牛排熟度", "VA": "5.50#5.00"}]}
+{"ID": "R1635:S008", "Aspect_VA": [{"Aspect": "濃湯", "VA": "6.50#6.25"}]}
+{"ID": "R1642:S009", "Aspect_VA": [{"Aspect": "大蝦風味", "VA": "5.75#5.50"}]}
+{"ID": "R1642:S010", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.00#5.70"}]}
+{"ID": "R1642:S011", "Aspect_VA": [{"Aspect": "燉飯", "VA": "4.50#4.75"}]}
+{"ID": "R1650:S021", "Aspect_VA": [{"Aspect": "飯粒口感", "VA": "6.33#5.67"}]}
+{"ID": "R1651:S007", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.75#6.12"}]}
+{"ID": "R1652:S010", "Aspect_VA": [{"Aspect": "焦糖布丁口感", "VA": "6.62#6.25"}]}
+{"ID": "R1653:S005", "Aspect_VA": [{"Aspect": "濃湯", "VA": "6.67#6.17"}]}
+{"ID": "R1659:S003", "Aspect_VA": [{"Aspect": "干貝海鮮義大利麵", "VA": "6.75#6.38"}]}
+{"ID": "R1665:S006", "Aspect_VA": [{"Aspect": "義大利麵", "VA": "6.00#5.50"}]}
+{"ID": "R1665:S012", "Aspect_VA": [{"Aspect": "酥皮外層", "VA": "6.17#5.17"}]}
+{"ID": "R1667:S004", "Aspect_VA": [{"Aspect": "白醬", "VA": "4.00#5.50"}]}
+{"ID": "R1670:S002", "Aspect_VA": [{"Aspect": "高麗菜", "VA": "6.50#6.00"}]}
+{"ID": "R1670:S006", "Aspect_VA": [{"Aspect": "味噌湯味道", "VA": "4.00#5.50"}]}
+{"ID": "R1671:S008", "Aspect_VA": [{"Aspect": "炸物", "VA": "2.83#6.67"}]}
+{"ID": "R1672:S005", "Aspect_VA": [{"Aspect": "蕎麥冷麵", "VA": "6.00#5.62"}]}
+{"ID": "R1674:S010", "Aspect_VA": [{"Aspect": "草莓寒天凍", "VA": "6.83#6.33"}]}
+{"ID": "R1676:S011", "Aspect_VA": [{"Aspect": "豬排餐", "VA": "6.25#5.50"}]}
+{"ID": "R1679:S004", "Aspect_VA": [{"Aspect": "高麗菜絲", "VA": "6.17#6.00"}]}
+{"ID": "R1686:S005", "Aspect_VA": [{"Aspect": "紅咖哩的口味", "VA": "5.88#5.50"}]}
+{"ID": "R1689:S016", "Aspect_VA": [{"Aspect": "乾扁四季豆", "VA": "6.62#6.25"}]}
+{"ID": "R1689:S022", "Aspect_VA": [{"Aspect": "芋頭", "VA": "6.50#6.38"}]}
+{"ID": "R1690:S012", "Aspect_VA": [{"Aspect": "盤菜調味", "VA": "4.33#5.00"}]}
+{"ID": "R1691:S003", "Aspect_VA": [{"Aspect": "雞肉", "VA": "4.50#5.33"}]}
+{"ID": "R1691:S010", "Aspect_VA": [{"Aspect": "內餡口感", "VA": "6.33#5.50"}, {"Aspect": "手工香酥花枝蝦餅外皮", "VA": "6.17#5.33"}]}
+{"ID": "R1691:S019", "Aspect_VA": [{"Aspect": "香腸臘腸", "VA": "4.50#4.75"}]}
+{"ID": "R1698:S003", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.12#5.50"}]}
+{"ID": "R1698:S012", "Aspect_VA": [{"Aspect": "蔥爆牛肉", "VA": "6.00#5.50"}]}
+{"ID": "R1700:S002", "Aspect_VA": [{"Aspect": "扣肉味道", "VA": "6.38#6.25"}]}
+{"ID": "R1700:S003", "Aspect_VA": [{"Aspect": "肥肉", "VA": "6.12#5.62"}]}
+{"ID": "R1708:S011", "Aspect_VA": [{"Aspect": "羊肉爐的味道", "VA": "3.50#6.00"}]}
+{"ID": "R1708:S012", "Aspect_VA": [{"Aspect": "羊肉品質", "VA": "3.75#5.12"}]}
+{"ID": "R1710:S012", "Aspect_VA": [{"Aspect": "高麗菜", "VA": "4.00#5.38"}]}
+{"ID": "R1711:S006", "Aspect_VA": [{"Aspect": "中卷菜圃蛋", "VA": "6.38#5.75"}]}
+{"ID": "R1712:S005", "Aspect_VA": [{"Aspect": "蛋份量", "VA": "5.67#5.33"}]}
+{"ID": "R1713:S008", "Aspect_VA": [{"Aspect": "羊肉", "VA": "5.75#5.12"}]}
+{"ID": "R1715:S004", "Aspect_VA": [{"Aspect": "母蝦肉質", "VA": "5.75#5.38"}]}
+{"ID": "R1718:S013", "Aspect_VA": [{"Aspect": "酸梅汁", "VA": "6.83#6.17"}]}
+{"ID": "R1719:S008", "Aspect_VA": [{"Aspect": "麻油蝦湯汁", "VA": "6.00#5.17"}]}
+{"ID": "R1719:S010", "Aspect_VA": [{"Aspect": "檸檬蝦", "VA": "5.83#5.50"}]}
+{"ID": "R1726:S003", "Aspect_VA": [{"Aspect": "蒜頭蝦味道", "VA": "6.12#5.50"}]}
+{"ID": "R1726:S008", "Aspect_VA": [{"Aspect": "餐點", "VA": "4.00#5.40"}]}
+{"ID": "R1727:S003", "Aspect_VA": [{"Aspect": "蝦子料理", "VA": "6.33#6.17"}]}
+{"ID": "R1747:S004", "Aspect_VA": [{"Aspect": "小菜", "VA": "6.83#6.83"}]}
+{"ID": "R1748:S014", "Aspect_VA": [{"Aspect": "紅棗飯", "VA": "4.00#4.50"}]}
+{"ID": "R1754:S002", "Aspect_VA": [{"Aspect": "梅干菜", "VA": "7.00#6.62"}]}
+{"ID": "R1756:S003", "Aspect_VA": [{"Aspect": "排骨", "VA": "4.50#5.00"}]}
+{"ID": "R1756:S004", "Aspect_VA": [{"Aspect": "雞肉", "VA": "4.25#4.62"}]}
+{"ID": "R1757:S007", "Aspect_VA": [{"Aspect": "紅棗雞湯", "VA": "6.25#5.62"}]}
+{"ID": "R1760:S030", "Aspect_VA": [{"Aspect": "紅棗雞湯湯頭", "VA": "6.00#5.25"}]}
+{"ID": "R1762:S011", "Aspect_VA": [{"Aspect": "雞肉類的菜", "VA": "4.12#5.25"}]}
+{"ID": "R1763:S009", "Aspect_VA": [{"Aspect": "炒水蓮油量", "VA": "4.67#5.33"}]}
+{"ID": "R1767:S011", "Aspect_VA": [{"Aspect": "佶醬排骨", "VA": "3.67#6.67"}]}
+{"ID": "R1767:S017", "Aspect_VA": [{"Aspect": "紅棗的香氣", "VA": "6.00#5.62"}]}
+{"ID": "R1768:S022", "Aspect_VA": [{"Aspect": "飯", "VA": "3.50#5.00"}]}
+{"ID": "R1768:S027", "Aspect_VA": [{"Aspect": "豆皮", "VA": "4.38#5.50"}]}
+{"ID": "R1769:S014", "Aspect_VA": [{"Aspect": "生魚片拼盤", "VA": "6.67#6.00"}]}
+{"ID": "R1769:S018", "Aspect_VA": [{"Aspect": "龍蝦", "VA": "7.00#6.70"}]}
+{"ID": "R1769:S035", "Aspect_VA": [{"Aspect": "海鮮煎餅味道", "VA": "6.00#5.75"}]}
+{"ID": "R1772:S005", "Aspect_VA": [{"Aspect": "唐揚雞", "VA": "5.62#5.38"}]}
+{"ID": "R1772:S006", "Aspect_VA": [{"Aspect": "蘆筍手卷", "VA": "6.25#5.88"}]}
+{"ID": "R1774:S045", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.33#5.33"}]}
+{"ID": "R1786:S005", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.25#6.00"}]}
+{"ID": "R1788:S026", "Aspect_VA": [{"Aspect": "上菜速度", "VA": "5.88#5.50"}]}
+{"ID": "R1792:S003", "Aspect_VA": [{"Aspect": "香煎蘿蔔糕", "VA": "5.75#5.25"}]}
+{"ID": "R1792:S005", "Aspect_VA": [{"Aspect": "蝦腐皮卷", "VA": "6.25#5.88"}]}
+{"ID": "R1793:S003", "Aspect_VA": [{"Aspect": "港點", "VA": "6.33#6.17"}]}
+{"ID": "R1796:S007", "Aspect_VA": [{"Aspect": "悶鮮竹卷", "VA": "7.12#6.62"}]}
+{"ID": "R1800:S007", "Aspect_VA": [{"Aspect": "粉蒸排骨肥油", "VA": "4.67#5.00"}]}
+{"ID": "R1802:S035", "Aspect_VA": [{"Aspect": "雞肉", "VA": "4.00#4.50"}]}
+{"ID": "R1814:S004", "Aspect_VA": [{"Aspect": "湯頭", "VA": "3.75#5.62"}]}
+{"ID": "R1815:S005", "Aspect_VA": [{"Aspect": "櫻花蝦炒高麗菜", "VA": "5.62#5.25"}]}
+{"ID": "R1816:S000", "Aspect_VA": [{"Aspect": "螃蟹", "VA": "6.00#5.38"}]}
+{"ID": "R1817:S004", "Aspect_VA": [{"Aspect": "旗魚", "VA": "3.83#6.00"}]}
+{"ID": "R1817:S010", "Aspect_VA": [{"Aspect": "蝦子", "VA": "6.12#5.62"}]}
+{"ID": "R1820:S005", "Aspect_VA": [{"Aspect": "白灼鮮蝦", "VA": "6.50#6.12"}]}
+{"ID": "R1820:S008", "Aspect_VA": [{"Aspect": "中卷香氣", "VA": "6.38#6.62"}]}
+{"ID": "R1826:S016", "Aspect_VA": [{"Aspect": "螃蟹的價位", "VA": "4.50#5.00"}]}
+{"ID": "R1831:S011", "Aspect_VA": [{"Aspect": "龍蝦肉", "VA": "7.00#6.67"}]}
+{"ID": "R1837:S007", "Aspect_VA": [{"Aspect": "招牌炒飯", "VA": "6.00#5.17"}]}
+{"ID": "R1839:S004", "Aspect_VA": [{"Aspect": "龍蝦湯泡飯", "VA": "7.12#7.50"}]}
+{"ID": "R1839:S009", "Aspect_VA": [{"Aspect": "網通腸粉", "VA": "6.17#6.00"}]}
+{"ID": "R1839:S010", "Aspect_VA": [{"Aspect": "腸粉", "VA": "6.00#5.17"}]}
+{"ID": "R1845:S015", "Aspect_VA": [{"Aspect": "蔥花味", "VA": "3.75#4.88"}]}
+{"ID": "R1846:S008", "Aspect_VA": [{"Aspect": "海鮮", "VA": "6.12#5.50"}]}
+{"ID": "R1849:S006", "Aspect_VA": [{"Aspect": "鴨胸", "VA": "6.00#5.62"}]}
+{"ID": "R1849:S016", "Aspect_VA": [{"Aspect": "冰淇淋", "VA": "7.00#6.75"}]}
+{"ID": "R1849:S019", "Aspect_VA": [{"Aspect": "鬆餅口感", "VA": "3.83#5.33"}]}
+{"ID": "R1852:S007", "Aspect_VA": [{"Aspect": "堅果塔", "VA": "6.50#5.90"}]}
+{"ID": "R1854:S008", "Aspect_VA": [{"Aspect": "墨魚的熟度", "VA": "5.25#5.25"}]}
+{"ID": "R1855:S013", "Aspect_VA": [{"Aspect": "玉米筍", "VA": "7.00#7.17"}]}
+{"ID": "R1858:S011", "Aspect_VA": [{"Aspect": "熱食", "VA": "6.50#6.50"}]}
+{"ID": "R1858:S014", "Aspect_VA": [{"Aspect": "鴨肉排餐肉質口感", "VA": "6.38#5.88"}]}
+{"ID": "R1861:S007", "Aspect_VA": [{"Aspect": "南瓜湯", "VA": "3.67#6.50"}]}
+{"ID": "R1862:S032", "Aspect_VA": [{"Aspect": "紅豆湯", "VA": "6.67#7.00"}]}
+{"ID": "R1864:S013", "Aspect_VA": [{"Aspect": "麵包", "VA": "6.75#6.25"}]}
+{"ID": "R1864:S019", "Aspect_VA": [{"Aspect": "鬆餅口感", "VA": "4.17#5.67"}]}
+{"ID": "R1869:S011", "Aspect_VA": [{"Aspect": "米飯", "VA": "6.25#5.88"}]}
+{"ID": "R1877:S001", "Aspect_VA": [{"Aspect": "牛五花", "VA": "3.70#5.20"}]}
+{"ID": "R1878:S009", "Aspect_VA": [{"Aspect": "蜂蜜胡椒醬", "VA": "6.25#6.00"}]}
+{"ID": "R1891:S012", "Aspect_VA": [{"Aspect": "青菜", "VA": "6.88#6.38"}]}
+{"ID": "R1896:S005", "Aspect_VA": [{"Aspect": "牛小排", "VA": "6.25#6.00"}]}
+{"ID": "R1898:S006", "Aspect_VA": [{"Aspect": "滷豆干", "VA": "6.70#7.00"}]}
+{"ID": "R1898:S009", "Aspect_VA": [{"Aspect": "餐點的份量", "VA": "6.50#6.50"}]}
+{"ID": "R1899:S008", "Aspect_VA": [{"Aspect": "咖哩香茅砂鍋", "VA": "6.00#5.38"}]}
+{"ID": "R1904:S004", "Aspect_VA": [{"Aspect": "牛排", "VA": "3.50#6.50"}]}
+{"ID": "R1905:S003", "Aspect_VA": [{"Aspect": "煎雞排", "VA": "6.62#6.38"}]}
+{"ID": "R1909:S005", "Aspect_VA": [{"Aspect": "腐皮蝦腸粉", "VA": "6.62#6.75"}]}
+{"ID": "R1913:S008", "Aspect_VA": [{"Aspect": "餐點的口味", "VA": "6.33#6.00"}]}
+{"ID": "R1913:S012", "Aspect_VA": [{"Aspect": "魚子燒賣", "VA": "6.00#6.00"}]}
+{"ID": "R1915:S008", "Aspect_VA": [{"Aspect": "炸蝦捲", "VA": "6.50#5.83"}]}
+{"ID": "R1918:S003", "Aspect_VA": [{"Aspect": "鮮蝦腐皮卷腐皮的皮", "VA": "6.38#6.25"}]}
+{"ID": "R1921:S012", "Aspect_VA": [{"Aspect": "牛肉炒河粉", "VA": "6.00#5.50"}]}
+{"ID": "R1932:S010", "Aspect_VA": [{"Aspect": "蒸蛋", "VA": "6.50#6.12"}]}
+{"ID": "R1933:S005", "Aspect_VA": [{"Aspect": "壽司種類", "VA": "6.12#6.38"}]}
+{"ID": "R1940:S004", "Aspect_VA": [{"Aspect": "鮪魚壽司", "VA": "6.25#6.00"}]}
+{"ID": "R1940:S009", "Aspect_VA": [{"Aspect": "肉鬆壽司", "VA": "6.62#6.50"}]}
+{"ID": "R1948:S009", "Aspect_VA": [{"Aspect": "炸雞", "VA": "6.75#6.38"}]}
+{"ID": "R1953:S016", "Aspect_VA": [{"Aspect": "燻雞的口感", "VA": "4.50#5.50"}]}
+{"ID": "R1955:S004", "Aspect_VA": [{"Aspect": "炸雞皮", "VA": "6.33#5.83"}]}
+{"ID": "R1956:S004", "Aspect_VA": [{"Aspect": "濃湯", "VA": "4.00#5.25"}]}
+{"ID": "R1958:S011", "Aspect_VA": [{"Aspect": "價位", "VA": "4.50#4.25"}]}
+{"ID": "R1961:S005", "Aspect_VA": [{"Aspect": "炸雞", "VA": "7.17#6.83"}]}
+{"ID": "R1961:S006", "Aspect_VA": [{"Aspect": "上餐速度", "VA": "4.50#4.75"}]}
+{"ID": "R1962:S002", "Aspect_VA": [{"Aspect": "起司", "VA": "5.75#5.38"}]}
+{"ID": "R1966:S018", "Aspect_VA": [{"Aspect": "薯條", "VA": "5.00#5.50"}]}
+{"ID": "R1967:S007", "Aspect_VA": [{"Aspect": "披薩", "VA": "6.25#5.75"}]}
+{"ID": "R1967:S009", "Aspect_VA": [{"Aspect": "東貝拉肉醬麵", "VA": "6.50#6.75"}]}
+{"ID": "R1969:S012", "Aspect_VA": [{"Aspect": "環境", "VA": "5.75#5.50"}]}
+{"ID": "R1970:S016", "Aspect_VA": [{"Aspect": "金針菇", "VA": "6.50#5.67"}]}
+{"ID": "R1970:S037", "Aspect_VA": [{"Aspect": "價格", "VA": "4.50#4.00"}]}
+{"ID": "R1972:S004", "Aspect_VA": [{"Aspect": "粉紅雞", "VA": "4.00#5.62"}]}
+{"ID": "R1975:S000", "Aspect_VA": [{"Aspect": "價格", "VA": "4.17#5.17"}]}
+{"ID": "R1981:S005", "Aspect_VA": [{"Aspect": "價格", "VA": "3.75#6.25"}]}
+{"ID": "R1981:S008", "Aspect_VA": [{"Aspect": "廁所空間", "VA": "3.67#5.67"}]}
+{"ID": "R1982:S013", "Aspect_VA": [{"Aspect": "雞肉的肉質", "VA": "6.00#5.62"}]}
+{"ID": "R1982:S033", "Aspect_VA": [{"Aspect": "大腸", "VA": "6.38#6.38"}]}
+{"ID": "R1983:S007", "Aspect_VA": [{"Aspect": "京都焗排骨", "VA": "6.33#5.50"}]}
+{"ID": "R1984:S011", "Aspect_VA": [{"Aspect": "份量", "VA": "4.25#5.38"}]}
+{"ID": "R1984:S034", "Aspect_VA": [{"Aspect": "服務", "VA": "6.17#5.83"}]}
+{"ID": "R1987:S003", "Aspect_VA": [{"Aspect": "脆皮雞", "VA": "7.17#7.33"}]}
+{"ID": "R1987:S006", "Aspect_VA": [{"Aspect": "份量", "VA": "5.75#5.50"}]}
+{"ID": "R1988:S006", "Aspect_VA": [{"Aspect": "開胃菜", "VA": "5.83#5.50"}]}
+{"ID": "R1990:S002", "Aspect_VA": [{"Aspect": "開胃菜", "VA": "5.50#5.17"}]}
+{"ID": "R1991:S000", "Aspect_VA": [{"Aspect": "雞尾酒", "VA": "6.25#6.00"}]}
+{"ID": "R1993:S014", "Aspect_VA": [{"Aspect": "甜點", "VA": "5.00#5.00"}]}
+{"ID": "R1998:S007", "Aspect_VA": [{"Aspect": "南瓜濃湯", "VA": "6.83#6.67"}]}
+{"ID": "R2002:S008", "Aspect_VA": [{"Aspect": "小蛋糕", "VA": "3.00#4.00"}]}
+{"ID": "R2010:S002", "Aspect_VA": [{"Aspect": "肉片調味", "VA": "4.50#5.12"}]}
+{"ID": "R2016:S005", "Aspect_VA": [{"Aspect": "鹹度", "VA": "4.50#4.67"}]}
+{"ID": "R2017:S010", "Aspect_VA": [{"Aspect": "豆乾", "VA": "5.67#5.33"}]}
+{"ID": "R2020:S009", "Aspect_VA": [{"Aspect": "調味", "VA": "5.33#5.00"}]}
+{"ID": "R2022:S000", "Aspect_VA": [{"Aspect": "服務", "VA": "3.12#5.12"}]}
+{"ID": "R2028:S002", "Aspect_VA": [{"Aspect": "套餐", "VA": "4.75#5.75"}]}
+{"ID": "R2033:S012", "Aspect_VA": [{"Aspect": "態度", "VA": "6.33#5.83"}]}
+{"ID": "R2036:S004", "Aspect_VA": [{"Aspect": "素食餐點", "VA": "6.75#6.38"}]}
+{"ID": "R2036:S015", "Aspect_VA": [{"Aspect": "野人火鍋", "VA": "6.88#6.75"}]}
+{"ID": "R2036:S017", "Aspect_VA": [{"Aspect": "野人火鍋", "VA": "7.33#7.67"}]}
+{"ID": "R2038:S003", "Aspect_VA": [{"Aspect": "氣氛", "VA": "6.50#6.00"}, {"Aspect": "火鍋料", "VA": "7.00#6.25"}]}
+{"ID": "R2041:S026", "Aspect_VA": [{"Aspect": "用餐", "VA": "3.12#5.50"}]}
+{"ID": "R2045:S000", "Aspect_VA": [{"Aspect": "溫體台灣牛", "VA": "5.88#5.50"}]}
+{"ID": "R2049:S003", "Aspect_VA": [{"Aspect": "麵", "VA": "6.33#6.33"}]}
+{"ID": "R2052:S000", "Aspect_VA": [{"Aspect": "什錦咖哩炒麵", "VA": "6.62#6.25"}]}
+{"ID": "R2055:S008", "Aspect_VA": [{"Aspect": "咖哩", "VA": "4.00#5.50"}]}
+{"ID": "R2057:S006", "Aspect_VA": [{"Aspect": "料", "VA": "6.67#6.17"}]}
+{"ID": "R2059:S006", "Aspect_VA": [{"Aspect": "口味", "VA": "5.83#5.50"}]}
+{"ID": "R2060:S002", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#6.67"}]}
+{"ID": "R2061:S003", "Aspect_VA": [{"Aspect": "味道", "VA": "6.67#6.00"}]}
+{"ID": "R2062:S015", "Aspect_VA": [{"Aspect": "蚵仔", "VA": "6.50#5.83"}]}
+{"ID": "R2064:S010", "Aspect_VA": [{"Aspect": "咖哩香", "VA": "6.25#5.88"}]}
+{"ID": "R2065:S037", "Aspect_VA": [{"Aspect": "肉絲炒麵", "VA": "5.17#5.00"}]}
+{"ID": "R2068:S006", "Aspect_VA": [{"Aspect": "蝦子", "VA": "5.75#5.50"}]}
+{"ID": "R2068:S010", "Aspect_VA": [{"Aspect": "牛肉球", "VA": "5.67#5.50"}]}
+{"ID": "R2069:S011", "Aspect_VA": [{"Aspect": "咖哩豬皮魚蛋", "VA": "4.00#5.12"}]}
+{"ID": "R2069:S012", "Aspect_VA": [{"Aspect": "奶油焗海鮮白菜", "VA": "7.00#6.33"}]}
+{"ID": "R2070:S012", "Aspect_VA": [{"Aspect": "口味", "VA": "5.88#5.38"}]}
+{"ID": "R2073:S001", "Aspect_VA": [{"Aspect": "價格", "VA": "5.25#5.00"}]}
+{"ID": "R2073:S010", "Aspect_VA": [{"Aspect": "炒飯", "VA": "6.00#5.62"}]}
+{"ID": "R2073:S023", "Aspect_VA": [{"Aspect": "口味", "VA": "5.00#5.50"}]}
+{"ID": "R2074:S000", "Aspect_VA": [{"Aspect": "芋頭臘腸", "VA": "3.83#5.83"}]}
+{"ID": "R2074:S010", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.75#6.00"}, {"Aspect": "餐廳", "VA": "6.25#5.75"}]}
+{"ID": "R2077:S015", "Aspect_VA": [{"Aspect": "鮮蝦腐皮卷", "VA": "6.17#5.83"}]}
+{"ID": "R2077:S017", "Aspect_VA": [{"Aspect": "風味芋頭糕", "VA": "5.00#4.88"}]}
+{"ID": "R2082:S006", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.38#5.00"}]}
+{"ID": "R2085:S000", "Aspect_VA": [{"Aspect": "牛雜蘿蔔煲", "VA": "6.83#6.67"}]}
+{"ID": "R2086:S022", "Aspect_VA": [{"Aspect": "排骨", "VA": "6.67#6.17"}]}
+{"ID": "R2128:S004", "Aspect_VA": [{"Aspect": "豆腐", "VA": "5.75#5.50"}]}
+{"ID": "R2128:S012", "Aspect_VA": [{"Aspect": "司康", "VA": "6.33#5.50"}]}
+{"ID": "R2128:S014", "Aspect_VA": [{"Aspect": "甜度", "VA": "5.62#5.00"}]}
+{"ID": "R2130:S019", "Aspect_VA": [{"Aspect": "店家", "VA": "5.62#5.38"}]}
+{"ID": "R2132:S000", "Aspect_VA": [{"Aspect": "菜盤的份量", "VA": "6.50#6.00"}]}
+{"ID": "R2132:S005", "Aspect_VA": [{"Aspect": "豆腐", "VA": "6.38#6.00"}]}
+{"ID": "R2132:S006", "Aspect_VA": [{"Aspect": "態度", "VA": "6.38#6.00"}]}
+{"ID": "R2133:S000", "Aspect_VA": [{"Aspect": "停車格", "VA": "4.67#5.17"}]}
+{"ID": "R2133:S011", "Aspect_VA": [{"Aspect": "鳳梨梅汁", "VA": "6.50#6.33"}]}
+{"ID": "R2133:S012", "Aspect_VA": [{"Aspect": "餐廳", "VA": "6.33#6.00"}]}
+{"ID": "R2133:S013", "Aspect_VA": [{"Aspect": "店員的服務", "VA": "5.88#5.50"}]}
+{"ID": "R2135:S002", "Aspect_VA": [{"Aspect": "燉飯", "VA": "4.00#5.88"}]}
+{"ID": "R2135:S006", "Aspect_VA": [{"Aspect": "口感", "VA": "3.38#6.00"}, {"Aspect": "味道", "VA": "4.25#5.62"}]}
+{"ID": "R2136:S003", "Aspect_VA": [{"Aspect": "餐點選擇", "VA": "5.62#5.25"}]}
+{"ID": "R2136:S011", "Aspect_VA": [{"Aspect": "南瓜濃湯", "VA": "6.25#5.75"}, {"Aspect": "蛋糕", "VA": "6.25#5.75"}]}
+{"ID": "R2138:S011", "Aspect_VA": [{"Aspect": "肉片", "VA": "6.50#5.83"}]}
+{"ID": "R2140:S020", "Aspect_VA": [{"Aspect": "飯量", "VA": "4.50#4.75"}]}
+{"ID": "R2142:S010", "Aspect_VA": [{"Aspect": "泰式酸辣醬", "VA": "6.50#6.00"}]}
+{"ID": "R2143:S004", "Aspect_VA": [{"Aspect": "裝修", "VA": "6.00#5.50"}]}
+{"ID": "R2143:S010", "Aspect_VA": [{"Aspect": "食材", "VA": "6.50#6.00"}]}
+{"ID": "R2146:S004", "Aspect_VA": [{"Aspect": "份量", "VA": "3.17#6.17"}]}
+{"ID": "R2153:S000", "Aspect_VA": [{"Aspect": "金針筍", "VA": "4.12#5.50"}]}
+{"ID": "R2155:S008", "Aspect_VA": [{"Aspect": "筊白筍", "VA": "6.33#6.00"}]}
+{"ID": "R2155:S012", "Aspect_VA": [{"Aspect": "山粉圓", "VA": "5.75#5.50"}]}
+{"ID": "R2156:S000", "Aspect_VA": [{"Aspect": "香氣", "VA": "4.83#5.50"}]}
+{"ID": "R2156:S005", "Aspect_VA": [{"Aspect": "白斬雞", "VA": "6.33#5.50"}]}
+{"ID": "R2156:S006", "Aspect_VA": [{"Aspect": "湯", "VA": "4.50#5.00"}]}
+{"ID": "R2158:S016", "Aspect_VA": [{"Aspect": "炒山芹菜", "VA": "6.00#5.25"}]}
+{"ID": "R2163:S018", "Aspect_VA": [{"Aspect": "菜脯雞湯", "VA": "6.75#6.25"}]}
+{"ID": "R2164:S002", "Aspect_VA": [{"Aspect": "海蜇皮", "VA": "6.00#5.62"}]}
+{"ID": "R2164:S003", "Aspect_VA": [{"Aspect": "雞肉", "VA": "5.88#5.50"}]}
+{"ID": "R2164:S005", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.50#6.00"}, {"Aspect": "魚", "VA": "6.25#5.75"}]}
+{"ID": "R2166:S004", "Aspect_VA": [{"Aspect": "梅乾扣肉", "VA": "6.67#6.33"}]}
+{"ID": "R2168:S022", "Aspect_VA": [{"Aspect": "溫度", "VA": "4.83#5.50"}]}
+{"ID": "R2171:S003", "Aspect_VA": [{"Aspect": "高麗菜", "VA": "6.50#6.00"}]}
+{"ID": "R2171:S011", "Aspect_VA": [{"Aspect": "石斑魚", "VA": "4.17#5.83"}]}
+{"ID": "R2176:S018", "Aspect_VA": [{"Aspect": "配菜", "VA": "6.75#6.25"}]}
+{"ID": "R2177:S017", "Aspect_VA": [{"Aspect": "蔬菜", "VA": "6.33#5.83"}, {"Aspect": "湯底", "VA": "6.33#6.00"}]}
+{"ID": "R2178:S000", "Aspect_VA": [{"Aspect": "食材", "VA": "6.00#5.50"}]}
+{"ID": "R2179:S001", "Aspect_VA": [{"Aspect": "宮保蝦仁烤鯖魚肉質", "VA": "6.17#5.83"}]}
+{"ID": "R2182:S003", "Aspect_VA": [{"Aspect": "中卷", "VA": "4.67#4.83"}]}
+{"ID": "R2182:S005", "Aspect_VA": [{"Aspect": "蒸蛋", "VA": "3.88#5.25"}]}
+{"ID": "R2184:S001", "Aspect_VA": [{"Aspect": "起司豬排肉", "VA": "5.67#5.00"}]}
+{"ID": "R2184:S005", "Aspect_VA": [{"Aspect": "中卷味道", "VA": "5.67#5.33"}]}
+{"ID": "R2184:S007", "Aspect_VA": [{"Aspect": "份量", "VA": "6.38#6.12"}]}
+{"ID": "R2184:S016", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.75#6.25"}]}
+{"ID": "R2192:S004", "Aspect_VA": [{"Aspect": "椒麻雞的味道", "VA": "4.12#5.12"}]}
+{"ID": "R2193:S004", "Aspect_VA": [{"Aspect": "雞肉丸", "VA": "6.33#6.00"}]}
+{"ID": "R2193:S006", "Aspect_VA": [{"Aspect": "雞肉丸", "VA": "6.67#6.00"}]}
+{"ID": "R2194:S002", "Aspect_VA": [{"Aspect": "白飯", "VA": "4.20#5.00"}]}
+{"ID": "R2194:S005", "Aspect_VA": [{"Aspect": "東蔭湯", "VA": "6.00#5.62"}]}
+{"ID": "R2197:S001", "Aspect_VA": [{"Aspect": "烏龍麵", "VA": "7.00#6.50"}, {"Aspect": "冬陰功酸辣海鮮麵", "VA": "6.75#6.50"}]}
+{"ID": "R2197:S008", "Aspect_VA": [{"Aspect": "椒麻醬汁", "VA": "4.75#5.25"}]}
+{"ID": "R2198:S025", "Aspect_VA": [{"Aspect": "摩摩喳喳冰", "VA": "5.67#5.50"}]}
+{"ID": "R2200:S023", "Aspect_VA": [{"Aspect": "打拋豬", "VA": "6.50#6.00"}]}
+{"ID": "R2201:S009", "Aspect_VA": [{"Aspect": "雞腿", "VA": "6.00#5.83"}]}
+{"ID": "R2202:S003", "Aspect_VA": [{"Aspect": "大骨湯海鮮麵料", "VA": "7.00#6.67"}]}
+{"ID": "R2202:S004", "Aspect_VA": [{"Aspect": "金錢蝦餅", "VA": "7.17#7.33"}]}
+{"ID": "R2205:S002", "Aspect_VA": [{"Aspect": "椒麻雞", "VA": "5.17#5.00"}]}
+{"ID": "R2215:S005", "Aspect_VA": [{"Aspect": "鴨肉的油脂", "VA": "5.25#5.00"}]}
+{"ID": "R2221:S005", "Aspect_VA": [{"Aspect": "牛筋滷", "VA": "6.00#5.75"}]}
+{"ID": "R2223:S002", "Aspect_VA": [{"Aspect": "冰糖鴨", "VA": "6.62#5.88"}]}
+{"ID": "R2228:S037", "Aspect_VA": [{"Aspect": "薄片披薩", "VA": "6.75#6.62"}]}
+{"ID": "R2229:S005", "Aspect_VA": [{"Aspect": "海鮮濃湯料", "VA": "6.50#6.50"}]}
+{"ID": "R2232:S011", "Aspect_VA": [{"Aspect": "義大利紅醬", "VA": "6.38#6.00"}]}
+{"ID": "R2233:S009", "Aspect_VA": [{"Aspect": "煙燻醬汁", "VA": "6.00#5.50"}]}
+{"ID": "R2234:S007", "Aspect_VA": [{"Aspect": "凱薩醬", "VA": "6.00#5.33"}]}
+{"ID": "R2234:S023", "Aspect_VA": [{"Aspect": "松露醬汁", "VA": "6.50#6.17"}]}
+{"ID": "R2236:S009", "Aspect_VA": [{"Aspect": "乳酪份量", "VA": "6.25#6.00"}]}
+{"ID": "R2237:S020", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.75#6.25"}]}
+{"ID": "R2238:S006", "Aspect_VA": [{"Aspect": "豬腳", "VA": "6.00#5.50"}]}
+{"ID": "R2238:S009", "Aspect_VA": [{"Aspect": "黑森林炒飯", "VA": "6.50#6.25"}]}
+{"ID": "R2238:S012", "Aspect_VA": [{"Aspect": "水餃皮", "VA": "5.50#5.00"}]}
+{"ID": "R2238:S020", "Aspect_VA": [{"Aspect": "薑黃飯", "VA": "4.00#6.00"}]}
+{"ID": "R2238:S025", "Aspect_VA": [{"Aspect": "墨西哥青醬炒板腱牛", "VA": "4.00#6.00"}]}
+{"ID": "R2239:S006", "Aspect_VA": [{"Aspect": "起司煎餅", "VA": "7.00#6.50"}]}
+{"ID": "R2242:S000", "Aspect_VA": [{"Aspect": "服務品質", "VA": "4.00#5.33"}]}
+{"ID": "R2242:S002", "Aspect_VA": [{"Aspect": "牛腥味", "VA": "3.50#5.50"}]}
+{"ID": "R2245:S003", "Aspect_VA": [{"Aspect": "口味", "VA": "4.33#5.33"}]}
+{"ID": "R2245:S006", "Aspect_VA": [{"Aspect": "豬腳", "VA": "6.00#6.00"}]}
+{"ID": "R2248:S002", "Aspect_VA": [{"Aspect": "榨菜肉絲麵", "VA": "3.88#6.12"}]}
+{"ID": "R2248:S011", "Aspect_VA": [{"Aspect": "橙汁排骨", "VA": "5.88#5.50"}]}
+{"ID": "R2251:S017", "Aspect_VA": [{"Aspect": "味道", "VA": "6.17#5.83"}]}
+{"ID": "R2251:S025", "Aspect_VA": [{"Aspect": "蒸餃", "VA": "6.50#5.75"}]}
+{"ID": "R2251:S039", "Aspect_VA": [{"Aspect": "餅皮", "VA": "6.25#6.00"}]}
+{"ID": "R2252:S006", "Aspect_VA": [{"Aspect": "牛肉捲餅外皮", "VA": "3.80#5.20"}]}
+{"ID": "R2256:S002", "Aspect_VA": [{"Aspect": "調味", "VA": "3.75#5.62"}]}
+{"ID": "R2257:S001", "Aspect_VA": [{"Aspect": "品質", "VA": "4.17#5.50"}]}
+{"ID": "R2270:S018", "Aspect_VA": [{"Aspect": "清燉雞肉湯味道", "VA": "6.00#5.33"}]}
+{"ID": "R2277:S003", "Aspect_VA": [{"Aspect": "炒水蓮", "VA": "5.83#5.50"}]}
+{"ID": "R2304:S016", "Aspect_VA": [{"Aspect": "小米粥", "VA": "6.50#6.00"}]}
+{"ID": "R2305:S040", "Aspect_VA": [{"Aspect": "配料", "VA": "6.25#5.88"}]}
+{"ID": "R2306:S008", "Aspect_VA": [{"Aspect": "湯汁", "VA": "4.50#5.00"}]}
+{"ID": "R2323:S000", "Aspect_VA": [{"Aspect": "配料", "VA": "6.33#6.33"}]}
+{"ID": "R2328:S009", "Aspect_VA": [{"Aspect": "烏梅汁", "VA": "7.00#6.38"}]}
+{"ID": "R2340:S007", "Aspect_VA": [{"Aspect": "烤魚", "VA": "3.50#5.67"}]}
+{"ID": "R2340:S011", "Aspect_VA": [{"Aspect": "人參菜", "VA": "6.25#5.75"}]}
+{"ID": "R2346:S006", "Aspect_VA": [{"Aspect": "胡椒味", "VA": "6.00#5.50"}]}
+{"ID": "R2354:S007", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.50#6.50"}]}
+{"ID": "R2363:S005", "Aspect_VA": [{"Aspect": "龍蝦三明治", "VA": "4.25#5.50"}]}
+{"ID": "R2368:S006", "Aspect_VA": [{"Aspect": "食材", "VA": "6.33#6.00"}]}
+{"ID": "R2372:S005", "Aspect_VA": [{"Aspect": "珍珠甜點", "VA": "5.75#5.50"}]}
+{"ID": "R2374:S004", "Aspect_VA": [{"Aspect": "豬排", "VA": "4.83#5.17"}]}
+{"ID": "R2391:S007", "Aspect_VA": [{"Aspect": "鹽水的味道", "VA": "4.75#6.75"}, {"Aspect": "火龍果", "VA": "4.50#4.75"}]}
+{"ID": "R2403:S008", "Aspect_VA": [{"Aspect": "糖醋豬肉", "VA": "4.00#5.38"}]}
+{"ID": "R2429:S024", "Aspect_VA": [{"Aspect": "肉", "VA": "6.17#5.67"}]}
+{"ID": "R2429:S033", "Aspect_VA": [{"Aspect": "明太子雞腿串", "VA": "6.50#6.50"}, {"Aspect": "雞肉", "VA": "5.50#4.75"}]}
+{"ID": "R2431:S014", "Aspect_VA": [{"Aspect": "麵條", "VA": "6.50#6.25"}]}
+{"ID": "R2432:S007", "Aspect_VA": [{"Aspect": "豆腐", "VA": "5.75#5.25"}, {"Aspect": "胡麻醬", "VA": "5.50#5.25"}]}
+{"ID": "R2459:S015", "Aspect_VA": [{"Aspect": "湯頭", "VA": "5.00#5.62"}]}
+{"ID": "R2473:S023", "Aspect_VA": [{"Aspect": "豬皮", "VA": "6.50#6.00"}]}
+{"ID": "R2473:S026", "Aspect_VA": [{"Aspect": "貢丸", "VA": "6.33#6.00"}]}
+{"ID": "R2474:S004", "Aspect_VA": [{"Aspect": "腿扣的肥肉", "VA": "5.50#5.00"}]}
+{"ID": "R2479:S007", "Aspect_VA": [{"Aspect": "筍乾飯", "VA": "6.25#5.25"}]}
+{"ID": "R2480:S014", "Aspect_VA": [{"Aspect": "蒸蛋", "VA": "6.00#5.50"}]}
+{"ID": "R2483:S015", "Aspect_VA": [{"Aspect": "豆腐", "VA": "6.50#6.33"}]}
+{"ID": "R2486:S008", "Aspect_VA": [{"Aspect": "豬皮", "VA": "4.00#6.00"}]}
+{"ID": "R2486:S009", "Aspect_VA": [{"Aspect": "水丸", "VA": "4.50#5.17"}]}
+{"ID": "R2536:S007", "Aspect_VA": [{"Aspect": "魚皮湯", "VA": "6.33#6.00"}]}
+{"ID": "R2539:S003", "Aspect_VA": [{"Aspect": "煎魚肚魚皮", "VA": "5.00#5.50"}]}
+{"ID": "R2540:S010", "Aspect_VA": [{"Aspect": "虱目魚", "VA": "6.50#6.50"}]}
+{"ID": "R2551:S028", "Aspect_VA": [{"Aspect": "皮", "VA": "5.50#5.00"}]}
+{"ID": "R2553:S002", "Aspect_VA": [{"Aspect": "花生油耗味", "VA": "4.33#5.33"}]}
+{"ID": "R2553:S003", "Aspect_VA": [{"Aspect": "櫻花蝦", "VA": "4.25#4.75"}]}
+{"ID": "R2553:S008", "Aspect_VA": [{"Aspect": "櫻花蝦炒高麗菜", "VA": "3.67#6.00"}]}
+{"ID": "R2553:S009", "Aspect_VA": [{"Aspect": "酥炸肥腸份量", "VA": "4.25#4.88"}]}
+{"ID": "R2555:S005", "Aspect_VA": [{"Aspect": "口感", "VA": "6.38#6.00"}]}
+{"ID": "R2556:S007", "Aspect_VA": [{"Aspect": "料", "VA": "7.00#6.00"}]}
+{"ID": "R2557:S003", "Aspect_VA": [{"Aspect": "炒飯", "VA": "4.17#5.50"}]}
+{"ID": "R2561:S001", "Aspect_VA": [{"Aspect": "蔥油餅", "VA": "3.38#5.88"}]}
+{"ID": "R2562:S006", "Aspect_VA": [{"Aspect": "高麗菜", "VA": "4.33#5.67"}]}
+{"ID": "R2574:S002", "Aspect_VA": [{"Aspect": "小籠湯包餡料", "VA": "6.50#5.83"}]}
+{"ID": "R2578:S006", "Aspect_VA": [{"Aspect": "叉燒酥口感味道", "VA": "5.25#6.12"}]}
+{"ID": "R2580:S035", "Aspect_VA": [{"Aspect": "蝦仁", "VA": "6.00#5.67"}]}
+{"ID": "R2582:S014", "Aspect_VA": [{"Aspect": "熱茶", "VA": "6.00#5.00"}]}
+{"ID": "R2594:S010", "Aspect_VA": [{"Aspect": "味增味道", "VA": "5.50#5.00"}]}
+{"ID": "R2597:S027", "Aspect_VA": [{"Aspect": "高湯", "VA": "5.88#5.50"}]}
+{"ID": "R2600:S002", "Aspect_VA": [{"Aspect": "蝦仁口感", "VA": "5.83#5.50"}, {"Aspect": "蝦仁", "VA": "6.67#6.33"}]}
+{"ID": "R2604:S005", "Aspect_VA": [{"Aspect": "蝦仁飯價格", "VA": "4.17#5.33"}]}
+{"ID": "R2608:S004", "Aspect_VA": [{"Aspect": "下水湯湯頭", "VA": "6.00#5.75"}]}
+{"ID": "R2610:S001", "Aspect_VA": [{"Aspect": "鴨肉", "VA": "4.00#5.50"}]}
+{"ID": "R2611:S007", "Aspect_VA": [{"Aspect": "鴨肉", "VA": "5.00#6.00"}]}
+{"ID": "R2614:S005", "Aspect_VA": [{"Aspect": "鴨油拌青菜", "VA": "6.00#5.75"}]}
+{"ID": "R2616:S024", "Aspect_VA": [{"Aspect": "鴨肉", "VA": "4.17#5.00"}]}
+{"ID": "R2616:S025", "Aspect_VA": [{"Aspect": "鴨心", "VA": "6.00#5.67"}]}
+{"ID": "R2617:S011", "Aspect_VA": [{"Aspect": "老湯", "VA": "5.67#5.33"}, {"Aspect": "薑絲鴨湯", "VA": "4.17#5.33"}]}
+{"ID": "R2620:S010", "Aspect_VA": [{"Aspect": "下水", "VA": "5.67#5.50"}]}
+{"ID": "R2631:S005", "Aspect_VA": [{"Aspect": "碗粿", "VA": "4.12#5.38"}]}
+{"ID": "R2640:S007", "Aspect_VA": [{"Aspect": "蚵仔", "VA": "6.00#5.33"}]}
+{"ID": "R2644:S014", "Aspect_VA": [{"Aspect": "口感", "VA": "6.83#6.50"}, {"Aspect": "豬皮", "VA": "6.50#6.00"}]}
+{"ID": "R2648:S006", "Aspect_VA": [{"Aspect": "輕食簡餐類型", "VA": "4.75#5.25"}]}
+{"ID": "R2649:S025", "Aspect_VA": [{"Aspect": "布丁", "VA": "6.50#6.33"}]}
+{"ID": "R2652:S003", "Aspect_VA": [{"Aspect": "水果生菜沙拉", "VA": "6.12#6.00"}]}
+{"ID": "R2652:S004", "Aspect_VA": [{"Aspect": "蘋果醋", "VA": "6.38#5.88"}]}
+{"ID": "R2658:S007", "Aspect_VA": [{"Aspect": "泰式檸檬魚", "VA": "3.17#5.00"}]}
+{"ID": "R2659:S008", "Aspect_VA": [{"Aspect": "洋蔥濃湯", "VA": "7.00#6.50"}]}
+{"ID": "R2665:S003", "Aspect_VA": [{"Aspect": "冰淇淋", "VA": "7.00#7.33"}]}
+{"ID": "R2665:S009", "Aspect_VA": [{"Aspect": "蜂蜜蘋果醋", "VA": "6.00#5.33"}]}
+{"ID": "R2671:S009", "Aspect_VA": [{"Aspect": "麵包", "VA": "6.50#6.00"}]}
+{"ID": "R2671:S011", "Aspect_VA": [{"Aspect": "炸物拼盤", "VA": "5.33#5.00"}]}
+{"ID": "R2677:S007", "Aspect_VA": [{"Aspect": "麻香猴頭菇菇鍋", "VA": "7.12#7.50"}]}
+{"ID": "R2688:S007", "Aspect_VA": [{"Aspect": "燉飯口味", "VA": "4.67#5.33"}]}
+{"ID": "R2702:S005", "Aspect_VA": [{"Aspect": "酥炸中卷", "VA": "4.12#5.50"}]}
+{"ID": "R2709:S003", "Aspect_VA": [{"Aspect": "水晶雞的肉", "VA": "4.12#5.50"}]}
+{"ID": "R2710:S005", "Aspect_VA": [{"Aspect": "肉燥飯", "VA": "6.75#6.50"}]}
+{"ID": "R2711:S011", "Aspect_VA": [{"Aspect": "桂花烏龍茶", "VA": "5.83#5.17"}]}
+{"ID": "R2744:S000", "Aspect_VA": [{"Aspect": "份量", "VA": "4.50#4.50"}, {"Aspect": "內餡調味", "VA": "5.50#5.50"}]}
+{"ID": "R2748:S017", "Aspect_VA": [{"Aspect": "招牌紅蟳米糕", "VA": "7.00#6.38"}]}
+{"ID": "R2749:S002", "Aspect_VA": [{"Aspect": "檸檬冬瓜", "VA": "6.50#6.17"}]}
+{"ID": "R2749:S026", "Aspect_VA": [{"Aspect": "鹽水活蝦", "VA": "6.50#6.00"}]}
+{"ID": "R2749:S035", "Aspect_VA": [{"Aspect": "羹湯", "VA": "6.50#6.38"}]}
+{"ID": "R2749:S044", "Aspect_VA": [{"Aspect": "豬肚", "VA": "6.50#6.33"}]}
+{"ID": "R2749:S062", "Aspect_VA": [{"Aspect": "杏仁凍的味道", "VA": "4.33#5.83"}]}
+{"ID": "R2750:S013", "Aspect_VA": [{"Aspect": "玉米雞肉質", "VA": "5.75#5.25"}]}
+{"ID": "R2750:S026", "Aspect_VA": [{"Aspect": "龍膽石斑五柳枝", "VA": "6.00#5.50"}]}
+{"ID": "R2750:S031", "Aspect_VA": [{"Aspect": "芋頭", "VA": "4.17#5.17"}]}
+{"ID": "R2751:S008", "Aspect_VA": [{"Aspect": "避風塘蝦", "VA": "4.33#4.83"}]}
+{"ID": "R2756:S012", "Aspect_VA": [{"Aspect": "紅燒魚翅", "VA": "4.33#4.50"}]}
+{"ID": "R2756:S013", "Aspect_VA": [{"Aspect": "米糕", "VA": "5.50#5.50"}]}
+{"ID": "R2757:S002", "Aspect_VA": [{"Aspect": "料", "VA": "6.33#6.17"}]}
+{"ID": "R2757:S009", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.67#6.33"}]}
+{"ID": "R2828:S002", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.67#6.67"}]}
+{"ID": "R2829:S005", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.00#5.33"}]}
+{"ID": "R2830:S007", "Aspect_VA": [{"Aspect": "太陽蛋", "VA": "7.00#6.75"}]}
+{"ID": "R2831:S002", "Aspect_VA": [{"Aspect": "口感", "VA": "5.88#5.38"}]}
+{"ID": "R2831:S006", "Aspect_VA": [{"Aspect": "花生醬脆雞堡", "VA": "4.62#5.12"}]}
+{"ID": "R2831:S007", "Aspect_VA": [{"Aspect": "花生醬", "VA": "5.75#5.50"}]}
+{"ID": "R2831:S012", "Aspect_VA": [{"Aspect": "英式早餐", "VA": "6.50#6.00"}]}
+{"ID": "R2833:S001", "Aspect_VA": [{"Aspect": "炸生蠔", "VA": "6.50#5.67"}]}
+{"ID": "R2833:S013", "Aspect_VA": [{"Aspect": "薯餅", "VA": "6.00#5.75"}]}
+{"ID": "R2835:S007", "Aspect_VA": [{"Aspect": "南瓜", "VA": "4.17#4.67"}]}
+{"ID": "R2836:S002", "Aspect_VA": [{"Aspect": "價錢", "VA": "7.00#7.75"}]}
+{"ID": "R2836:S003", "Aspect_VA": [{"Aspect": "炸魚墨西哥", "VA": "7.00#6.50"}]}
+{"ID": "R2838:S006", "Aspect_VA": [{"Aspect": "薯塊份量", "VA": "5.83#5.17"}]}
+{"ID": "R2840:S010", "Aspect_VA": [{"Aspect": "食物", "VA": "5.83#5.50"}]}
+{"ID": "R2841:S006", "Aspect_VA": [{"Aspect": "薯泥", "VA": "6.67#6.17"}]}
+{"ID": "R2841:S008", "Aspect_VA": [{"Aspect": "薯條", "VA": "5.00#5.00"}]}
+{"ID": "R2842:S010", "Aspect_VA": [{"Aspect": "份量", "VA": "6.33#6.00"}]}
+{"ID": "R2843:S001", "Aspect_VA": [{"Aspect": "墨西哥餐點", "VA": "6.83#6.50"}]}
+{"ID": "R2843:S005", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.50#6.50"}]}
+{"ID": "R2844:S006", "Aspect_VA": [{"Aspect": "美式漢堡", "VA": "4.50#5.17"}]}
+{"ID": "R2844:S007", "Aspect_VA": [{"Aspect": "菜單", "VA": "5.83#5.33"}]}
+{"ID": "R2848:S006", "Aspect_VA": [{"Aspect": "紅燒牛肉泡", "VA": "6.00#5.88"}]}
+{"ID": "R2848:S010", "Aspect_VA": [{"Aspect": "泡饃口感", "VA": "6.25#6.12"}]}
+{"ID": "R2849:S004", "Aspect_VA": [{"Aspect": "粉圓", "VA": "6.50#5.67"}]}
+{"ID": "R2851:S003", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.00#5.38"}]}
+{"ID": "R2851:S005", "Aspect_VA": [{"Aspect": "麵線", "VA": "5.62#5.25"}, {"Aspect": "拉麵", "VA": "5.62#5.25"}]}
+{"ID": "R2852:S002", "Aspect_VA": [{"Aspect": "麵的種類", "VA": "5.83#5.50"}]}
+{"ID": "R2852:S004", "Aspect_VA": [{"Aspect": "清燉的口感", "VA": "6.33#6.00"}]}
+{"ID": "R2853:S001", "Aspect_VA": [{"Aspect": "羊肉", "VA": "7.00#6.50"}]}
+{"ID": "R2860:S005", "Aspect_VA": [{"Aspect": "羊肉", "VA": "6.50#6.67"}]}
+{"ID": "R2862:S034", "Aspect_VA": [{"Aspect": "食物", "VA": "6.20#5.80"}]}
+{"ID": "R2869:S005", "Aspect_VA": [{"Aspect": "肉羹湯", "VA": "6.50#6.25"}]}
+{"ID": "R2869:S025", "Aspect_VA": [{"Aspect": "魯肉飯", "VA": "2.67#6.00"}]}
+{"ID": "R2871:S006", "Aspect_VA": [{"Aspect": "油豆腐", "VA": "7.00#7.33"}]}
+{"ID": "R2872:S003", "Aspect_VA": [{"Aspect": "肉", "VA": "6.00#5.62"}]}
+{"ID": "R2884:S004", "Aspect_VA": [{"Aspect": "肉羹", "VA": "4.50#5.38"}]}
+{"ID": "R2884:S007", "Aspect_VA": [{"Aspect": "肉羹價格", "VA": "4.33#5.50"}]}
+{"ID": "R2886:S000", "Aspect_VA": [{"Aspect": "肉羹", "VA": "4.00#4.90"}]}
+{"ID": "R2887:S003", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.25#6.00"}]}
+{"ID": "R2888:S009", "Aspect_VA": [{"Aspect": "豬血湯", "VA": "4.25#4.50"}]}
+{"ID": "R2890:S022", "Aspect_VA": [{"Aspect": "滷汁", "VA": "4.75#5.75"}]}
+{"ID": "R2891:S006", "Aspect_VA": [{"Aspect": "料理", "VA": "5.75#5.25"}]}
+{"ID": "R2892:S000", "Aspect_VA": [{"Aspect": "豬血", "VA": "5.75#5.00"}]}
+{"ID": "R2892:S003", "Aspect_VA": [{"Aspect": "米腸", "VA": "6.67#6.50"}]}
+{"ID": "R2893:S033", "Aspect_VA": [{"Aspect": "停車", "VA": "6.00#5.75"}]}
+{"ID": "R2900:S000", "Aspect_VA": [{"Aspect": "NULL", "VA": "3.62#6.75"}]}
+{"ID": "R2906:S010", "Aspect_VA": [{"Aspect": "出菜效率", "VA": "3.25#5.25"}]}
+{"ID": "R2909:S012", "Aspect_VA": [{"Aspect": "口感", "VA": "5.75#5.50"}]}
+{"ID": "R2911:S000", "Aspect_VA": [{"Aspect": "份量", "VA": "4.10#5.20"}]}
+{"ID": "R2914:S022", "Aspect_VA": [{"Aspect": "座位", "VA": "4.00#5.17"}]}
+{"ID": "R2915:S001", "Aspect_VA": [{"Aspect": "絲瓜炒蛋", "VA": "4.67#5.00"}]}
+{"ID": "R2915:S006", "Aspect_VA": [{"Aspect": "絲瓜炒蛋", "VA": "4.50#5.00"}]}
+{"ID": "R2915:S008", "Aspect_VA": [{"Aspect": "份量", "VA": "4.38#5.12"}]}
+{"ID": "R2916:S010", "Aspect_VA": [{"Aspect": "用餐經驗", "VA": "3.00#5.75"}]}
+{"ID": "R2921:S004", "Aspect_VA": [{"Aspect": "小卷", "VA": "6.50#6.38"}]}
+{"ID": "R2925:S000", "Aspect_VA": [{"Aspect": "環境", "VA": "3.50#5.83"}, {"Aspect": "味道", "VA": "4.33#6.17"}]}
+{"ID": "R2925:S009", "Aspect_VA": [{"Aspect": "蚵仔", "VA": "4.33#5.33"}]}
+{"ID": "R2926:S006", "Aspect_VA": [{"Aspect": "肉燥", "VA": "4.17#5.50"}]}
+{"ID": "R2927:S000", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.00#6.00"}]}
+{"ID": "R2929:S004", "Aspect_VA": [{"Aspect": "鍋巴", "VA": "6.33#5.83"}]}
+{"ID": "R2929:S017", "Aspect_VA": [{"Aspect": "座位", "VA": "4.50#4.17"}]}
+{"ID": "R2931:S006", "Aspect_VA": [{"Aspect": "份量", "VA": "4.33#5.67"}]}
+{"ID": "R2931:S020", "Aspect_VA": [{"Aspect": "cp值", "VA": "4.00#5.25"}]}
+{"ID": "R2941:S000", "Aspect_VA": [{"Aspect": "用餐體驗", "VA": "3.50#5.00"}]}
+{"ID": "R2944:S009", "Aspect_VA": [{"Aspect": "老闆娘態度", "VA": "3.00#5.38"}]}
+{"ID": "R2948:S015", "Aspect_VA": [{"Aspect": "湯", "VA": "5.75#5.25"}]}
+{"ID": "R2951:S003", "Aspect_VA": [{"Aspect": "糖醋里肌", "VA": "5.88#5.50"}]}
+{"ID": "R2952:S000", "Aspect_VA": [{"Aspect": "肉", "VA": "4.75#4.75"}]}
+{"ID": "R2955:S006", "Aspect_VA": [{"Aspect": "食物", "VA": "4.88#5.00"}]}
+{"ID": "R2958:S009", "Aspect_VA": [{"Aspect": "油蔥酥炒地瓜葉", "VA": "6.50#6.00"}]}
+{"ID": "R2960:S012", "Aspect_VA": [{"Aspect": "味道", "VA": "6.00#5.50"}]}
+{"ID": "R2961:S000", "Aspect_VA": [{"Aspect": "菜", "VA": "6.00#5.62"}]}
+{"ID": "R2961:S008", "Aspect_VA": [{"Aspect": "氣氛", "VA": "6.83#6.50"}]}
+{"ID": "R2964:S007", "Aspect_VA": [{"Aspect": "牛肉", "VA": "4.67#4.83"}]}
+{"ID": "R2967:S015", "Aspect_VA": [{"Aspect": "價格", "VA": "5.25#5.00"}]}
+{"ID": "R2968:S000", "Aspect_VA": [{"Aspect": "餐點選擇性", "VA": "6.00#5.62"}]}
+{"ID": "R2968:S011", "Aspect_VA": [{"Aspect": "店", "VA": "6.50#6.00"}]}
+{"ID": "R2969:S004", "Aspect_VA": [{"Aspect": "排骨", "VA": "6.75#7.00"}]}
+{"ID": "R2973:S004", "Aspect_VA": [{"Aspect": "蛋汁鍋貼口味", "VA": "5.33#5.00"}]}
+{"ID": "R2973:S025", "Aspect_VA": [{"Aspect": "芋頭香鬆", "VA": "6.62#6.38"}]}
+{"ID": "R2977:S000", "Aspect_VA": [{"Aspect": "服務態度", "VA": "4.50#5.00"}]}
+{"ID": "R2978:S000", "Aspect_VA": [{"Aspect": "服務態度", "VA": "4.17#4.67"}]}
+{"ID": "R2979:S004", "Aspect_VA": [{"Aspect": "鍋貼", "VA": "4.88#5.25"}]}
+{"ID": "R2982:S013", "Aspect_VA": [{"Aspect": "蚵仔", "VA": "6.38#6.12"}]}
+{"ID": "R2986:S015", "Aspect_VA": [{"Aspect": "豬腳", "VA": "4.38#4.88"}]}
+{"ID": "R2990:S012", "Aspect_VA": [{"Aspect": "單價", "VA": "5.00#5.50"}]}
+{"ID": "R2995:S008", "Aspect_VA": [{"Aspect": "口味", "VA": "6.50#5.50"}]}
+{"ID": "R3001:S010", "Aspect_VA": [{"Aspect": "九層塔", "VA": "7.00#7.00"}]}
+{"ID": "R3003:S009", "Aspect_VA": [{"Aspect": "價位", "VA": "4.50#4.17"}]}
+{"ID": "R3006:S000", "Aspect_VA": [{"Aspect": "價格", "VA": "4.33#5.00"}]}
+{"ID": "R3014:S001", "Aspect_VA": [{"Aspect": "服務態度", "VA": "5.75#5.25"}]}
+{"ID": "R3014:S013", "Aspect_VA": [{"Aspect": "飲料", "VA": "5.50#5.00"}]}
+{"ID": "R3015:S009", "Aspect_VA": [{"Aspect": "湯頭", "VA": "4.00#6.00"}]}
+{"ID": "R3016:S000", "Aspect_VA": [{"Aspect": "豬排", "VA": "6.75#6.88"}]}
+{"ID": "R3017:S010", "Aspect_VA": [{"Aspect": "木瓜牛奶", "VA": "4.75#5.50"}]}
+{"ID": "R3019:S005", "Aspect_VA": [{"Aspect": "豬排", "VA": "4.50#5.38"}]}
+{"ID": "R3019:S008", "Aspect_VA": [{"Aspect": "咖哩", "VA": "5.00#5.00"}]}
+{"ID": "R3021:S007", "Aspect_VA": [{"Aspect": "服務態度", "VA": "3.83#6.33"}]}
+{"ID": "R3022:S004", "Aspect_VA": [{"Aspect": "奶蓋綠茶", "VA": "4.88#5.62"}]}
+{"ID": "R3023:S003", "Aspect_VA": [{"Aspect": "口感", "VA": "3.70#5.30"}]}
+{"ID": "R3025:S010", "Aspect_VA": [{"Aspect": "烤雞腿", "VA": "6.67#6.33"}]}
+{"ID": "R3026:S008", "Aspect_VA": [{"Aspect": "芋頭牛奶", "VA": "3.83#4.50"}]}
+{"ID": "R3027:S004", "Aspect_VA": [{"Aspect": "小菜", "VA": "4.00#6.00"}]}
+{"ID": "R3028:S016", "Aspect_VA": [{"Aspect": "餐廳", "VA": "6.50#6.00"}]}
+{"ID": "R3033:S006", "Aspect_VA": [{"Aspect": "味道", "VA": "3.50#4.83"}]}
+{"ID": "R3037:S001", "Aspect_VA": [{"Aspect": "餐點種類", "VA": "6.50#5.83"}]}
+{"ID": "R3038:S012", "Aspect_VA": [{"Aspect": "餐廳", "VA": "6.25#6.00"}]}
+{"ID": "R3039:S000", "Aspect_VA": [{"Aspect": "餅皮", "VA": "6.83#6.67"}]}
+{"ID": "R3040:S002", "Aspect_VA": [{"Aspect": "料", "VA": "6.67#6.50"}]}
+{"ID": "R3042:S010", "Aspect_VA": [{"Aspect": "店家", "VA": "6.83#6.00"}, {"Aspect": "服務品質", "VA": "5.83#5.50"}]}
+{"ID": "R3049:S001", "Aspect_VA": [{"Aspect": "明蝦", "VA": "6.50#6.00"}]}
+{"ID": "R3049:S003", "Aspect_VA": [{"Aspect": "金瓜米粉", "VA": "7.00#6.50"}]}
+{"ID": "R3052:S004", "Aspect_VA": [{"Aspect": "日式魷魚生魚片", "VA": "6.50#6.00"}]}
+{"ID": "R3052:S013", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.75#6.62"}]}
+{"ID": "R3054:S006", "Aspect_VA": [{"Aspect": "炒青菜", "VA": "4.00#5.40"}]}
+{"ID": "R3056:S004", "Aspect_VA": [{"Aspect": "海鮮", "VA": "6.50#6.00"}]}
+{"ID": "R3058:S009", "Aspect_VA": [{"Aspect": "海瓜子", "VA": "4.12#5.50"}]}
+{"ID": "R3061:S009", "Aspect_VA": [{"Aspect": "炒蚌", "VA": "6.50#6.50"}]}
+{"ID": "R3067:S000", "Aspect_VA": [{"Aspect": "食物", "VA": "5.50#5.12"}]}
+{"ID": "R3068:S004", "Aspect_VA": [{"Aspect": "三星蔥", "VA": "6.83#6.83"}]}
+{"ID": "R3069:S009", "Aspect_VA": [{"Aspect": "服務員", "VA": "6.67#6.17"}]}
+{"ID": "R3070:S000", "Aspect_VA": [{"Aspect": "渡小月餐廳", "VA": "6.12#5.75"}]}
+{"ID": "R3072:S001", "Aspect_VA": [{"Aspect": "炒飯", "VA": "6.00#5.62"}]}
+{"ID": "R3073:S015", "Aspect_VA": [{"Aspect": "魷魚", "VA": "4.00#5.25"}]}
+{"ID": "R3074:S008", "Aspect_VA": [{"Aspect": "香味", "VA": "6.17#5.83"}]}
+{"ID": "R3075:S011", "Aspect_VA": [{"Aspect": "魚頭", "VA": "6.50#6.33"}]}
+{"ID": "R3078:S026", "Aspect_VA": [{"Aspect": "清蒸紅魚", "VA": "6.33#6.00"}]}
+{"ID": "R3079:S019", "Aspect_VA": [{"Aspect": "上菜速度", "VA": "5.67#5.17"}, {"Aspect": "服務人員態度", "VA": "6.50#6.00"}]}
+{"ID": "R3082:S013", "Aspect_VA": [{"Aspect": "杏仁豆腐的味道", "VA": "4.00#5.50"}]}
+{"ID": "R3085:S010", "Aspect_VA": [{"Aspect": "味道", "VA": "5.00#5.00"}]}
+{"ID": "R3085:S014", "Aspect_VA": [{"Aspect": "白飯", "VA": "4.38#5.38"}]}
+{"ID": "R3085:S016", "Aspect_VA": [{"Aspect": "米飯", "VA": "4.25#4.50"}]}
+{"ID": "R3087:S008", "Aspect_VA": [{"Aspect": "服務", "VA": "6.50#6.00"}, {"Aspect": "餐廳", "VA": "6.50#6.00"}]}
+{"ID": "R3089:S002", "Aspect_VA": [{"Aspect": "烤鴨握壽司", "VA": "6.67#6.33"}]}
+{"ID": "R3090:S005", "Aspect_VA": [{"Aspect": "櫻桃鴨握壽司", "VA": "7.00#7.00"}]}
+{"ID": "R3090:S008", "Aspect_VA": [{"Aspect": "鴨蔥油拌水蓮", "VA": "4.12#5.25"}]}
+{"ID": "R3091:S011", "Aspect_VA": [{"Aspect": "芋頭西米露", "VA": "6.67#6.33"}]}
+{"ID": "R3092:S000", "Aspect_VA": [{"Aspect": "櫻桃鴨", "VA": "6.50#6.25"}]}
+{"ID": "R3093:S006", "Aspect_VA": [{"Aspect": "水蓮", "VA": "6.75#6.75"}]}
+{"ID": "R3093:S015", "Aspect_VA": [{"Aspect": "白菜鴨湯", "VA": "4.83#4.83"}]}
+{"ID": "R3097:S006", "Aspect_VA": [{"Aspect": "服務", "VA": "6.62#6.38"}]}
+{"ID": "R3099:S000", "Aspect_VA": [{"Aspect": "餐廳", "VA": "2.83#5.17"}]}
+{"ID": "R3099:S017", "Aspect_VA": [{"Aspect": "菜量", "VA": "3.62#5.50"}]}
+{"ID": "R3102:S022", "Aspect_VA": [{"Aspect": "煲鴨湯", "VA": "6.50#5.50"}]}
+{"ID": "R3102:S038", "Aspect_VA": [{"Aspect": "櫻桃霸王鴨五吃", "VA": "6.62#6.25"}]}
+{"ID": "R3103:S013", "Aspect_VA": [{"Aspect": "用餐感受", "VA": "4.25#4.88"}]}
+{"ID": "R3107:S008", "Aspect_VA": [{"Aspect": "桌子", "VA": "4.25#5.00"}]}
+{"ID": "R3108:S003", "Aspect_VA": [{"Aspect": "牛肉麵", "VA": "6.83#6.50"}]}
+{"ID": "R3109:S001", "Aspect_VA": [{"Aspect": "牛肉", "VA": "6.00#6.25"}]}
+{"ID": "R3111:S019", "Aspect_VA": [{"Aspect": "牛肚", "VA": "6.67#6.33"}]}
+{"ID": "R3113:S006", "Aspect_VA": [{"Aspect": "份量", "VA": "6.50#6.12"}]}
+{"ID": "R3121:S002", "Aspect_VA": [{"Aspect": "湯頭", "VA": "7.00#6.50"}]}
+{"ID": "R3131:S016", "Aspect_VA": [{"Aspect": "價錢", "VA": "5.88#5.62"}]}
+{"ID": "R3132:S006", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.62#6.62"}]}
+{"ID": "R3133:S008", "Aspect_VA": [{"Aspect": "店家態度", "VA": "3.50#5.38"}]}
+{"ID": "R3134:S005", "Aspect_VA": [{"Aspect": "NULL", "VA": "7.00#6.50"}]}
+{"ID": "R3140:S019", "Aspect_VA": [{"Aspect": "外皮", "VA": "6.00#5.50"}]}
+{"ID": "R3149:S005", "Aspect_VA": [{"Aspect": "環境", "VA": "4.50#5.50"}]}
+{"ID": "R3150:S012", "Aspect_VA": [{"Aspect": "肉", "VA": "4.50#4.83"}]}
+{"ID": "R3158:S003", "Aspect_VA": [{"Aspect": "豆腐", "VA": "6.50#6.75"}, {"Aspect": "料", "VA": "6.25#5.75"}]}
+{"ID": "R3162:S000", "Aspect_VA": [{"Aspect": "甜蝦", "VA": "6.50#6.17"}, {"Aspect": "刺身定食生魚片", "VA": "6.50#6.17"}]}
+{"ID": "R3163:S011", "Aspect_VA": [{"Aspect": "豆腐", "VA": "7.00#7.00"}]}
+{"ID": "R3163:S014", "Aspect_VA": [{"Aspect": "白飯", "VA": "6.00#5.00"}]}
+{"ID": "R3167:S010", "Aspect_VA": [{"Aspect": "NULL", "VA": "4.50#5.38"}]}
+{"ID": "R3173:S006", "Aspect_VA": [{"Aspect": "炒花菜干", "VA": "6.50#6.00"}]}
+{"ID": "R3175:S007", "Aspect_VA": [{"Aspect": "外婆茶", "VA": "7.00#6.38"}]}
+{"ID": "R3192:S008", "Aspect_VA": [{"Aspect": "雞翅", "VA": "7.00#7.17"}, {"Aspect": "調味", "VA": "4.83#5.17"}]}
+{"ID": "R3193:S000", "Aspect_VA": [{"Aspect": "漢堡", "VA": "6.50#6.17"}, {"Aspect": "雞肉", "VA": "6.50#6.17"}]}
+{"ID": "R3197:S004", "Aspect_VA": [{"Aspect": "肉質", "VA": "6.25#6.00"}]}
+{"ID": "R3198:S000", "Aspect_VA": [{"Aspect": "雞腿", "VA": "5.50#5.50"}]}
+{"ID": "R3198:S007", "Aspect_VA": [{"Aspect": "服務", "VA": "6.67#6.33"}]}
+{"ID": "R3206:S005", "Aspect_VA": [{"Aspect": "環境", "VA": "5.75#5.38"}]}
+{"ID": "R3208:S001", "Aspect_VA": [{"Aspect": "份量", "VA": "6.12#5.75"}]}
+{"ID": "R3209:S004", "Aspect_VA": [{"Aspect": "生魚", "VA": "3.88#6.00"}]}
+{"ID": "R3211:S009", "Aspect_VA": [{"Aspect": "份量", "VA": "7.12#6.75"}]}
+{"ID": "R3219:S018", "Aspect_VA": [{"Aspect": "蝦球", "VA": "6.50#6.00"}]}
+{"ID": "R3220:S000", "Aspect_VA": [{"Aspect": "生魚片量", "VA": "6.25#6.12"}]}
+{"ID": "R3228:S013", "Aspect_VA": [{"Aspect": "湯頭", "VA": "6.50#6.50"}]}
+{"ID": "R3229:S009", "Aspect_VA": [{"Aspect": "蝦肉蒸餃", "VA": "3.83#6.50"}]}
+{"ID": "R3230:S002", "Aspect_VA": [{"Aspect": "酸辣湯", "VA": "4.83#5.17"}]}
+{"ID": "R3230:S006", "Aspect_VA": [{"Aspect": "肥腸", "VA": "5.75#5.12"}]}
+{"ID": "R3230:S013", "Aspect_VA": [{"Aspect": "售價", "VA": "5.83#5.50"}]}
+{"ID": "R3232:S004", "Aspect_VA": [{"Aspect": "鮮肉蒸餃", "VA": "6.25#6.12"}]}
+{"ID": "R3234:S000", "Aspect_VA": [{"Aspect": "牛肉麵麵條", "VA": "5.00#5.00"}]}
+{"ID": "R3243:S012", "Aspect_VA": [{"Aspect": "筍絲", "VA": "6.33#5.83"}]}
+{"ID": "R3243:S017", "Aspect_VA": [{"Aspect": "口味", "VA": "3.83#6.00"}]}
+{"ID": "R3246:S007", "Aspect_VA": [{"Aspect": "金針菇的味道", "VA": "6.50#6.12"}]}
+{"ID": "R3248:S004", "Aspect_VA": [{"Aspect": "湯頭", "VA": "7.17#6.83"}]}
+{"ID": "R3249:S012", "Aspect_VA": [{"Aspect": "蝦子", "VA": "4.83#5.50"}]}
+{"ID": "R3257:S005", "Aspect_VA": [{"Aspect": "牛肉", "VA": "4.00#4.17"}]}
+{"ID": "R3258:S006", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.80#6.30"}]}
+{"ID": "R3258:S012", "Aspect_VA": [{"Aspect": "椒麻雞", "VA": "7.00#6.50"}]}
+{"ID": "R3262:S004", "Aspect_VA": [{"Aspect": "韭黃", "VA": "6.33#5.83"}, {"Aspect": "牛肉", "VA": "6.50#6.17"}]}
+{"ID": "R3265:S007", "Aspect_VA": [{"Aspect": "空間", "VA": "5.88#5.62"}]}
+{"ID": "R3265:S011", "Aspect_VA": [{"Aspect": "餐點的價位", "VA": "5.50#5.17"}]}
+{"ID": "R3267:S000", "Aspect_VA": [{"Aspect": "牛肉麵", "VA": "6.25#6.00"}]}
+{"ID": "R3267:S006", "Aspect_VA": [{"Aspect": "肉", "VA": "6.00#5.50"}]}
+{"ID": "R3268:S025", "Aspect_VA": [{"Aspect": "澎湖絲瓜", "VA": "6.83#6.67"}]}
+{"ID": "R3270:S002", "Aspect_VA": [{"Aspect": "口感", "VA": "4.50#5.00"}]}
+{"ID": "R3271:S005", "Aspect_VA": [{"Aspect": "份量", "VA": "6.33#5.83"}]}
+{"ID": "R3273:S013", "Aspect_VA": [{"Aspect": "絲瓜蚵仔", "VA": "7.38#7.38"}]}
+{"ID": "R3274:S022", "Aspect_VA": [{"Aspect": "龍蝦", "VA": "5.00#5.00"}, {"Aspect": "螃蟹", "VA": "4.50#4.75"}]}
+{"ID": "R3279:S001", "Aspect_VA": [{"Aspect": "NULL", "VA": "6.25#5.75"}]}
+{"ID": "R3279:S005", "Aspect_VA": [{"Aspect": "干貝", "VA": "6.00#6.50"}]}
+{"ID": "R3279:S013", "Aspect_VA": [{"Aspect": "調味", "VA": "6.67#6.83"}]}
+{"ID": "R3280:S007", "Aspect_VA": [{"Aspect": "海鮮湯", "VA": "6.67#6.50"}]}
+{"ID": "R3281:S004", "Aspect_VA": [{"Aspect": "份量", "VA": "3.83#5.67"}]}
+{"ID": "R3285:S007", "Aspect_VA": [{"Aspect": "調味", "VA": "3.90#5.40"}]}
+{"ID": "R3286:S006", "Aspect_VA": [{"Aspect": "魚湯", "VA": "4.12#5.38"}, {"Aspect": "鮑魚", "VA": "4.12#5.38"}]}
+{"ID": "R3287:S013", "Aspect_VA": [{"Aspect": "涼拌石蚵", "VA": "7.10#7.10"}]}
+{"ID": "R3289:S016", "Aspect_VA": [{"Aspect": "工作人員服務態度", "VA": "4.12#5.50"}]}
+{"ID": "R3291:S013", "Aspect_VA": [{"Aspect": "NULL", "VA": "5.17#5.00"}]}
+{"ID": "R3293:S000", "Aspect_VA": [{"Aspect": "食材", "VA": "3.62#5.88"}]}
+{"ID": "R3293:S003", "Aspect_VA": [{"Aspect": "絲瓜", "VA": "3.75#6.00"}]}
+{"ID": "R3293:S008", "Aspect_VA": [{"Aspect": "店員服務態度", "VA": "3.50#6.75"}]}
+{"ID": "R3297:S012", "Aspect_VA": [{"Aspect": "螃蟹腳肉", "VA": "6.62#6.50"}]}
+{"ID": "R3298:S000", "Aspect_VA": [{"Aspect": "鮮食堂", "VA": "4.75#5.25"}]}
+{"ID": "R3300:S004", "Aspect_VA": [{"Aspect": "份量", "VA": "4.67#5.33"}, {"Aspect": "口味", "VA": "4.67#5.33"}]}
+{"ID": "R3303:S016", "Aspect_VA": [{"Aspect": "老闆", "VA": "6.50#6.50"}]}
+{"ID": "R3303:S027", "Aspect_VA": [{"Aspect": "餐點", "VA": "6.50#5.83"}]}
+{"ID": "R3305:S008", "Aspect_VA": [{"Aspect": "石蚵", "VA": "4.17#5.67"}]}
+{"ID": "R3308:S005", "Aspect_VA": [{"Aspect": "價格", "VA": "5.67#5.17"}, {"Aspect": "餐點", "VA": "6.50#5.67"}]}
+{"ID": "R3308:S016", "Aspect_VA": [{"Aspect": "裝潢", "VA": "5.75#5.25"}]}
+{"ID": "R3310:S007", "Aspect_VA": [{"Aspect": "涼拌過貓", "VA": "6.38#6.38"}]}
+{"ID": "R3311:S010", "Aspect_VA": [{"Aspect": "用餐感受", "VA": "6.17#5.50"}]}
+{"ID": "R3313:S000", "Aspect_VA": [{"Aspect": "餐廳", "VA": "6.50#6.00"}]}
+{"ID": "R3314:S003", "Aspect_VA": [{"Aspect": "鵝肉", "VA": "3.88#6.00"}]}
+{"ID": "R3314:S007", "Aspect_VA": [{"Aspect": "鵝肉的味道", "VA": "5.75#5.50"}]}
+{"ID": "R3317:S008", "Aspect_VA": [{"Aspect": "味道", "VA": "6.00#5.75"}]}
+{"ID": "R3317:S012", "Aspect_VA": [{"Aspect": "鵝肝", "VA": "3.00#5.88"}]}
+{"ID": "R3322:S005", "Aspect_VA": [{"Aspect": "鵝肝", "VA": "5.75#5.50"}]}
