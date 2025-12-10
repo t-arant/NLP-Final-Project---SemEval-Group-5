@@ -1,38 +1,18 @@
 
-- **subtask1_driver.py**  
-  Driver program for training and testing. Takes in command line args for train/test modes.
-
-- **data_loader.py**  
-  Helper functions for loading and processing data.
-
-- **root_mse.py**  
-  Defines Root MSE loss function class
-
-- **subtask_1_eng_laptop_golds.json**  
-  JSONL file of gold data labels
-
-- **subtask_1_eng_laptop_preds.json**  
-  JSONL file of VA predictions
-
-- **subtask1_eng_laptop_eval.txt**  
-  Output of testing results
-
-- **eval.sh**
-  Bash script to run evaluation script
-
-- **metrics_subtask_1_2_3.py**
-  Organizer provided eval script
-
-- **/loss_graphs**
-  Directory of logged loss data, with graphs in ipynb.
-  ODS file has table of model arch. with associated graphs
+- **/Previous Work**  
+  Directory of all older work that led up to final code
   
-## /subtask1_data
-Directory of task dataset
+- **/data_labs**  
+  Data sets in JSON format for final ST2 evaluation
 
----
-### Files
-- **st1_eng_laptop.json**  
-  JSONL of Subtask 1 English Laptop train/dev/test data
+- **/preds_final**  
+ Final Predictions for ST2 
 
----
+- **/st2_crf_sep_asp_opn**  
+  All work for training and generating predictions for final ST2 Pipeline Model
+
+- **/st_crf_comb**  
+  All work for training and generating predictions for final ST2 All-in_one Model
+
+- **/subtask 1 data and models**  
+  All data, models, and predictions for Subtask 1 models
