@@ -83,11 +83,11 @@ def main():
         dev_dataset = VADataset(dev_df, tokenizer)
         dev_loader = DataLoader(dev_dataset, batch_size=64, shuffle=False)
 
-        lr = 1e-5 #learning rate
+        lr = 5e-05 #learning rate
 
         # sets desired epochs for training 
         # TODO: fix and automate
-        epochs_reg = 5
+        epochs_reg = 10
         
         # sets index of output loss graph data
         #trial = -100 (OLD)
@@ -112,8 +112,8 @@ def main():
             activation=activation
         ).to(device)
 
-        lr = locals().get("lr", 1e-5)
-        r_epochs = locals().get("epochs_reg", 5)
+        lr = locals().get("lr", 5e-05)
+        r_epochs = locals().get("epochs_reg", 10)
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
         va_loss_fn = rmse()
 
