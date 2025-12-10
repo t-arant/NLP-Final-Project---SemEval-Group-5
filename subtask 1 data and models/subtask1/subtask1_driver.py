@@ -34,6 +34,9 @@ from data_loader import (
 
 from root_mse import rmse
 
+#hyperparameter - batch size 
+BATCH_SIZE = 32
+
 # Takes in DataFrame, splits based on ID label of train, dev, or test
 # returns split data in 3 DataFrames
 def data_t_t_split(dataset):
@@ -78,52 +81,40 @@ def main():
         
         # Create tokenized train and dev data, and encapsulate into DataLoader 
         train_dataset = VADataset(train_df, tokenizer)
-        train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)
+        train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
 
         dev_dataset = VADataset(dev_df, tokenizer)
-        dev_loader = DataLoader(dev_dataset, batch_size=64, shuffle=False)
+        dev_loader = DataLoader(dev_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
+        # hyperparams 
         lr = 5e-05 #learning rate
+        dropout_rate = 0.2 #dropout parameter
+        hidden_dims = [384] #architecture
+        activation = 'none' #activation
 
         # sets desired epochs for training 
-        # TODO: fix and automate
         epochs_reg = 10
         
-        # sets index of output loss graph data
-        #trial = -100 (OLD)
-
-        #trial = -100 (OLD)
         # Generates unique trial ID
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         hyperparams_str = f"lr_{lr}_epochs_{r_epochs}_hd_{hidden_dims}_act_{activation}"
         trial_id = hashlib.md5(hyperparams_str.encode()).hexdigest()[:8]
         trial = f"{timestamp}_{trial_id}"
-
-        # NEW
-        hidden_dims = [384]  # Equivalent to original [CLS_SIZE, CLS_SIZE//2, 2]
-        # hidden_dims = [384, 192]  # 3-layer network
-        # hidden_dims = [512, 256, 128]  # 4-layer network
-        activation = 'none'  # Options are in subtask1_model.py
         
         # Send model to device and define learning rate, epochs, optimizer function, and loss funct. 
-        # Implementing with new architecture
         model = RegressorModel(
             hidden_dims=hidden_dims,
             activation=activation
+            dropout=dropout_rate
         ).to(device)
 
-        lr = locals().get("lr", 5e-05)
-        r_epochs = locals().get("epochs_reg", 10)
+        r_epochs = epochs_reg
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
         va_loss_fn = rmse()
 
-        # model freezing based on desired arch. 
-        # TODO: fix this so that it can be automated with desired regression head arch. 
-        
-        # model.freeze_backbone()
+        # we're not doing freezing anymore (no time) - Tony's decision 
 
-        
-
+        best_overall_val_loss = float('inf')  #initialize best validation loss
         print(f"\n\nTraining Regressor with architecture: hidden_dims={hidden_dims}, activation={activation}\n\n")
         train_losses = []
 
