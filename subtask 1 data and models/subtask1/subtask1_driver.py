@@ -40,7 +40,7 @@ BATCH_SIZE = 32
 # Takes in DataFrame, splits based on ID label of train, dev, or test
 # returns split data in 3 DataFrames
 def data_t_t_split(dataset):
-    # Check if this is English data (has train/dev/test in IDs)
+    # English data has train/dev/test split in IDs 
     if dataset['ID'].str.contains("train", case=False, na=False).any():
         # English data - use existing split
         train_mask = dataset['ID'].str.contains("train", case=False, na=False)
@@ -52,7 +52,7 @@ def data_t_t_split(dataset):
         test_mask = dataset['ID'].str.contains("test", case=False, na=False)
         test_df = dataset[test_mask].copy().reset_index(drop=True)
     else:
-        # Non-English data (Russian, Tatar, etc.) - split manually
+        # non-English data (Russian, Tatar, etc) manual split
         print("No train/dev/test labels found - splitting manually (70/10/20)")
         from sklearn.model_selection import train_test_split
         
@@ -60,7 +60,6 @@ def data_t_t_split(dataset):
         train_dev, test_df = train_test_split(dataset, test_size=0.2, random_state=42)
         train_df, dev_df = train_test_split(train_dev, test_size=0.125, random_state=42)  # 0.125 of 0.8 = 0.1
         
-        # Reset indices
         train_df = train_df.reset_index(drop=True)
         dev_df = dev_df.reset_index(drop=True)
         test_df = test_df.reset_index(drop=True)
