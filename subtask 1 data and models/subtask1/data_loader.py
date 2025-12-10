@@ -4,7 +4,8 @@
 import json
 import pandas as pd
 
-DATASET = "/home/tony-arant/NLP Final Project/subtask_a_eng_laptop.json"
+# this is the colab path to the dataset
+DATASET = "/content/NLP-Final-Project---SemEval-Group-5/subtask 1 data and models/subtask1_data/st1_eng_laptop.json"
 
 model_name = "distilbert-base-multilingual-cased" # chage your transformer model
 
@@ -12,7 +13,7 @@ model_name = "distilbert-base-multilingual-cased" # chage your transformer model
 # Input: file path 
 # Output DataFrame
 def load_local_json_to_df(file_name):
-     df = pd.read_json(file_name, orient="records", lines=True)
+     df = pd.read_json(file_name, orient="records")
      return df 
 
 # This function takes in the Gold Labels dataframe, and produces a JSONL of Gold Label Data. Data is saved in file. 

@@ -53,6 +53,15 @@ def data_t_t_split(dataset):
 
 
 def main():
+
+    try:
+        from IPython import get_ipython
+        if 'google.colab' in str(get_ipython()):
+            sys.argv = [sys.argv[0], '1']  # Force training mode in Colab
+    except (NameError, ImportError):
+        # not in Jupyter environment
+        pass
+    
     train = int(sys.argv[1])
 
     # Load JSON to Pandas DF
@@ -61,14 +70,23 @@ def main():
     # Make Train-Dev-Test split from data file
     train_df, dev_df, test_df = data_t_t_split(data_set)
 
-    display(Markdown(f"### train_df"))
-    display(train_df.head())
+    # for not colab (if in colab, comment out)
+    #display(Markdown(f"### train_df"))
+    #display(train_df.head())
 
-    display(Markdown(f"### dev_df"))
-    display(dev_df.head())
+    #display(Markdown(f"### dev_df"))
+    #display(dev_df.head())
 
-    display(Markdown("Train Loc 1"))
-    display(train_df.iloc[3])
+    #display(Markdown("Train Loc 1"))
+    #display(train_df.iloc[3])
+
+    # for colab
+    print(f"### train_df")
+    print(train_df.head())
+    print(f"### dev_df")
+    print(dev_df.head())
+    print("Train Loc 1")
+    print(train_df.iloc[3])
 
     # Define Tokenizer 
     tokenizer = AutoTokenizer.from_pretrained("distilbert-base-multilingual-cased")
@@ -94,6 +112,7 @@ def main():
 
         # sets desired epochs for training 
         epochs_reg = 10
+        r_epochs = epochs_reg
         
         # Generates unique trial ID
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -104,11 +123,10 @@ def main():
         # Send model to device and define learning rate, epochs, optimizer function, and loss funct. 
         model = RegressorModel(
             hidden_dims=hidden_dims,
-            activation=activation
+            activation=activation,
             dropout=dropout_rate
         ).to(device)
 
-        r_epochs = epochs_reg
         optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
         va_loss_fn = rmse()
 
@@ -178,7 +196,7 @@ def main():
         #model = model.to(device)
 
         # Load saved model with architecture parameters
-        checkpoint = torch.load("english_laptop_final.pth")
+        checkpoint = torch.load("best_model_val_0.8871.pth")
         
         # Recreate model with the same architecture used during training
         model = RegressorModel(
@@ -189,7 +207,7 @@ def main():
         model = model.to(device)
 
         print(f"Loaded model with architecture: hidden_dims={checkpoint['hidden_dims']}, activation={checkpoint['activation']}")
-        print(f"Training loss: {checkpoint['final_train_loss']:.4f}, Validation loss: {checkpoint['final_val_loss']:.4f}")
+        print(f"Training loss: {checkpoint['train_loss']:.4f}, Validation loss: {checkpoint['val_loss']:.4f}")
 
         # Tokenize test datasets, and load into DataLoader
         test_dataset = VADataset(test_df, tokenizer)
